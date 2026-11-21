@@ -8,8 +8,8 @@
 | Код пайплайнов, промпты, спеки (`*.json`), отчёты QA, правила | этот репозиторий |
 | Ключи | `.env` в корне (в git не попадает): `GEMINI_API_KEY`, `OPENAI_API_KEY`, `FAL_KEY`, `OPENROUTER_API_KEY`, `BRIGHTDATA_API` (Bright Data, Bearer-токен для `api.brightdata.com`: Datasets / Web Scraper API — парсеры и статистика) |
 | Статистика | `stats/` (TikTok @go_.tall: посты, просмотры, выводы) + `top10/` (разбор слайдов топ-10 постов) |
-| Медиа | Google Drive `My Drive/Projects/TT30/src`: `01_Готовые/<формат>/`, `02_Исходники/` (бренд, референсы, топ-10), `03_Рабочие/` (раскладка как в репо). Индекс роликов — `DRIVE.md` |
-| Бренд-ассеты, которые читают скрипты (лого, скриншоты, `man.png`, `packshot.png`, шрифты) | и в репо, и на Drive |
+| Медиа | Google Drive `My Drive/Projects/TT30/src`: `01_ready/<формат>/`, `02_sources/` (бренд, референсы, топ-10), `03_work/` (раскладка как в репо). Индекс роликов — `DRIVE.md` |
+| brand-ассеты, которые читают скрипты (лого, скриншоты, `man.png`, `packshot.png`, шрифты) | и в репо, и на Drive |
 | Real-ESRGAN (`3d/tools/realesrgan`, 70 МБ) | только локально в репо (gitignored); при потере — скачать ncnn-vulkan сборку с github.com/xinntao/Real-ESRGAN |
 
 Новые генерации пишутся в папки репо (медиа там игнорируется git), дальше раскладываем на Drive по правилу из `DRIVE.md`.
@@ -34,9 +34,9 @@
 | `muscle/` | 3D-манекен делает упражнение, рабочая мышца светится, карусель иконок | `uv run gen.py <x>/reel.json` → `render_overlay.py` → `assemble.py` | — | `muscle/README.md`, скилл `muscle-reel` |
 | `slides/make.py` | Слайдшоу упражнений без голоса, нарезка по биту | `uv run make.py <url> <folder> "<style>" ["<brief>"]` | ~$0.23 | `slides/README.md` |
 | `slides/myth.py` | Миф → факт, 2 слайда | | | `slides/README.md` |
-| `slides/stopmo.py` | Стоп-моушн: бумажные вырезки, рука, голос | | ~$0.44 | `slides/README.md` |
-| `slides/char.py` | Маскот cut-out анимация, сюжет по брифу | | ~$0.8 | `slides/README.md`, `slides/FORMATS.md` |
-| `slides/facts.py` | Факты: векторный персонаж + линейка роста | | ~$0.7 | `slides/README.md` |
+| `slides/stopmo.py` | stop-motion: бумажные вырезки, рука, голос | | ~$0.44 | `slides/README.md` |
+| `slides/char.py` | mascot cut-out анимация, сюжет по брифу | | ~$0.8 | `slides/README.md`, `slides/FORMATS.md` |
+| `slides/facts.py` | facts: векторный персонаж + линейка роста | | ~$0.7 | `slides/README.md` |
 | `slides/grid.py` | Сетка 2×2 «glow up» | `uv run grid.py grid/<spec>.json` | ~$0.24 | `slides/FORMATS.md` |
 | `slides/quiz.py` | UGC-квиз: фото + таблица/коммент → экраны квиза → реальный экран TallPlan | `uv run quiz.py quiz/<spec>.json` | ~$0.07 | `slides/FORMATS.md` |
 | `gads/` | Google App Campaigns: сцены-экраны телефона, 9:16 / 1:1 / 16:9 | `uv run gads/<name>.py` | — | докстринги в `gads/*.py` |
