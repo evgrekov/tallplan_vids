@@ -8,11 +8,11 @@
 | Код пайплайнов, промпты, спеки (`*.json`), отчёты QA, правила | этот репозиторий |
 | Ключи | `.env` в корне (в git не попадает): `GEMINI_API_KEY`, `OPENAI_API_KEY`, `FAL_KEY`, `OPENROUTER_API_KEY`, `BRIGHTDATA_API` (Bright Data, Bearer-токен для `api.brightdata.com`: Datasets / Web Scraper API — парсеры и статистика) |
 | Статистика | `stats/` (TikTok @go_.tall: посты, просмотры, выводы) + `top10/` (разбор слайдов топ-10 постов) |
-| Медиа: референсы, кадры, клипы, голос, музыка, готовые ролики, логи | Google Drive `My Drive/Projects/TT30/src` — та же структура папок, что в репо |
+| Медиа | Google Drive `My Drive/Projects/TT30/src`: `01_Готовые/<формат>/`, `02_Исходники/` (бренд, референсы, топ-10), `03_Рабочие/` (раскладка как в репо). Индекс роликов — `DRIVE.md` |
 | Бренд-ассеты, которые читают скрипты (лого, скриншоты, `man.png`, `packshot.png`, шрифты) | и в репо, и на Drive |
 | Real-ESRGAN (`3d/tools/realesrgan`, 70 МБ) | только локально в репо (gitignored); при потере — скачать ncnn-vulkan сборку с github.com/xinntao/Real-ESRGAN |
 
-Новые генерации пишутся в папки репо (медиа там игнорируется git), готовое переносим на Drive в ту же папку.
+Новые генерации пишутся в папки репо (медиа там игнорируется git), дальше раскладываем на Drive по правилу из `DRIVE.md`.
 
 ## Общие правила (для всех форматов)
 - **Нейросети только свои ключи:** Google (Gemini — анализ, планы, QA, TTS, видео omni, музыка Lyria) и OpenAI (картинки gpt-image, TTS). fal — только `gen/`. Higgsfield/ElevenLabs не используем.
