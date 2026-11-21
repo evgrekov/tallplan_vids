@@ -1,0 +1,21 @@
+{
+  "title": "Posture Attraction Myth vs Fact",
+  "style": "Vibrant street graffiti mural art, spray paint drips, textured urban brick wall backdrop, bold outlines, dynamic stencil spray technique.",
+  "character": "19-year-old athletic male, short messy dark hair, fitted charcoal t-shirt, relaxed dark denim jeans, pronounced jawline.",
+  "ink": "#FFFFFF",
+  "outline": "#111111",
+  "myth": {
+    "prompt": "Graffiti stencil mural on brick wall, top 30 percent empty. A 19-year-old young man slouching deeply against a wall, rounded shoulders, head down, hands in pockets. In the foreground, a stylish young woman walks past him, looking straight ahead and ignoring him completely. Muted spray paint tones, dripping paint effects.",
+    "caption": "MYTH: SHE DOESN'T CARE ABOUT POSTURE",
+    "sub": "\"Confidence is only in your face.\"",
+    "dur": 3.2,
+    "music": "Muffled lofi sad boom-bap instrumental, slow dusty drum loop, melancholic vinyl keys, no vocals"
+  },
+  "fact": {
+    "prompt": "Vibrant graffiti mural on brick wall, top 30 percent empty. The same 19-year-old young man standing tall with erect spine, broad squared shoulders, chest up, confident relaxed gaze. Beside him, the young woman looks back over her shoulder smiling directly at him. Neon spray paint highlights, crisp stencil outlines.",
+    "caption": "FACT: UPRIGHT POSTURE INSTANTLY ATTRACTS ATTENTION",
+    "sub": "Spine alignment visibly restores two full inches.",
+    "dur": 2.8,
+    "music": "Bouncy confident hip-hop instrumental, 95 BPM, crisp snappy drums, driving bassline, modern synth stabs, no vocals"
+  }
+}

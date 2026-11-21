@@ -1,0 +1,50 @@
+{
+ "photo": "Candid vertical front-camera selfie video still of a young man around 19 with short dark hair in his room, looking straight into the camera with a calm confident half-smile, natural window light, casual hoodie, realistic phone photo, upper body, head and shoulders in the middle of the frame with plenty of empty wall above the head.",
+ "hook": "IS YOUR MOM\n5'6\"?",
+ "music": "Chill trending TikTok trap instrumental, smooth bass, 110 BPM",
+ "table": {
+  "title": "MOM'S HEIGHT → SON'S LIKELY HEIGHT",
+  "hl": 3,
+  "rows": [
+   [
+    "Mom 5'0\"",
+    "5'7\""
+   ],
+   [
+    "Mom 5'2\"",
+    "5'8\""
+   ],
+   [
+    "Mom 5'4\"",
+    "5'9\""
+   ],
+   [
+    "Mom 5'6\"",
+    "5'10\""
+   ],
+   [
+    "Mom 5'8\"",
+    "5'11\""
+   ]
+  ]
+ },
+ "answers": [
+  [
+   "How old are you?",
+   "15"
+  ],
+  [
+   "Your height now?",
+   "5'10\""
+  ],
+  [
+   "Dad's height?",
+   "6'1\""
+  ],
+  [
+   "Mom's height?",
+   "5'6\""
+  ]
+ ],
+ "result": "IMAGE 2026-11-07 13:28:28.jpg"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "TallPlan Myth vs Fact: Posture Destiny",
+  "style": "Moody Japanese ukiyo-e woodblock print, muted indigo, cream paper texture, crimson red accents.",
+  "character": "19-year-old East Asian male, athletic build, short dark hair, wearing a dark fitted t-shirt and jeans.",
+  "ink": "#FFFFFF",
+  "outline": "#1A1A1A",
+  "myth": {
+    "prompt": "2:3 portrait, ukiyo-e woodblock art. Top 30% entirely empty. Centered below is a young man hunched forward in defeat, curved spine, head bowed. A massive curling indigo tsunami wave looms directly over him. Muted cool tones, aged parchment texture. No text.",
+    "caption": "MYTH: BAD POSTURE IS PURELY GENETIC",
+    "sub": "I was just born slouching.",
+    "dur": 2.8,
+    "music": "Sparse melancholic shakuhachi flute, quiet ambient wind, gloomy and isolated, instrumental."
+  },
+  "fact": {
+    "prompt": "2:3 portrait, ukiyo-e woodblock art. Top 30% entirely empty. Centered below is the same young man standing tall, spine perfectly aligned, shoulders back in an upright disciplined stance. A bold red sun disc and clean vertical alignment marker behind him. Confident atmosphere. No text.",
+    "caption": "FACT: TARGETED HABITS REBUILD YOUR ALIGNMENT",
+    "sub": "Daily stretching and core work restore height.",
+    "dur": 3.4,
+    "music": "High-energy taiko drum build, driving 128 BPM rhythm, powerful shamisen accents, instrumental."
+  }
+}

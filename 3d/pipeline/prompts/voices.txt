@@ -1,0 +1,3 @@
+Gemini TTS prebuilt voices: name — character from the docs (perceived gender from AI Studio previews, not stated in the docs).
+Male: Puck — Upbeat; Charon — Informative; Fenrir — Excitable; Orus — Firm; Enceladus — Breathy; Iapetus — Clear; Umbriel — Easy-going; Algieba — Smooth; Algenib — Gravelly; Rasalgethi — Informative; Alnilam — Firm; Schedar — Even; Achird — Friendly; Zubenelgenubi — Casual; Sadachbia — Lively; Sadaltager — Knowledgeable.
+Female: Zephyr — Bright; Kore — Firm; Leda — Youthful; Aoede — Breezy; Callirrhoe — Easy-going; Autonoe — Bright; Despina — Smooth; Erinome — Clear; Laomedeia — Upbeat; Achernar — Soft; Gacrux — Mature; Pulcherrima — Forward; Vindemiatrix — Gentle; Sulafat — Warm.

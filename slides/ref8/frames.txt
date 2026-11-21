@@ -1,0 +1,13 @@
+file '/Users/ea/Desktop/go_tall_tiktok/slides/ref8/frame0.png'
+duration 2.087
+file '/Users/ea/Desktop/go_tall_tiktok/slides/ref8/frame1.png'
+duration 2.087
+file '/Users/ea/Desktop/go_tall_tiktok/slides/ref8/frame2.png'
+duration 2.087
+file '/Users/ea/Desktop/go_tall_tiktok/slides/ref8/frame3.png'
+duration 2.087
+file '/Users/ea/Desktop/go_tall_tiktok/slides/ref8/frame4.png'
+duration 2.087
+file '/Users/ea/Desktop/go_tall_tiktok/slides/ref8/clean.png'
+duration 2.200
+file '/Users/ea/Desktop/go_tall_tiktok/slides/ref8/clean.png'

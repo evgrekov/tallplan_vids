@@ -1,0 +1,21 @@
+{
+  "title": "Backpack Posture Myth vs Fact",
+  "style": "Stop-motion claymation, sculpted plasticine textures, warm miniature studio lighting.",
+  "character": "20-year-old male clay figurine with dark sculpted hair, plain blue t-shirt, and grey jeans.",
+  "ink": "#FFFFFF",
+  "outline": "#111111",
+  "myth": {
+    "prompt": "Claymation portrait 2:3. Centered young man slouched in an exaggerated C-shape under a massive clay backpack. Plain warm miniature backdrop. Top 30% empty space. No text.",
+    "caption": "MYTH: HEAVY BACKPACKS ARE HARMLESS",
+    "sub": "It just builds back strength.",
+    "dur": 3.0,
+    "music": "Slow plodding acoustic bassoon, heavy sluggish rhythm, gloomy and doubtful, no vocals."
+  },
+  "fact": {
+    "prompt": "Claymation portrait 2:3. Same young man standing tall, back flat against a miniature wall doing a posture stretch, backpack discarded beside him. Plain background. Top 30% empty space. No text.",
+    "caption": "FACT: SPINAL DECOMPRESSION RESTORES POSTURE HEIGHT",
+    "sub": "Decompression helps you stand fully upright.",
+    "dur": 3.5,
+    "music": "Upbeat funky clav groove, 115 BPM, punchy rhythm, progressive instrumental, no vocals."
+  }
+}

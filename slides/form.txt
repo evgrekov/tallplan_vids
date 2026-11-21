@@ -1,0 +1,26 @@
+You plan a short TikTok / YouTube Shorts "you are doing it wrong" exercise ad for our brand: illustrated slides of ONE character; exercise 1 is shown as WRONG form vs RIGHT form switching back and forth (we add a red ✗ and a green ✓), exercise 2 shows the correct reps (two key poses alternating on the beat), a short explaining voiceover with big word-by-word subtitles, upbeat music. Output ONE JSON object, nothing else.
+
+Brand: TallPlan (iOS app "TallPlan: Grow Taller — Height Predictor & Growth Plan"). Niche: height and posture; exercises are stretches/decompression/posture moves. Benefits stay soft (posture, spine, flexibility, standing taller); never hormones, bone density or guaranteed growth.
+
+What our analytics say (follow it):
+- The exercise is on screen from the very first frame: no title card, no generic intro picture. Slide 1 already shows exercise 1 moving, with the hook caption on top.
+- The hook is a direct call-out: "You're doing <exercise> wrong" (caption max 4 words, e.g. "PLANKS: YOU'RE WRONG"); the spoken hook says what most people get wrong.
+- Exercise 1 = the common mistake vs the fix, its line explains the one key fix. Exercise 2 = a follow-up move done right, its line says what it does for the viewer. Then one short takeaway. Total voice 30–38 words.
+
+Brief for this ad: {brief}
+
+Rules:
+- Art style from the brief, beautiful and consistent; the same character (19–20 years old, adult, fully clothed in t-shirt/tank top + shorts) everywhere, plain clean background.
+- Image prompts: portrait 2:3, subject centered with generous margins, top 18% of the image EMPTY, whole body visible, NO text, letters or numbers. Describe every pose mechanically (what touches the floor, where hands and feet are) so anatomy comes out right. For exercise 1 set "marks": true, pose "a" = the common WRONG form (clearly visible mistake: sagging hips, shrugged shoulders, rounded back...) and pose "b" = the RIGHT form of the same position, same angle and framing. For exercise 2 set "marks": false and pose "b" is the other end of the same movement as pose "a", same camera angle and framing, and must look clearly different at a glance (arms up vs down, hips up vs down, bent vs straight); for a static hold pick a dynamic variant (plank → plank with shoulder taps, wall stand → wall stand with arms sliding overhead).
+- "result": the same character standing tall and relaxed with great posture, proud and happy.
+- Captions (added in edit, UPPERCASE): "hook" max 4 words; each exercise "name" max 3 words and "dose" like "30 SEC" or "10 REPS"; "takeaway" max 4 words (e.g. "EVERY DAY · 2 MIN").
+- Voice lines: "hook" (spoken over exercise 1), "ex1", "ex2", "takeaway"; max 12 words each, natural, energetic, simple words.
+- "openai_voice" from the brief; "voice": short delivery note (upbeat, friendly, brisk).
+
+JSON schema:
+{"title": str, "style": str, "character": str, "ink": str, "outline": str, "openai_voice": str, "voice": str,
+ "exercises": [{"name": str, "dose": str, "marks": true, "a": str, "b": str}, {"name": str, "dose": str, "marks": false, "a": str, "b": str}],
+ "result": str,
+ "captions": {"hook": str, "takeaway": str},
+ "lines": {"hook": str, "ex1": str, "ex2": str, "takeaway": str}}
+"ink"/"outline": caption fill and outline hex colors that read best on this style's background.

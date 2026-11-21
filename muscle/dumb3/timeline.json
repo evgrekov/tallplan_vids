@@ -1,0 +1,51 @@
+{
+ "fps": 30,
+ "sections": [
+  {
+   "name": "Core",
+   "say": "A strong core keeps you standing tall.",
+   "vo": "vo/s0.wav",
+   "clips": [
+    {
+     "file": "clips/c0.mp4",
+     "dur": 7.99,
+     "shot": "Wide side view, forearm plank on a black mat, body in a perfectly straight line from head to heels; the abs and obliques glow. Figure in the lower-middle of the frame",
+     "move": "a steady forearm plank, slow breathing, body perfectly still and straight"
+    }
+   ],
+   "start": 0.0,
+   "end": 7.99,
+   "label_in": 0.3,
+   "label_out": 7.49
+  }
+ ],
+ "end_start": 7.99,
+ "end_seconds": 4.317958333333333,
+ "total": 12.307958333333334,
+ "cues": [
+  [
+   "vo/intro.wav",
+   0.1,
+   2.0486666666666666,
+   "Try this instead: a plank."
+  ],
+  [
+   "vo/s0.wav",
+   2.2986666666666666,
+   2.6585833333333335,
+   "A strong core keeps you standing tall."
+  ],
+  [
+   "vo/outro.wav",
+   5.1072500000000005,
+   2.0486666666666666,
+   "Three rounds, thirty seconds."
+  ],
+  [
+   "vo/tagline.wav",
+   8.74,
+   2.9679583333333333,
+   ""
+  ]
+ ]
+}

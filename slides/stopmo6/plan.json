@@ -1,0 +1,144 @@
+{
+ "title": "Reclaim Your Hidden 2 Inches with TallPlan",
+ "surface": "dark green chalkboard-style cutting mat with faint grid lines, warm overhead lamp light",
+ "cut_style": "bold neon risograph paper prints, pink and electric yellow, grainy texture, clean cut edges",
+ "openai_voice": "marin",
+ "voice": "Energetic young female coach, clear and motivating, steady conversational delivery at ~145 WPM",
+ "music": "Chill lo-fi hip-hop beat, soft kick and Rhodes chord chops, quiet and steady at 82 BPM",
+ "cuts": {
+  "slouched_figure": "paper cutout illustration of a slouched hunched stick figure silhouette, neon pink and electric yellow grainy risograph style",
+  "question_mark": "bold stylized neon electric yellow question mark paper cutout, grainy risograph texture",
+  "upright_spine": "minimalist paper cutout of an elongated straight spine aligned with tall posture, neon pink and yellow riso print",
+  "stretching_legs": "paper cutout silhouette of a runner in a deep lunge stretching calves and hip flexors, neon risograph style",
+  "dead_hang": "paper cutout silhouette of an athletic figure hanging freely from an overhead bar, fully decompressed spine, neon risograph print"
+ },
+ "scenes": [
+  {
+   "vo": "Your sneakers are hiding two inches of you.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "slouched_figure",
+     "x": 0.42,
+     "y": 0.44,
+     "w": 0.3
+    },
+    {
+     "cut": "question_mark",
+     "x": 0.68,
+     "y": 0.36,
+     "w": 0.16
+    },
+    {
+     "tag": "-2 INCHES",
+     "color": "#FF3366",
+     "x": 0.45,
+     "y": 0.64,
+     "w": 0.34
+    }
+   ]
+  },
+  {
+   "vo": "Unlock your upright height with three daily fixes.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "3 DAILY FIXES",
+     "color": "#FFE600",
+     "x": 0.5,
+     "y": 0.35,
+     "w": 0.44
+    },
+    {
+     "cut": "upright_spine",
+     "x": 0.5,
+     "y": 0.56,
+     "w": 0.24
+    }
+   ]
+  },
+  {
+   "vo": "First, wall checks reset forward head posture.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 1",
+     "color": "#FF3366",
+     "x": 0.3,
+     "y": 0.3,
+     "w": 0.2
+    },
+    {
+     "tag": "WALL CHECK",
+     "color": "#FFFFFF",
+     "x": 0.62,
+     "y": 0.3,
+     "w": 0.34
+    },
+    {
+     "cut": "upright_spine",
+     "x": 0.5,
+     "y": 0.54,
+     "w": 0.26
+    }
+   ]
+  },
+  {
+   "vo": "Second, open tight hips to eliminate pelvic tilt.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 2",
+     "color": "#FFE600",
+     "x": 0.3,
+     "y": 0.3,
+     "w": 0.2
+    },
+    {
+     "tag": "HIP STRETCH",
+     "color": "#FFFFFF",
+     "x": 0.62,
+     "y": 0.3,
+     "w": 0.34
+    },
+    {
+     "cut": "stretching_legs",
+     "x": 0.5,
+     "y": 0.54,
+     "w": 0.38
+    }
+   ]
+  },
+  {
+   "vo": "Third, dead hangs to decompress your spine.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 3",
+     "color": "#00E5FF",
+     "x": 0.3,
+     "y": 0.28,
+     "w": 0.2
+    },
+    {
+     "tag": "DEAD HANG",
+     "color": "#FFFFFF",
+     "x": 0.62,
+     "y": 0.28,
+     "w": 0.32
+    },
+    {
+     "cut": "dead_hang",
+     "x": 0.5,
+     "y": 0.54,
+     "w": 0.32
+    }
+   ]
+  },
+  {
+   "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+   "clear": true,
+   "items": []
+  }
+ ]
+}

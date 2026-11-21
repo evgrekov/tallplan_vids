@@ -1,0 +1,15 @@
+Educational TikTok ad, 10 seconds, single continuous generation with quick camera cuts at the given timecodes.
+REFERENCES: image 1 = the character. Image 2 = exact keyframe 'standing_base', match its pose and anatomy. Image 3 = exact keyframe 'cobra_stretch', match its pose and anatomy.
+CHARACTER LOCK: the main character is the person from image 1 (Young 20-year-old male, athletic build, short dark textured hair, friendly stylized 3D face, wearing white crewneck t-shirt and black athletic shorts with white socks.); other people only where a shot asks for them; no ghost, faded or duplicate figures.
+ANATOMY LOCK: correct anatomy at all times: knees bend only forward, natural ankles and wrists, no extra, missing or twisted limbs; x-ray or bone overlays stay inside the body outline, nothing sticks out through the skin.
+SILENT CHARACTER: nobody on screen speaks; mouths stay closed, no lip movement.
+CLEAN FRAME: no words, no subtitles, no letters, no UI anywhere in the image (graphic numbers only if the shot explicitly asks for them).
+STYLE: Stylized 3D digital animation, smooth cartoon proportions, vibrant solid blue studio backdrop, soft studio lighting, clean wooden flooring.
+
+0.0-2.0s: Studio blue backdrop, quick camera push-in on character standing upright as glowing mint green vertical arrow surges up beside him. SFX: Upward whoosh.
+2.0-3.9s: Smooth transition to floor; character drops into prone position and pushes chest upward into cobra stretch. SFX: Floor slide swish.
+3.9-5.7s: Behind character low angle, spine visibly illuminated with internal mint green energy pulsing toward the neck. SFX: Shimmering hum.
+5.7-7.4s: Fast whip pan up to character grabbing overhead bar, lifting feet off floor. SFX: Quick whoosh.
+7.4-8.7s: Full shot hanging straight down, subtle downward mint green force arrows along spine and legs. SFX: Low tension stretch sound.
+8.7-10.0s: Quick switch to hanging from top of modern door frame, body suspended straight. SFX: Solid grip thud.
+Audio: ONLY punchy sound effects on every cut and action. NO music, NO voiceover, NO speech, NO singing.

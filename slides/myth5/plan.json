@@ -1,0 +1,21 @@
+{
+  "title": "Daily Height Loss Myth Debunked",
+  "style": "Dark gym photoreal 3D render, single harsh top spotlight, volumetric smoke, sweat beads, subtle gold accents, cinematic lighting, 2:3 portrait aspect ratio.",
+  "character": "19-year-old athletic male, short messy dark hair, fitted dark t-shirt and workout shorts, defined muscular posture.",
+  "ink": "#FFFFFF",
+  "outline": "#D4AF37",
+  "myth": {
+    "prompt": "Portrait 2:3, top 30% empty dark space. Centered 19-year-old man looking into a cracked mirror in a dim gym, visibly slouched and defeated. The mirror reflection appears noticeably shorter and compressed with sagging shoulders. Moody rim lighting, soft smoke, raw textures, no text.",
+    "caption": "MYTH: DAILY HEIGHT LOSS IS PERMANENT",
+    "sub": "I just shrink every single day",
+    "dur": 3.2,
+    "music": "Eerie slow ticking clock with deep, melancholic low piano chords, atmospheric dark ambient tension, no vocals."
+  },
+  "fact": {
+    "prompt": "Portrait 2:3, top 30% empty dark space. Centered 19-year-old man standing tall with perfect upright posture next to an inversion decompression bench under a dramatic golden spotlight. Glowing gold posture alignment line along his spine, confident expression, floating dust particles, no text.",
+    "caption": "FACT: DECOMPRESSION RECLAIMS YOUR NATURAL HEIGHT",
+    "sub": "Spinal decompression restores daily disc compression",
+    "dur": 3.0,
+    "music": "Epic hybrid orchestral trailer drop, massive taiko drum hits, rising brass, 120 BPM energetic progression, no vocals."
+  }
+}

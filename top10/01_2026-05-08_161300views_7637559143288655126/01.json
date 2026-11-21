@@ -1,0 +1,162 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Side-by-side anatomical figures of a man in side profile on a plain white background. The left figure stands slouched, with head bent forward and down and rounded upper back. The right figure stands fully upright with a straight posture and head held high. Both bodies are dark, near-black silhouettes with a warm orange rim glow and subtle muscle detail. The spine is highlighted in bright glowing yellow-orange vertebrae running down the back of each figure, more curved on the left and straight on the right. Soft orange-gold lighting, clean medical-illustration style, glossy digital render, minimal shading, no text, no arrows, no labels.",
+  "bbox_pct": [
+   22,
+   32,
+   57,
+   66
+  ]
+ },
+ "texts": [
+  {
+   "text": "DECOMPRESS",
+   "font": "bold condensed sans-serif (Anton / Bebas-style)",
+   "weight": "bold",
+   "size_pct_of_height": 12.5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    13.2,
+    1.2,
+    71.2,
+    10.4
+   ]
+  },
+  {
+   "text": "YOUR SPINE",
+   "font": "bold condensed sans-serif (Anton / Bebas-style)",
+   "weight": "bold",
+   "size_pct_of_height": 13.5,
+   "color": "#FF5A0A",
+   "align": "center",
+   "bbox_pct": [
+    13.6,
+    12.8,
+    72.4,
+    13.0
+   ]
+  },
+  {
+   "text": "Look taller instantly",
+   "font": "semi-bold grotesque sans-serif (Helvetica/Inter-style)",
+   "weight": "semibold",
+   "size_pct_of_height": 4.6,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    31.3,
+    27.0,
+    37.2,
+    3.8
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#FF5A0A",
+   "description": "short horizontal orange rule to the left of the subtitle",
+   "bbox_pct": [
+    21.7,
+    28.2,
+    7.2,
+    0.4
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#FF5A0A",
+   "description": "short horizontal orange rule to the right of the subtitle",
+   "bbox_pct": [
+    71.1,
+    28.2,
+    7.2,
+    0.4
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#E53A1E",
+   "description": "vertical dashed red line with a series of small downward chevrons ending in a solid downward arrowhead, indicating height loss on the left",
+   "bbox_pct": [
+    16.3,
+    43.0,
+    4.6,
+    35.6
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#E53A1E",
+   "description": "red horizontal dashed height-marker line at the top of the slouched figure",
+   "bbox_pct": [
+    21.8,
+    37.0,
+    19.4,
+    0.8
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#E53A1E",
+   "description": "red horizontal dashed height-marker line at the feet of the slouched figure",
+   "bbox_pct": [
+    21.8,
+    97.0,
+    19.4,
+    0.8
+   ]
+  },
+  {
+   "type": "chevron",
+   "color": "#FF5A0A",
+   "description": "three bold rounded orange chevrons pointing right, a transition arrow between the two figures",
+   "bbox_pct": [
+    45.0,
+    58.2,
+    10.2,
+    6.5
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#2E9E1F",
+   "description": "vertical dashed green line with a series of small upward chevrons fading toward the bottom, ending in a solid upward green arrowhead at the top, indicating height gain on the right",
+   "bbox_pct": [
+    80.1,
+    32.7,
+    4.5,
+    56.6
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#4CBB3A",
+   "description": "green horizontal dashed height-marker line at the top of the upright figure",
+   "bbox_pct": [
+    59.6,
+    31.9,
+    18.8,
+    0.6
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#4CBB3A",
+   "description": "green horizontal dashed height-marker line at the feet of the upright figure",
+   "bbox_pct": [
+    59.6,
+    97.0,
+    18.8,
+    0.8
+   ]
+  }
+ ],
+ "inserts": []
+}

@@ -1,0 +1,192 @@
+{
+  "title": "How Fast Do Humans Actually Grow?",
+  "character": "Full-body model sheet, plain white background, flat 2D vector illustration style. A friendly, smiling young man with neat brown hair, wearing a mint-green crewneck t-shirt, dark charcoal straight-cut trousers, white socks, and simple black sneakers. Clean geometric shapes, minimal shading, no harsh black outlines, soft modern vector aesthetic.",
+  "openai_voice": "marin",
+  "voice": "Warm, bright, friendly, energetic pacing, clear educational inflection.",
+  "music": "Light, upbeat electronic lo-fi beat with cheerful synth plucks and soft kick at 116 BPM, mixed low under voiceover.",
+  "scenes": [
+    {
+      "vo": "Have you ever wondered how fast humans actually grow?",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Young man in mint-green tee standing upright, looking up curiously with one eyebrow raised, hands at sides.",
+          "in": 70.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "In year one, babies shoot up ten whole inches!",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Cute baby version in a tiny mint-green romper, standing on wobbly feet with arms outstretched in excitement as height counter rapidly climbs.",
+          "in": 30.0,
+          "from": 20.0,
+          "label": "Year 1"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "By age two, kids reach half their adult height.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Toddler in mint-green shirt standing proudly with hands on hips, smiling wide.",
+          "in": 35.0,
+          "from": null,
+          "label": "Age 2"
+        },
+        {
+          "pose": "Full-grown adult man in mint-green tee smiling down gently and giving a thumbs up.",
+          "in": 70.0,
+          "from": null,
+          "label": "Adult"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "Then growth slows down to two inches a year.",
+      "kind": "photo",
+      "bg": null,
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Clean 3D medical visualization of a healthy human knee and long leg bones, highlighting the active epiphyseal growth plate glowing with translucent cyan light against a dark navy clinical background.",
+      "sfx": "none"
+    },
+    {
+      "vo": "Girls hit their growth spurt two years before boys.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Twelve-year-old girl character in mint-green top standing confident and tall, waving happily.",
+          "in": 60.0,
+          "from": null,
+          "label": "Girl (12)"
+        },
+        {
+          "pose": "Twelve-year-old boy character in mint-green tee looking up slightly bewildered at her taller height.",
+          "in": 57.0,
+          "from": null,
+          "label": "Boy (12)"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "At peak, boys gain four inches, girls three-point-five.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Teen boy in mint-green tee stretching upward excitedly as his height counter rapidly shoots up four inches.",
+          "in": 68.0,
+          "from": 64.0,
+          "label": "Boy Peak"
+        },
+        {
+          "pose": "Teen girl in mint-green top smiling cheerfully as her height counter rises three and a half inches.",
+          "in": 64.5,
+          "from": 61.0,
+          "label": "Girl Peak"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "Feet grow first, so big shoes precede the height!",
+      "kind": "photo",
+      "bg": null,
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "A high-angle realistic photograph of a young teenager sitting on a school locker bench, wearing distinctly oversized high-top basketball sneakers resting on a polished gym floor.",
+      "sfx": "pop"
+    },
+    {
+      "vo": "Deep sleep, protein, and activity maximize your range.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Young man in mint-green tee standing centered in confident athletic posture, smiling warmly at camera.",
+          "in": 71.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat minimal vector icon of a crescent moon with soft twinkling stars.",
+          "label": "Deep Sleep"
+        },
+        {
+          "prompt": "Flat minimal vector icon of a protein bowl and running sneaker.",
+          "label": "Nutrition"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    },
+    {
+      "vo": "So how tall are you naturally destined to be?",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Young man in mint-green tee pointing straight toward viewer with an inviting, curious expression.",
+          "in": 71.0,
+          "from": null,
+          "label": "Your Height"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Cheerful young man holding a smartphone showing a colorful habit tracker interface, smiling wide and waving invitingly.",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    }
+  ]
+}

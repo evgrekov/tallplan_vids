@@ -1,0 +1,9 @@
+Continue this video for 8 more seconds with the same character, style, voice and music.
+REFERENCES: image 1 = the character. Image 2 = exact keyframe 'height_check', match its pose and anatomy.
+CHARACTER LOCK: the same person from image 1 in every shot (Teenage boy, 16 years old, short messy dark hair, athletic build, shirtless wearing black athletic shorts.), one person only, no ghost, faded or duplicate figures.
+ANATOMY LOCK: correct human anatomy at all times: knees bend only forward, natural ankles and wrists, five fingers and five toes, no extra, missing or twisted limbs.
+CLEAN FRAME: no text, no subtitles, no letters, no numbers, no UI anywhere in the image. The voiceover is audio only and is never written on screen.
+STYLE: 2D clean anime-inspired cel-shaded vector animation, solid outlines, bold flat colors, mint green glow accents, plain light background.
+
+0-3s: Anatomical silhouette of male torso highlighting hormone glands glowing mint green. 3-5s: Medium full-body shot of character standing flat-footed, looking up at a taller shadow figure. 5-8s: Character points upward happily as an illuminated lightbulb appears above his head, bathed in mint green glow. SFX: Subtle hum, soft ding. Music: Energetic beat fades smoothly.
+Audio: voiceover — Male, mid-20s, American accent, energetic and confident educational delivery, bright clear tone, ~160 WPM, crisp studio condenser mic. — speaking exactly: "When hormone spikes settle, height gains slow down. Discover your actual remaining growth potential in TallPlan." Music: Driving modern electronic beat with light synth pulses and punchy rhythm, upbeat and factual.

@@ -1,0 +1,143 @@
+{
+  "title": "Can You Actually Grow Taller?",
+  "mascot_sheet": "Character sheet of Bendy, a sleepy 2D cartoon cat, fluffy soft grey fur, oversized rounded square-ish head, sleepy half-closed black cartoon eyes, tiny pink nose, cute whiskers, lazy slouching stance, thick bold outlines, minimal flat colors, front view, plain white background",
+  "openai_voice": "ash",
+  "voice": "Fast, energetic, humorous and playful tone",
+  "music": "Upbeat bouncy cartoon acoustic guitar and marimba beat at 125 BPM, low volume under voice",
+  "scenes": [
+    {
+      "vo": "Wish you were naturally taller?",
+      "bg": "Vibrant warm yellow backdrop with faint radiating comic burst lines",
+      "pose": "Bendy the grey cartoon cat slouched flat like a melted puddle of dough, chin on the floor, looking up miserably with droopy half-closed eyes",
+      "props": [
+        {
+          "prompt": "Cartoon wooden height ruler chart showing low height marks with funny sad sticker",
+          "x": 0.75,
+          "y": 0.42,
+          "w": 0.22
+        }
+      ],
+      "enter": "bottom",
+      "action": "wiggle",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "First, fix that melted spine posture!",
+      "bg": "Pastel teal backdrop with minimal vertical rising bubbles",
+      "pose": "Bendy suddenly snapping upright with wide alert eyes, puffing out chest in an exaggerated military salute",
+      "props": [
+        {
+          "prompt": "Glowing cartoon neon straight spine arrow icon pointing upwards",
+          "x": 0.25,
+          "y": 0.38,
+          "w": 0.24
+        }
+      ],
+      "enter": "pop",
+      "action": "stretch",
+      "sfx": "boing"
+    },
+    {
+      "vo": "Hang daily to decompress your joints.",
+      "bg": "Soft light blue sky background with two tiny flat clouds",
+      "pose": "Bendy hanging by both front paws from a pull-up bar, body stretched long like elastic noodle cat, smiling contentedly",
+      "props": [
+        {
+          "prompt": "Horizontal metal pull-up bar fixture with yellow safety grips",
+          "x": 0.5,
+          "y": 0.22,
+          "w": 0.35
+        }
+      ],
+      "enter": "drop",
+      "action": "wiggle",
+      "sfx": "pop"
+    },
+    {
+      "vo": "Sleep eight hours so growth thrives.",
+      "bg": "Cozy deep purple night background with tiny twinkling cartoon stars",
+      "pose": "Bendy curled comfortably on a fluffy white pillow, snoozing peacefully with small cartoon Zzz bubbles floating up",
+      "props": [
+        {
+          "prompt": "Floating digital cartoon clock showing '8-10 HRS' in glowing green letters",
+          "x": 0.72,
+          "y": 0.32,
+          "w": 0.28
+        }
+      ],
+      "enter": "pop",
+      "action": "float",
+      "sfx": "none"
+    },
+    {
+      "vo": "Fuel up with milk and greens.",
+      "bg": "Fresh lime green solid background with sunny yellow circle pattern",
+      "pose": "Bendy licking lips enthusiastically, holding a giant cartoon fork ready to feast",
+      "props": [
+        {
+          "prompt": "Tall glass of fresh milk with calcium sparkles",
+          "x": 0.24,
+          "y": 0.45,
+          "w": 0.2
+        },
+        {
+          "prompt": "Crisp green cartoon broccoli head with shiny sparkle effects",
+          "x": 0.76,
+          "y": 0.45,
+          "w": 0.22
+        }
+      ],
+      "enter": "bottom",
+      "action": "bounce",
+      "sfx": "ding"
+    },
+    {
+      "vo": "Don't fall for silly stretching racks!",
+      "bg": "Pale warm orange comic background with jagged shock lines",
+      "pose": "Bendy comically tied to an absurd medieval wooden stretching machine with dizzy spiral eyes and comedic panicked expression",
+      "props": [
+        {
+          "prompt": "Big red cartoon 'NO!' ban sign with a thick red cross through it",
+          "x": 0.75,
+          "y": 0.3,
+          "w": 0.26
+        }
+      ],
+      "enter": "pop",
+      "action": "shake",
+      "sfx": "bonk"
+    },
+    {
+      "vo": "Now stand tall at full height!",
+      "bg": "Bright golden yellow background with bold upward speed arrows",
+      "pose": "Bendy standing proudly upright on hind legs, tall and sleek with paws on hips, winking and flashing a thumbs-up",
+      "props": [
+        {
+          "prompt": "Golden gleaming cartoon crown floating proudly above head",
+          "x": 0.5,
+          "y": 0.24,
+          "w": 0.22
+        }
+      ],
+      "enter": "bottom",
+      "action": "hop",
+      "sfx": "boing"
+    },
+    {
+      "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+      "bg": "Clean vibrant royal blue background with subtle white geometric grid",
+      "pose": "Bendy standing tall, holding up an oversized smartphone displaying a colorful growth routine dashboard",
+      "props": [
+        {
+          "prompt": "Stylized app badge logo of TallPlan with a rising green growth chart arrow",
+          "x": 0.75,
+          "y": 0.35,
+          "w": 0.26
+        }
+      ],
+      "enter": "pop",
+      "action": "bounce",
+      "sfx": "ding"
+    }
+  ]
+}

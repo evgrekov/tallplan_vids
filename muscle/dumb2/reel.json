@@ -1,0 +1,50 @@
+{
+  "fps": 30,
+  "res": "360p",
+  "intro_seconds": 0.3,
+  "label_delay": 1.3,
+  "end_card_seconds": 3.0,
+  "openai_voice": "ash",
+  "voice": "Upbeat, quick, friendly male coach, brisk pace, energetic, no long pauses.",
+  "speed": 1.3,
+  "music": "Confident upbeat electronic workout instrumental, punchy drums, bright synth plucks, driving bass, 124 BPM, about 20 seconds, clean ending, stays quiet under a voice.",
+  "script": {
+    "intro": "Do this instead: the cobra stretch.",
+    "outro": "Hold for twenty seconds.",
+    "tagline": "Get your personal routine in TallPlan."
+  },
+  "fail": {
+    "dur": 5.0,
+    "shot": "Full body front view, the mannequin stands on tiptoes on a tall wobbly stack of thick books, gripping his own head with both hands and yanking it upward as if to pull himself taller, face strained; the neck glows alarm red",
+    "move": "to make himself taller by standing on tiptoes on a wobbling stack of books and yanking his own head upward with both hands, the books shifting and nearly toppling",
+    "caption": "PULLING MYSELF\nTALLER",
+    "hook": "Trying to pull yourself taller?",
+    "wrong": "You're doing it all wrong!",
+    "voice": "Shocked, loud, comedic coach yelling in disbelief, punchy.",
+    "music": "Goofy modern TikTok meme beat: bouncy trap with heavy 808 bass, crisp hi-hats, a silly detuned squeaky synth lead and quirky vocal-chop-like plucks (no words), ironic and catchy, 140 BPM."
+  },
+  "fail_out": "final_full.mp4",
+  "sections": [
+    {
+      "name": "Spine",
+      "say": "It opens your spine and undoes the slouch.",
+      "vo": "vo/s0.wav",
+      "clips": [
+        {
+          "file": "clips/c0.mp4",
+          "dur": 7.99,
+          "shot": "Side view, cobra stretch on a black mat: lying face down, hands under the shoulders, chest lifted, arms straight, hips on the mat, long arched spine; the spinal erectors and abs glow. Figure in the lower-middle of the frame",
+          "move": "a cobra stretch, the chest slowly rising and lowering with each breath"
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "intro": "vo/intro.wav",
+    "outro": "vo/outro.wav",
+    "tagline": "vo/tagline.wav",
+    "music": "vo/music.mp3",
+    "music_volume": 0.25
+  },
+  "out": "final.mp4"
+}

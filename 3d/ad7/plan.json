@@ -1,0 +1,66 @@
+{
+ "ref_shot_count": 4,
+ "title": "4-Way Growth Matrix Routine",
+ "summary": "A 4-way split screen shows 3D anatomical models executing spinal decompressive movements with mint green highlighted muscles to stimulate growth.",
+ "style": "3D anatomical fitness CGI render, neutral studio background, realistic muscle definition, glowing mint green anatomical target overlays, split-screen workout matrix aesthetic.",
+ "render": "anime",
+ "character": "Young 20-year-old male 3D athletic mannequin, short dark hair, wearing charcoal compression shorts and a fitted grey sleeveless compression top.",
+ "style_ref_times": [
+  0.5,
+  2.0
+ ],
+ "character_prompt": "3D anatomical render of a fit 20-year-old male standing in 3/4 neutral pose, wearing a fitted charcoal compression tank top and compression shorts, athletic build, clean plain studio grey background, soft studio lighting, ultra detailed 8k.",
+ "keyframes": [
+  {
+   "name": "quad_split_view",
+   "part": 0,
+   "prompt": "3D render split screen layout showing athletic male in compression wear demonstrating spine decompression exercises, mint green muscle highlight overlay, clean white-grey backdrop."
+  },
+  {
+   "name": "full_growth_reveal",
+   "part": 0,
+   "prompt": "Full body 3D render of an athletic young adult male standing tall next to a digital glowing vertical height scale, confident posture, mint green accent glow."
+  }
+ ],
+ "parts": [
+  {
+   "shots": [
+    {
+     "vo": "Stop doing random workouts that compress your spine.",
+     "visuals": [
+      "Split screen 4-panel view: top-left shows short posture morphing upright; other panels show dynamic decompression stretches, mint green glow highlighting targeted back muscles. SFX: digital swoosh, bass thud.",
+      "Fast push-in on bottom-left quadrant: the character performs dynamic high-knee march with spine extended upward. SFX: quick whoosh, pulse hum."
+     ],
+     "t": [
+      0,
+      3.33
+     ]
+    },
+    {
+     "vo": "Target deep postural chains to unlock vertical potential.",
+     "visuals": [
+      "Bottom-right panel zooms forward: character performs standing windmill stretch with mint green light beaming along thoracic vertebrae. SFX: energy chime, flex crackle."
+     ],
+     "t": [
+      3.33,
+      6.79
+     ]
+    },
+    {
+     "vo": "Track your personalized height routine in TallPlan.",
+     "visuals": [
+      "Panels merge into a single wide shot: character stands tall in the lower third with an elongated spine under a faint mint aura, upper half clear for app card. SFX: smooth riser, chime pop."
+     ],
+     "t": [
+      6.79,
+      10
+     ]
+    }
+   ]
+  }
+ ],
+ "voice": "Male, 20s, American accent, confident, motivational and direct, ~140 WPM, clean studio podcast mic",
+ "tts_voice": "Orus",
+ "music": "Phonk workout electronic beat, 130 BPM, energetic synth bassline, punchy driving percussion, motivational fitness routine, no vocals",
+ "packshot": 6.74
+}

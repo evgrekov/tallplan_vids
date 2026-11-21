@@ -1,0 +1,12 @@
+Continue this video for 8 more seconds with the same character and style, cuts at the given timecodes.
+REFERENCES: image 1 = the character. Image 2 = exact keyframe 'laying_bed_spine_glow', match its pose and anatomy.
+CHARACTER LOCK: the main character is the person from image 1 (Minimalist stick figure young adult, smooth circular white head, expressive black dot-and-line facial features, simple black line torso and limbs.); other people only where a shot asks for them; no ghost, faded or duplicate figures.
+ANATOMY LOCK: correct anatomy at all times: knees bend only forward, natural ankles and wrists, no extra, missing or twisted limbs; x-ray or bone overlays stay inside the body outline, nothing sticks out through the skin.
+SILENT CHARACTER: nobody on screen speaks; mouths stay closed, no lip movement.
+CLEAN FRAME: no words, no subtitles, no letters, no UI anywhere in the image (graphic numbers only if the shot explicitly asks for them).
+STYLE: Minimalist 2D digital cartoon animation, thick black outlines, stark white fills, smooth vector curves, soft grey shading, clean flat backgrounds, vibrant mint green glow VFX.
+
+0.0-2.1s: Spotlight on bed. Character sits up smiling, camera whip-pans as he reclines onto a supportive pillow in neutral spine alignment. SFX: quick whoosh, chime.
+2.1-4.1s: Side view. Character rests flat on back, spine graphic lights up with radiant mint green glow decompressing outward. SFX: mint glow shimmer, resonant swell.
+4.1-8.0s: Lower-third framing, top half clear for card overlay. Character stands upright at lower screen, grinning cheerfully with a confident thumbs up. SFX: crisp pop, cheerful ding.
+Audio: ONLY punchy sound effects on every cut and action. NO music, NO voiceover, NO speech, NO singing.

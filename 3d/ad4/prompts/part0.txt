@@ -1,0 +1,12 @@
+Educational TikTok ad, 10 seconds, single continuous generation with quick camera cuts at the given timecodes.
+REFERENCES: image 1 = the character. Image 2 = exact keyframe 'tall_measuring_pose', match its pose and anatomy. Image 3 = exact keyframe 'short_comparison_pose', match its pose and anatomy.
+CHARACTER LOCK: the same person from image 1 in every shot (20-year-old young man, short dark brown hair, black crewneck t-shirt, grey casual pants, white sneakers.), one person only, no ghost, faded or duplicate figures.
+ANATOMY LOCK: correct human anatomy at all times: knees bend only forward, natural ankles and wrists, five fingers and five toes, no extra, missing or twisted limbs.
+SILENT CHARACTER: nobody on screen speaks; mouths stay closed, no lip movement.
+CLEAN FRAME: no words, no subtitles, no letters, no UI anywhere in the image (graphic numbers only if the shot explicitly asks for them).
+STYLE: Minimalist 2D flat vector animation, clean outlines, smooth digital cartoon aesthetic, solid neutral studio background, mint green accent glows.
+
+0.0-3.6s: Camera zooms in on the neck of a young man, highlighting an exaggerated prominent Adam's apple pulsing with a bright mint green glow ring. SFX: Whoosh cut, subtle resonant chime.
+3.6-6.6s: Fast whip pan to the man smiling upright beside a height measurement stadiometer, mint green line zipping up past the top marker. SFX: Quick swoosh, digital rising whistle.
+6.6-10.0s: Cut to a shorter young adult in a blue hoodie looking down dejectedly at a low height marker. SFX: Bass drop thud, low record slide.
+Audio: ONLY punchy sound effects on every cut and action. NO music, NO voiceover, NO speech, NO singing.

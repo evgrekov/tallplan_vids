@@ -1,0 +1,12 @@
+Continue this video for 8 more seconds with the same character and style, cuts at the given timecodes.
+REFERENCES: image 1 = the character. Image 2 = exact keyframe 'optimal_sleep', match its pose and anatomy.
+CHARACTER LOCK: the main character is the person from image 1 (20-year-old stylized cartoon young man, simple expressive facial features, dark short hair, white t-shirt, dark shorts.); other people only where a shot asks for them; no ghost, faded or duplicate figures.
+ANATOMY LOCK: correct human anatomy at all times: knees bend only forward, natural ankles and wrists, five fingers and five toes, no extra, missing or twisted limbs.
+SILENT CHARACTER: nobody on screen speaks; mouths stay closed, no lip movement.
+CLEAN FRAME: no words, no subtitles, no letters, no UI anywhere in the image (graphic numbers only if the shot explicitly asks for them).
+STYLE: 2D vector cartoon animation, thick black outlines, smooth cel shading, mint green glowing highlights, soft gradient background.
+
+0.0-3.4s: Bed view, character rests flat in a neutral supine position; a bright mint green glowing spine overlay expands and elongates. Shimmer chime SFX.
+3.4-5.9s: Whip pan to the character standing, excitedly pointing downward toward the bottom screen. Fast swoosh SFX.
+5.9-8.0s: Character sits in the lower third looking upward with an eager thumbs-up; upper frame remains open. Gentle mint glow pulse SFX.
+Audio: ONLY punchy sound effects on every cut and action. NO music, NO voiceover, NO speech, NO singing.

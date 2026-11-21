@@ -1,0 +1,93 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#F5F5F5 off-white with subtle paper grain"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Hand-drawn editorial-style illustration of a seated person from the waist down, viewed from a three-quarter side angle. They sit on a light blue-gray wooden chair with thin legs and a tall backrest, cropped at the torso by the top edge. Dark denim jeans with visible fabric texture, one knee lifted and the lower leg swung outward mid-bounce. Light blue canvas sneakers with white laces and white soles, and a glimpse of yellow socks above them. Thin dark navy outlines, a fine halftone and grain texture, a restrained palette of blues, slate gray and small yellow accents, soft cast shadows on a plain white floor, clean white background, no text or symbols.",
+  "bbox_pct": [
+   28,
+   23,
+   58,
+   54
+  ]
+ },
+ "texts": [
+  {
+   "text": "YOU RANDOMLY SHAKE YOUR LEG",
+   "font": "geometric sans-serif (Open Sans / Myriad-like)",
+   "weight": "bold",
+   "size_pct_of_height": 4,
+   "color": "#3A3A3A",
+   "align": "center",
+   "bbox_pct": [
+    6,
+    16,
+    88,
+    4
+   ]
+  },
+  {
+   "text": "ENERGY RELEASE",
+   "font": "geometric sans-serif (Open Sans / Myriad-like)",
+   "weight": "bold",
+   "size_pct_of_height": 3.2,
+   "color": "#3A3A3A",
+   "align": "center",
+   "bbox_pct": [
+    33,
+    84,
+    35,
+    3.2
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "shape",
+   "color": "#3A7BC8",
+   "description": "Small blue zigzag shake mark above and to the left of the swinging foot, indicating motion",
+   "bbox_pct": [
+    36,
+    33,
+    6,
+    6
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#9AA5B1",
+   "description": "Pair of short gray-blue speed lines beside the lower leg suggesting rapid back-and-forth movement",
+   "bbox_pct": [
+    34,
+    48,
+    4,
+    9
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#E8B43A",
+   "description": "Yellow and blue jagged motion ticks near the sneaker, with a thin blue dash beneath, showing vibration",
+   "bbox_pct": [
+    29,
+    56,
+    8,
+    10
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#E8B43A",
+   "description": "Small yellow curved arc beside the other foot, a tiny motion accent",
+   "bbox_pct": [
+    45,
+    62,
+    4,
+    4
+   ]
+  }
+ ],
+ "inserts": []
+}

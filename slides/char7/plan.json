@@ -1,0 +1,114 @@
+{
+  "title": "Signs a Growth Spurt is Coming",
+  "mascot_sheet": "Character model sheet of Sneaky, a goofy red canvas high-top sneaker cartoon mascot. Sneaky has large expressive cartoon eyes on the front tongue, floppy white shoelaces that act as bendy noodle arms, a clean white rubber toe cap, and a white rubber sole. Full body standing front view, clean 2D vector animation style, thick black outlines, flat solid colors, plain white background, isolated.",
+  "openai_voice": "ash",
+  "voice": "Energetic, fast, playful delivery with comedic timing",
+  "music": "Bouncy, playful instrumental hip-hop cartoon beat with pizzicato strings, 124 BPM",
+  "scenes": [
+    {
+      "vo": "Your shoes are trying to tell you something.",
+      "bg": "Warm yellow background with bold radiating comic sunburst lines",
+      "pose": "Sneaky leaning forward with wide curious eyes, cupping lace hands around his mouth like whispering a secret",
+      "props": [
+        {
+          "prompt": "Cartoon floating magnifying glass focusing on Sneaky's toe",
+          "x": 0.3,
+          "y": 0.45,
+          "w": 0.24
+        }
+      ],
+      "enter": "pop",
+      "action": "bounce",
+      "sfx": "pop"
+    },
+    {
+      "vo": "First sign, your shoe size jumps rapidly!",
+      "bg": "Bright orange backdrop with floating comic question marks and numbers",
+      "pose": "Sneaky stretching his sole comically long with eyes popping out in surprise",
+      "props": [
+        {
+          "prompt": "Yellow cartoon measuring tape wrapping around Sneaky's sole",
+          "x": 0.72,
+          "y": 0.42,
+          "w": 0.25
+        }
+      ],
+      "enter": "bottom",
+      "action": "stretch",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Suddenly, you start tripping over everything.",
+      "bg": "Flat pastel cyan floor with comical motion blur speed lines",
+      "pose": "Sneaky with his own shoelace arms completely tangled together, tumbling clumsily with dizzy spiral eyes",
+      "props": [],
+      "enter": "left",
+      "action": "shake",
+      "sfx": "bonk"
+    },
+    {
+      "vo": "You eat snacks like a vacuum cleaner.",
+      "bg": "Warm peach background with subtle comic kitchen shelf outlines",
+      "pose": "Sneaky opening his sneaker tongue wide like an industrial vacuum hose, inhaling flying snacks",
+      "props": [
+        {
+          "prompt": "Floating stack of giant cartoon burgers and pizza slices",
+          "x": 0.25,
+          "y": 0.42,
+          "w": 0.28
+        }
+      ],
+      "enter": "right",
+      "action": "wiggle",
+      "sfx": "boing"
+    },
+    {
+      "vo": "And sleep all day on the weekend.",
+      "bg": "Cozy muted purple bedroom wall with a sleepy crescent moon icon",
+      "pose": "Sneaky curled up on a fluffy white pillow under a tiny blanket, blissfully snoring with floating Zzz letters",
+      "props": [
+        {
+          "prompt": "Floating digital cartoon clock glowing 11:30 AM",
+          "x": 0.74,
+          "y": 0.32,
+          "w": 0.22
+        }
+      ],
+      "enter": "drop",
+      "action": "float",
+      "sfx": "none"
+    },
+    {
+      "vo": "Track your growth instead of guessing!",
+      "bg": "Vibrant lime green background with bold vertical measurement lines",
+      "pose": "Sneaky standing tall and proud, lace arm pointing confidently at a height ruler",
+      "props": [
+        {
+          "prompt": "Colorful cartoon height wall chart with bright tick marks",
+          "x": 0.76,
+          "y": 0.48,
+          "w": 0.2
+        }
+      ],
+      "enter": "pop",
+      "action": "hop",
+      "sfx": "ding"
+    },
+    {
+      "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+      "bg": "Clean gradient cyan backdrop with floating celebratory yellow stars",
+      "pose": "Sneaky giving a joyful double thumbs-up with lace hands, beaming a huge confident cartoon smile",
+      "props": [
+        {
+          "prompt": "Smartphone mockup displaying TallPlan app growth tracker dashboard",
+          "x": 0.28,
+          "y": 0.44,
+          "w": 0.28
+        }
+      ],
+      "enter": "bottom",
+      "action": "bounce",
+      "sfx": "ding"
+    }
+  ]
+}

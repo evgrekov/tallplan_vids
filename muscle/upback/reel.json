@@ -1,0 +1,46 @@
+{
+  "fps": 30,
+  "res": "360p",
+  "intro_seconds": 0.3,
+  "label_delay": 1.3,
+  "end_card_seconds": 3.0,
+  "openai_voice": "ash",
+  "voice": "Upbeat, quick, friendly male coach, brisk pace, energetic, no long pauses.",
+  "speed": 1.3,
+  "music": "Upbeat light electronic instrumental for a quick fitness explainer, punchy drums, bright synth plucks, 124 BPM, about 20 seconds, clean ending, stays quiet under a voice.",
+  "script": {
+    "intro": "Shoulders rounding forward?",
+    "outro": "Two sets of ten, and you stand taller.",
+    "tagline": "Get your personal routine in TallPlan."
+  },
+  "sections": [
+    {
+      "name": "Upper back",
+      "say": "Y-raises fire up your upper back and pull your shoulders back where they belong.",
+      "vo": "vo/s0.wav",
+      "clips": [
+        {
+          "file": "clips/c0.mp4",
+          "dur": 6.0,
+          "shot": "Full body from behind at a 3/4 angle, standing tall, both arms raised overhead in a Y shape, shoulder blades squeezed; the upper back between the shoulder blades glows",
+          "move": "standing Y-raises, arms rising overhead in a Y and lowering"
+        },
+        {
+          "file": "clips/c1.mp4",
+          "dur": 6.0,
+          "shot": "Medium shot from behind, head to hips, arms in a Y overhead, shoulder blades pulled together; the rhomboids and mid traps glow intensely",
+          "move": "Y-raises with a one-second squeeze at the top of each rep",
+          "camera": "Slow camera orbit to the right"
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "intro": "vo/intro.wav",
+    "outro": "vo/outro.wav",
+    "tagline": "vo/tagline.wav",
+    "music": "vo/music.mp3",
+    "music_volume": 0.25
+  },
+  "out": "final.mp4"
+}

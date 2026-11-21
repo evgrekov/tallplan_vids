@@ -1,0 +1,34 @@
+{
+  "title": "Want To Stand Taller? Upper Back",
+  "style": "Playful 3D clay render, soft shadows, mint green background, clean minimal studio look, beautiful consistent lighting, portrait 2:3 composition, one character only.",
+  "character": "Same 19–20-year-old adult character in every slide, fully clothed in a fitted white t-shirt, teal athletic shorts, white ankle socks, simple sneakers removed for floor moves, friendly face, athletic-average build, natural proportions.",
+  "ink": "#FFFFFF",
+  "outline": "#123A35",
+  "openai_voice": "ballad",
+  "voice": "Upbeat, friendly, brisk delivery with a bright motivational feel.",
+  "exercises": [
+    {
+      "name": "SUPERMAN Y-RAISE",
+      "dose": "10 REPS",
+      "a": "Portrait 2:3 playful 3D clay render on mint green background, subject centered with generous margins, top 18% of image empty, whole body visible, no text, no letters, no numbers. Same character lies face down on a clean matless floor, viewed from a slightly elevated front three-quarter angle. Chest, stomach, hips, thighs, shins, and tops of feet touch the floor. Legs are straight and hip-width apart, toes pointed back. Arms reach overhead in a wide Y shape, elbows straight, palms facing inward with thumbs up, fingertips resting lightly on the floor. Head is in line with spine, face angled down, neck long, relaxed starting pose.",
+      "b": "Portrait 2:3 playful 3D clay render on mint green background, subject centered with generous margins, top 18% of image empty, whole body visible, no text, no letters, no numbers. Same camera angle and framing, same character in the raised end of the Superman Y-raise. Hips, lower stomach, and fronts of thighs remain on the floor. Chest is gently lifted a few inches, head stays neutral looking down, neck long. Both arms stay in a wide Y shape and lift off the floor, elbows straight, palms inward with thumbs up. Legs stay straight and lightly lift from the floor together, feet hovering slightly, glutes engaged, body forming a smooth shallow arch."
+    },
+    {
+      "name": "SNOW ANGELS",
+      "dose": "30 SEC",
+      "a": "Portrait 2:3 playful 3D clay render on mint green background, subject centered with generous margins, top 18% of image empty, whole body visible, no text, no letters, no numbers. Same character lies face down on the clean floor, viewed from the same slightly elevated front three-quarter angle. Chest, stomach, hips, thighs, shins, and tops of feet touch the floor. Legs are straight and together, toes pointed back. Arms are straight overhead close to the ears, hands hovering just above the floor, palms facing down, shoulders pulled away from ears. Head stays neutral, face toward the floor.",
+      "b": "Portrait 2:3 playful 3D clay render on mint green background, subject centered with generous margins, top 18% of image empty, whole body visible, no text, no letters, no numbers. Same camera angle and framing, same character at the other end of a reverse snow angel. Body remains face down, hips and legs on the floor, legs straight and together, toes pointed back. Chest is slightly lifted, head neutral looking down. Arms sweep wide along the sides into a low V near the hips, elbows straight, hands hovering beside the outer thighs, palms facing down, shoulder blades gently squeezed together."
+    }
+  ],
+  "result": "Portrait 2:3 playful 3D clay render on mint green background, subject centered with generous margins, top 18% of image empty, whole body visible, no text, no letters, no numbers. Same character standing tall and relaxed with great posture, feet hip-width apart, knees soft, spine long, chest open, shoulders gently back and down, chin level, arms relaxed at sides, proud happy smile, confident calm energy, soft studio shadow on the floor.",
+  "captions": {
+    "hook": "WANT TO STAND TALLER?",
+    "takeaway": "DAILY · 2 MIN"
+  },
+  "lines": {
+    "hook": "Want to stand taller? Start by waking your upper back.",
+    "ex1": "Superman Y-raises strengthen the muscles that hold your chest open.",
+    "ex2": "Reverse snow angels build control so your shoulders sit back.",
+    "takeaway": "Do both daily, move slowly, and stand proud."
+  }
+}

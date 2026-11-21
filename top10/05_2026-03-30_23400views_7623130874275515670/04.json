@@ -1,0 +1,60 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Flat black silhouette footprints of bare feet in a staggered walking sequence, alternating left and right steps, arranged along a horizontal path. Minimal vector icon style with solid black shapes, crisp edges, high contrast, on a plain white background with generous empty space above.",
+  "bbox_pct": [
+   6.5,
+   57.9,
+   92.6,
+   9.7
+  ]
+ },
+ "texts": [
+  {
+   "text": "Your Stride Covers Distance",
+   "font": "humanist sans-serif (Gill Sans / Futura-like)",
+   "weight": "regular",
+   "size_pct_of_height": 5.5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    11.9,
+    7.3,
+    77.9,
+    4.6
+   ]
+  },
+  {
+   "text": "Long Leg Mechanics",
+   "font": "humanist sans-serif (Gill Sans-like)",
+   "weight": "regular",
+   "size_pct_of_height": 4.2,
+   "color": "#6B9440",
+   "align": "center",
+   "bbox_pct": [
+    29.1,
+    84.0,
+    45.8,
+    4.4
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#222222",
+   "description": "Thin horizontal dotted/dashed ground line running behind the footprints, spanning nearly the full width",
+   "bbox_pct": [
+    2.4,
+    62.5,
+    88.5,
+    0.6
+   ]
+  }
+ ],
+ "inserts": []
+}

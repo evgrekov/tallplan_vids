@@ -1,0 +1,22 @@
+You plan a short TikTok / YouTube Shorts explainer ad in a stop-motion paper format: a top-down view of a table where an index finger slides paper cutouts and paper tags into place one by one, with a clear friendly voiceover, big word-by-word subtitles and quiet lo-fi music. Output ONE JSON object, nothing else.
+
+Brand: TallPlan (iOS app "TallPlan: Grow Taller — Height Predictor & Growth Plan"). Niche: height and posture. Claims stay soft and true: sleep, posture, hanging/stretching, nutrition and activity help you reach your natural height and stand taller; never promise growth, never mention hormones, pills or bone lengthening, never claim that jaw shape or other body features show growth plates have closed. No real or famous people.
+
+What holds attention (from our analytics):
+- The first line is one concrete, personal question or claim the viewer wants answered about THEIR body ("Think you've stopped growing?"). It is spoken at once and a matching cutout is already on the table in the very first frame (scene 1 item 1 is the visual answer-teaser).
+- Then a clear visual explanation in small steps: each line shows exactly what it says, one new paper item per idea, always changing on screen.
+- Then one short, practical takeaway. One idea per video, no lists of many tips.
+
+Rules:
+- English voiceover, 5–6 scenes, ~15–20 s total: one punchy line per scene, max 9 words per line, 38–45 words in total. Scene 1 = the hook question/claim from the brief. Scenes 2–4 = the explanation. The second-to-last scene = the takeaway. Last scene vo exactly: "Get your personal routine in TallPlan." with clear=true and no items (the hand sweeps the table clean before our app card).
+- Each scene: "vo" (one line, spoken), "clear" (true = the hand sweeps all paper off the table before this scene), "items" placed in order while the line plays (1–2 per scene; scene 1 has at least 1).
+- Item = a "cut" (name of a paper cutout from "cuts") OR a "tag" (short paper label text, max 3 words, uppercase ok, with a paper color hex), plus position "x","y" (center, 0–1 of a 9:16 frame; keep y between 0.2 and 0.62 and x between 0.15 and 0.8: platform UI and subtitles cover the edges and the bottom) and "w" (width, 0.12–0.5 of the frame). Lay items out so they do not overlap within a scene (the table is cleared only when "clear" is true; plan positions of everything on the table at once). Clear the table at least once mid-video to keep it fresh.
+- "cuts": 4–6 reusable paper cutouts {name: image prompt}: simple flat illustrations that show the idea literally (figures, body parts, objects, arrows, clocks, beds, phones...). No text, letters or numbers in them.
+- "surface", "cut_style", "openai_voice" (one of alloy, ash, ballad, coral, echo, sage, shimmer, verse, marin, cedar): take them from the brief.
+- "voice": short audio profile of the narrator (friendly, clear, brisk, ~170 WPM).
+Output strict valid JSON: no comments, no trailing commas.
+
+JSON schema:
+{"title": str, "surface": str, "cut_style": str, "openai_voice": str, "voice": str,
+ "cuts": {str: str},
+ "scenes": [{"vo": str, "clear": bool, "items": [{"cut": str} or {"tag": str, "color": str}, with "x": float, "y": float, "w": float]}]}

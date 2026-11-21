@@ -1,0 +1,35 @@
+{
+ "title": "TallPlan Growth Routine",
+ "style": "Studio Ghibli-inspired soft hand-painted anime style, gentle pastel meadow background, warm sunlight, soft painterly textures, top 18% clean open space, no text.",
+ "character": "A 20-year-old athletic young man with messy dark brown hair, wearing a white t-shirt and navy athletic shorts.",
+ "ink": "#1E293B",
+ "outline": "#FFFFFF",
+ "slides": [
+  {
+   "prompt": "Studio Ghibli-inspired hand-painted anime style, vertical 2:3 portrait. In a vibrant pastel wildflower meadow under warm afternoon sunlight, a 20-year-old athletic young man with messy dark brown hair, wearing a white t-shirt and navy athletic shorts, slouches with visibly defeated posture and a crushed, crestfallen facial expression. Beside him, a pretty young girl in a light sundress politely turns her body away with an apologetic, dismissive gesture. Soft painterly textures, watercolor feel, gentle grass swaying. The top 18 percent of the canvas is completely clean, empty pastel blue sky and soft warm light with negative space reserved for text overlay, no text, no letters, no symbols.",
+   "caption": "SHE SAID YOU'RE TOO SHORT",
+   "name": ""
+  },
+  {
+   "prompt": "Studio Ghibli-inspired soft hand-painted anime style, gentle pastel meadow background, warm sunlight. A 20-year-old athletic young man in white t-shirt and navy shorts performing a forward lunge on the grass. Right foot flat forward, left knee and toes touching the ground behind. Both arms stretched straight overhead, torso upright. Top 18% empty.",
+   "caption": "1. 30 sec \u00d7 3",
+   "name": "Overhead lunge \u00b7 opens hips"
+  },
+  {
+   "prompt": "Studio Ghibli-inspired soft hand-painted anime style, gentle pastel meadow background, warm sunlight. A 20-year-old athletic young man in white t-shirt and navy shorts performing a standing quad stretch. Standing upright on left leg, right knee bent back with right hand holding right ankle to glutes, left arm relaxed at side. Top 18% empty.",
+   "caption": "2. 30 sec \u00d7 3",
+   "name": "Quad stretch \u00b7 aligns pelvis"
+  },
+  {
+   "prompt": "Studio Ghibli-inspired soft hand-painted anime style, gentle pastel meadow background, warm sunlight. A 20-year-old athletic young man in white t-shirt and navy shorts seated on grass in butterfly stretch. Soles of feet pressed together, knees dropped wide toward ground, hands grasping ankles with spine upright. Top 18% empty.",
+   "caption": "3. 30 sec \u00d7 3",
+   "name": "Butterfly stretch \u00b7 hip mobility"
+  },
+  {
+   "prompt": "Studio Ghibli-inspired soft hand-painted anime style, gentle pastel meadow background, warm sunlight. A 20-year-old athletic young man in white t-shirt and navy shorts lying flat on back on the grass. Both knees hugged tightly to his chest with arms wrapped around shins, spine rounded gently on ground. Top 18% empty.",
+   "caption": "4. 30 sec \u00d7 3",
+   "name": "Knees-to-chest \u00b7 decompresses spine"
+  }
+ ],
+ "music": "Warm acoustic folk-pop, 112 BPM, uplifting and gentle mood, fingerpicked acoustic guitar, subtle glockenspiel accents, steady light groove, instrumental only."
+}

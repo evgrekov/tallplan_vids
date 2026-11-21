@@ -1,0 +1,118 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Two side-by-side full-body human figures standing against a plain white wall with a soft shadow at the base, rendered as dark translucent bodies with glowing orange rim light and an inner glowing orange-yellow spine. Left figure: arms bent with hands raised at shoulder height, pressed against the wall, head facing forward, relaxed stance with bare feet. Right figure: same body with arms fully extended straight up overhead, hands flat against the wall, head facing forward, bare feet. Cinematic, clean medical-diagram style with smooth stylized anatomy, warm orange and amber glow on near-black silhouettes, soft studio lighting, pure white background.",
+  "bbox_pct": [
+   12,
+   23,
+   75,
+   73.5
+  ]
+ },
+ "texts": [
+  {
+   "text": "1.",
+   "font": "condensed bold grotesque sans (e.g. Anton / Bebas-like)",
+   "weight": "bold",
+   "size_pct_of_height": 17.5,
+   "color": "#000000",
+   "align": "left",
+   "bbox_pct": [
+    7.2,
+    2.8,
+    8,
+    12.8
+   ]
+  },
+  {
+   "text": "WALL ANGELS",
+   "font": "condensed bold grotesque sans (e.g. Anton / Bebas-like)",
+   "weight": "bold",
+   "size_pct_of_height": 17.5,
+   "color": "#FF5A1F",
+   "align": "left",
+   "bbox_pct": [
+    18.5,
+    2.8,
+    76.7,
+    12.8
+   ]
+  },
+  {
+   "text": "Opens shoulders + fixes posture",
+   "font": "clean sans-serif (e.g. Inter / Helvetica), regular with bold words",
+   "weight": "regular; bold on 'shoulders' and 'posture'; '+' in orange",
+   "size_pct_of_height": 3.6,
+   "color": "#1A1A1A",
+   "align": "center",
+   "bbox_pct": [
+    23.8,
+    18,
+    55.5,
+    3.8
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "arrow",
+   "color": "#FF7A1F",
+   "description": "Dashed vertical arrow pointing down, fading toward the top, beside the left figure's left arm",
+   "bbox_pct": [
+    9.6,
+    43.5,
+    4,
+    18
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#FF7A1F",
+   "description": "Dashed vertical arrow pointing down, fading toward the top, beside the left figure's right arm",
+   "bbox_pct": [
+    42.3,
+    43.5,
+    4,
+    18
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#FF7A1F",
+   "description": "Dashed vertical arrow pointing up, fading toward the bottom, beside the right figure's left arm",
+   "bbox_pct": [
+    53.7,
+    28,
+    3.8,
+    24
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#FF7A1F",
+   "description": "Dashed vertical arrow pointing up, fading toward the bottom, beside the right figure's right arm",
+   "bbox_pct": [
+    84.7,
+    27,
+    4,
+    27
+   ]
+  },
+  {
+   "type": "chevron",
+   "color": "#FF6A1A",
+   "description": "Triple right-pointing chevron (>>>) in orange, indicating progression from left pose to right pose",
+   "bbox_pct": [
+    46.2,
+    65.9,
+    8.4,
+    5.3
+   ]
+  }
+ ],
+ "inserts": []
+}

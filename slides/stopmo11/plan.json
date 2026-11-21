@@ -1,0 +1,116 @@
+{
+  "title": "Think You've Stopped Growing? Check These Signs",
+  "surface": "brown kraft paper table",
+  "cut_style": "vintage newspaper collage cutouts with halftone print and torn edges",
+  "openai_voice": "ash",
+  "voice": "Friendly, clear, brisk narrator, about 170 WPM, warm and practical.",
+  "cuts": {
+    "growth_signs_teaser": "Simple flat collage cutout of a magnifying glass over a small standing figure, a shoe, and two taller family silhouettes, no text, no letters, no numbers.",
+    "blank_calendar": "Simple flat collage cutout of a calendar page with blank squares only, no text, no letters, no numbers.",
+    "height_jump_chart": "Simple flat collage cutout of a child silhouette beside a wall with rising height marks and an upward arrow, no text, no letters, no numbers.",
+    "growing_shoes": "Simple flat collage cutout of two sneakers, one smaller and one larger, with a small arrow between them, no text, no letters, no numbers.",
+    "family_heights": "Simple flat collage cutout of a teen silhouette between two taller parent silhouettes, no text, no letters, no numbers.",
+    "wall_measure": "Simple flat collage cutout of a person standing straight against a plain wall with a pencil mark, no text, no letters, no numbers."
+  },
+  "scenes": [
+    {
+      "vo": "Think you've stopped growing? Check these signs.",
+      "clear": false,
+      "items": [
+        {
+          "cut": "growth_signs_teaser",
+          "x": 0.46,
+          "y": 0.36,
+          "w": 0.38
+        },
+        {
+          "tag": "CHECK SIGNS",
+          "color": "#F6D36B",
+          "x": 0.46,
+          "y": 0.57,
+          "w": 0.3
+        }
+      ]
+    },
+    {
+      "vo": "Your age matters, because growth windows vary.",
+      "clear": false,
+      "items": [
+        {
+          "cut": "blank_calendar",
+          "x": 0.2,
+          "y": 0.35,
+          "w": 0.18
+        },
+        {
+          "tag": "AGE RANGE",
+          "color": "#B8D8F8",
+          "x": 0.22,
+          "y": 0.55,
+          "w": 0.22
+        }
+      ]
+    },
+    {
+      "vo": "A recent height jump suggests momentum, not certainty.",
+      "clear": false,
+      "items": [
+        {
+          "cut": "height_jump_chart",
+          "x": 0.71,
+          "y": 0.35,
+          "w": 0.22
+        },
+        {
+          "tag": "RECENT SPURT",
+          "color": "#C8E6A0",
+          "x": 0.69,
+          "y": 0.55,
+          "w": 0.25
+        }
+      ]
+    },
+    {
+      "vo": "Bigger shoes and tall parents are extra clues.",
+      "clear": true,
+      "items": [
+        {
+          "cut": "growing_shoes",
+          "x": 0.28,
+          "y": 0.39,
+          "w": 0.25
+        },
+        {
+          "cut": "family_heights",
+          "x": 0.65,
+          "y": 0.38,
+          "w": 0.28
+        }
+      ]
+    },
+    {
+      "vo": "Track height monthly, same wall, same time.",
+      "clear": false,
+      "items": [
+        {
+          "cut": "wall_measure",
+          "x": 0.38,
+          "y": 0.4,
+          "w": 0.26
+        },
+        {
+          "tag": "TRACK MONTHLY",
+          "color": "#F4B8C6",
+          "x": 0.61,
+          "y": 0.4,
+          "w": 0.28
+        }
+      ]
+    },
+    {
+      "vo": "Get your personal routine in TallPlan.",
+      "clear": true,
+      "items": []
+    }
+  ]
+}

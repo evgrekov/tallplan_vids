@@ -1,0 +1,21 @@
+{
+  "title": "Myth vs Fact: Destined to Stay Small",
+  "style": "Epic dark fantasy oil painting, textured painterly brushwork, ominous tempest sky, dramatic directional rim lighting, deep cinematic shadows.",
+  "character": "A 20-year-old athletic man with messy dark hair, defined jawline, wearing a fitted charcoal t-shirt and dark trousers.",
+  "ink": "#FFFFFF",
+  "outline": "#000000",
+  "myth": {
+    "prompt": "Portrait 2:3 aspect ratio, epic dark fantasy oil painting. Subject centered, top 30% empty composition with head starting below. The young man kneels on cracked stone ground, shoulders slumped and head bowed in resignation, dwarfed before the massive legs of a towering stone colossus. Gloomy overcast sky, cold bluish rim light, somber atmosphere. No text, no letters, no numbers.",
+    "caption": "MYTH: YOU ARE DESTINED TO STAY SMALL",
+    "sub": "My genetics decided everything already",
+    "dur": 3.0,
+    "music": "Melancholic solo cello, slow weeping vibrato, low sustained drone, gloomy and mournful atmosphere, no vocals, instrumental only."
+  },
+  "fact": {
+    "prompt": "Portrait 2:3 aspect ratio, epic dark fantasy oil painting. Subject centered, top 30% empty composition with head starting below. The same young man stands upright atop a rugged cliff edge, tall spinal posture, chest broad and head held high with calm confidence, arms outstretched as vibrant golden sunlight breaks through heavy storm clouds, casting brilliant warm rim light on his form. No text, no letters, no numbers.",
+    "caption": "FACT: POSTURE REALIGNMENT UNLOCKS HIDDEN INCHES",
+    "sub": "Spinal extension and hanging maximize upright stature",
+    "dur": 3.5,
+    "music": "Urgent epic orchestral battle track, 130 BPM, rapid staccato strings, thunderous cinematic war drums, brass swells, triumphant progressive momentum, choir-free, no vocals."
+  }
+}

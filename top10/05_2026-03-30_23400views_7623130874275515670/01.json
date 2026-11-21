@@ -1,0 +1,79 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Minimalist line-art diagram of a standing adult human figure shown front-facing with arms relaxed at sides, drawn in thick black outline with thin black interior grid lines marking torso proportions (chest, waist, hip divisions). Feet are flat and slightly splayed. Yellow bracket-style height markers frame the figure's full height on both sides with horizontal tick ends. Flat vector style, clean black strokes on white background, with a green upward-curving arrow and a thin black horizontal baseline to the right of the figure implying growth.",
+  "bbox_pct": [
+   17,
+   18,
+   42,
+   73
+  ]
+ },
+ "texts": [
+  {
+   "text": "Signs You’re Built To Be Tall",
+   "font": "geometric humanist sans-serif (similar to Quicksand/Gill Sans-style display)",
+   "weight": "semibold",
+   "size_pct_of_height": 4.5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    10,
+    6,
+    80,
+    7
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "bracket",
+   "color": "#FFC929",
+   "description": "Yellow height-measurement brackets on left and right of the figure with inward horizontal end ticks, spanning from head level to feet level",
+   "bbox_pct": [
+    18,
+    25,
+    25,
+    33
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#6BB22B",
+   "description": "Bold green curved upward arrow rising from a baseline toward the upper right, with a filled triangular arrowhead",
+   "bbox_pct": [
+    55,
+    31,
+    27,
+    30
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#000000",
+   "description": "Thin solid black horizontal baseline beneath the green arrow",
+   "bbox_pct": [
+    52,
+    63,
+    27,
+    1
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#8C8C8C",
+   "description": "Gray dashed horizontal line running across the bottom of the slide ending in an open right-pointing arrowhead, suggesting swipe/progression",
+   "bbox_pct": [
+    4,
+    93,
+    92,
+    3
+   ]
+  }
+ ],
+ "inserts": []
+}

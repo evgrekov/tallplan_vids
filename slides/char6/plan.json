@@ -1,0 +1,137 @@
+{
+  "title": "Signs You're Still Growing",
+  "mascot_sheet": "Full body character model sheet of Tapey, a friendly yellow bendy coiled measuring tape cartoon character with big expressive anime-style eyes, tiny red sneakers on stubby legs, wearing a backwards blue baseball cap, simple black bold outlines, flat vibrant colors, plain white background",
+  "openai_voice": "ash",
+  "voice": "fast, punchy, playful teenage explainer delivery",
+  "music": "upbeat bouncy 8-bit cartoon acoustic beat, 125 BPM, light and cheerful",
+  "scenes": [
+    {
+      "vo": "Your body gives signs. Are you still growing?",
+      "bg": "bright sunny yellow backdrop with radiating light rays",
+      "pose": "Tapey leaning forward inquisitively, tapping chin with one yellow ribbon arm, wide curious eyes, tilted blue cap",
+      "props": [
+        {
+          "prompt": "cartoon magnifying glass with shiny glass reflection",
+          "x": 0.75,
+          "y": 0.35,
+          "w": 0.22
+        }
+      ],
+      "enter": "pop",
+      "action": "bounce",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "First clue: your shoes suddenly feel super tight.",
+      "bg": "pastel teal bedroom floor pattern with scattered shoe boxes",
+      "pose": "Tapey sitting down clutching one tiny sneaker, wincing comically as toes burst through the tip",
+      "props": [
+        {
+          "prompt": "flying comic sweat drops and exclamation mark",
+          "x": 0.72,
+          "y": 0.28,
+          "w": 0.2
+        }
+      ],
+      "enter": "drop",
+      "action": "shake",
+      "sfx": "bonk"
+    },
+    {
+      "vo": "Your favorite pants now show your bare ankles.",
+      "bg": "minimalist warm orange gradient with subtle geometric shapes",
+      "pose": "Tapey standing tall, looking down embarrassed at cartoon blue jeans that end way above the knees",
+      "props": [
+        {
+          "prompt": "red dashed measurement arrow pointing up from ankle",
+          "x": 0.25,
+          "y": 0.55,
+          "w": 0.18
+        }
+      ],
+      "enter": "bottom",
+      "action": "stretch",
+      "sfx": "boing"
+    },
+    {
+      "vo": "You are suddenly starving and sleepy all day.",
+      "bg": "cozy light purple cartoon kitchen background",
+      "pose": "Tapey drooling happily with half-closed sleepy eyes, cradling a giant cartoon sandwich in both hands",
+      "props": [
+        {
+          "prompt": "floating ZZZ sleep bubbles",
+          "x": 0.76,
+          "y": 0.25,
+          "w": 0.2
+        }
+      ],
+      "enter": "left",
+      "action": "float",
+      "sfx": "pop"
+    },
+    {
+      "vo": "Achy knees at night often signal growth plates.",
+      "bg": "soft navy blue nighttime room with crescent moon pattern",
+      "pose": "Tapey rubbing knees in a silly dramatic grimace while curled up on a pillow",
+      "props": [
+        {
+          "prompt": "sparkling golden bone icon with glowing aura",
+          "x": 0.3,
+          "y": 0.32,
+          "w": 0.25
+        }
+      ],
+      "enter": "right",
+      "action": "wiggle",
+      "sfx": "none"
+    },
+    {
+      "vo": "Want to know what is left? Don't guess!",
+      "bg": "bold split lime green and cyan graphic background",
+      "pose": "Tapey pointing directly at the camera with a confident wink, hand on hip",
+      "props": [
+        {
+          "prompt": "stylized cartoon smartphone displaying a growth chart graph",
+          "x": 0.75,
+          "y": 0.45,
+          "w": 0.24
+        }
+      ],
+      "enter": "pop",
+      "action": "hop",
+      "sfx": "ding"
+    },
+    {
+      "vo": "And there's way more inside our app.",
+      "bg": "vibrant sky blue gradient with floating fluffy white clouds",
+      "pose": "Tapey jumping joyfully mid-air, both ribbon arms stretched overhead in victory",
+      "props": [
+        {
+          "prompt": "colorful floating checkmarks and star badges",
+          "x": 0.25,
+          "y": 0.3,
+          "w": 0.22
+        }
+      ],
+      "enter": "bottom",
+      "action": "bounce",
+      "sfx": "boing"
+    },
+    {
+      "vo": "Get your personal routine in TallPlan.",
+      "bg": "clean bright yellow and white radial sunburst pattern",
+      "pose": "Tapey proudly holding up the TallPlan app icon badge like a gold medal, beaming smile",
+      "props": [
+        {
+          "prompt": "download badge icon with green checkmark",
+          "x": 0.74,
+          "y": 0.35,
+          "w": 0.24
+        }
+      ],
+      "enter": "pop",
+      "action": "spin",
+      "sfx": "ding"
+    }
+  ]
+}

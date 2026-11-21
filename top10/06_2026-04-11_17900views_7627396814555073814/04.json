@@ -1,0 +1,71 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#F7F8F7 off-white with subtle paper texture"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Flat cartoon illustration with bold dark outlines and light grain texture, of a frustrated young man with short dark tousled hair and tan skin, furrowed brows and a pouting frown, wearing a pale mint-green hoodie with drawstrings. Both hands grip the top edges of the hoodie at the shoulders/collar, tugging it as if adjusting it. Small orange wavy motion lines flank both shoulders to suggest jittery fidgeting. Soft pastel palette of mint green, tan, and charcoal with an off-white background, no ground shadow, clean centered composition.",
+  "bbox_pct": [
+   22,
+   26,
+   58,
+   50
+  ]
+ },
+ "texts": [
+  {
+   "text": "YOU KEEP FIXING YOUR CLOTHES",
+   "font": "geometric sans-serif (Montserrat/Gotham-like)",
+   "weight": "bold",
+   "size_pct_of_height": 4.5,
+   "color": "#3A3A3A",
+   "align": "center",
+   "bbox_pct": [
+    10,
+    15,
+    80,
+    5
+   ]
+  },
+  {
+   "text": "Fit Feels Off",
+   "font": "italic serif (Georgia/Garamond-like)",
+   "weight": "semibold italic",
+   "size_pct_of_height": 3.5,
+   "color": "#4A4A4A",
+   "align": "center",
+   "bbox_pct": [
+    38,
+    82,
+    25,
+    5
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#F5A623",
+   "description": "Two pairs of small orange wavy squiggle motion lines, one pair on each side of the figure's shoulders indicating shaking or fidgeting",
+   "bbox_pct": [
+    21,
+    44,
+    12,
+    14
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#F5A623",
+   "description": "Mirrored pair of orange wavy squiggle motion lines on the right side of the figure's shoulders",
+   "bbox_pct": [
+    68,
+    42,
+    12,
+    14
+   ]
+  }
+ ],
+ "inserts": []
+}

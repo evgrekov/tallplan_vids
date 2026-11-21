@@ -1,0 +1,21 @@
+{
+  "title": "Pull-Up Bar Height Myth",
+  "style": "sports broadcast photorealism, dramatic stadium floodlights, dynamic rim lighting, subtle motion blur, sweat droplets, sharp athletic focus",
+  "character": "19-year-old athletic male with short textured brown hair, lean build, wearing a fitted black athletic crewneck t-shirt and charcoal gym shorts",
+  "ink": "#FFFFFF",
+  "outline": "#000000",
+  "myth": {
+    "prompt": "sports broadcast photorealism, top 30% of frame completely empty negative space. A 19-year-old athletic man in a fitted black t-shirt and gym shorts standing beneath a high steel pull-up bar, gazing upward feeling unable to reach it, slumped rounded shoulders, disheartened embarrassed facial expression, sweat on temple, dark stadium background with distant floodlights and blurred bleachers, no text, no typography",
+    "caption": "MYTH: PULL-UP BARS ONLY BUILD MUSCLES",
+    "sub": "They won't help you stand taller",
+    "dur": 2.5,
+    "music": "mournful deflated stadium organ melody, slow descending notes, lonely sports arena acoustics, somber atmosphere, no vocals"
+  },
+  "fact": {
+    "prompt": "sports broadcast photorealism, top 30% of frame completely empty negative space. The same 19-year-old athletic man performing an overhead dead hang from a steel bar, arms fully extended, spine straight and elongated, confident determined expression, sweat glistening under bright stadium floodlights, blurred arena crowd cheering in the background, sharp rim light emphasizing posture, no text, no typography",
+    "caption": "FACT: DAILY HANGS MAXIMIZE YOUR REACH",
+    "sub": "Hanging releases spine tension for full height",
+    "dur": 3.5,
+    "music": "energetic anthemic stadium rock, 140 BPM, driving electric guitar riffs, pounding acoustic drums, rhythmic stadium claps, triumphant sports broadcast theme, no vocals"
+  }
+}

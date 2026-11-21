@@ -1,0 +1,21 @@
+{
+  "title": "TallPlan - 18th Birthday Myth vs Fact",
+  "style": "Brutal high-contrast black-and-white documentary photography, harsh direct flash, raw film grain, deep shadows, cinematic realism, 35mm aesthetic, no text",
+  "character": "19-year-old young adult male with messy dark hair, sharp jawline, wearing a fitted black crewneck t-shirt and dark jeans",
+  "ink": "#FFFFFF",
+  "outline": "#000000",
+  "myth": {
+    "prompt": "Portrait 2:3, gritty black and white documentary photography, raw film grain. The top 30 percent of the image is completely empty dark space. Below, a 19-year-old man sits slouched at a small table, shoulders collapsed forward, gazing defeated down at a tiny birthday cake with glowing candles, vulnerable posture, harsh flash lighting, plain dark background, no text.",
+    "caption": "MYTH: YOUR HEIGHT STOPS AT 18",
+    "sub": "\"My growth plates are completely closed.\"",
+    "dur": 3.5,
+    "music": "Melancholic, lonely detuned upright piano notes with slow tape flutter and gentle room reverb, gloomy, no vocals"
+  },
+  "fact": {
+    "prompt": "Portrait 2:3, sharp high-contrast crisp black and white photography. The top 30 percent of the image is completely empty dark concrete background. Below, the same young man actively hangs from a steel pull-up bar in a gritty industrial gym, body completely elongated, decompressed spine, erect posture, intense fierce gaze into camera, dramatic rim lighting, no text.",
+    "caption": "FACT: DECOMPRESSION UNLOCKS HIDDEN NATURAL HEIGHT",
+    "sub": "Spinal decompression restores lost structural inches.",
+    "dur": 2.5,
+    "music": "Explosive driving industrial drums, heavy distorted bass pulse, aggressive 135 BPM rhythm, high energy, no vocals"
+  }
+}

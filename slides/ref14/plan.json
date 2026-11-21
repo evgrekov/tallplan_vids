@@ -1,0 +1,35 @@
+{
+  "title": "Short King to Tall King",
+  "style": "Kawaii chibi cartoon style, soft clean linework, big expressive sparkly eyes, cute rounded proportions, solid candy pastel background with subtle magic sparkles, vibrant clean digital illustration, high quality, 2:3 vertical aspect ratio, generous margins, empty top 18 percent.",
+  "character": "Cute 20-year-old chibi young man with messy brown hair, wearing a white t-shirt and grey sporty shorts with white sneakers.",
+  "ink": "#FFFFFF",
+  "outline": "#FF6B8B",
+  "slides": [
+    {
+      "prompt": "Full body side-by-side comparison. On the left, a short chibi young man, slouched posture, sad expression, wearing a small folded paper party crown. On the right, the same character drawn tall, upright, confident smile, wearing a shining big golden crown with jewels. A subtle glowing curved arrow arches between their waists. Soft pastel pink background with sparkles. Empty top 18 percent, no text.",
+      "caption": "SHORT KING TO TALL KING",
+      "name": ""
+    },
+    {
+      "prompt": "Full body dynamic action shot. The cute chibi young man performing a mid-air star jump, jumping off the floor with arms and legs spread wide in an 'X' shape, joyful smiling face, mid-air pose. Plain candy pastel blue background with sparkles. Empty top 18 percent, no text.",
+      "caption": "1. 20 reps × 3",
+      "name": "Star jumps · boost spinal mobility"
+    },
+    {
+      "prompt": "Full body action shot. The cute chibi young man doing bunny hops, knees bent, bouncing forward on the balls of his feet with hands curled up like bunny paws near his chest, happy cheerful face. Plain candy pastel mint green background with sparkles. Empty top 18 percent, no text.",
+      "caption": "2. 30 sec × 3",
+      "name": "Bunny hops · dynamic leg lengthening"
+    },
+    {
+      "prompt": "Full body standing pose. The cute chibi young man standing upright with feet shoulder-width apart, arms fully extended straight out to the sides at shoulder height, making wide circular motions indicated by soft cartoon motion lines, bright smiling face. Plain candy pastel yellow background with sparkles. Empty top 18 percent, no text.",
+      "caption": "3. 30 sec × 3",
+      "name": "Arm circles · open chest posture"
+    },
+    {
+      "prompt": "Full body exercise pose. The cute chibi young man performing a bridge pose on the floor. Upper back, shoulders, head, and flat soles of both feet touch the ground, hips lifted high toward the ceiling forming an arch, hands resting flat alongside the body, calm happy expression. Plain candy pastel lavender background with sparkles. Empty top 18 percent, no text.",
+      "caption": "4. 30 sec × 3",
+      "name": "Bridge pose · strengthen back posture"
+    }
+  ],
+  "music": "Cheerful bubblegum pop, upbeat 130 BPM, retro 8-bit chiptune bleeps, bouncy synth bass, bright glockenspiel accents, energetic four-on-the-floor beat, playful, no vocals."
+}

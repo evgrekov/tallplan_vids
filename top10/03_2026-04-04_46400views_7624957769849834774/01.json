@@ -1,0 +1,82 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#F7F7F8 off-white with subtle texture"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Minimalist flat vector illustration on a light off-white background: a tall vertical measuring ruler standing upright with a light grey-lavender body, dark grey outline and evenly spaced tick marks, casting a faint soft shadow at its base; to its right, a large green (olive-lime) checkmark inside a thin green circle outline, clean rounded strokes, soft modern flat style, calm and clean lighting, plenty of negative space.",
+  "bbox_pct": [
+   18,
+   24,
+   60,
+   56
+  ]
+ },
+ "texts": [
+  {
+   "text": "Signs You'll Be Taller Than 6FT",
+   "font": "high-contrast serif display (Didot/Playfair-like, semi-bold)",
+   "weight": "semibold",
+   "size_pct_of_height": 4.5,
+   "color": "#1A1A1A",
+   "align": "center",
+   "bbox_pct": [
+    13,
+    7,
+    74,
+    6
+   ]
+  },
+  {
+   "text": "6FT",
+   "font": "geometric sans-serif (Roboto/Helvetica-like)",
+   "weight": "regular",
+   "size_pct_of_height": 3.5,
+   "color": "#5B6470",
+   "align": "left",
+   "bbox_pct": [
+    30,
+    29,
+    10,
+    4
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#9E9E9E",
+   "description": "Dashed horizontal line running across the bottom with a right-pointing open arrowhead at the end",
+   "bbox_pct": [
+    4,
+    93,
+    92,
+    3
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#6AA335",
+   "description": "Green checkmark with thin circular outline, indicating a positive sign",
+   "bbox_pct": [
+    56,
+    39,
+    20,
+    19
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#6B7280",
+   "description": "Vertical measuring ruler with dark grey outline, light lavender-grey fill, and tick marks",
+   "bbox_pct": [
+    23,
+    25,
+    7,
+    46
+   ]
+  }
+ ],
+ "inserts": []
+}

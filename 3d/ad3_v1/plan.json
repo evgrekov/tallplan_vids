@@ -1,0 +1,38 @@
+{
+  "title": "Signs You Stopped Growing Remake",
+  "summary": "Debunks height growth myths and introduces physical indicators of growth plate closure, pitching TallPlan.",
+  "style": "2D clean anime-inspired cel-shaded vector animation, solid outlines, bold flat colors, mint green glow accents, plain light background.",
+  "character": "Teenage boy, 16 years old, short messy dark hair, athletic build, shirtless wearing black athletic shorts.",
+  "style_ref_times": [8.5, 10.0],
+  "character_prompt": "Full-body side profile of an athletic 16-year-old boy, short black messy hair, shirtless, black gym shorts, barefoot on plain white background. 2D modern clean anime cel-shaded style, bold outlines, neutral expression, no text.",
+  "keyframes": [
+    {
+      "name": "jawline_check",
+      "for": "base",
+      "prompt": "Close-up front portrait of a teenage boy smiling confidently, defined square jawline outlined with a subtle mint green glowing edge, 2D anime cel-shaded style, solid outlines, clean plain background, no text."
+    },
+    {
+      "name": "height_check",
+      "for": "ext",
+      "prompt": "Full body shot of a teenage boy standing upright on flat feet beside a wall, comparing his stature against a taller shadow silhouette, mint green aura pulsing around him, 2D clean anime style, no text."
+    }
+  ],
+  "base": {
+    "shots": "0-3s: Close-up on the character's torso showing faint abdominal hair, camera pans up as a mint green cross-out flash shatters across screen. 3-6s: Medium shot of character standing against a wall looking puzzled as three mint green numeric circles (1, 2, 3) spin around him. 6-10s: Close-up zoom on character's jawline tracing a sharp square chin highlighted with mint green light. SFX: Whoosh, digital shatter, chime. Music: Upbeat energetic synth-pop groove.",
+    "vo": "Think body hair means you stopped growing? Totally false. Here are real signs your growth plates might be closing, starting with a developed square jawline."
+  },
+  "ext": {
+    "shots": "0-3s: Anatomical silhouette of male torso highlighting hormone glands glowing mint green. 3-5s: Medium full-body shot of character standing flat-footed, looking up at a taller shadow figure. 5-8s: Character points upward happily as an illuminated lightbulb appears above his head, bathed in mint green glow. SFX: Subtle hum, soft ding. Music: Energetic beat fades smoothly.",
+    "vo": "When hormone spikes settle, height gains slow down. Discover your actual remaining growth potential in TallPlan."
+  },
+  "voice": "Male, mid-20s, American accent, energetic and confident educational delivery, bright clear tone, ~160 WPM, crisp studio condenser mic.",
+  "music": "Driving modern electronic beat with light synth pulses and punchy rhythm, upbeat and factual.",
+  "cta_word": "Discover",
+  "qa_checks": {
+    "character": "Maintains identical 16-year-old dark-haired male character design throughout all shots.",
+    "no_text": "Zero on-screen text, numbers, or App Store graphics in generated footage.",
+    "pose": "Standard standing postures, upright flat-foot contact, natural hand gestures.",
+    "anatomy": "Anatomy shots focus cleanly on torso and jawline without skull or distorted facial transitions.",
+    "voice": "Voiceover is clear, upbeat, strictly meets word count limits, and ends exactly with 'in TallPlan.'"
+  }
+}

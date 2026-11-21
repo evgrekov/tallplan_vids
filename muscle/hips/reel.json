@@ -1,0 +1,46 @@
+{
+  "fps": 30,
+  "res": "360p",
+  "intro_seconds": 0.3,
+  "label_delay": 1.3,
+  "end_card_seconds": 3.0,
+  "openai_voice": "ash",
+  "voice": "Upbeat, quick, friendly male coach, brisk pace, energetic, no long pauses.",
+  "speed": 1.3,
+  "music": "Upbeat light electronic instrumental for a quick fitness explainer, punchy drums, bright synth plucks, 124 BPM, about 20 seconds, clean ending, stays quiet under a voice.",
+  "script": {
+    "intro": "Sitting all day? Your hips are stealing your height.",
+    "outro": "Thirty seconds each side, every day.",
+    "tagline": "Get your personal routine in TallPlan."
+  },
+  "sections": [
+    {
+      "name": "Hip flexors",
+      "say": "Tight hip flexors tilt your pelvis forward. This lunge stretch opens them up.",
+      "vo": "vo/s0.wav",
+      "clips": [
+        {
+          "file": "clips/c0.mp4",
+          "dur": 6.0,
+          "shot": "Full body side view, kneeling hip flexor stretch on a black mat: one knee down, the other foot forward, hips pushed gently forward, torso tall, arms overhead; the front of the hip of the back leg glows. Figure in the lower-middle of the frame",
+          "move": "a kneeling hip flexor stretch, hips easing forward and back while the torso stays tall"
+        },
+        {
+          "file": "clips/c1.mp4",
+          "dur": 6.0,
+          "shot": "Low front 3/4 view, kneeling lunge stretch, torso upright, arms reaching overhead; the hip flexor of the back leg glows intensely",
+          "move": "a kneeling lunge stretch, reaching higher overhead on each slow breath",
+          "camera": "Slow camera orbit to the right"
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "intro": "vo/intro.wav",
+    "outro": "vo/outro.wav",
+    "tagline": "vo/tagline.wav",
+    "music": "vo/music.mp3",
+    "music_volume": 0.25
+  },
+  "out": "final.mp4"
+}

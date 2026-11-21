@@ -1,0 +1,171 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": false,
+  "description": "",
+  "bbox_pct": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "texts": [
+  {
+   "text": "MAXIMIZE",
+   "font": "bold condensed grotesque sans (Anton / Bebas-like)",
+   "weight": "bold",
+   "size_pct_of_height": 11,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    21.4,
+    1.4,
+    55,
+    11
+   ]
+  },
+  {
+   "text": "YOUR HEIGHT",
+   "font": "bold condensed grotesque sans (Anton / Bebas-like)",
+   "weight": "bold",
+   "size_pct_of_height": 13,
+   "color": "#FF5A14",
+   "align": "center",
+   "bbox_pct": [
+    9.6,
+    14,
+    81.3,
+    13.2
+   ]
+  },
+  {
+   "text": "TRACK + IMPROVE YOUR GROWTH",
+   "font": "semi-bold condensed sans with wide letter-spacing",
+   "weight": "semibold",
+   "size_pct_of_height": 3.5,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    23.4,
+    29.1,
+    54.8,
+    3
+   ]
+  },
+  {
+   "text": "GET YOUR CUSTOM PLAN",
+   "font": "bold condensed grotesque sans (Anton / Bebas-like)",
+   "weight": "bold",
+   "size_pct_of_height": 5,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    28.9,
+    89.3,
+    43.3,
+    3.8
+   ]
+  },
+  {
+   "text": "START NOW",
+   "font": "bold condensed grotesque sans (Anton / Bebas-like)",
+   "weight": "bold",
+   "size_pct_of_height": 5,
+   "color": "#FF5A14",
+   "align": "center",
+   "bbox_pct": [
+    35.9,
+    94.1,
+    28.6,
+    3.9
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#FF5A14",
+   "description": "short horizontal rule left of the tagline",
+   "bbox_pct": [
+    12.9,
+    30.4,
+    8.5,
+    0.3
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#FF5A14",
+   "description": "short horizontal rule right of the tagline",
+   "bbox_pct": [
+    80.1,
+    30.4,
+    8.4,
+    0.3
+   ]
+  },
+  {
+   "type": "chevron",
+   "color": "#FF5A14",
+   "description": "double chevron pointing right, left of 'GET YOUR CUSTOM PLAN'",
+   "bbox_pct": [
+    22.3,
+    89.5,
+    4.6,
+    3.5
+   ]
+  },
+  {
+   "type": "chevron",
+   "color": "#FF5A14",
+   "description": "double chevron pointing left, right of 'GET YOUR CUSTOM PLAN'",
+   "bbox_pct": [
+    73.2,
+    89.5,
+    4.7,
+    3.5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#FF5A14",
+   "description": "thick underline swoosh beneath 'START NOW'",
+   "bbox_pct": [
+    39.9,
+    98.7,
+    20.3,
+    0.6
+   ]
+  }
+ ],
+ "inserts": [
+  {
+   "kind": "app_screenshot",
+   "description": "black smartphone mockup with green glow showing the GoTall app dashboard: 'Overall Growth Status' header and grid cards (Growth 90% Done Growing, Percentile, Dream Height 5'10.1\", Growth Potential Very High, Growth Optimized 70%, Real Height Change) with bottom tab bar",
+   "bbox_pct": [
+    21.4,
+    33.9,
+    33.3,
+    53.1
+   ],
+   "has_device_frame": true,
+   "shape": "phone"
+  },
+  {
+   "kind": "logo",
+   "description": "green rounded-square app icon with a black stylized 'G' arrow glyph, with soft green glow",
+   "bbox_pct": [
+    58.6,
+    45.3,
+    22.1,
+    22.1
+   ],
+   "has_device_frame": false,
+   "shape": "rounded"
+  }
+ ]
+}

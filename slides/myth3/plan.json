@@ -1,0 +1,21 @@
+{
+  "title": "Slouching vs Height",
+  "style": "Cinematic hyperreal 3D render, cold blue nocturnal tones, moody rain droplets, soft neon reflections, 35mm film grain.",
+  "character": "Athletic 20-year-old male, sharp jawline, short dark wet hair, wearing a fitted charcoal t-shirt and dark denim.",
+  "ink": "#FFFFFF",
+  "outline": "#000000",
+  "myth": {
+    "prompt": "Portrait 2:3, subject centered, top 30% empty frame. A young athletic man severely hunched forward staring down at a glowing phone in heavy rain. Rounded shoulders, anterior head carriage, dead gaze, dark moody asphalt background, rim cold blue neon light, no text.",
+    "caption": "MYTH: SLOUCHING DOES NOT REDUCE HEIGHT",
+    "sub": "Postures don't change your true height.",
+    "dur": 2.5,
+    "music": "Gloomy muffled lo-fi hip hop, ambient rain soundscape, melancholic piano chords, slow tempo, no vocals."
+  },
+  "fact": {
+    "prompt": "Portrait 2:3, subject centered, top 30% empty frame. Same athletic young man standing upright with perfect biomechanical alignment, chest open, chin elevated, confident gaze. A luminous cyan posture line tracks along his straight spine, urban rain background, sharp studio rim lights, no text.",
+    "caption": "FACT: PROPER POSTURE RECLAIMS LOST HEIGHT",
+    "sub": "Spinal decompression restores natural standing stature.",
+    "dur": 3.5,
+    "music": "Aggressive drift phonk, distorted 808 bass, punchy cowbell melody, 130 BPM, high energy drive, no vocals."
+  }
+}

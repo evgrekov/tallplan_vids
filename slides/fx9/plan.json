@@ -1,0 +1,36 @@
+{
+ "title": "Standing Posture Fix",
+ "style": "Bold sticker illustration, thick white border around the character, bright teal plain background, clean vector-like shapes, upbeat fitness ad look, portrait 2:3, subject centered with generous margins, top 18% of image empty, whole body visible, no text, no letters, no numbers. Always a plain pure white background, no glow.",
+ "character": "Same 19-year-old adult character in every slide: warm medium skin, short curly dark hair, athletic but approachable build, yellow tank top, navy shorts, white crew socks, white sneakers, friendly expressive face, fully clothed.",
+ "ink": "#FFFFFF",
+ "outline": "#073B4C",
+ "openai_voice": "alloy",
+ "voice": "Upbeat, friendly, brisk, energetic delivery with clear punchy emphasis.",
+ "exercises": [
+  {
+   "name": "POSTURE CHECK",
+   "dose": "30 SEC",
+   "marks": true,
+   "a": "Portrait 2:3 bold sticker illustration on bright teal plain background, same 19-year-old adult character, thick white border, subject centered with generous margins, top 18% empty, whole body visible, no text, no letters, no numbers. Front three-quarter camera angle at eye level. WRONG standing posture: both feet on the floor about hip-width apart, left knee slightly bent, pelvis shifted left with most body weight dumped onto the left hip, right hip popped out, spine rounded, upper back slumped, shoulders shrugged and rolled forward, chest collapsed, head pushed forward in front of the shoulders, chin poking out, arms hanging loosely with hands near thighs, facial expression mildly tired. Make the imbalance and forward-head posture clearly visible.",
+   "b": "Portrait 2:3 bold sticker illustration on bright teal plain background, same 19-year-old adult character, thick white border, subject centered with generous margins, top 18% empty, whole body visible, no text, no letters, no numbers. Same front three-quarter camera angle and same framing as pose a. RIGHT standing posture: both feet flat on the floor hip-width apart with weight evenly shared, knees soft and straight under hips, pelvis level and neutral, ribs stacked over hips, spine long, chest open without arching, shoulders relaxed down and back, ears stacked over shoulders, chin gently tucked, arms relaxed at sides with palms near thighs, face confident and calm."
+  },
+  {
+   "name": "OVERHEAD REACH",
+   "dose": "10 REPS",
+   "marks": false,
+   "a": "Portrait 2:3 bold sticker illustration on bright teal plain background, same 19-year-old adult character, thick white border, subject centered with generous margins, top 18% empty, whole body visible, no text, no letters, no numbers. Front-facing camera angle at eye level. Starting pose for overhead reach with heel raise: both feet flat on the floor hip-width apart, knees straight but not locked, hips level, spine tall, chest open, shoulders relaxed, arms down by the sides with fingers pointing toward the floor, palms facing inward, head neutral with eyes forward.",
+   "b": "Portrait 2:3 bold sticker illustration on bright teal plain background, same 19-year-old adult character, thick white border, subject centered with generous margins, top 18% empty, whole body visible, no text, no letters, no numbers. Same front-facing camera angle and same framing as pose a. End pose of the same movement: both balls of the feet touching the floor, heels lifted high, ankles extended, legs long and straight, hips level, torso vertical and lengthened, both arms reaching straight overhead beside the ears, elbows extended, fingers spread and pointing upward, shoulders down away from ears, chin gently tucked, eyes forward, expression energized."
+  }
+ ],
+ "result": "Portrait 2:3 bold sticker illustration on bright teal plain background, same 19-year-old adult character, thick white border, subject centered with generous margins, top 18% empty, whole body visible, no text, no letters, no numbers. Character standing tall and relaxed with excellent posture: feet flat and even, legs neutral, hips level, ribs stacked, shoulders relaxed and open, neck long, head balanced over shoulders, arms resting naturally at sides, proud happy smile, confident posture without exaggeration.",
+ "captions": {
+  "hook": "STANDING: YOU'RE WRONG",
+  "takeaway": "STAND TALL DAILY"
+ },
+ "lines": {
+  "hook": "Most people stand with head forward and weight dumped sideways.",
+  "ex1": "Stack ears over shoulders, ribs over hips, feet even.",
+  "ex2": "Reach overhead, lift heels, and lengthen through your whole body.",
+  "takeaway": "Move tall, then stand tall."
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#F7F7F7 off-white with subtle paper texture"
+ },
+ "illustration": {
+  "present": true,
+  "description": "A tall vertical measuring ruler drawn in flat vector style, with evenly spaced tick marks of alternating lengths, in a medium cornflower blue (#4A86C8) with clean rounded edges, standing upright on a plain off-white background with a faint paper grain. Minimal flat illustration style, soft even lighting, no shadows, no people, no text.",
+  "bbox_pct": [
+   28.6,
+   25.6,
+   5.6,
+   64.1
+  ]
+ },
+ "texts": [
+  {
+   "text": "SIGNS YOU'RE GETTING TALLER",
+   "font": "geometric/humanist sans-serif (Open Sans / Helvetica-like), all caps, slightly letter-spaced",
+   "weight": "bold",
+   "size_pct_of_height": 5.5,
+   "color": "#444444",
+   "align": "center",
+   "bbox_pct": [
+    8.6,
+    13.5,
+    84.0,
+    4.4
+   ]
+  },
+  {
+   "text": "+2cm",
+   "font": "regular sans-serif (Open Sans / Helvetica-like)",
+   "weight": "regular",
+   "size_pct_of_height": 4.0,
+   "color": "#4A86C8",
+   "align": "left",
+   "bbox_pct": [
+    58.4,
+    36.3,
+    11.1,
+    3.5
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "arrow",
+   "color": "#F7941D",
+   "description": "A curved, tapering orange arrow with a textured/halftone-like fill rising diagonally from the ruler's middle toward the upper right, ending in a bold triangular arrowhead pointing up-right",
+   "bbox_pct": [
+    38.6,
+    27.8,
+    42.9,
+    37.1
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#B8CCE4",
+   "description": "Three thin pale blue motion-streak lines trailing parallel to the lower-left side of the orange arrow, suggesting upward movement",
+   "bbox_pct": [
+    41.0,
+    39.0,
+    37.5,
+    26.0
+   ]
+  }
+ ],
+ "inserts": []
+}

@@ -1,0 +1,35 @@
+{
+  "title": "TallPlan - Athletes Grow Like This",
+  "style": "Dynamic sports poster graphic illustration, bold diagonal shapes, high-contrast black, white, and vibrant mint accents, sharp graphic ink outlines, energetic motion streaks, clean minimalist background, top 18% completely clear and empty for text overlay, no text, no numbers, no letters",
+  "character": "Athletic 20-year-old male, short tousled dark hair, defined athletic physique, wearing a fitted black athletic tank top, dark charcoal training shorts, and athletic sneakers",
+  "ink": "#0D1117",
+  "outline": "#4EFEB3",
+  "slides": [
+    {
+      "prompt": "Dynamic sports poster graphic illustration, bold diagonal shapes, high-contrast black, white, and vibrant mint accents, sharp graphic ink outlines, energetic motion streaks, clean minimalist background, top 18% completely clear and empty for text overlay, no text, no numbers, no letters. Athletic 20-year-old male, short tousled dark hair, defined athletic physique, wearing a fitted black athletic tank top, dark charcoal training shorts, and athletic sneakers. Hook scene: the athletic young man caught mid-air soaring in an explosive high vertical leap above a regulation basketball hoop, one arm extended skyward reaching well above the orange rim to secure a basketball rebound, dramatic upward low-angle perspective, powerful kinetic motion streaks, subject centered with generous margins.",
+      "caption": "ATHLETES GROW LIKE THIS",
+      "name": ""
+    },
+    {
+      "prompt": "Dynamic sports poster graphic illustration, bold diagonal shapes, high-contrast black, white, and vibrant mint accents, sharp graphic ink outlines, energetic motion streaks, clean minimalist background, top 18% completely clear and empty for text overlay, no text, no numbers, no letters. Athletic 20-year-old male, short tousled dark hair, defined athletic physique, wearing a fitted black athletic tank top, dark charcoal training shorts, and athletic sneakers. Vertical jump exercise: captured at the apex of a vertical squat jump, body fully extended upright mid-air, both arms thrust straight overhead toward the sky, legs straight down, toes pointed toward the floor, feet suspended high above the ground line, subject centered with generous margins.",
+      "caption": "1. 15 reps × 3",
+      "name": "Vertical jumps · explosive spine extension"
+    },
+    {
+      "prompt": "Dynamic sports poster graphic illustration, bold diagonal shapes, high-contrast black, white, and vibrant mint accents, sharp graphic ink outlines, energetic motion streaks, clean minimalist background, top 18% completely clear and empty for text overlay, no text, no numbers, no letters. Athletic 20-year-old male, short tousled dark hair, defined athletic physique, wearing a fitted black athletic tank top, dark charcoal training shorts, and athletic sneakers. Rim hang exercise: the young man hanging suspended in the air with both hands firmly gripping a horizontal basketball rim above his head, arms fully lengthened, torso completely elongated, legs hanging naturally straight down with feet clearing the floor below, relaxed decompressed spinal alignment, subject centered with generous margins.",
+      "caption": "2. 30 sec × 3",
+      "name": "Rim hang · full spine decompression"
+    },
+    {
+      "prompt": "Dynamic sports poster graphic illustration, bold diagonal shapes, high-contrast black, white, and vibrant mint accents, sharp graphic ink outlines, energetic motion streaks, clean minimalist background, top 18% completely clear and empty for text overlay, no text, no numbers, no letters. Athletic 20-year-old male, short tousled dark hair, defined athletic physique, wearing a fitted black athletic tank top, dark charcoal training shorts, and athletic sneakers. Backstroke dynamic exercise: the young man executing a dynamic backstroke swimming motion, torso elevated and extended, one arm sweeping backward in a long full rotation arch over his head, chest open and elevated, shoulders relaxed, stylized dynamic water motion streaks along mint diagonal graphic elements, subject centered with generous margins.",
+      "caption": "3. 45 sec × 3",
+      "name": "Backstroke stretch · chest posture opening"
+    },
+    {
+      "prompt": "Dynamic sports poster graphic illustration, bold diagonal shapes, high-contrast black, white, and vibrant mint accents, sharp graphic ink outlines, energetic motion streaks, clean minimalist background, top 18% completely clear and empty for text overlay, no text, no numbers, no letters. Athletic 20-year-old male, short tousled dark hair, defined athletic physique, wearing a fitted black athletic tank top, dark charcoal training shorts, and athletic sneakers. Sprint start exercise: captured at the explosive first stride launching from a three-point sprint stance, lead foot forcefully pushing off the floor line, rear leg driving forward with high knee drive, torso angled forward in a straight powerful power line from head to heel, arms pumping aggressively, subject centered with generous margins.",
+      "caption": "4. 10 reps × 3",
+      "name": "Sprint starts · dynamic kinetic release"
+    }
+  ],
+  "music": "Hard-hitting sports hype hip-hop, 95 BPM, heavy punchy kick drums, aggressive 808 sub bass, crisp snapping snares, brass horn hits, high-energy athletic training groove, steady driving rhythm, instrumental only, no vocals"
+}

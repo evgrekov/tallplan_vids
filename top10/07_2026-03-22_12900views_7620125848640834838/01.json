@@ -1,0 +1,60 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Flat vector-style cartoon illustration with thick black outlines and simple solid fills on a plain white background. On the left stands a tall yellow ruler with black tick marks and rounded corners. Beside it stands a bald, simplified cartoon man with a peach-colored head and hands, wearing a bright blue short-sleeve t-shirt and dark navy trousers with black shoes. His head is tilted forward and down and his shoulders are slightly hunched, so he looks shorter than the ruler. A soft pale blue elliptical ground shadow sits under both figures. Clean, friendly, minimal editorial style with even lighting and no background scenery.",
+  "bbox_pct": [
+   21.6,
+   37.1,
+   27.3,
+   46.8
+  ]
+ },
+ "texts": [
+  {
+   "text": "Habits That Are Making You",
+   "font": "Fira Sans / humanist sans-serif",
+   "weight": "semibold-bold",
+   "size_pct_of_height": 6.5,
+   "color": "#2B2D31",
+   "align": "center",
+   "bbox_pct": [
+    14.1,
+    13.3,
+    74.0,
+    6.3
+   ]
+  },
+  {
+   "text": "SHORTER",
+   "font": "Fira Sans / humanist sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 10.5,
+   "color": "#D9372B",
+   "align": "center",
+   "bbox_pct": [
+    28.4,
+    21.9,
+    45.6,
+    7.8
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "badge",
+   "color": "#E63B2E",
+   "description": "Red rounded warning triangle with a white exclamation mark inside, sitting to the right of the figure",
+   "bbox_pct": [
+    59.4,
+    37.2,
+    27.5,
+    24.5
+   ]
+  }
+ ],
+ "inserts": []
+}

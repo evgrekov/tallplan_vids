@@ -1,0 +1,12 @@
+Educational TikTok ad, 10 seconds, single continuous generation with quick camera cuts.
+REFERENCES: image 1 = the character. Image 2 = exact keyframe 'kf_stomach_hair', match its pose and anatomy. Image 3 = exact keyframe 'kf_jawline_reveal', match its pose and anatomy.
+CHARACTER LOCK: the same person from image 1 in every shot (15-year-old teenage boy with messy dark brown hair, expressive dark eyes, athletic lean build, wearing black athletic shorts.), one person only, no ghost, faded or duplicate figures.
+ANATOMY LOCK: correct human anatomy at all times: knees bend only forward, natural ankles and wrists, five fingers and five toes, no extra, missing or twisted limbs.
+NARRATION: the voiceover is an off-screen narrator; the character never speaks, mouth stays closed, no lip movement.
+CLEAN FRAME: no words, no subtitles, no letters, no UI anywhere in the image (graphic numbers only if the shot explicitly asks for them). The voiceover is audio only and is never written on screen.
+STYLE: Modern 2D anime-influenced webcomic animation, clean bold line art, cel shading, bright studio lighting, neutral gradient backgrounds, vibrant mint green VFX highlights.
+
+0-3s: Macro shot of torso with stomach hair, camera tilts down rapidly, mint green glowing pointer appears. [SFX: Whoosh, digital click]
+3-7s: Fast pull-out to teen looking frustrated beside a height bar; he punches upwards, shattering a glowing barrier into mint particles. [SFX: Impact smash, glass shatter]
+7-10s: Glowing numbers 1-2-3 orbit character as camera pushes in to a dramatic close-up of a sharp jawline with glowing mint outline. [SFX: Fast swoosh, chime riser]
+Audio: NO voiceover, NO speech, no singing — only music and punchy SFX on every cut. Music: Mid-tempo modern hip-hop beat with punchy 808s, light synthesizer melodies, and a clean forward groove.

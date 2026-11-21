@@ -1,0 +1,35 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<script src="https://cdn.tailwindcss.com/3.4.17"></script>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@600&display=swap" rel="stylesheet">
+<style>html,body{margin:0}</style></head>
+<body>
+<div class="relative w-[1080px] h-[1080px] bg-white overflow-hidden font-['Inter']">
+  <!-- illustration: multiply drops the generated white background -->
+  <img src="01_illustration.png" class="absolute mix-blend-multiply" style="left:15.5%;top:33.5%;width:69%">
+
+  <div class="absolute inset-x-0 text-center font-['Anton'] leading-none uppercase text-black" style="top:0%;font-size:146px">DECOMPRESS</div>
+  <div class="absolute inset-x-0 text-center font-['Anton'] leading-none uppercase text-[#FF5A0A]" style="top:12.5%;font-size:156px">YOUR SPINE</div>
+  <div class="absolute inset-x-0 text-center font-semibold text-black" style="top:28%;font-size:44px">Look taller instantly</div>
+
+  <svg class="absolute inset-0" viewBox="0 0 100 100" fill="none" stroke-linecap="round">
+    <!-- subtitle rules -->
+    <path d="M21 30.5H29.5M70.5 30.5H79" stroke="#FF5A0A" stroke-width=".4"/>
+    <!-- height markers -->
+    <path d="M26 38.5H47M26 99H47" stroke="#E53A1E" stroke-width=".25" stroke-dasharray="1.2 .8"/>
+    <path d="M53 36.5H74M53 99H74" stroke="#4CBB3A" stroke-width=".25" stroke-dasharray="1.2 .8"/>
+    <!-- loss arrow (left) -->
+    <g stroke="#E53A1E" stroke-width=".6" stroke-linejoin="round">
+      <path d="M20 43V70" stroke-dasharray="0 2.2"/>
+          </g>
+    <path d="M17.2 74H22.8L20 79.5Z" fill="#E53A1E"/>
+    <!-- gain arrow (right) -->
+    <path d="M80 45V90" stroke="#2E9E1F" stroke-width=".7" stroke-dasharray="0 2.2" opacity=".85"/>
+    <path d="M77.2 42H82.8L80 36.5Z" fill="#2E9E1F"/>
+    <!-- transition chevrons -->
+    <g stroke="#FF5A0A" stroke-width="1.5" stroke-linejoin="round">
+      <path d="M45.5 58l3 3.2-3 3.2M49 58l3 3.2-3 3.2M52.5 58l3 3.2-3 3.2"/>
+    </g>
+  </svg>
+</div>
+</body></html>

@@ -1,0 +1,51 @@
+{
+ "fps": 30,
+ "sections": [
+  {
+   "name": "Spine",
+   "say": "It opens your spine and undoes the slouch.",
+   "vo": "vo/s0.wav",
+   "clips": [
+    {
+     "file": "clips/c0.mp4",
+     "dur": 7.99,
+     "shot": "Side view, cobra stretch on a black mat: lying face down, hands under the shoulders, chest lifted, arms straight, hips on the mat, long arched spine; the spinal erectors and abs glow. Figure in the lower-middle of the frame",
+     "move": "a cobra stretch, the chest slowly rising and lowering with each breath"
+    }
+   ],
+   "start": 0.0,
+   "end": 7.99,
+   "label_in": 0.3,
+   "label_out": 7.49
+  }
+ ],
+ "end_start": 7.99,
+ "end_seconds": 4.936999999999999,
+ "total": 12.927,
+ "cues": [
+  [
+   "vo/intro.wav",
+   0.1,
+   2.6585833333333335,
+   "Do this instead: the cobra stretch."
+  ],
+  [
+   "vo/s0.wav",
+   2.9085833333333335,
+   2.4315,
+   "It opens your spine and undoes the slouch."
+  ],
+  [
+   "vo/outro.wav",
+   5.490083333333334,
+   1.6567916666666667,
+   "Hold for twenty seconds."
+  ],
+  [
+   "vo/tagline.wav",
+   8.74,
+   3.587,
+   ""
+  ]
+ ]
+}

@@ -1,0 +1,13 @@
+Educational TikTok ad, 10 seconds, single continuous generation with quick camera cuts at the given timecodes.
+REFERENCES: image 1 = the character. Image 2 = exact keyframe 'sad_standing_measure', match its pose and anatomy.
+CHARACTER LOCK: the main character is the person from image 1 (Minimalist stick figure young adult, smooth circular white head, expressive black dot-and-line facial features, simple black line torso and limbs.); other people only where a shot asks for them; no ghost, faded or duplicate figures.
+ANATOMY LOCK: correct anatomy at all times: knees bend only forward, natural ankles and wrists, no extra, missing or twisted limbs; x-ray or bone overlays stay inside the body outline, nothing sticks out through the skin.
+SILENT CHARACTER: nobody on screen speaks; mouths stay closed, no lip movement.
+CLEAN FRAME: no words, no subtitles, no letters, no UI anywhere in the image (graphic numbers only if the shot explicitly asks for them).
+STYLE: Minimalist 2D digital cartoon animation, thick black outlines, stark white fills, smooth vector curves, soft grey shading, clean flat backgrounds, vibrant mint green glow VFX.
+
+0.0-2.4s: Plain gray studio. Fast camera push-in on the stick figure standing sad beside a height marker, sighing as his head drops. SFX: descending slide whistle.
+2.4-4.9s: Cut to bedroom side view. Stick figure flops face-down into mattress, cartoon spine overlay flashes dull red inside torso. SFX: soft mattress thud, dull buzz.
+4.9-7.4s: Side view close-up of mattress. Character curled in tight fetal posture; spine graphic pulses tightly under tension. SFX: tight ratchet click.
+7.4-10.0s: Camera zooms into character's slouched back; cartoon vertebrae show tight pressure squeeze. SFX: bone creak, tension thud.
+Audio: ONLY punchy sound effects on every cut and action. NO music, NO voiceover, NO speech, NO singing.

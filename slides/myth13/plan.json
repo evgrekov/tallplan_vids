@@ -1,0 +1,21 @@
+{
+  "title": "TallPlan Myth vs Fact - Daily Habits",
+  "style": "Retro 16-bit pixel art game aesthetic, clean high-detail pixel shading, HUD-free, cinematic side lighting, solid clean gradient backdrop",
+  "character": "19-year-old young man with tousled dark brown hair, athletic slim build, wearing a navy crewneck t-shirt, dark denim jeans, and low-top canvas sneakers",
+  "ink": "#FFFFFF",
+  "outline": "#11111E",
+  "myth": {
+    "prompt": "Top 30 percent completely empty space. Retro 16-bit pixel art game over screen style, side-angle full-body view of a 19-year-old young man slumped defeated on a flat floor, head down and curved hunched spine, defeated game over pose, muted desaturated monochrome gray palette, flat dark charcoal background, HUD-free, no text, no numbers, no words",
+    "caption": "MYTH: DAILY HABITS DO NOT MATTER",
+    "sub": "Genetics decide everything, why bother trying?",
+    "dur": 2.5,
+    "music": "Slow melancholic 8-bit chiptune game over jingle, descending minor key arpeggios, nostalgic sad lo-fi synth, no vocals"
+  },
+  "fact": {
+    "prompt": "Top 30 percent completely empty space. Retro 16-bit pixel art level-up victory pose, the same 19-year-old young man standing tall and perfectly upright, elongated posture, chest lifted, energetic glowing cyan and gold pixel sparkles radiating around his silhouette, vibrant saturated color palette, clean dark indigo background, HUD-free, no text, no numbers, no words",
+    "caption": "FACT: DAILY ROUTINES UNLOCK FULL STATURE",
+    "sub": "Postural stretches reclaim hidden compressed inches.",
+    "dur": 3.5,
+    "music": "High-energy 16-bit chiptune boss theme, 150 BPM, driving square-wave bassline, uplifting progressive synth lead, triumphant video game victory, no vocals"
+  }
+}

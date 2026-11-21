@@ -1,0 +1,90 @@
+{
+ "title": "TallPlan Mythbust - Ab Hair & Growth Check",
+ "summary": "Debunks the belly hair growth myth and reveals facial structure signs before promoting TallPlan.",
+ "style": "2D modern anime webtoon style, clean bold lineart, vibrant flat cell shading, bright white studio backdrop.",
+ "character": "19-year-old young man, messy dark brown hair, expressive dark eyes, shirtless wearing black athletic shorts.",
+ "style_ref_times": [
+  2.0,
+  8.5
+ ],
+ "character_prompt": "Full body side profile of a 19-year-old young man in clean 2D anime webcomic style. Messy short dark hair, slim athletic build, shirtless, black athletic shorts, barefoot. Neutral standing pose, plain white background, sharp outlines, flat cel shading, single character, no text.",
+ "keyframes": [
+  {
+   "name": "torso_hair_closeup",
+   "for": "base",
+   "prompt": "Close-up front view of a young man's midriff and lower abdomen in 2D anime style. Exaggerated dark hair patches around the navel, sharp comic lines, white background, no text."
+  },
+  {
+   "name": "jawline_profile",
+   "for": "ext",
+   "prompt": "Close-up portrait of a young man showing a sharp chiseled square jawline in 2D anime style, slight smile, mint green outline glowing along the jaw, plain background, no text."
+  }
+ ],
+ "base": {
+  "shots": [
+   {
+    "visual": "Extreme close-up on young man's stomach showing thick dark hair patches around navel. Fast push-in with a mint green glowing arrow pointing down. SFX: Whoosh, digital ping.",
+    "vo": "Think having hair on your stomach means you've completely stopped growing?",
+    "t": [
+     0,
+     3.5
+    ]
+   },
+   {
+    "visual": "Snap zoom out to full-body view of boy looking frustrated against a giant height ruler. A large mint green X slashes across screen, shattering. SFX: Glass shatter impact, heavy thud.",
+    "vo": "That's completely false, so don't panic just yet.",
+    "t": [
+     3.5,
+     6.09
+    ]
+   },
+   {
+    "visual": "Camera circles the boy as glowing mint numbers 1, 2, and 3 orbit around him while he jumps and lands on his feet. SFX: Swoosh, high-energy pop riser.",
+    "vo": "Here are three real biological signs that your growth plates are locking.",
+    "t": [
+     6.09,
+     10
+    ]
+   }
+  ]
+ },
+ "ext": {
+  "shots": [
+   {
+    "visual": "Fast tilt up to boy's face smiling, with a glowing mint green geometric trace highlighting a sharply defined, wide square jawline. SFX: Sparkle shimmer, bass hit.",
+    "vo": "First, a wider, square jawline.",
+    "t": [
+     0,
+     2.57
+    ]
+   },
+   {
+    "visual": "Cut to glowing translucent blue-and-mint anatomical silhouette, showing hormone particles migrating up into the face bones. SFX: Futuristic hum, pulse chime.",
+    "vo": "Hormones finish lengthening, reshaping faces.",
+    "t": [
+     2.57,
+     5.5
+    ]
+   },
+   {
+    "visual": "Camera pulls back to lower third; boy points upward with lightbulb lighting up over his head, leaving upper frame empty for UI overlay. SFX: Ding, clean whoosh.",
+    "vo": "Check open plates in TallPlan.",
+    "t": [
+     5.5,
+     8
+    ]
+   }
+  ]
+ },
+ "voice": "Male, early 20s, North American accent, crisp energetic delivery, punchy narrator timbre, ~160 WPM, dry studio mic.",
+ "music": "High-tempo electronic beat, 128 BPM, driving synth bass, clean percussion, upbeat and urgent informational mood, no vocals.",
+ "qa_checks": {
+  "character": "Consistent 19-year-old anime young man with messy dark hair across all cuts.",
+  "no_text": "NO words, sentences, subtitles or UI drawn anywhere (graphic numbers/counters the shots ask for, glows, arrows and ruler ticks are fine).",
+  "pose": "Standard biomechanical athletic actions: standing upright, jumping landing, pointing upward.",
+  "anatomy": "Close-up torso keeps head out of frame; facial shots avoid internal skull imagery.",
+  "narration": "Nobody on screen talks or moves their lips.",
+  "voice": "The audio has ONLY sound effects: no speech, voiceover, singing or music."
+ },
+ "packshot": 15.45
+}

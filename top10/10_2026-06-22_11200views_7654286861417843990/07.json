@@ -1,0 +1,148 @@
+{
+ "canvas": {
+  "aspect_ratio": "9:16",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": false,
+  "description": "",
+  "bbox_pct": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "texts": [
+  {
+   "text": "WANT TO\nMAXIMIZE YOUR\nGROWTH WINDOW?",
+   "font": "condensed heavy grotesque sans (Anton / Bebas-like)",
+   "weight": "black",
+   "size_pct_of_height": 6.5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    8,
+    2,
+    84,
+    19
+   ]
+  },
+  {
+   "text": "GoTall",
+   "font": "geometric/humanist sans (Lato / Open Sans-like)",
+   "weight": "bold",
+   "size_pct_of_height": 3.4,
+   "color": "#78D62A",
+   "align": "left",
+   "bbox_pct": [
+    21.8,
+    83.5,
+    12.5,
+    3.6
+   ]
+  },
+  {
+   "text": "The #1 Height Growth App",
+   "font": "geometric/humanist sans (Lato / Open Sans-like)",
+   "weight": "bold",
+   "size_pct_of_height": 3.4,
+   "color": "#000000",
+   "align": "left",
+   "bbox_pct": [
+    35.6,
+    83.5,
+    53.2,
+    3.6
+   ]
+  },
+  {
+   "text": "Link in bio ↓",
+   "font": "geometric/humanist sans (Lato / Open Sans-like)",
+   "weight": "bold",
+   "size_pct_of_height": 3.6,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    35.6,
+    95.3,
+    27.3,
+    3.0
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "shape",
+   "color": "#7CFF2A",
+   "description": "soft green outer glow surrounding the phone mockup, fading into the white background",
+   "bbox_pct": [
+    23,
+    21,
+    54,
+    62
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#000000",
+   "description": "black pill-shaped store badges with rounded corners (App Store and Google Play), housing the inserted badge artwork",
+   "bbox_pct": [
+    17.6,
+    88.4,
+    61.5,
+    5.1
+   ]
+  }
+ ],
+ "inserts": [
+  {
+   "kind": "app_screenshot",
+   "description": "dark-mode phone mockup showing the GoTall app: header 'GoTall' with green G badge, 'Overall Growth Status' card with 90% Done Growing ring and 'Shorter than 0%' percentile, 'Growth Progress' line chart (Last 12 Months, 5'10.1\" highlight), metric cards (Current Height 5'10.1\", Dream Height 6'0\", Growth Potential Very High, Growth Optimized 70%, Height Gain +2.1\", Real Height Change +0.3\"), and bottom tab bar (Home, Grow, Insights, Community)",
+   "bbox_pct": [
+    24.8,
+    22.4,
+    50.5,
+    59.1
+   ],
+   "has_device_frame": true,
+   "shape": "phone"
+  },
+  {
+   "kind": "logo",
+   "description": "GoTall app icon: rounded green square with a black italic stylized G",
+   "bbox_pct": [
+    11.5,
+    83.0,
+    8.2,
+    4.5
+   ],
+   "has_device_frame": false,
+   "shape": "rounded"
+  },
+  {
+   "kind": "other",
+   "description": "Apple 'Download on the App Store' badge: black rounded rectangle with Apple logo and white text",
+   "bbox_pct": [
+    17.6,
+    88.4,
+    30.9,
+    5.1
+   ],
+   "has_device_frame": false,
+   "shape": "rounded"
+  },
+  {
+   "kind": "other",
+   "description": "Google Play 'GET IT ON Google Play' badge: black rounded rectangle with colored Play triangle and white text",
+   "bbox_pct": [
+    51.6,
+    88.4,
+    30.9,
+    5.1
+   ],
+   "has_device_frame": false,
+   "shape": "rounded"
+  }
+ ]
+}

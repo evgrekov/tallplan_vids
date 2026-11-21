@@ -1,0 +1,121 @@
+{
+  "title": "How Gerry Reached the Top Leaves",
+  "mascot_sheet": "Full body character model sheet of Gerry, a cute short gangly young cartoon giraffe with soft yellow coat, brown patches, nerdy round black spectacles, tiny horns, expressive big eyes, clean 2D vector cartoon style, bold black outlines, flat vibrant colors, front view, standing on a plain solid white background.",
+  "openai_voice": "ash",
+  "voice": "energetic, fast, playful young narrator with cartoon bounce",
+  "music": "bouncy playful comedic acoustic track with pizzicato strings and marimba at 126 BPM",
+  "scenes": [
+    {
+      "vo": "Can you actually get taller naturally?",
+      "bg": "Bright yellow sunny savanna background with minimalist flat yellow hills",
+      "pose": "Short giraffe Gerry standing on tiptoes looking desperately upward, straining his neck with a comic squint and sweat drop",
+      "props": [
+        {
+          "prompt": "Acacia tree branch with lush green leaves hanging just out of reach",
+          "x": 0.5,
+          "y": 0.22,
+          "w": 0.32
+        }
+      ],
+      "enter": "bottom",
+      "action": "bounce",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Hang daily to decompress your spine.",
+      "bg": "Pastel sky blue background with subtle vertical speed lines",
+      "pose": "Gerry hanging comically by his front hooves from a wooden pull-up bar, elongated silly torso, happy determined grin",
+      "props": [
+        {
+          "prompt": "Sturdy wooden pull-up gym bar mounted horizontally",
+          "x": 0.5,
+          "y": 0.24,
+          "w": 0.35
+        }
+      ],
+      "enter": "drop",
+      "action": "stretch",
+      "sfx": "boing"
+    },
+    {
+      "vo": "Sleep deep to let your body recharge.",
+      "bg": "Cozy deep navy bedroom background with cute floating crescent moon and stars",
+      "pose": "Gerry curled blissfully on a soft pillow wearing a starry nightcap, snoring with floating cartoon Zzz bubbles",
+      "props": [
+        {
+          "prompt": "Glowing cartoon digital clock showing eight hours sleeping time",
+          "x": 0.72,
+          "y": 0.3,
+          "w": 0.22
+        }
+      ],
+      "enter": "pop",
+      "action": "float",
+      "sfx": "pop"
+    },
+    {
+      "vo": "No, sketchy internet hacks won't work!",
+      "bg": "Vibrant alert orange background with light explosion radial lines",
+      "pose": "Gerry tied to ridiculous spring contraptions snapping back, glasses crooked, comically dazed face and spinning eyes",
+      "props": [
+        {
+          "prompt": "Giant red cartoon prohibition NO sign over a bottle of miracle height pills",
+          "x": 0.68,
+          "y": 0.32,
+          "w": 0.25
+        }
+      ],
+      "enter": "spin",
+      "action": "shake",
+      "sfx": "bonk"
+    },
+    {
+      "vo": "Fix your posture to unlock hidden height.",
+      "bg": "Clean turquoise gradient background with vertical measurement grid lines",
+      "pose": "Gerry correcting his slouch into a super crisp military-straight stance, shoulders back, confident smile, tapping his chest",
+      "props": [
+        {
+          "prompt": "Cartoon height measuring ruler with green upward arrow indicating height gain",
+          "x": 0.76,
+          "y": 0.42,
+          "w": 0.2
+        }
+      ],
+      "enter": "bottom",
+      "action": "stretch",
+      "sfx": "ding"
+    },
+    {
+      "vo": "Now Gerry reaches the tallest green leaves!",
+      "bg": "Bright golden savanna sky under a giant lush acacia canopy",
+      "pose": "Tall confident Gerry munching happily on succulent tree leaves, stylishly pushing up his nerdy glasses with a wink",
+      "props": [
+        {
+          "prompt": "Cluster of juicy golden-green acacia leaves and tiny sparkles",
+          "x": 0.35,
+          "y": 0.22,
+          "w": 0.28
+        }
+      ],
+      "enter": "pop",
+      "action": "hop",
+      "sfx": "ding"
+    },
+    {
+      "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+      "bg": "Clean modern app interface background with bright blue sky accents",
+      "pose": "Gerry holding up a sleek smartphone displaying the TallPlan growth tracker screen, giving an enthusiastic thumbs up",
+      "props": [
+        {
+          "prompt": "App icon badge for TallPlan with a modern height growth progress symbol",
+          "x": 0.72,
+          "y": 0.26,
+          "w": 0.24
+        }
+      ],
+      "enter": "pop",
+      "action": "bounce",
+      "sfx": "pop"
+    }
+  ]
+}

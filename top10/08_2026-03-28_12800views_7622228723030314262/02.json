@@ -1,0 +1,48 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Flat cartoon illustration with bold dark outlines and soft cel shading. A smiling young boy with short tousled brown hair, rosy cheeks, and a calm content expression sits at a table, wearing a green crew-neck t-shirt. On the table in front of him is a white oval plate with grilled chicken breast, a small pile of green broccoli, a red tomato, and a little rice. To the left sits a glass of cool blue water, and a silver fork lies to the right of the plate. The table is a light peach-colored surface with a thin dark edge line, set against a plain white background.",
+  "bbox_pct": [
+   19,
+   23,
+   62,
+   58
+  ]
+ },
+ "texts": [
+  {
+   "text": "Appetite Stabilizes",
+   "font": "Helvetica/Arial-style grotesque sans",
+   "weight": "bold",
+   "size_pct_of_height": 9,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    18,
+    10,
+    64,
+    7
+   ]
+  },
+  {
+   "text": "Appetite Becomes Stable",
+   "font": "Open Sans / Myriad-style humanist sans",
+   "weight": "regular italic",
+   "size_pct_of_height": 6.5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    21,
+    79,
+    58,
+    6
+   ]
+  }
+ ],
+ "graphics": [],
+ "inserts": []
+}

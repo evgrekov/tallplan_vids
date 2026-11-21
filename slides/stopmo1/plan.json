@@ -1,0 +1,166 @@
+{
+ "title": "Unlock Your Natural Height with TallPlan",
+ "voice": "Calm, reassuring, authoritative older brother tone with steady instructional pacing ending around ~140 WPM",
+ "tts_voice": "Puck",
+ "music": "Chill lo-fi hip hop beat with soft Rhodes keys and gentle rimshots at 80 BPM",
+ "cuts": {
+  "short_figure": "Flat cut-paper illustration of a simple small stick figure standing upright, thick black lines on clean white cutout paper with a thin white border",
+  "laugh_emoji": "Flat cut-paper circular emoji with closed laughing eyes and crying tears of laughter, bright yellow cardstock cutout",
+  "curved_spine": "Flat cut-paper diagram of a human spine with slight slouch and alignment markers, minimalist medical cut-paper style",
+  "tall_figure": "Flat cut-paper illustration of a tall confident stick figure with elongated straight posture, clean cut-out paper edges",
+  "sleeping_moon": "Flat cut-paper sleeping crescent moon wearing a nightcap resting peacefully on a small cloud, pastel yellow and blue tones",
+  "hanging_figure": "Flat cut-paper silhouette of a person hanging from a pull-up bar with straight elongated spine and arms up",
+  "healthy_plate": "Flat cut-paper top view of a ceramic plate filled with fresh fruit slices, broccoli florets, and milk carton"
+ },
+ "scenes": [
+  {
+   "vo": "Tired of always being the shortest one in every group picture?",
+   "clear": true,
+   "items": [
+    {
+     "cut": "short_figure",
+     "x": 0.5,
+     "y": 0.36,
+     "w": 0.24
+    },
+    {
+     "tag": "YOU",
+     "color": "#FFFFFF",
+     "x": 0.5,
+     "y": 0.5,
+     "w": 0.18
+    },
+    {
+     "cut": "laugh_emoji",
+     "x": 0.5,
+     "y": 0.64,
+     "w": 0.22
+    }
+   ]
+  },
+  {
+   "vo": "Don't stress. Most people never actually reach their full natural height.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "DON'T WORRY",
+     "color": "#FEE2E2",
+     "x": 0.5,
+     "y": 0.36,
+     "w": 0.42
+    },
+    {
+     "cut": "curved_spine",
+     "x": 0.5,
+     "y": 0.56,
+     "w": 0.26
+    }
+   ]
+  },
+  {
+   "vo": "Fixing three simple daily habits can unlock your tallest, straightest posture.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "3 HABITS",
+     "color": "#FEF08A",
+     "x": 0.5,
+     "y": 0.32,
+     "w": 0.38
+    },
+    {
+     "cut": "tall_figure",
+     "x": 0.5,
+     "y": 0.54,
+     "w": 0.28
+    }
+   ]
+  },
+  {
+   "vo": "Number one: get eight full hours of sleep so your spinal discs decompress.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 1",
+     "color": "#FBCFE8",
+     "x": 0.32,
+     "y": 0.28,
+     "w": 0.2
+    },
+    {
+     "tag": "8 HOURS SLEEP",
+     "color": "#FFFFFF",
+     "x": 0.62,
+     "y": 0.28,
+     "w": 0.34
+    },
+    {
+     "cut": "sleeping_moon",
+     "x": 0.5,
+     "y": 0.52,
+     "w": 0.32
+    }
+   ]
+  },
+  {
+   "vo": "Number two: daily bar hanging and decompression stretches to lengthen your back.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 2",
+     "color": "#FED7AA",
+     "x": 0.32,
+     "y": 0.28,
+     "w": 0.2
+    },
+    {
+     "tag": "BAR HANGING",
+     "color": "#FFFFFF",
+     "x": 0.62,
+     "y": 0.28,
+     "w": 0.34
+    },
+    {
+     "cut": "hanging_figure",
+     "x": 0.5,
+     "y": 0.54,
+     "w": 0.34
+    }
+   ]
+  },
+  {
+   "vo": "Number three: clean nutrition with calcium and zero refined sugar spikes.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 3",
+     "color": "#BBF7D0",
+     "x": 0.32,
+     "y": 0.28,
+     "w": 0.2
+    },
+    {
+     "tag": "CLEAN FUEL",
+     "color": "#FFFFFF",
+     "x": 0.62,
+     "y": 0.28,
+     "w": 0.32
+    },
+    {
+     "cut": "healthy_plate",
+     "x": 0.5,
+     "y": 0.54,
+     "w": 0.34
+    }
+   ]
+  },
+  {
+   "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+   "clear": true,
+   "items": []
+  }
+ ],
+ "surface": "clean white matte table surface",
+ "cut_style": "flat cut-paper craft, simple bold shapes",
+ "openai_voice": "ash"
+}

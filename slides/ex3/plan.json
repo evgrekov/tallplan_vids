@@ -1,0 +1,34 @@
+{
+  "title": "TallPlan Spine Decompression Shorts Ad",
+  "style": "Bold anime illustration, clean cel shading, crisp shadows, vibrant but minimal colors, plain clean white background, portrait 2:3 composition, same character throughout, exercise visible from the first frame.",
+  "character": "A 19–20-year-old adult with an athletic-slim build, warm tan skin, short dark hair, expressive confident face, wearing a teal fitted athletic t-shirt, black training shorts, white crew socks, and white sneakers; fully clothed and consistent in every slide.",
+  "ink": "#FFFFFF",
+  "outline": "#111827",
+  "openai_voice": "echo",
+  "voice": "Upbeat, friendly, brisk delivery with light energetic emphasis.",
+  "exercises": [
+    {
+      "name": "DEAD HANG",
+      "dose": "30 SEC",
+      "a": "Portrait 2:3 bold anime cel-shaded illustration on a clean white background, same 19–20-year-old adult character centered with generous margins, whole body visible, top 18% of the image completely empty, NO text, letters or numbers. Front-facing camera angle. A simple matte-black pull-up bar sits just below the empty top area. The character grips the bar with both hands shoulder-width apart, palms facing forward, arms fully straight overhead, shoulders slightly lifted toward ears, torso vertical, core relaxed, knees softly bent, ankles crossed behind the body, feet hovering off the floor and touching nothing. Only both hands touch the bar; no body part touches the floor.",
+      "b": "Portrait 2:3 bold anime cel-shaded illustration on a clean white background, same 19–20-year-old adult character centered with generous margins, whole body visible, top 18% of the image completely empty, NO text, letters or numbers. Same front-facing camera angle and framing, same pull-up bar position. The character still grips the bar with both hands shoulder-width apart, palms forward, feet hovering and ankles crossed behind the body. Arms remain straight, but the shoulders are pulled slightly down away from the ears, chest subtly lifted, ribs stacked, torso vertical, creating the other end of a gentle active hang. Only both hands touch the bar; no body part touches the floor."
+    },
+    {
+      "name": "COBRA STRETCH",
+      "dose": "30 SEC",
+      "a": "Portrait 2:3 bold anime cel-shaded illustration on a clean white background, same 19–20-year-old adult character centered with generous margins, whole body visible, top 18% of the image completely empty, NO text, letters or numbers. Side three-quarter camera angle from the front-left. The character lies face down on a thin light-gray exercise mat. Legs are extended straight back hip-width apart, tops of both feet and shins resting on the mat, thighs and hips touching the mat. Palms are flat on the mat under the shoulders, fingers spread forward, elbows bent close to the ribs, shoulders relaxed, chest only slightly lifted, gaze angled down and forward.",
+      "b": "Portrait 2:3 bold anime cel-shaded illustration on a clean white background, same 19–20-year-old adult character centered with generous margins, whole body visible, top 18% of the image completely empty, NO text, letters or numbers. Same side three-quarter camera angle and framing on the same light-gray exercise mat. The character presses both palms firmly into the mat under the shoulders, fingers spread forward, elbows partly straightened but not locked, chest lifted higher into a cobra stretch, shoulders drawn down and back, neck long, gaze forward. Hips, thighs, shins, and tops of both feet stay touching the mat; knees remain straight and feet point back."
+    }
+  ],
+  "result": "Portrait 2:3 bold anime cel-shaded illustration on a clean white background, same 19–20-year-old adult character centered with generous margins, whole body visible, top 18% of the image completely empty, NO text, letters or numbers. The character stands tall and relaxed with great posture, feet hip-width apart flat on the floor, knees soft, pelvis neutral, chest open, shoulders down and back, neck long, chin level, arms relaxed at the sides, proud happy smile, confident calm expression.",
+  "captions": {
+    "hook": "SPINE SHRINKS DAILY?",
+    "takeaway": "DAILY · 2 MIN"
+  },
+  "lines": {
+    "hook": "Your spine shrinks every day—try this quick reset.",
+    "ex1": "Dead hangs unload your back and open tight shoulders.",
+    "ex2": "Cobra stretch wakes your posture and lengthens the front body.",
+    "takeaway": "Two minutes daily helps you stand taller and looser."
+  }
+}

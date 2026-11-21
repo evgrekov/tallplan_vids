@@ -1,0 +1,60 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Flat cartoon style with bold dark-brown outlines and soft cel shading. A worried teenage boy with short brown hair, a teal hooded sweatshirt, khaki pants and white sneakers stands upright on the left, looking sideways with a sad, sweaty expression and a single tear. Beside him, a tall yellow wooden measuring ruler with brown tick marks rises from a light blue ground shadow, its top curling over, with a gray question mark floating above it. To the right, a glossy yellow warning triangle with a brown exclamation mark sits in the air, surrounded by small golden sparkles. Clean white background with a soft pale blue ground shadow under the figures.",
+  "bbox_pct": [
+   16,
+   24,
+   69,
+   62
+  ]
+ },
+ "texts": [
+  {
+   "text": "Signs Your Growth",
+   "font": "Helvetica/Arial",
+   "weight": "bold",
+   "size_pct_of_height": 8,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    13.5,
+    6,
+    73,
+    7
+   ]
+  },
+  {
+   "text": "Phase is ENDING",
+   "font": "Helvetica/Arial",
+   "weight": "bold",
+   "size_pct_of_height": 8,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    16,
+    14.5,
+    67.5,
+    7
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#F5B800",
+   "description": "Dashed yellow arc curving up and over the top of the ruler, suggesting the boy's height being cut off, with small blue-gray motion dashes near the boy's head",
+   "bbox_pct": [
+    40,
+    30,
+    11,
+    7
+   ]
+  }
+ ],
+ "inserts": []
+}

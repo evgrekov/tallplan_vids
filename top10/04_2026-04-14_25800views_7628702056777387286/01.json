@@ -1,0 +1,57 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#F7F7F7"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Flat cartoon illustration with bold dark outlines and soft cel shading, in a light watercolor-like texture on an off-white background. A wooden-framed bed with a white mattress seen from a side three-quarter angle. A blue blanket covers a sleeping figure, with two bare feet with light tan skin poking out from the blanket at the foot end of the bed, toes relaxed, soles facing the viewer. The blanket is light cornflower blue with soft wrinkles and darker blue shading folds. The mattress is crisp white with subtle gray creases. The wooden bed frame is warm brown with simple legs. Soft even daylight lighting, clean uncluttered composition, no people's faces visible.",
+  "bbox_pct": [
+   10,
+   26,
+   90,
+   67
+  ]
+ },
+ "texts": [
+  {
+   "text": "SIGNS YOU'LL BE TALL",
+   "font": "Open Sans / humanist sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 5.5,
+   "color": "#333333",
+   "align": "center",
+   "bbox_pct": [
+    22,
+    9.5,
+    57,
+    6.5
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "arrow",
+   "color": "#F5C518",
+   "description": "Small hand-drawn yellow arrow pointing right toward the left foot's edge, near the left side of the mattress",
+   "bbox_pct": [
+    11,
+    49,
+    9,
+    4.5
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#F5C518",
+   "description": "Small hand-drawn yellow arrow pointing left toward the right foot, near the right side of the mattress",
+   "bbox_pct": [
+    62,
+    60,
+    12,
+    5
+   ]
+  }
+ ],
+ "inserts": []
+}

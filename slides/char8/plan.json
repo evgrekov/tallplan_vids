@@ -1,0 +1,121 @@
+{
+  "title": "Signs Your Posture Is Stealing Your Height",
+  "mascot_sheet": "Model sheet of Posey, a cute bendy green cartoon spine character, segmented vertebrae body, big expressive black cartoon eyes, friendly smile, wearing an orange athletic sweatband on top, simple noodle arms and legs, standing front pose, full body visible, flat 2D vector style, bold clean black outlines, solid white background",
+  "openai_voice": "verse",
+  "voice": "fast, upbeat, playful, energetic young narrator",
+  "music": "bouncy playful cartoon beats with acoustic groove, 125 BPM",
+  "scenes": [
+    {
+      "vo": "You might be taller than you look!",
+      "bg": "bright warm yellow minimalist background with radiating speed lines",
+      "pose": "Posey the green spine mascot looking surprised, hands on cheeks with wide eyes, looking at a height ruler",
+      "props": [
+        {
+          "prompt": "giant cartoon wooden ruler with black tick marks",
+          "x": 0.75,
+          "y": 0.45,
+          "w": 0.2
+        }
+      ],
+      "enter": "pop",
+      "action": "bounce",
+      "sfx": "boing"
+    },
+    {
+      "vo": "Texting pushes your neck forward like a turtle.",
+      "bg": "flat light teal cartoon background with tiny floating text bubble icons",
+      "pose": "Posey hunched forward with an exaggerated elongated bent neck sticking out horizontally like a turtle, holding a tiny smartphone",
+      "props": [
+        {
+          "prompt": "cute cartoon green turtle shell floating behind back",
+          "x": 0.25,
+          "y": 0.48,
+          "w": 0.24
+        }
+      ],
+      "enter": "left",
+      "action": "wiggle",
+      "sfx": "bonk"
+    },
+    {
+      "vo": "Fix it with simple daily chin tucks.",
+      "bg": "soft pastel blue wall with simple cartoon room outline",
+      "pose": "Posey standing straight, pressing index finger gently against chin, pulling head back into alignment with a proud grin",
+      "props": [
+        {
+          "prompt": "cartoon sparkle alignment arrows pointing straight up",
+          "x": 0.72,
+          "y": 0.35,
+          "w": 0.2
+        }
+      ],
+      "enter": "pop",
+      "action": "hop",
+      "sfx": "ding"
+    },
+    {
+      "vo": "Slouching curls your spine like a shrimp.",
+      "bg": "vibrant orange cartoon room with a simple computer desk outline",
+      "pose": "Posey curled completely forward into a tight curved C-shape like a cooked pinkish-orange shrimp on a stool",
+      "props": [
+        {
+          "prompt": "steaming cartoon cooked shrimp icon with curved tail",
+          "x": 0.75,
+          "y": 0.3,
+          "w": 0.22
+        }
+      ],
+      "enter": "drop",
+      "action": "shake",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Wall angels help unroll your rounded shoulders.",
+      "bg": "flat clean lavender studio background with subtle floor line",
+      "pose": "Posey leaning back against an invisible wall, arms bent at ninety degrees sliding upward with a beaming happy face",
+      "props": [
+        {
+          "prompt": "pair of cute white cartoon angel wings behind shoulders",
+          "x": 0.5,
+          "y": 0.28,
+          "w": 0.3
+        }
+      ],
+      "enter": "bottom",
+      "action": "stretch",
+      "sfx": "ding"
+    },
+    {
+      "vo": "Stand tall and know your real height.",
+      "bg": "bright sunny cyan background with upward rising blue arrows",
+      "pose": "Posey standing completely upright and elongated, chest out, thumbs up, sparkling confident expression",
+      "props": [
+        {
+          "prompt": "golden sparkling cartoon crown hovering overhead",
+          "x": 0.5,
+          "y": 0.22,
+          "w": 0.2
+        }
+      ],
+      "enter": "pop",
+      "action": "stretch",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+      "bg": "warm yellow gradient background with celebratory confetti specks",
+      "pose": "Posey winking cheerfully, presenting the phone screen with open welcoming hands",
+      "props": [
+        {
+          "prompt": "smartphone showing the TallPlan app interface with posture routine checklist",
+          "x": 0.72,
+          "y": 0.45,
+          "w": 0.28
+        }
+      ],
+      "enter": "pop",
+      "action": "bounce",
+      "sfx": "ding"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Short Guys Just Accept It",
+  "style": "Gritty high-contrast graphic novel illustration, heavy black ink hatching, stark crimson red and void-black duotone palette, harsh dramatic rim lighting, intense shadows, manhwa aesthetic.",
+  "character": "20-year-old young man, sharp defined jawline, messy black undercut hair, athletic lean build, wearing a fitted black crewneck t-shirt and dark cargo pants.",
+  "ink": "#FFFFFF",
+  "outline": "#000000",
+  "myth": {
+    "prompt": "Gritty high-contrast graphic novel art, portrait 2:3 aspect ratio, empty background space in the top 30 percent with subject head starting below. The young man stands hunched with slouched shoulders and downcast eyes in an alleyway, visibly demoralized. A colossal, towering shadow of a massive rival looms menacingly over him on the textured wall behind. Heavy black ink strokes, harsh crimson red undertones, deep oppressive shadows, plain dark background, no text, no letters.",
+    "caption": "MYTH: SHORT GUYS MUST ACCEPT IT",
+    "sub": "\"I was cursed by bad genetics.\"",
+    "dur": 3.2,
+    "music": "Dark slow dread atmospheric drone, low sub-bass rumble, eerie ambient tension, melancholic hollow pad, instrumental only"
+  },
+  "fact": {
+    "prompt": "Gritty high-contrast graphic novel art, portrait 2:3 aspect ratio, empty background space in the top 30 percent with subject head starting below. The same young man stands fully upright with flawless spinal posture, broad chest, and an intense piercing stare directly forward. Behind him, his own cast shadow now looms colossal and dominant over the plain wall. Bold ink line-work, sharp crimson rim lighting, high-contrast dark palette, triumphant aura, no text, no letters.",
+    "caption": "FACT: DECOMPRESSION UNLOCKS YOUR FULL HEIGHT",
+    "sub": "Spine decompression restores your true standing height.",
+    "dur": 2.8,
+    "music": "Aggressive hard-hitting trap phonk, distorted 808 bass, sharp rolling hi-hats, dark brass hits, energetic 140 BPM instrumental, no vocals"
+  }
+}

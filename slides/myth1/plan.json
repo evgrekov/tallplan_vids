@@ -1,0 +1,21 @@
+{
+ "title": "Growth Plates Myth vs Fact",
+ "style": "Soft 3D Pixar-like digital render, warm studio rim light, minimalist background",
+ "character": "20-year-old young man with short messy brown hair, fitted charcoal t-shirt, and dark denim jeans",
+ "ink": "#FFFFFF",
+ "outline": "#000000",
+ "myth": {
+  "prompt": "Soft 3D Pixar-like render, warm moody studio light. A 20-year-old man in charcoal t-shirt and jeans slumping with severe slouch, head hung down in defeated posture. Plain neutral studio backdrop, empty upper 20 percent, subject centered, portrait 2:3. Frame him smaller with the top 30% of the image completely empty background; his head starts below that.",
+  "caption": "MYTH: CLOSED PLATES MEAN ZERO HEIGHT GAIN",
+  "sub": "I am stuck at this height",
+  "dur": 3.5,
+  "music": "Slow melancholic lo-fi piano chords, gloomy ambient synth pad, downtempo, no vocals"
+ },
+ "fact": {
+  "prompt": "Soft 3D Pixar-like render, vibrant warm studio light. The same 20-year-old man standing fully upright with perfect spinal alignment, shoulders pulled back, confident posture, beside a subtle glowing vertical posture guide. Plain backdrop, empty upper 20 percent, centered portrait 2:3. Frame him smaller with the top 30% of the image completely empty background; his head starts below that.",
+  "caption": "FACT: DECOMPRESSION UNLOCKS YOUR HIDDEN HEIGHT",
+  "sub": "Posture correction adds real standing height",
+  "dur": 2.5,
+  "music": "Energetic bass-heavy phonk drop, aggressive upbeat synth lead, driving rhythm, no vocals"
+ }
+}

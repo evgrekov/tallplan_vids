@@ -1,0 +1,145 @@
+{
+ "title": "Why Morning Height Matters - TallPlan",
+ "surface": "Kraft brown cardboard with coffee stains, top-down view",
+ "cut_style": "Vintage collage from old magazines and newspaper scraps, halftone, retro cut-paper edges",
+ "openai_voice": "cedar",
+ "voice": "Deep, calm, slightly mysterious teacher tone with steady rhythm, ~155 WPM",
+ "music": "Mellow lo-fi hip-hop beat with soft vinyl crackle, gentle Rhodes piano, quiet and steady at 75 BPM",
+ "cuts": {
+  "vintage_clock": "Cut-paper vintage alarm clock illustration, retro halftone newsprint texture, scissors cut edges, no text or numbers",
+  "measuring_ruler": "Vintage paper cutout of an upright measuring height gauge, aged paper collage style, no letters or numbers",
+  "compressed_spine": "Cut-paper human spine silhouette, halftone magazine clipping style, textured edges",
+  "figure_hanging": "Paper cutout silhouette of a person hanging relaxed from an overhead bar, retro magazine collage aesthetic",
+  "water_glass": "Cut-paper illustration of a tall vintage water glass with condensation drops, halftone print style",
+  "sleeping_figure": "Paper cutout silhouette of a person sleeping flat on their back on a mattress, retro newsprint texture"
+ },
+ "scenes": [
+  {
+   "vo": "Doctors measure you in the morning for a reason.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "vintage_clock",
+     "x": 0.35,
+     "y": 0.38,
+     "w": 0.26
+    },
+    {
+     "cut": "measuring_ruler",
+     "x": 0.65,
+     "y": 0.42,
+     "w": 0.2
+    },
+    {
+     "tag": "PEAK HEIGHT",
+     "color": "#F4ECD8",
+     "x": 0.5,
+     "y": 0.64,
+     "w": 0.32
+    }
+   ]
+  },
+  {
+   "vo": "You shrink daily, but three habits stop that.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "compressed_spine",
+     "x": 0.5,
+     "y": 0.4,
+     "w": 0.26
+    },
+    {
+     "tag": "3 DAILY HABITS",
+     "color": "#E07A5F",
+     "x": 0.5,
+     "y": 0.62,
+     "w": 0.34
+    }
+   ]
+  },
+  {
+   "vo": "First, stretch two minutes before standing.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 1",
+     "color": "#F2CC8F",
+     "x": 0.5,
+     "y": 0.26,
+     "w": 0.18
+    },
+    {
+     "cut": "figure_hanging",
+     "x": 0.5,
+     "y": 0.45,
+     "w": 0.34
+    },
+    {
+     "tag": "DECOMPRESS",
+     "color": "#81B29A",
+     "x": 0.5,
+     "y": 0.66,
+     "w": 0.3
+    }
+   ]
+  },
+  {
+   "vo": "Second, drink water to refill spinal discs.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 2",
+     "color": "#F2CC8F",
+     "x": 0.5,
+     "y": 0.26,
+     "w": 0.18
+    },
+    {
+     "cut": "water_glass",
+     "x": 0.5,
+     "y": 0.45,
+     "w": 0.26
+    },
+    {
+     "tag": "HYDRATE DISCS",
+     "color": "#81B29A",
+     "x": 0.5,
+     "y": 0.66,
+     "w": 0.32
+    }
+   ]
+  },
+  {
+   "vo": "Third, sleep on your back so your spine resets.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 3",
+     "color": "#F2CC8F",
+     "x": 0.5,
+     "y": 0.26,
+     "w": 0.18
+    },
+    {
+     "cut": "sleeping_figure",
+     "x": 0.5,
+     "y": 0.45,
+     "w": 0.38
+    },
+    {
+     "tag": "ALIGN SPINE",
+     "color": "#81B29A",
+     "x": 0.5,
+     "y": 0.66,
+     "w": 0.28
+    }
+   ]
+  },
+  {
+   "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+   "clear": true,
+   "items": []
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+  "fps": 30,
+  "intro_seconds": 4.6,
+  "label_delay": 1.3,
+  "end_card_seconds": 3.0,
+  "openai_voice": "ash",
+  "voice": "Confident, energetic male fitness coach, punchy and clear, short pauses.",
+  "music": "Upbeat energetic electronic workout track for a fitness app reel. Punchy four-on-the-floor drums, bright synth plucks, driving bass, confident and motivational, steady 118 BPM, builds slightly, about 60 seconds, clean ending.",
+  "script": {
+    "intro": "Slouching steals inches. Train the muscles that hold you tall.",
+    "outro": "Save this and stand taller.",
+    "tagline": "Get your personal routine in TallPlan."
+  },
+  "sections": [
+    {
+      "name": "Upper back",
+      "vo": "vo/s0.wav",
+      "clips": [
+        {
+          "file": "clips/c0.mp4",
+          "dur": 4.0,
+          "shot": "Full body from behind at a 3/4 angle, standing tall, both arms raised in a Y shape overhead, shoulder blades squeezed; upper back glows",
+          "move": "standing Y-raises, arms rising overhead in a Y and lowering",
+          "camera": "Slow camera orbit to the right"
+        },
+        {
+          "file": "clips/c1.mp4",
+          "dur": 6.5,
+          "shot": "Medium shot from behind and slightly above, head to hips, wall-angel style reverse snow angel with elbows bent at 90 degrees; rhomboids glow intensely",
+          "move": "reverse snow angels, elbows sliding up and down while the shoulder blades squeeze"
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "intro": "vo/intro.wav",
+    "outro": "vo/outro.wav",
+    "tagline": "vo/tagline.wav",
+    "music": "vo/music.mp3",
+    "music_volume": 0.32
+  },
+  "out": "final.mp4",
+  "res": "360p",
+  "speed": 1.15
+}

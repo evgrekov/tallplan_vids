@@ -1,0 +1,34 @@
+{
+  "title": "Back Stiff After School?",
+  "style": "Clean flat vector illustration, soft pastel colors, light grey background, portrait 2:3 composition, subject centered with generous margins, top 18% empty for edited captions, calm fitness-app feel, no text or symbols inside the artwork.",
+  "character": "Same 19–20-year-old adult character in every slide: warm medium skin tone, short dark hair, friendly face, fully clothed in a pastel teal t-shirt and navy athletic shorts, white ankle socks, simple soft sneakers only when standing, no accessories.",
+  "ink": "#24304A",
+  "outline": "#FFFFFF",
+  "openai_voice": "verse",
+  "voice": "Upbeat, friendly, brisk delivery with a light motivational rhythm.",
+  "exercises": [
+    {
+      "name": "CAT-COW",
+      "dose": "10 REPS",
+      "a": "Portrait 2:3 clean flat vector, soft pastel colors, light grey background, no text, letters, numbers, logos, or signs. Same adult character centered with generous margins, whole body visible, top 18% of image empty. Side-view camera at mat height. Character is on all fours on a pastel yoga mat: both palms flat on the floor directly under shoulders, fingers spread forward, arms straight, both knees on the mat under hips, shins and tops of feet resting on the mat. Cow pose: belly gently drops toward the mat, chest opens forward, tailbone tips upward, head and eyes lift slightly, neck long, relaxed happy focus.",
+      "b": "Portrait 2:3 clean flat vector, soft pastel colors, light grey background, no text, letters, numbers, logos, or signs. Same adult character, same side-view camera angle, same framing, centered with generous margins, whole body visible, top 18% empty. Character remains on all fours on the same pastel yoga mat: palms flat under shoulders, arms straight, knees under hips, shins and tops of feet on the mat. Cat pose: spine rounds high toward the ceiling, belly pulls inward, pelvis tucks under, chin draws toward chest, shoulders spread wide, neck relaxed."
+    },
+    {
+      "name": "CHILD'S POSE",
+      "dose": "30 SEC",
+      "a": "Portrait 2:3 clean flat vector, soft pastel colors, light grey background, no text, letters, numbers, logos, or signs. Same adult character centered with generous margins, whole body visible, top 18% of image empty. Side-view camera at mat height on the same pastel yoga mat. Character starts in a kneeling reach-back position: both knees wide on the mat, big toes touching behind, tops of feet flat, hips lifted a little above heels, torso angled forward, both arms stretched long in front, palms flat on the mat, fingers forward, head in line with spine and looking down.",
+      "b": "Portrait 2:3 clean flat vector, soft pastel colors, light grey background, no text, letters, numbers, logos, or signs. Same adult character, same side-view camera angle, same framing, centered with generous margins, whole body visible, top 18% empty. Character moves into deeper child's pose on the same mat: knees wide, big toes touching, tops of feet flat, hips resting back toward heels, torso folded between thighs, forehead touching the mat, arms extended forward with palms flat, shoulders soft, back long and relaxed."
+    }
+  ],
+  "result": "Portrait 2:3 clean flat vector, soft pastel colors, light grey background, no text, letters, numbers, logos, or signs. Same adult character centered with generous margins, whole body visible, top 18% empty. Character stands tall and relaxed on the light grey floor, feet hip-width apart, arms resting naturally by sides, shoulders open and down, chest lifted, chin level, spine long, proud happy smile, calm confident posture.",
+  "captions": {
+    "hook": "BACK STIFF AFTER SCHOOL?",
+    "takeaway": "DAILY · 2 MIN"
+  },
+  "lines": {
+    "hook": "Back stiff after school? Start here, gently on the mat.",
+    "ex1": "Cat-cow loosens your spine and resets posture.",
+    "ex2": "Child's pose decompresses your back after long sitting.",
+    "takeaway": "Two minutes daily helps you feel taller."
+  }
+}

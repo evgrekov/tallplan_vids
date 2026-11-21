@@ -1,0 +1,62 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Stylized anatomical figure of a bald man in a deep lunge stretch, side profile facing right, front knee bent at 90 degrees on the right with hands resting on the knee, rear leg extended back and left with toes curled on the ground. Translucent dark body with glowing orange-yellow edges and internal glow, the spine highlighted as a glowing column of vertebrae running from the skull down to the pelvis. A bright glowing orange-yellow hip joint at the front of the rear hip with concentric pulsing ring halos and a faint glowing femur line along the rear thigh. Semi-realistic medical-illustration style, dark body silhouette with neon orange rim lighting, soft glow, clean pure white background with a faint soft shadow under the feet.",
+  "bbox_pct": [
+   12,
+   23,
+   80,
+   66
+  ]
+ },
+ "texts": [
+  {
+   "text": "3. HIP FLEXOR STRETCH",
+   "font": "Bebas Neue / condensed bold sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 11,
+   "color": "#FF5A14",
+   "align": "center",
+   "bbox_pct": [
+    3,
+    3,
+    94,
+    12
+   ]
+  },
+  {
+   "text": "3.",
+   "font": "Bebas Neue / condensed bold sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 11,
+   "color": "#000000",
+   "align": "left",
+   "bbox_pct": [
+    3,
+    3,
+    8,
+    12
+   ]
+  },
+  {
+   "text": "Releases tight hips",
+   "font": "Barlow / semi-condensed sans-serif",
+   "weight": "regular with bold 'tight'",
+   "size_pct_of_height": 5,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    30,
+    16,
+    40,
+    5
+   ]
+  }
+ ],
+ "graphics": [],
+ "inserts": []
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Hamstring Stretch Mistake Fix",
+  "style": "Realistic oil painting, warm studio light, dark brown plain studio background, beautiful consistent lighting, portrait 2:3 composition, subject centered with generous margins, top 18% of the image left empty, whole body visible, no text, letters, numbers, logos, or symbols.",
+  "character": "Same adult character in every image: 19–20 years old, athletic-slim build, friendly face, short dark hair, fully clothed in a fitted ivory tank top, navy athletic shorts, white crew socks, and minimal training shoes where standing; clean natural look.",
+  "ink": "#FFF7E8",
+  "outline": "#2A1208",
+  "openai_voice": "echo",
+  "voice": "Upbeat, friendly, brisk delivery with energetic emphasis and clear pauses for subtitles.",
+  "exercises": [
+    {
+      "name": "HAMSTRING STRETCH",
+      "dose": "30 SEC",
+      "marks": true,
+      "a": "WRONG form image prompt: realistic oil painting in warm studio light on a dark brown plain background, portrait 2:3, same 19–20-year-old character centered with generous margins, top 18% empty, whole body visible, no text or symbols. Camera at eye level, front three-quarter view. Character sits on a thin neutral exercise mat; buttocks touch the mat, both legs extended forward with knees locked, heels resting on the mat, toes pulled upward. Pelvis is tucked under, lower back and upper back are rounded into a clear C-shape, shoulders shrugged toward ears, neck craned forward. Both arms reach desperately toward the feet; hands grab the toes, elbows slightly bent. Face looks strained, chest collapsed toward thighs. Same angle and framing as pose b.",
+      "b": "RIGHT form image prompt: realistic oil painting in warm studio light on a dark brown plain background, portrait 2:3, same 19–20-year-old character centered with generous margins, top 18% empty, whole body visible, no text or symbols. Camera at eye level, front three-quarter view. Character sits on the same thin neutral exercise mat; buttocks touch the mat, both legs extended forward, heels resting on the mat, toes pulled upward, knees softly straight without locking hard. Pelvis tips slightly forward, spine long and neutral, chest open, shoulders relaxed down away from ears, neck in line with spine. Character hinges from the hips only and reaches forward with both hands resting on the shins or ankles, not yanking the toes. Calm focused face. Same angle and framing as pose a."
+    },
+    {
+      "name": "GOOD MORNING",
+      "dose": "10 REPS",
+      "marks": false,
+      "a": "Correct rep start image prompt: realistic oil painting in warm studio light on a dark brown plain background, portrait 2:3, same 19–20-year-old character centered with generous margins, top 18% empty, whole body visible, no text or symbols. Camera at eye level, side-front three-quarter view. Character stands tall on the studio floor with both feet flat, hip-width apart, toes pointing forward, knees softly bent. Hands rest lightly behind the head with elbows wide, chest open, ribs stacked over pelvis, spine neutral, shoulders relaxed, gaze forward. Whole body visible from shoes to head with space around the body. Same angle and framing as pose b.",
+      "b": "Correct rep end image prompt: realistic oil painting in warm studio light on a dark brown plain background, portrait 2:3, same 19–20-year-old character centered with generous margins, top 18% empty, whole body visible, no text or symbols. Camera at eye level, side-front three-quarter view. Character performs a hip hinge good morning: both feet flat on the studio floor, hip-width apart, knees softly bent, hips pushed backward, torso folded forward about 55 degrees from vertical. Spine stays long and neutral from head to tailbone, chest broad, neck aligned with back, gaze slightly down. Hands remain lightly behind the head, elbows wide, not pulling the neck. Weight balanced through mid-foot and heels. Same angle and framing as pose a."
+    }
+  ],
+  "result": "Result image prompt: realistic oil painting in warm studio light on a dark brown plain background, portrait 2:3, same 19–20-year-old character centered with generous margins, top 18% empty, whole body visible, no text or symbols. Character stands tall and relaxed on both feet, feet hip-width apart, arms resting naturally by the sides, shoulders down and back, chest open, neck long, chin level, spine stacked with great posture. Proud happy smile, calm confident expression, fully clothed in the same ivory tank top and navy shorts.",
+  "captions": {
+    "hook": "HAMSTRINGS: YOU'RE WRONG",
+    "takeaway": "DAILY · 2 MIN"
+  },
+  "lines": {
+    "hook": "Most people round their back and yank the stretch.",
+    "ex1": "Sit tall, hinge from your hips, then reach gently.",
+    "ex2": "Good mornings train that hinge and open tight hamstrings.",
+    "takeaway": "Move better, stand taller, repeat daily."
+  }
+}

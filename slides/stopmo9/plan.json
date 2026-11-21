@@ -1,0 +1,152 @@
+{
+ "title": "TallPlan - 3 Posture Fixes to Stand 3cm Taller",
+ "surface": "black matte table under a dramatic single overhead spotlight",
+ "cut_style": "bold red-black-white constructivist paper cutouts with sharp geometric angles and high contrast",
+ "openai_voice": "ash",
+ "voice": "Intense, assertive male trainer delivering motivating, authoritative posture cues with punchy delivery, ~140 WPM",
+ "music": "Driving low-key lo-fi hip-hop beat with crisp percussion and warm vinyl crackle, 85 BPM, quiet and focused",
+ "cuts": {
+  "slouched_figure": "constructivist cut-paper silhouette of a slouched geometric human figure in profile, sharp black and white paper cutout",
+  "red_slash": "constructivist bold red angular slash mark cut from textured craft paper, sharp diagonal strike shape",
+  "tall_figure": "constructivist cut-paper silhouette of an elongated upright figure standing with proud posture, sharp geometric red and white paper",
+  "glute_bridge_figure": "constructivist cut-paper silhouette of an athlete executing a clean glute bridge pose, geometric white and red paper cutout",
+  "plank_figure": "constructivist cut-paper silhouette of a human body locked in a horizontal straight plank position, geometric red paper cutout",
+  "chin_tuck_head": "constructivist cut-paper geometric head and neck profile demonstrating alignment pull back, white and red layered paper"
+ },
+ "scenes": [
+  {
+   "vo": "You're three centimeters taller than you look.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "slouched_figure",
+     "x": 0.42,
+     "y": 0.44,
+     "w": 0.25
+    },
+    {
+     "cut": "red_slash",
+     "x": 0.5,
+     "y": 0.44,
+     "w": 0.32
+    },
+    {
+     "tag": "LOST HEIGHT",
+     "color": "#D32F2F",
+     "x": 0.5,
+     "y": 0.64,
+     "w": 0.38
+    }
+   ]
+  },
+  {
+   "vo": "Your spine is compressed; three fixes unlock it.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "tall_figure",
+     "x": 0.34,
+     "y": 0.46,
+     "w": 0.22
+    },
+    {
+     "tag": "3 FIXES",
+     "color": "#FFFFFF",
+     "x": 0.65,
+     "y": 0.38,
+     "w": 0.26
+    },
+    {
+     "tag": "STAND TALL",
+     "color": "#D32F2F",
+     "x": 0.65,
+     "y": 0.54,
+     "w": 0.32
+    }
+   ]
+  },
+  {
+   "vo": "One: thirty-second glute bridges reset forward pelvic tilt.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 1",
+     "color": "#D32F2F",
+     "x": 0.5,
+     "y": 0.28,
+     "w": 0.22
+    },
+    {
+     "cut": "glute_bridge_figure",
+     "x": 0.5,
+     "y": 0.48,
+     "w": 0.44
+    },
+    {
+     "tag": "GLUTE BRIDGE",
+     "color": "#FFFFFF",
+     "x": 0.5,
+     "y": 0.66,
+     "w": 0.38
+    }
+   ]
+  },
+  {
+   "vo": "Two: a sixty-second plank locks your core.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 2",
+     "color": "#D32F2F",
+     "x": 0.5,
+     "y": 0.28,
+     "w": 0.22
+    },
+    {
+     "cut": "plank_figure",
+     "x": 0.5,
+     "y": 0.48,
+     "w": 0.46
+    },
+    {
+     "tag": "CORE PLANK",
+     "color": "#FFFFFF",
+     "x": 0.5,
+     "y": 0.66,
+     "w": 0.34
+    }
+   ]
+  },
+  {
+   "vo": "Three: twenty chin tucks align neck over shoulders.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 3",
+     "color": "#D32F2F",
+     "x": 0.5,
+     "y": 0.28,
+     "w": 0.22
+    },
+    {
+     "cut": "chin_tuck_head",
+     "x": 0.5,
+     "y": 0.48,
+     "w": 0.32
+    },
+    {
+     "tag": "CHIN TUCKS",
+     "color": "#FFFFFF",
+     "x": 0.5,
+     "y": 0.66,
+     "w": 0.34
+    }
+   ]
+  },
+  {
+   "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+   "clear": true,
+   "items": []
+  }
+ ]
+}

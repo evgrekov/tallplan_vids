@@ -1,0 +1,152 @@
+{
+ "canvas": {
+  "aspect_ratio": "9:16",
+  "background": "#FFFFFF with light grey grid lines"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Front-view anatomical illustration of a muscular adult male standing upright with arms fully outstretched horizontally, palms facing down, in a detailed medical-textbook style. Skin is removed to show the musculature: reddish-brown muscle fibers, white tendons and fascia, defined pectorals, abdominals, deltoids, biceps and quadriceps. Short dark hair and a calm neutral expression on the head. Clean flat white background with a subtle faint grid, soft even studio lighting, crisp fine-line shading, realistic proportions, muted warm color palette of terracotta, cream and white.",
+  "bbox_pct": [
+   2,
+   18,
+   96,
+   38.5
+  ]
+ },
+ "texts": [
+  {
+   "text": "THE WINGSPAN TEST",
+   "font": "condensed bold grotesque sans (Anton / Bebas-style)",
+   "weight": "bold",
+   "size_pct_of_height": 7,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    5.3,
+    6.4,
+    91,
+    7.5
+   ]
+  },
+  {
+   "text": "Can your",
+   "font": "heavy grotesque sans (Impact / Anton-style)",
+   "weight": "black",
+   "size_pct_of_height": 8,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    20.5,
+    56.4,
+    60,
+    6.5
+   ]
+  },
+  {
+   "text": "arm span",
+   "font": "heavy grotesque sans (Impact / Anton-style)",
+   "weight": "black",
+   "size_pct_of_height": 9.5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    17,
+    64,
+    67,
+    8
+   ]
+  },
+  {
+   "text": "predict your",
+   "font": "heavy grotesque sans (Impact / Anton-style)",
+   "weight": "black",
+   "size_pct_of_height": 6.5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    20,
+    73,
+    60,
+    5.5
+   ]
+  },
+  {
+   "text": "height potential?",
+   "font": "heavy grotesque sans (Impact / Anton-style)",
+   "weight": "black",
+   "size_pct_of_height": 6,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    10,
+    79,
+    81,
+    5
+   ]
+  },
+  {
+   "text": "MOST PEOPLE",
+   "font": "heavy grotesque sans (Impact / Anton-style)",
+   "weight": "bold",
+   "size_pct_of_height": 6,
+   "color": "#D62828",
+   "align": "center",
+   "bbox_pct": [
+    18,
+    85.3,
+    65,
+    5
+   ]
+  },
+  {
+   "text": "DON'T KNOW THIS",
+   "font": "heavy grotesque sans (Impact / Anton-style)",
+   "weight": "bold",
+   "size_pct_of_height": 6,
+   "color": "#D62828",
+   "align": "center",
+   "bbox_pct": [
+    9.5,
+    91.3,
+    82,
+    4.8
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#000000",
+   "description": "Thick hand-drawn style underline beneath the title THE WINGSPAN TEST, slightly tapered at the right end",
+   "bbox_pct": [
+    5,
+    14.5,
+    91,
+    0.8
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#222222",
+   "description": "Horizontal dashed measurement line spanning the figure's fingertip-to-fingertip width, with short vertical end ticks at both ends",
+   "bbox_pct": [
+    2.5,
+    23,
+    95,
+    3
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#D62828",
+   "description": "Red brush-style underline beneath DON'T KNOW THIS, slightly curved",
+   "bbox_pct": [
+    13,
+    96.8,
+    74,
+    1
+   ]
+  }
+ ],
+ "inserts": []
+}

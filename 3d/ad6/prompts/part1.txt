@@ -1,0 +1,13 @@
+Continue this video for 8 more seconds with the same character and style, cuts at the given timecodes.
+REFERENCES: image 1 = the character. Image 2 = exact keyframe 'hanging_bar', match its pose and anatomy.
+CHARACTER LOCK: the main character is the person from image 1 (Young 20-year-old male, athletic build, short dark textured hair, friendly stylized 3D face, wearing white crewneck t-shirt and black athletic shorts with white socks.); other people only where a shot asks for them; no ghost, faded or duplicate figures.
+ANATOMY LOCK: correct anatomy at all times: knees bend only forward, natural ankles and wrists, no extra, missing or twisted limbs; x-ray or bone overlays stay inside the body outline, nothing sticks out through the skin.
+SILENT CHARACTER: nobody on screen speaks; mouths stay closed, no lip movement.
+CLEAN FRAME: no words, no subtitles, no letters, no UI anywhere in the image (graphic numbers only if the shot explicitly asks for them).
+STYLE: Stylized 3D digital animation, smooth cartoon proportions, vibrant solid blue studio backdrop, soft studio lighting, clean wooden flooring.
+
+0.0-1.9s: Side view of character strapped onto black inversion bench, camera pans as table tilts backwards. SFX: Mechanical pivot click.
+1.9-3.9s: Full inversion upside down, mint green decompression arrows extending down from ankles to head. SFX: Riser whoosh.
+3.9-5.9s: Character dismounts into standing stance, standing tall with shoulders back and smiling. SFX: Confident step thud.
+5.9-8.0s: Character positioned in lower third of frame looking upward, upper half open for card overlay, mint green aura glowing. SFX: Pop chime.
+Audio: ONLY punchy sound effects on every cut and action. NO music, NO voiceover, NO speech, NO singing.

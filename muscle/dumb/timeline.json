@@ -1,0 +1,58 @@
+{
+ "fps": 30,
+ "sections": [
+  {
+   "name": "Spine",
+   "say": "Just hang and relax. Gravity gently decompresses your spine.",
+   "vo": "vo/s0.wav",
+   "clips": [
+    {
+     "file": "clips/c0.mp4",
+     "dur": 6.0,
+     "shot": "Full body front 3/4 view, dead hang from a black pull-up bar, arms straight overhead, body relaxed and long, feet off the floor; the whole spine and lats glow",
+     "move": "a calm dead hang, the body slowly lengthening and relaxing, tiny gentle sway"
+    },
+    {
+     "file": "clips/c1.mp4",
+     "dur": 6.0,
+     "shot": "Rear view, dead hang from a black pull-up bar, arms straight, shoulders relaxed; the spinal muscles and lats glow intensely along the whole back",
+     "move": "a calm dead hang with slow deep breaths, the back lengthening",
+     "camera": "Slow camera orbit to the right"
+    }
+   ],
+   "start": 0.0,
+   "end": 12.0,
+   "label_in": 0.3,
+   "label_out": 11.5
+  }
+ ],
+ "end_start": 12.0,
+ "end_seconds": 5.319416666666666,
+ "total": 17.319416666666665,
+ "cues": [
+  [
+   "vo/intro.wav",
+   0.1,
+   2.7397916666666666,
+   "Here's the right way: a dead hang."
+  ],
+  [
+   "vo/s0.wav",
+   2.9897916666666666,
+   4.469375,
+   "Just hang and relax. Gravity gently decompresses your spine."
+  ],
+  [
+   "vo/outro.wav",
+   7.609166666666667,
+   1.9305416666666666,
+   "Thirty seconds, twice a day."
+  ],
+  [
+   "vo/tagline.wav",
+   12.75,
+   3.9694166666666666,
+   ""
+  ]
+ ]
+}

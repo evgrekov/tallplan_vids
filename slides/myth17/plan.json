@@ -1,0 +1,21 @@
+{
+  "title": "Spinal Discs Recovery Myth",
+  "style": "Clean medical x-ray and futuristic blueprint aesthetic, glowing holographic skeletal overlay on a semi-translucent 3D male figure, dark matte slate background, clinical precision, high-tech diagnostic visual, 8k render",
+  "character": "A 20-year-old athletic male wearing a dark fitted minimalist t-shirt and dark jeans, semi-translucent rendering revealing glowing biomechanical spine structure",
+  "ink": "#FFFFFF",
+  "outline": "#00E5FF",
+  "myth": {
+    "prompt": "portrait 2:3 medical blueprint style, solid dark background. A 20-year-old young man standing hunched and slouched forward with drooping shoulders and bowed head, side angle. Top 30 percent of the frame completely empty dark space with subject positioned below it. Internal x-ray view showing a compressed lumbar spine illuminated with dull red warning stress points. Clean technical rendering, no text, no letters, no numbers.",
+    "caption": "MYTH: SPINAL DISCS NEVER RECOVER HEIGHT",
+    "sub": "My spine is permanently squished down",
+    "dur": 3.4,
+    "music": "Cold ambient hospital drone with subtle distant heart monitor beeping, gloomy subdued electronic tone, no vocals"
+  },
+  "fact": {
+    "prompt": "portrait 2:3 medical blueprint style, solid dark background. The same 20-year-old young man standing tall in perfect upright alignment, shoulders back and chin level, confident posture. Top 30 percent of the frame completely empty dark space with subject positioned below it. Internal biomechanical x-ray view showing an elongated spine glowing in vibrant cyan and neon blue, expanded intervertebral space after bar hanging exercises. Clean high-tech render, no text, no letters, no numbers.",
+    "caption": "FACT: DAILY HANGING REHYDRATES SPINAL DISCS",
+    "sub": "Relieving gravitational load restores disc height",
+    "dur": 2.8,
+    "music": "Crisp futuristic tech-house groove at 124 BPM, rolling sub bass, sharp metallic percussion, progressive cybernetic energy, no vocals"
+  }
+}

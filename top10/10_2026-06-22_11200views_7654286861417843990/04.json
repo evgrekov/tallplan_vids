@@ -1,0 +1,310 @@
+{
+ "canvas": {
+  "aspect_ratio": "9:16",
+  "background": "#F7F8FA off-white graph-paper grid (faint light-grey squares)"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Full-body anatomical human skeleton standing in a front-facing, symmetrical pose with arms angled slightly outward and palms facing the viewer. Bones are rendered in a warm ivory-beige tone with soft grey shading and fine ink-like contour lines, in a clean semi-realistic medical-illustration style. The ends of the long bones (humerus, forearm, femur, and shin bones near the knees and ankles) glow with bright electric-blue highlights to mark the growth plates. Soft even studio lighting, subtle shadows beneath the bones, plain light background with no text.",
+  "bbox_pct": [
+   25,
+   22,
+   50,
+   76
+  ]
+ },
+ "texts": [
+  {
+   "text": "WHY",
+   "font": "bold condensed sans-serif with chalk/marker texture",
+   "weight": "black",
+   "size_pct_of_height": 9,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    28,
+    2.5,
+    43,
+    10
+   ]
+  },
+  {
+   "text": "IT WORKS",
+   "font": "bold condensed sans-serif with chalk/marker texture",
+   "weight": "black",
+   "size_pct_of_height": 8.3,
+   "color": "#1F5FD6",
+   "align": "center",
+   "bbox_pct": [
+    14.5,
+    12.4,
+    74,
+    8.5
+   ]
+  },
+  {
+   "text": "GROWTH PLATES",
+   "font": "bold condensed sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 2.6,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    8,
+    36,
+    17,
+    5
+   ]
+  },
+  {
+   "text": "IN LONG BONES",
+   "font": "bold condensed sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 2.6,
+   "color": "#1F5FD6",
+   "align": "center",
+   "bbox_pct": [
+    8,
+    40.5,
+    17,
+    5
+   ]
+  },
+  {
+   "text": "CLOSE AT DIFFERENT RATES.",
+   "font": "bold condensed sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 2.6,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    8,
+    47,
+    17,
+    10
+   ]
+  },
+  {
+   "text": "WINGSPAN AHEAD OF HEIGHT",
+   "font": "bold condensed sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 2.6,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    76,
+    59.5,
+    20,
+    9
+   ]
+  },
+  {
+   "text": "EQUALS",
+   "font": "bold condensed sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 2.6,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    76,
+    67,
+    20,
+    3
+   ]
+  },
+  {
+   "text": "OPEN GROWTH PLATES.",
+   "font": "bold condensed sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 2.6,
+   "color": "#1F5FD6",
+   "align": "center",
+   "bbox_pct": [
+    76,
+    70.5,
+    20,
+    6
+   ]
+  },
+  {
+   "text": "AS GROWTH PLATES CLOSE, BONE GROWTH STOPS.",
+   "font": "bold handwritten-style sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 2.3,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    66,
+    87.5,
+    30,
+    8
+   ]
+  },
+  {
+   "text": "GROWTH PLATE (OPEN)",
+   "font": "small caps sans-serif, hand-drawn",
+   "weight": "regular",
+   "size_pct_of_height": 1.5,
+   "color": "#1F5FD6",
+   "align": "left",
+   "bbox_pct": [
+    20,
+    73,
+    18,
+    2.5
+   ]
+  },
+  {
+   "text": "GROWTH PLATE (CLOSING)",
+   "font": "small caps sans-serif, hand-drawn",
+   "weight": "regular",
+   "size_pct_of_height": 1.5,
+   "color": "#1F5FD6",
+   "align": "left",
+   "bbox_pct": [
+    20,
+    78,
+    18,
+    2.5
+   ]
+  },
+  {
+   "text": "GROWTH PLATE (CLOSED)",
+   "font": "small caps sans-serif, hand-drawn",
+   "weight": "regular",
+   "size_pct_of_height": 1.5,
+   "color": "#1F5FD6",
+   "align": "left",
+   "bbox_pct": [
+    20,
+    83,
+    18,
+    2.5
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "badge",
+   "color": "#1F5FD6",
+   "description": "Solid blue circle icon containing a white outline of a long bone, sitting at top of the left callout box",
+   "bbox_pct": [
+    11,
+    30,
+    10,
+    5.5
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#1F5FD6",
+   "description": "Solid blue circle icon containing a white outline of a standing figure with a horizontal double-headed arrow across the arms (wingspan)",
+   "bbox_pct": [
+    80,
+    54,
+    12,
+    5.5
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#111111",
+   "description": "Rounded rectangle callout box with thick black hand-drawn outline and white fill, containing the left text",
+   "bbox_pct": [
+    3.6,
+    28.5,
+    25,
+    24
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#111111",
+   "description": "Rounded rectangle callout box with thick black hand-drawn outline and white fill, containing the right text",
+   "bbox_pct": [
+    74,
+    52.5,
+    25.5,
+    24
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#1F5FD6",
+   "description": "Hand-drawn blue rectangular frame with sketchy double lines enclosing the bottom message",
+   "bbox_pct": [
+    64,
+    86,
+    33,
+    10
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#111111",
+   "description": "Thin black curved arrow pointing right from the left callout toward the upper arm bone",
+   "bbox_pct": [
+    28.5,
+    41.5,
+    5,
+    3
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#111111",
+   "description": "Thin black curved arrow pointing left from the right callout toward the femur/thigh bone",
+   "bbox_pct": [
+    61,
+    69,
+    13,
+    2.5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#1F5FD6",
+   "description": "Hand-drawn blue double underline strokes beneath the IT WORKS title",
+   "bbox_pct": [
+    15,
+    21,
+    72,
+    2.5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#111111",
+   "description": "Short black motion/emphasis strokes flanking the WHY title, drawn as radiating marks",
+   "bbox_pct": [
+    14,
+    3,
+    74,
+    9
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#1F5FD6",
+   "description": "Line-art sketch of a lightbulb with small radiating rays above the bottom message box",
+   "bbox_pct": [
+    72,
+    82,
+    8,
+    6
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#1F5FD6",
+   "description": "Hand-sketched cross-section of a long bone with a blue hatched pattern showing the growth plate zones, with thin pointer lines to the labels",
+   "bbox_pct": [
+    4,
+    69,
+    14,
+    20
+   ]
+  }
+ ],
+ "inserts": []
+}

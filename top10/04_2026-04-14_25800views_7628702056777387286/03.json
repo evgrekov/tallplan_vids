@@ -1,0 +1,115 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#F7F7F5 off-white with faint paper texture"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Hand-drawn cartoon style with clean dark outlines, flat colors and a subtle paper grain. A young boy with messy brown hair and a worried, frowning expression leans forward and hunches as he walks. He wears a bright blue hoodie with white drawstrings and a front pocket, and his fists are clenched at his sides. Above his head hangs a grey metal dome lamp with a glowing yellow bulb, and his head is just under its rim. Soft warm light from the bulb, plain light background, no text.",
+  "bbox_pct": [
+   14,
+   23,
+   67,
+   62
+  ]
+ },
+ "texts": [
+  {
+   "text": "YOU WALK UNDER THINGS MORE CAREFULLY",
+   "font": "geometric/grotesque sans-serif (Rubik or similar)",
+   "weight": "bold",
+   "size_pct_of_height": 4,
+   "color": "#2B2B2B",
+   "align": "center",
+   "bbox_pct": [
+    5.5,
+    10.5,
+    89,
+    5
+   ]
+  },
+  {
+   "text": "HEIGHT AWARE",
+   "font": "sans-serif, heavy italic (Rubik Italic or similar)",
+   "weight": "bold italic",
+   "size_pct_of_height": 3.8,
+   "color": "#2B2B2B",
+   "align": "center",
+   "bbox_pct": [
+    34.5,
+    87.5,
+    31.5,
+    4.2
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "arrow",
+   "color": "#F5C518",
+   "description": "Hand-drawn yellow curved arrow above the boy's head pointing right toward the lamp",
+   "bbox_pct": [
+    23,
+    26,
+    22,
+    10
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#F5C518",
+   "description": "Small yellow arrow pointing right at the left side of the boy",
+   "bbox_pct": [
+    14,
+    68.5,
+    5,
+    3
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#F5C518",
+   "description": "Small yellow arrow pointing left at the right side of the boy's arm",
+   "bbox_pct": [
+    63,
+    71.5,
+    5,
+    3
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#F5C518",
+   "description": "Small yellow arrow pointing down-right near the boy's lower right arm",
+   "bbox_pct": [
+    51,
+    75,
+    3,
+    3
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#F5C518",
+   "description": "Yellow radiating light rays beside the lamp bulb",
+   "bbox_pct": [
+    73,
+    36,
+    7,
+    5.5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#F5C518",
+   "description": "Yellow hand-drawn underline stroke beneath the HEIGHT AWARE text",
+   "bbox_pct": [
+    34.5,
+    92.5,
+    26,
+    1.5
+   ]
+  }
+ ],
+ "inserts": []
+}

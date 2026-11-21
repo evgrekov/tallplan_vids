@@ -1,0 +1,82 @@
+{
+ "title": "TallPlan Adam's Apple Height Predictor",
+ "summary": "Adapts the viral Adam's apple height correlation hook into an animated explainer leading to TallPlan's height growth app.",
+ "style": "Minimalist 2D flat vector animation, clean outlines, smooth digital cartoon aesthetic, solid neutral studio background, mint green accent glows.",
+ "render": "anime",
+ "character": "20-year-old young man, short dark brown hair, black crewneck t-shirt, grey casual pants, white sneakers.",
+ "style_ref_times": [
+  3.0,
+  12.0
+ ],
+ "character_prompt": "Minimalist 2D flat vector illustration, a 20-year-old young man standing in side profile, short dark hair, black t-shirt, grey pants, white sneakers, clean lines, solid neutral background, single character, no text.",
+ "keyframes": [
+  {
+   "name": "tall_measuring_pose",
+   "part": 0,
+   "prompt": "Minimalist 2D vector art, tall young man smiling next to a vertical height ruler bar, standing straight with confident posture, solid light beige background."
+  },
+  {
+   "name": "short_comparison_pose",
+   "part": 0,
+   "prompt": "Minimalist 2D vector art, shorter young man in a blue hoodie looking frustrated next to a taller man resting a hand on his head, clean vector graphic."
+  }
+ ],
+ "parts": [
+  {
+   "shots": [
+    {
+     "visual": "Camera zooms in on the neck of a young man, highlighting an exaggerated prominent Adam's apple pulsing with a bright mint green glow ring. SFX: Whoosh cut, subtle resonant chime.",
+     "vo": "If your Adam's apple is visible early on, you could hit six feet tall naturally.",
+     "t": [
+      0,
+      3.61
+     ]
+    },
+    {
+     "visual": "Fast whip pan to the man smiling upright beside a height measurement stadiometer, mint green line zipping up past the top marker. SFX: Quick swoosh, digital rising whistle.",
+     "vo": "Your growth plates often stay active longer, signaling a major late growth spurt.",
+     "t": [
+      3.61,
+      6.61
+     ]
+    },
+    {
+     "visual": "Cut to a shorter young adult in a blue hoodie looking down dejectedly at a low height marker. SFX: Bass drop thud, low record slide.",
+     "vo": "But if your throat line is smooth, your potential height might stall early.",
+     "t": [
+      6.61,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    {
+     "visual": "Whip pan to the shorter man jumping into an upward vertical stretch, glowing mint green directional arrows lifting up along his spine. SFX: Dynamic whoosh, bright sparkle chime.",
+     "vo": "You can still unlock hidden inches with targeted spinal decompression routines.",
+     "t": [
+      0,
+      2.86
+     ]
+    },
+    {
+     "visual": "Lower-third framing of the character standing confidently tall with glowing mint posture lines; top half remains open for app UI overlay. SFX: Warm success shimmer.",
+     "vo": "Start your personalized growth routine today in TallPlan.",
+     "t": [
+      2.86,
+      8
+     ]
+    }
+   ]
+  }
+ ],
+ "voice": "Male, 20s, North American accent, dynamic and confident explainer tone, ~190 WPM, crisp close-mic podcast audio.",
+ "tts_voice": "Puck",
+ "music": "Punchy upbeat lo-fi hip hop beat, 115 BPM, bouncy synth bass, crisp snare, motivational vibe, instrumental only.",
+ "qa_checks": {
+  "character": "Consistent 2D vector art style with clean flat colors, dark hair, and casual streetwear.",
+  "pose": "Upright posture measurement pose transitioning to athletic vertical stretch with mint green indicators."
+ },
+ "packshot": 12.81
+}

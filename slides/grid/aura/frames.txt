@@ -1,0 +1,7 @@
+file '/Users/ea/Desktop/go_tall_tiktok/slides/grid/aura/frame0.png'
+duration 4.364
+file '/Users/ea/Desktop/go_tall_tiktok/slides/grid/aura/frame1.png'
+duration 4.364
+file '/Users/ea/Desktop/go_tall_tiktok/slides/grid/aura/clean.png'
+duration 2.200
+file '/Users/ea/Desktop/go_tall_tiktok/slides/grid/aura/clean.png'

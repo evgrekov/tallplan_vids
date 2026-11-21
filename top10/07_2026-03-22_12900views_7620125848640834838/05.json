@@ -1,0 +1,124 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": false,
+  "description": "",
+  "bbox_pct": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "texts": [
+  {
+   "text": "Fix Your Height & Maximize Growth",
+   "font": "heavy grotesque sans (Arial Black / Helvetica Black style)",
+   "weight": "black",
+   "size_pct_of_height": 6,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    2,
+    4.5,
+    96,
+    10
+   ]
+  },
+  {
+   "text": "Try GoTall",
+   "font": "heavy rounded grotesque sans (Arial Black style) with thick black outline",
+   "weight": "black",
+   "size_pct_of_height": 8,
+   "color": "#FFFFFF",
+   "align": "center",
+   "bbox_pct": [
+    57,
+    58.5,
+    34,
+    8.5
+   ]
+  },
+  {
+   "text": "GoTall will help you grow taller with a",
+   "font": "heavy grotesque sans (Arial Black / Helvetica Black style) with black outline",
+   "weight": "black",
+   "size_pct_of_height": 4.8,
+   "color": "#FFFFFF",
+   "align": "center",
+   "bbox_pct": [
+    11.5,
+    87,
+    77,
+    4.5
+   ]
+  },
+  {
+   "text": "personalized height boosting routine for you!",
+   "font": "heavy grotesque sans (Arial Black / Helvetica Black style) with black outline",
+   "weight": "black",
+   "size_pct_of_height": 4.8,
+   "color": "#FFFFFF",
+   "align": "center",
+   "bbox_pct": [
+    3.5,
+    91.5,
+    93,
+    5
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "badge",
+   "color": "#39FF14",
+   "description": "bright neon green rounded caption block behind the first caption line",
+   "bbox_pct": [
+    10.4,
+    87,
+    79.7,
+    4.5
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#39FF14",
+   "description": "bright neon green rounded full-width caption bar behind the second caption line",
+   "bbox_pct": [
+    2.3,
+    91.4,
+    95.6,
+    6
+   ]
+  }
+ ],
+ "inserts": [
+  {
+   "kind": "app_screenshot",
+   "description": "phone mockup of the GoTall app dark UI showing projected height 5'8, accuracy 86%, share button, projected height chart, bottom tab bar, with a green glowing outline",
+   "bbox_pct": [
+    13.4,
+    14,
+    32.2,
+    69
+   ],
+   "has_device_frame": true,
+   "shape": "phone"
+  },
+  {
+   "kind": "logo",
+   "description": "app icon: bright green rounded square with a dark stylized G arrow mark, drop shadow",
+   "bbox_pct": [
+    62.5,
+    31,
+    24,
+    23.7
+   ],
+   "has_device_frame": false,
+   "shape": "rounded"
+  }
+ ]
+}

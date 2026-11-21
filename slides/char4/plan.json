@@ -1,0 +1,127 @@
+{
+  "title": "Sprouty's Secret to Growing Tall",
+  "mascot_sheet": "Character model sheet of Sprouty, a tiny anthropomorphic plant mascot for 2D animation. Sprouty is a lovable green seedling sprout rooted in a classic terracotta flower pot. He has a round pale-green head, two bouncy leaf hair tufts on top, giant sparkly anime cartoon eyes, rosy cheeks, and small flexible green arms. Full-body front view standing centered on a plain white background, bold clean outlines, vibrant flat colors, modern cutout cartoon style.",
+  "openai_voice": "coral",
+  "voice": "Fast, bright, playful, and energetic youthful delivery with crisp cartoon comedic timing.",
+  "music": "Bouncy and lighthearted cartoon pop instrumental with playful pizzicato and whistle melody at 126 BPM, sitting softly under the voiceover.",
+  "scenes": [
+    {
+      "vo": "Wish you could magically stretch taller overnight?",
+      "bg": "Vibrant sunny yellow background with subtle cartoon sunburst lines radiating from the center.",
+      "pose": "Sprouty straining frantically, face flushed red, pulling upward on his two leaf tufts trying desperately to stretch taller.",
+      "props": [
+        {
+          "prompt": "A comical cartoon wooden ruler with bold measurement notches and question marks",
+          "x": 0.75,
+          "y": 0.44,
+          "w": 0.2
+        }
+      ],
+      "enter": "pop",
+      "action": "shake",
+      "sfx": "boing"
+    },
+    {
+      "vo": "Feed your body nutrient-packed wholesome foods.",
+      "bg": "Warm pastel cream background with floating cartoon sparkles and soft kitchen silhouettes.",
+      "pose": "Sprouty holding a giant juicy cartoon strawberry over his head with a big happy smile.",
+      "props": [
+        {
+          "prompt": "A large fresh green cartoon broccoli head with bold outlines",
+          "x": 0.24,
+          "y": 0.38,
+          "w": 0.22
+        },
+        {
+          "prompt": "A cartoon glass of cold calcium milk with a playful splashing droplet",
+          "x": 0.76,
+          "y": 0.42,
+          "w": 0.19
+        }
+      ],
+      "enter": "bottom",
+      "action": "bounce",
+      "sfx": "pop"
+    },
+    {
+      "vo": "Catch daily sunlight and stay super active!",
+      "bg": "Sky blue outdoor scene with a giant cartoon smiling sun beaming warm golden rays.",
+      "pose": "Sprouty wearing a tiny red athletic headband, enthusiastically jogging in place inside his flower pot.",
+      "props": [
+        {
+          "prompt": "A vibrant cartoon watering can pouring sparkling water droplets",
+          "x": 0.25,
+          "y": 0.32,
+          "w": 0.24
+        }
+      ],
+      "enter": "right",
+      "action": "hop",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Eight hours of sleep lets spines decompress.",
+      "bg": "Deep indigo bedtime backdrop with gentle twinkling stars and a crescent moon.",
+      "pose": "Sprouty sleeping cozily in his pot, tucked under a warm leaf blanket, snoring peaceful cartoon bubbles.",
+      "props": [
+        {
+          "prompt": "A fluffy white cartoon sleeping pillow with floating Zzz letters",
+          "x": 0.74,
+          "y": 0.3,
+          "w": 0.24
+        }
+      ],
+      "enter": "drop",
+      "action": "float",
+      "sfx": "ding"
+    },
+    {
+      "vo": "No, sketchy stretching contraptions do not work!",
+      "bg": "Bright orange comic disaster background with dynamic action explosion lines.",
+      "pose": "Sprouty comically trapped in giant mechanical elastic bands, dizzy spiral eyes, sweating nervously.",
+      "props": [
+        {
+          "prompt": "A giant red cartoon prohibition cross mark symbol with a warning glow",
+          "x": 0.75,
+          "y": 0.36,
+          "w": 0.22
+        }
+      ],
+      "enter": "drop",
+      "action": "wiggle",
+      "sfx": "bonk"
+    },
+    {
+      "vo": "Great posture instantly reveals your natural height!",
+      "bg": "Mint green background filled with stylized upward arrows signifying healthy growth.",
+      "pose": "Sprouty standing tall and proud with chest puffed out, glossy bright leaves, giving a confident thumbs-up.",
+      "props": [
+        {
+          "prompt": "A glowing golden height growth chart with a sparkling star at the peak",
+          "x": 0.22,
+          "y": 0.42,
+          "w": 0.22
+        }
+      ],
+      "enter": "pop",
+      "action": "stretch",
+      "sfx": "ding"
+    },
+    {
+      "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+      "bg": "Clean modern teal and white gradient background with floating glowing stars.",
+      "pose": "Sprouty beaming with joy, holding up one hand to enthusiastically present the phone screen.",
+      "props": [
+        {
+          "prompt": "A sleek modern smartphone showcasing the TallPlan app growth dashboard with progress graphs and posture timer",
+          "x": 0.68,
+          "y": 0.44,
+          "w": 0.28
+        }
+      ],
+      "enter": "left",
+      "action": "bounce",
+      "sfx": "pop"
+    }
+  ]
+}

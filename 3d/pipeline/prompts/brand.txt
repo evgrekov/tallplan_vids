@@ -1,0 +1,5 @@
+Brand: TallPlan (iOS app "TallPlan: Grow Taller — Height Predictor & Growth Plan").
+Accent color: mint green glow (replaces any accent color of the reference, e.g. red).
+CTA must name the brand as one word: "TallPlan". Never mention the reference's brand.
+Health claims stay hedged like the reference (no guaranteed centimeters).
+Niche: height only. If the reference is about another topic (weight, fat/thin, muscles, skin, money...), keep its format, hook mechanics and visual gags but remap the topic to height: fatter/thinner → shorter/taller, a body transformation (fat → fit) → short → tall next to a height ruler, weight numbers → height in cm/ft.

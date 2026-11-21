@@ -1,0 +1,48 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Flat cartoon illustration of a bald man walking in side profile, body hunched forward with his head tilted down and his chin pointing toward the ground. He wears a short-sleeved medium blue (#5B8FD6) t-shirt and dark navy blue (#2E4F80) jeans with dark charcoal shoes. One hand is tucked into his front pocket and the other arm hangs loosely. Bold black outlines, simple flat fills with subtle shading, clean vector-like children's-book style, plain white background, no text.",
+  "bbox_pct": [
+   37.5,
+   26.5,
+   28.4,
+   42.0
+  ]
+ },
+ "texts": [
+  {
+   "text": "Bad posture when walking",
+   "font": "Humanist sans (Myriad/Fira-like)",
+   "weight": "semibold",
+   "size_pct_of_height": 5.5,
+   "color": "#2D2D2D",
+   "align": "left",
+   "bbox_pct": [
+    21.6,
+    14.6,
+    60.2,
+    5.8
+   ]
+  },
+  {
+   "text": "Makes you look shorter",
+   "font": "Humanist sans, italic (Myriad Italic-like)",
+   "weight": "light",
+   "size_pct_of_height": 5.0,
+   "color": "#2D2D2D",
+   "align": "left",
+   "bbox_pct": [
+    30.2,
+    76.3,
+    45.0,
+    5.2
+   ]
+  }
+ ],
+ "graphics": [],
+ "inserts": []
+}

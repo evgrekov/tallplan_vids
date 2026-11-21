@@ -1,0 +1,129 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Flat cartoon vector illustration of a smiling young boy standing in a front-facing, relaxed pose with arms slightly away from the body and hands open. He has short tousled reddish-brown hair, big dark eyes, rosy pink cheeks and a small smile. He wears a red short-sleeve crew-neck t-shirt, blue denim jeans with rolled cuffs, and red-and-white high-top sneakers with white laces. Clean bold dark outlines, soft cel shading, warm skin tones, friendly children's book style. A soft pale pinkish oval shadow sits beneath his feet on a plain white background.",
+  "bbox_pct": [
+   36.5,
+   17,
+   28,
+   68
+  ]
+ },
+ "texts": [
+  {
+   "text": "Body Proportions",
+   "font": "Helvetica/Arial bold sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 6.5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    20.3,
+    2.9,
+    59.9,
+    5.7
+   ]
+  },
+  {
+   "text": "Stop Changing",
+   "font": "Helvetica/Arial bold sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 6.5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    25,
+    10,
+    50.3,
+    7
+   ]
+  },
+  {
+   "text": "Body Has Fully Developed",
+   "font": "Open Sans-style humanist sans, italic",
+   "weight": "regular",
+   "size_pct_of_height": 5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    21.6,
+    87.8,
+    57,
+    5.5
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "arrow",
+   "color": "#6B1E1E",
+   "description": "Vertical double-headed measurement arrow (top section), with light peach-filled arrowheads and dark maroon shaft",
+   "bbox_pct": [
+    35.4,
+    33.6,
+    2.0,
+    15.0
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#6B1E1E",
+   "description": "Vertical double-headed measurement arrow (middle section), with light peach-filled arrowheads and dark maroon shaft",
+   "bbox_pct": [
+    35.4,
+    49.7,
+    2.0,
+    13.9
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#6B1E1E",
+   "description": "Vertical double-headed measurement arrow (lower section), with light peach-filled arrowheads and dark maroon shaft",
+   "bbox_pct": [
+    35.4,
+    64.7,
+    2.0,
+    15.5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#222222",
+   "description": "Horizontal dashed guide line at shoulder/neck level extending right from the body",
+   "bbox_pct": [
+    38.4,
+    33.3,
+    25.4,
+    0.5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#222222",
+   "description": "Horizontal dashed guide line at waist level extending right from the body",
+   "bbox_pct": [
+    38.4,
+    49.0,
+    25.4,
+    0.5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#222222",
+   "description": "Horizontal dashed guide line at upper-thigh/knee level extending right from the body",
+   "bbox_pct": [
+    38.4,
+    64.3,
+    25.4,
+    0.5
+   ]
+  }
+ ],
+ "inserts": []
+}

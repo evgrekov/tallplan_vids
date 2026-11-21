@@ -1,0 +1,34 @@
+{
+  "title": "Head Pokes Forward? Two-Move Posture Reset",
+  "style": "Realistic 3D render, soft studio lighting, light blue plain studio background, clean modern fitness-ad look, smooth natural anatomy, consistent portrait vertical framing.",
+  "character": "Same adult character throughout, 19-20 years old, athletic-average build, fully clothed in a fitted t-shirt or tank top, mid-thigh shorts, ankle socks, and simple sneakers; friendly, focused expression.",
+  "ink": "#0B1F3A",
+  "outline": "#FFFFFF",
+  "openai_voice": "cedar",
+  "voice": "Upbeat, friendly, brisk delivery with clear energetic emphasis.",
+  "exercises": [
+    {
+      "name": "CHIN TUCKS",
+      "dose": "10 REPS",
+      "a": "Portrait two-to-three realistic 3D render, same character centered with generous margins, whole body visible, top eighteen percent of the image empty light blue background for captions, no text, no letters, no numbers, no logos. Side-view camera at chest height, character facing right. Both sneaker soles touch the floor, feet hip-width apart with toes pointing right, knees softly straight, pelvis neutral, torso upright. Arms hang relaxed beside the thighs, palms facing inward, fingers naturally curved. Shoulders slightly rounded, head gently pokes forward in front of the shoulders, chin slightly lifted, eyes looking straight ahead, neck long but not strained.",
+      "b": "Portrait two-to-three realistic 3D render, same character, same side-view camera angle, same framing, centered with generous margins, whole body visible, top eighteen percent empty light blue background, no text, no letters, no numbers, no logos. Both sneaker soles touch the floor, feet hip-width apart, knees softly straight, torso upright, arms relaxed at sides with palms inward. From the same standing position, the head slides straight backward as if making a double chin, chin tucked slightly down, back of neck lengthened, ears aligned over shoulders, eyes still looking forward, shoulders down and relaxed."
+    },
+    {
+      "name": "SIDE STRETCH",
+      "dose": "30 SEC",
+      "a": "Portrait two-to-three realistic 3D render, same character centered with generous margins, whole body visible, top eighteen percent of the image empty light blue background for captions, no text, no letters, no numbers, no logos. Front-facing camera at chest height. Both sneaker soles touch the floor, feet hip-width apart and parallel, knees softly straight, torso tall, shoulders level. Left arm hangs straight down beside the left thigh, left palm facing inward. Right arm bends up and over the head, right elbow angled outward, right palm lightly resting on the left side of the head above the left ear. Head is upright and centered, chin level, eyes forward.",
+      "b": "Portrait two-to-three realistic 3D render, same character, same front-facing camera angle, same framing, centered with generous margins, whole body visible, top eighteen percent empty light blue background, no text, no letters, no numbers, no logos. Both sneaker soles touch the floor, feet hip-width apart, knees softly straight, torso tall and still. Left arm reaches gently downward beside the left thigh, left shoulder pulled away from the ear. Right arm remains bent over the head, right palm lightly resting on the left side of the head. Head tilts to the right so the right ear moves toward the right shoulder, chin stays level, face forward, neck side lengthened without pulling hard."
+    }
+  ],
+  "result": "Portrait two-to-three realistic 3D render, same character centered with generous margins, whole body visible, top eighteen percent of the image empty light blue background for captions, no text, no letters, no numbers, no logos. Front-facing camera at chest height. Character stands tall and relaxed with both sneaker soles on the floor, feet hip-width apart, knees soft, pelvis neutral, chest open, shoulders down and back, arms resting naturally at sides, chin level, ears aligned over shoulders. Proud happy smile, confident calm posture, soft studio light.",
+  "captions": {
+    "hook": "HEAD POKES FORWARD?",
+    "takeaway": "DAILY · 2 MIN"
+  },
+  "lines": {
+    "hook": "Head pokes forward from scrolling? Try these now.",
+    "ex1": "Chin tucks stack your neck over shoulders.",
+    "ex2": "Side stretch releases tight neck and upper traps.",
+    "takeaway": "Two calm minutes helps you stand taller."
+  }
+}

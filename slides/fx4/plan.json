@@ -1,0 +1,36 @@
+{
+  "title": "Cobra Stretch Fix",
+  "style": "Neon line art glowing on a black background, synthwave colors, clean minimal scene, same camera angle and framing across all slides, portrait 2:3, beautiful high-contrast fitness illustration.",
+  "character": "Same adult character everywhere: 19-year-old athletic but approachable person, short dark hair, fully clothed in a glowing cyan tank top, magenta shorts, and low-profile sneakers, friendly face, no logos.",
+  "ink": "#FFFFFF",
+  "outline": "#00E5FF",
+  "openai_voice": "verse",
+  "voice": "Upbeat, friendly, brisk, rhythmic delivery over energetic synth music.",
+  "exercises": [
+    {
+      "name": "COBRA STRETCH",
+      "dose": "30 SEC",
+      "marks": true,
+      "a": "Portrait 2:3 neon line art on black background, synthwave glow, plain clean background, same adult character centered with generous margins, top eighteen percent of image empty, whole body visible, no text, no letters, no numbers. Side view of cobra stretch wrong form: character lying face down on the floor, legs extended straight back with tops of feet touching the floor, knees close together, palms planted under shoulders, elbows bent. Chest is lifted only slightly, hips and pelvis are visibly lifted off the floor instead of grounded, shoulders are shrugged up toward ears, neck compressed, upper back rounded, elbows flaring outward, strained facial expression. Keep camera angle and framing identical to the right-form pose.",
+      "b": "Portrait 2:3 neon line art on black background, synthwave glow, plain clean background, same adult character centered with generous margins, top eighteen percent of image empty, whole body visible, no text, no letters, no numbers. Side view of cobra stretch right form: character lying face down on the floor, legs extended straight back with tops of feet touching the floor, thighs and hips pressing firmly into the floor, palms planted under shoulders, elbows tucked close to ribs and softly bent. Chest gently lifted forward and up, shoulders drawn down and back away from ears, neck long, gaze slightly forward and down, spine lengthened, relaxed happy expression. Same camera angle and framing as the wrong-form pose."
+    },
+    {
+      "name": "CHILD'S POSE",
+      "dose": "8 REPS",
+      "marks": false,
+      "a": "Portrait 2:3 neon line art on black background, synthwave glow, plain clean background, same adult character centered with generous margins, top eighteen percent of image empty, whole body visible, no text, no letters, no numbers. Side view of extended child's pose starting position: character kneeling on the floor with big toes touching, knees apart, hips resting back on heels, torso folded forward between thighs, forehead close to the floor, arms reaching straight forward on the floor, palms flat, fingers spread, elbows lifted slightly, spine long from tailbone to fingertips, shoulders relaxed away from ears. Same camera angle and framing as the next pose.",
+      "b": "Portrait 2:3 neon line art on black background, synthwave glow, plain clean background, same adult character centered with generous margins, top eighteen percent of image empty, whole body visible, no text, no letters, no numbers. Side view of dynamic child's pose rock forward: from the same kneeling setup, character has glided forward into an all-fours tabletop shape, hands flat on the floor under shoulders, arms straight, knees on the floor under hips, toes pointed back, hips lifted away from heels, chest open, spine long and neutral, head in line with spine. This pose looks clearly different from the folded child's pose, with hips high and torso lifted. Same camera angle and framing as the previous pose."
+    }
+  ],
+  "result": "Portrait 2:3 neon line art on black background, synthwave glow, plain clean background, same adult character centered with generous margins, top eighteen percent of image empty, whole body visible, no text, no letters, no numbers. Character standing tall and relaxed facing slightly toward camera, feet hip-width apart, knees soft, pelvis neutral, chest open, shoulders down and back, neck long, chin gently tucked, arms relaxed by sides, proud happy smile, confident posture, glowing cyan and magenta accents.",
+  "captions": {
+    "hook": "COBRA: YOU'RE WRONG",
+    "takeaway": "2 MIN DAILY"
+  },
+  "lines": {
+    "hook": "Most cobra stretches fail when shoulders climb and hips peel up.",
+    "ex1": "Press hips down, slide shoulders back, and lift gently.",
+    "ex2": "Child's pose unloads your back and opens stiff shoulders.",
+    "takeaway": "Move slow, breathe deep, and stand taller today."
+  }
+}

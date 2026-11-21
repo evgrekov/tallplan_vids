@@ -1,0 +1,21 @@
+{
+  "title": "Platform Shoes vs Posture Realignment",
+  "style": "High-end luxury fashion editorial photography, sharp studio strobe lighting, polished Italian marble textures with subtle gold accents, 85mm medium format aesthetic.",
+  "character": "A 20-year-old athletic male with a sharp jawline, short textured dark hair, wearing a plain fitted black crewneck t-shirt and slim charcoal trousers.",
+  "ink": "#FFFFFF",
+  "outline": "#111111",
+  "myth": {
+    "prompt": "Full-body editorial photograph of a 20-year-old man awkwardly balancing on absurdly thick, oversized platform sneakers, ankles wobbling, slouching forward with slumped shoulders and a strained, anxious expression, drops of sweat on brow, set against a dark reflective marble wall under harsh spotlighting. Top 30 percent completely empty overhead, no text, no watermark.",
+    "caption": "MYTH: LIFTS ARE YOUR ONLY SHORTCUT",
+    "sub": "\"I need thick soles to compete\"",
+    "dur": 3.4,
+    "music": "Awkward melancholic circus waltz, stumbling off-tempo tuba and dragging accordion, gloomy comic cadence, instrumental only, no vocals"
+  },
+  "fact": {
+    "prompt": "Full-body luxury editorial photo of the same 20-year-old man standing barefoot on gleaming white marble, standing at full natural height with flawless neutral spine alignment, pulled-back shoulders, and calm commanding gaze, sharp architectural golden backlighting casting a clean vertical line behind him, luxury magazine cover grade. Top 30 percent completely empty overhead, no text, no watermark.",
+    "caption": "FACT: POSTURE UNLOCKS TWO REAL INCHES",
+    "sub": "Spinal alignment instantly restores natural height.",
+    "dur": 3.1,
+    "music": "Sleek luxury deep house at 122 BPM, punchy minimal kick, warm rolling sub-bass, crisp open hi-hats and chic synth stabs, progressive club energy, instrumental only, no vocals"
+  }
+}

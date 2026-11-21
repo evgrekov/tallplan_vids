@@ -1,0 +1,34 @@
+{
+  "title": "Always Slouching? Core Posture Fix",
+  "style": "Bold pop-art flat illustration, bright yellow plain background, thick black outlines, clean shapes, high contrast, energetic fitness-ad look, consistent portrait 2:3 framing.",
+  "character": "Same adult character in every slide: 19–20 years old, athletic but realistic build, medium skin tone, short dark hair, coral tank top, navy athletic shorts, white socks, clean sneakers, friendly focused expression.",
+  "ink": "#FFFFFF",
+  "outline": "#111111",
+  "openai_voice": "coral",
+  "voice": "Upbeat, friendly, brisk delivery with clear emphasis for word-by-word subtitles.",
+  "exercises": [
+    {
+      "name": "PLANK",
+      "dose": "30 SEC",
+      "a": "Portrait 2:3 pop-art flat illustration on a bright yellow plain background, same character centered with generous margins, top 18% of image empty, whole body visible, no text, no letters, no numbers. Side view high plank pose: both palms flat on the floor directly under shoulders, fingers spread, arms straight, legs fully extended back, toes on the floor, heels lifted, head neutral, neck long, shoulders, hips, knees, and ankles forming one straight diagonal line, core braced, face focused.",
+      "b": "Portrait 2:3 pop-art flat illustration on a bright yellow plain background, same character centered with generous margins, top 18% of image empty, whole body visible, no text, no letters, no numbers. Same side view and framing as pose a. High plank shoulder-tap pose: left palm flat on the floor under left shoulder, left arm straight, both legs extended back with toes on the floor, feet slightly wider for balance, right hand lifted across the chest touching the left shoulder, hips kept level, body still in a straight diagonal line, core tight, face focused."
+    },
+    {
+      "name": "BIRD DOG",
+      "dose": "10 REPS",
+      "a": "Portrait 2:3 pop-art flat illustration on a bright yellow plain background, same character centered with generous margins, top 18% of image empty, whole body visible, no text, no letters, no numbers. Three-quarter side view on all fours: left hand and right knee touching the floor under shoulder and hip, right arm reaching straight forward at shoulder height, left leg reaching straight back at hip height, left toes pointed down, back flat like a tabletop, head in line with spine, core engaged, calm focused expression.",
+      "b": "Portrait 2:3 pop-art flat illustration on a bright yellow plain background, same character centered with generous margins, top 18% of image empty, whole body visible, no text, no letters, no numbers. Same three-quarter side view and framing as pose a. Opposite bird dog position: right hand and left knee touching the floor under shoulder and hip, left arm reaching straight forward at shoulder height, right leg reaching straight back at hip height, right toes pointed down, back flat like a tabletop, head in line with spine, core engaged, calm focused expression."
+    }
+  ],
+  "result": "Portrait 2:3 pop-art flat illustration on a bright yellow plain background, same character centered with generous margins, top 18% of image empty, whole body visible, no text, no letters, no numbers. The character stands tall and relaxed facing slightly toward camera, feet hip-width apart, shoulders gently back and down, chest open, chin level, spine long, arms relaxed at sides, proud happy smile, confident posture.",
+  "captions": {
+    "hook": "ALWAYS SLOUCHING?",
+    "takeaway": "DAILY · 2 MIN"
+  },
+  "lines": {
+    "hook": "Always slouching? Your core might be letting posture collapse.",
+    "ex1": "Plank braces your core so your torso stays stacked.",
+    "ex2": "Bird dog trains balance and keeps your back steady.",
+    "takeaway": "Two minutes daily helps you stand taller."
+  }
+}

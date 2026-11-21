@@ -1,0 +1,82 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#F5F5F5"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Hand-drawn style cartoon illustration of a person's legs mid-stride walking to the left-to-right diagonal, wearing grey jeans with cuffed hems and bright blue low-top sneakers with white soles and laces; the front foot (left) is planted flat on the ground with a brown-tinted sole edge, the back foot (right) lifting off heel-first with small motion lines behind it; a soft pale blue motion shadow streaks along the ground beneath the feet; a few faint yellow motion tick marks near the planted foot; a trail of grey footprint shapes fades toward the upper right; subtle paper-grain texture, clean dark outlines, flat muted colors with light shading, soft off-white background, eye-level side view, crisp even lighting",
+  "bbox_pct": [
+   6,
+   25,
+   92,
+   52
+  ]
+ },
+ "texts": [
+  {
+   "text": "YOUR STEPS FEEL LONGER",
+   "font": "geometric sans-serif (similar to Montserrat/Poppins)",
+   "weight": "bold",
+   "size_pct_of_height": 4.5,
+   "color": "#333333",
+   "align": "center",
+   "bbox_pct": [
+    19,
+    10,
+    62,
+    5
+   ]
+  },
+  {
+   "text": "STRIDE CHANGE",
+   "font": "geometric sans-serif (similar to Montserrat/Poppins)",
+   "weight": "bold",
+   "size_pct_of_height": 4.5,
+   "color": "#333333",
+   "align": "center",
+   "bbox_pct": [
+    33,
+    85,
+    35,
+    5
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#F2C94C",
+   "description": "Hand-drawn yellow underline swoosh beneath STRIDE CHANGE, slightly curved, tapering at ends",
+   "bbox_pct": [
+    34,
+    90,
+    32,
+    2
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#F2C94C",
+   "description": "Small yellow motion arc marks near the planted front foot, indicating movement/bounce",
+   "bbox_pct": [
+    6,
+    63,
+    5,
+    5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#F2C94C",
+   "description": "Small yellow motion arc marks under the planted foot, indicating impact",
+   "bbox_pct": [
+    25,
+    73,
+    6,
+    3
+   ]
+  }
+ ],
+ "inserts": []
+}

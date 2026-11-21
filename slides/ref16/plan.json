@@ -1,0 +1,35 @@
+{
+  "title": "Posture Check Height Boost",
+  "style": "Bold Memphis 80s graphic illustration style, retro geometric confetti, playful squiggles, triangles, dots, vibrant teal, hot pink, sunny yellow, flat solid cream background, clean bold vector linework, pop art aesthetic, completely empty top 18 percent margin, absolutely no text or letters.",
+  "character": "Handsome 20-year-old young man with wavy dark brown hair, athletic build, wearing a bright teal crewneck t-shirt, athletic hot-pink running shorts, and retro yellow-accented white sneakers.",
+  "ink": "#1E1E24",
+  "outline": "#FFFFFF",
+  "slides": [
+    {
+      "prompt": "Bold Memphis 80s graphic illustration style, retro geometric confetti, playful squiggles, triangles, dots, vibrant teal, hot pink, sunny yellow, flat solid cream background, clean bold vector linework, pop art aesthetic, completely empty top 18 percent margin, absolutely no text or letters. Handsome 20-year-old young man with wavy dark brown hair, athletic build, wearing a bright teal crewneck t-shirt, athletic hot-pink running shorts, and retro yellow-accented white sneakers. Full body side-profile view of the same man shown twice side by side on a level floor. On the left, he exhibits exaggerated forward head posture, rounded hunched shoulders, and anterior pelvic tilt with an insecure expression, a vertical dotted plumb line passing far behind his ear. On the right, the identical man stands tall in perfect upright biomechanical alignment, chin slightly tucked, shoulders retracted, spine elongated, looking proud and confident, with the plumb line passing straight through his ear, shoulder, hip, and ankle.",
+      "caption": "POSTURE CHECK!",
+      "name": ""
+    },
+    {
+      "prompt": "Bold Memphis 80s graphic illustration style, retro geometric confetti, playful squiggles, triangles, dots, vibrant teal, hot pink, sunny yellow, flat solid cream background, clean bold vector linework, pop art aesthetic, completely empty top 18 percent margin, absolutely no text or letters. Handsome 20-year-old young man with wavy dark brown hair, athletic build, wearing a bright teal crewneck t-shirt, athletic hot-pink running shorts, and retro yellow-accented white sneakers. The man is standing upright in profile against an open space, performing a chin tuck exercise. His feet are hip-width apart on the floor. Two fingers of his right hand gently touch the tip of his chin as he retracts his head straight backward horizontally, creating an elongated back of the neck and correcting forward head posture, shoulders relaxed down.",
+      "caption": "1. 10 reps × 3",
+      "name": "Chin tucks · aligns cervical spine"
+    },
+    {
+      "prompt": "Bold Memphis 80s graphic illustration style, retro geometric confetti, playful squiggles, triangles, dots, vibrant teal, hot pink, sunny yellow, flat solid cream background, clean bold vector linework, pop art aesthetic, completely empty top 18 percent margin, absolutely no text or letters. Handsome 20-year-old young man with wavy dark brown hair, athletic build, wearing a bright teal crewneck t-shirt, athletic hot-pink running shorts, and retro yellow-accented white sneakers. Three-quarter rear-side view of the man standing upright, performing a scapular squeeze. His elbows are bent at ninety degrees against his torso, hands pointing forward, pulling his shoulder blades tightly together toward his spine, opening his chest wide, spine long and upright.",
+      "caption": "2. 12 reps × 3",
+      "name": "Scapular squeezes · opens chest"
+    },
+    {
+      "prompt": "Bold Memphis 80s graphic illustration style, retro geometric confetti, playful squiggles, triangles, dots, vibrant teal, hot pink, sunny yellow, flat solid cream background, clean bold vector linework, pop art aesthetic, completely empty top 18 percent margin, absolutely no text or letters. Handsome 20-year-old young man with wavy dark brown hair, athletic build, wearing a bright teal crewneck t-shirt, athletic hot-pink running shorts, and retro yellow-accented white sneakers. Full body side profile view of the young man holding a perfect forearm plank pose on the ground. Both forearms rest flat against the floor parallel to each other, toes grounded, body suspended in a straight rigid line from heels through hips to the crown of his head, core engaged, neck neutral.",
+      "caption": "3. 45 sec × 3",
+      "name": "Forearm plank · stabilizes core"
+    },
+    {
+      "prompt": "Bold Memphis 80s graphic illustration style, retro geometric confetti, playful squiggles, triangles, dots, vibrant teal, hot pink, sunny yellow, flat solid cream background, clean bold vector linework, pop art aesthetic, completely empty top 18 percent margin, absolutely no text or letters. Handsome 20-year-old young man with wavy dark brown hair, athletic build, wearing a bright teal crewneck t-shirt, athletic hot-pink running shorts, and retro yellow-accented white sneakers. Side profile view of the man performing a hip hinge good morning exercise. Standing with feet shoulder-width flat on the floor, slight soft bend in his knees, hands clasped lightly behind his head, torso hinged forward at the hips to a flat back position parallel to the floor, spine perfectly straight and elongated.",
+      "caption": "4. 12 reps × 3",
+      "name": "Hip hinge · strengthens lower back"
+    }
+  ],
+  "music": "Groovy retro funk instrumental, 108 BPM, rhythmic wah-wah electric rhythm guitar, tight slap bassline, snappy drum kit, subtle 80s synth brass stabs, upbeat and stylish, no vocals."
+}

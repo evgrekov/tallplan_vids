@@ -1,0 +1,81 @@
+{
+ "title": "Optimal Sleeping Alignment for Height",
+ "summary": "A 2D stick-figure animation reveals how poor sleep posture compresses discs and introduces the optimal alignment in TallPlan.",
+ "style": "Minimalist 2D digital cartoon animation, thick black outlines, stark white fills, smooth vector curves, soft grey shading, clean flat backgrounds, vibrant mint green glow VFX.",
+ "render": "anime",
+ "character": "Minimalist stick figure young adult, smooth circular white head, expressive black dot-and-line facial features, simple black line torso and limbs.",
+ "style_ref_times": [
+  1.0,
+  10.0
+ ],
+ "character_prompt": "Minimalist stick figure character, young adult, smooth round white head, simple expressive black dot eyes and thin curved eyebrows, plain white stick body with thick black vector outlines, neutral standing pose, 3/4 view, soft gray gradient background, clean 2D vector art, no text.",
+ "keyframes": [
+  {
+   "name": "sad_standing_measure",
+   "part": 0,
+   "prompt": "Minimalist stick figure character standing slouched next to a giant vertical measurement ruler, sad expression with drooping curved mouth, soft gray background, thick black vector lineart."
+  },
+  {
+   "name": "laying_bed_spine_glow",
+   "part": 1,
+   "prompt": "Minimalist stick figure character resting flat on a mattress with a pillow, happy neutral smile, translucent stylized cartoon spine visible inside torso glowing bright mint green, soft blue background."
+  }
+ ],
+ "parts": [
+  {
+   "shots": [
+    {
+     "vo": "You'll never hit your max height sleeping curled up or flat on your stomach.",
+     "visuals": [
+      "Plain gray studio. Fast camera push-in on the stick figure standing sad beside a height marker, sighing as his head drops. SFX: descending slide whistle.",
+      "Cut to bedroom side view. Stick figure flops face-down into mattress, cartoon spine overlay flashes dull red inside torso. SFX: soft mattress thud, dull buzz."
+     ],
+     "t": [
+      0,
+      4.87
+     ]
+    },
+    {
+     "vo": "These positions compress your discs overnight and block natural spinal decompression.",
+     "visuals": [
+      "Side view close-up of mattress. Character curled in tight fetal posture; spine graphic pulses tightly under tension. SFX: tight ratchet click.",
+      "Camera zooms into character's slouched back; cartoon vertebrae show tight pressure squeeze. SFX: bone creak, tension thud."
+     ],
+     "t": [
+      4.87,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    {
+     "vo": "Here is the secret sleeping alignment that decompresses your entire back.",
+     "visuals": [
+      "Spotlight on bed. Character sits up smiling, camera whip-pans as he reclines onto a supportive pillow in neutral spine alignment. SFX: quick whoosh, chime.",
+      "Side view. Character rests flat on back, spine graphic lights up with radiant mint green glow decompressing outward. SFX: mint glow shimmer, resonant swell."
+     ],
+     "t": [
+      0,
+      4.11
+     ]
+    },
+    {
+     "vo": "Unlock the full routine inside TallPlan.",
+     "visuals": [
+      "Lower-third framing, top half clear for card overlay. Character stands upright at lower screen, grinning cheerfully with a confident thumbs up. SFX: crisp pop, cheerful ding."
+     ],
+     "t": [
+      4.11,
+      8
+     ]
+    }
+   ]
+  }
+ ],
+ "voice": "Male, early 20s, American accent, energetic, confident, crisp delivery, ~155 WPM, studio condenser mic.",
+ "tts_voice": "Puck",
+ "music": "Upbeat synth-pop instrumental, 120 BPM, punchy electronic drums, pulsing synth bass, bright energetic arpeggios, no vocals.",
+ "packshot": 14.06
+}

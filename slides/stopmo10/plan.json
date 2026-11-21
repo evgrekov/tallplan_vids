@@ -1,0 +1,145 @@
+{
+ "title": "Unlock Your Peak Growth Window",
+ "surface": "Light wooden desk with scattered lined notebook paper under bright morning sunlight",
+ "cut_style": "Hand-drawn colored marker doodles on square pastel sticky notes with roughly cut edges",
+ "openai_voice": "verse",
+ "voice": "Casual, energetic older teen brother, friendly and reassuring ~145 WPM",
+ "music": "Warm and steady lo-fi hip-hop beat with soft electric piano and gentle drums, 78 BPM",
+ "cuts": {
+  "hourglass": "A playful marker sketch of an hourglass with sand running out on a pastel yellow sticky note cutout",
+  "sleepy_figure": "A hand-drawn marker doodle of a tired slouched stick figure with zzz bubbles on a pale pink sticky note cutout",
+  "checklist": "A marker drawing of a paper checklist showing three big green checkmarks on a mint green sticky note cutout",
+  "bed_moon": "A doodle cutout of a cozy bed beside a smiling crescent moon and tiny stars on a soft lavender sticky note",
+  "jumping_figure": "A stick figure doodle mid-air jumping with energy motion lines on an orange sticky note cutout",
+  "egg_bowl": "A hand-drawn doodle of boiled eggs, a milk carton, and fresh fruit on a pale yellow sticky note cutout"
+ },
+ "scenes": [
+  {
+   "vo": "Teens, you're wasting your peak growth years.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "hourglass",
+     "x": 0.34,
+     "y": 0.38,
+     "w": 0.26
+    },
+    {
+     "cut": "sleepy_figure",
+     "x": 0.64,
+     "y": 0.38,
+     "w": 0.28
+    },
+    {
+     "tag": "GROWTH WINDOW",
+     "color": "#FFD166",
+     "x": 0.5,
+     "y": 0.6,
+     "w": 0.44
+    }
+   ]
+  },
+  {
+   "vo": "Three daily habits unlock your full height.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "checklist",
+     "x": 0.5,
+     "y": 0.38,
+     "w": 0.32
+    },
+    {
+     "tag": "3 SIMPLE HABITS",
+     "color": "#06D6A0",
+     "x": 0.5,
+     "y": 0.58,
+     "w": 0.44
+    }
+   ]
+  },
+  {
+   "vo": "First, sleep nine hours to decompress your spine.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 1",
+     "color": "#A2D2FF",
+     "x": 0.32,
+     "y": 0.3,
+     "w": 0.2
+    },
+    {
+     "tag": "9 HOURS SLEEP",
+     "color": "#FFFFFF",
+     "x": 0.62,
+     "y": 0.3,
+     "w": 0.36
+    },
+    {
+     "cut": "bed_moon",
+     "x": 0.5,
+     "y": 0.52,
+     "w": 0.36
+    }
+   ]
+  },
+  {
+   "vo": "Second, sprint and jump daily for bone strength.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 2",
+     "color": "#FFCAD4",
+     "x": 0.32,
+     "y": 0.3,
+     "w": 0.2
+    },
+    {
+     "tag": "SPRINT AND JUMP",
+     "color": "#FFFFFF",
+     "x": 0.63,
+     "y": 0.3,
+     "w": 0.38
+    },
+    {
+     "cut": "jumping_figure",
+     "x": 0.5,
+     "y": 0.52,
+     "w": 0.34
+    }
+   ]
+  },
+  {
+   "vo": "Third, ditch morning sugar for a high-protein breakfast.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 3",
+     "color": "#FFD166",
+     "x": 0.32,
+     "y": 0.3,
+     "w": 0.2
+    },
+    {
+     "tag": "PROTEIN BREAKFAST",
+     "color": "#FFFFFF",
+     "x": 0.63,
+     "y": 0.3,
+     "w": 0.38
+    },
+    {
+     "cut": "egg_bowl",
+     "x": 0.5,
+     "y": 0.52,
+     "w": 0.35
+    }
+   ]
+  },
+  {
+   "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+   "clear": true,
+   "items": []
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "photo": "Candid vertical front-camera selfie video still of a young man around 19, Latino guy with a buzz cut, black hoodie, gaming room with LED lights, looking straight into the camera with a calm confident half-smile, realistic phone photo, upper body, head and shoulders in the middle of the frame with plenty of empty wall above the head.",
+ "hook": "SEND YOUR STATS,\nI'LL CHECK YOUR HEIGHT",
+ "music": "Hype TikTok trap instrumental, punchy hi-hats, 130 BPM",
+ "comment": {
+  "user": "@your_name · example",
+  "text": "14, 5'10, dad 6'1, mom 5'6\nwill I hit 6 ft?"
+ },
+ "answers": [
+  [
+   "How old are you?",
+   "14"
+  ],
+  [
+   "Your height now?",
+   "5'10\""
+  ],
+  [
+   "Dad's height?",
+   "6'1\""
+  ],
+  [
+   "Mom's height?",
+   "5'6\""
+  ]
+ ],
+ "result": "IMAGE 2026-11-07 13:28:28.jpg"
+}

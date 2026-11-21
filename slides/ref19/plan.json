@@ -1,0 +1,35 @@
+{
+  "title": "TallPlan - Look Taller Instantly Routine",
+  "style": "Elegant high-fashion illustration, loose ink outlines, minimalist marker shading, elongated stylish proportions, solid clean soft beige background.",
+  "character": "Handsome 20-year-old man, athletic slim build, wavy dark brown hair, wearing a fitted t-shirt and training shorts.",
+  "ink": "#1A1A1A",
+  "outline": "#FFFFFF",
+  "slides": [
+    {
+      "prompt": "Top 18% empty beige background. Generous margins, centered. Split mirror concept: in foreground, the young man slumps forward with rounded shoulders and sad expression; his mirror reflection directly opposite stands tall, confident, and perfectly upright with head held high. No text, letters, or numbers.",
+      "caption": "LOOK TALLER INSTANTLY",
+      "name": ""
+    },
+    {
+      "prompt": "Top 18% empty beige background. Generous margins, centered. Full-body view of the young man standing upright with back flat against a vertical plane, arms bent at ninety-degree angles with elbows and wrists pressed back, sliding smoothly upward. No text, letters, or numbers.",
+      "caption": "1. 12 reps × 3",
+      "name": "Wall slides · corrects rounded shoulders"
+    },
+    {
+      "prompt": "Top 18% empty beige background. Generous margins, centered. Full-body side profile of the young man standing tall, feet hip-width on the floor, hands clasped behind his lower back with arms extended downward and back to open the chest. No text, letters, or numbers.",
+      "caption": "2. 30 sec × 3",
+      "name": "Chest opener · expands upper chest"
+    },
+    {
+      "prompt": "Top 18% empty beige background. Generous margins, centered. Side-profile view of the young man standing straight, two fingers gently pressing his chin back into a neutral chin-tuck to lengthen the cervical spine and neck. No text, letters, or numbers.",
+      "caption": "3. 30 sec × 3",
+      "name": "Neck stretch · fixes forward head"
+    },
+    {
+      "prompt": "Top 18% empty beige background. Generous margins, centered. Side view of the young man lying on his back, knees bent, feet flat on the floor, hips lifted upward forming a straight diagonal line from knees to shoulders, palms flat on the ground. No text, letters, or numbers.",
+      "caption": "4. 15 reps × 3",
+      "name": "Glute bridge · aligns pelvic tilt"
+    }
+  ],
+  "music": "Sleek deep house, 122 BPM, warm rolling bassline, crisp claps, smooth minimalist synth pads, steady rhythmic groove, instrumental only."
+}

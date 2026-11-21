@@ -1,0 +1,6 @@
+Video 1 is the REFERENCE ad. Video 2 is OUR remake for TallPlan (captions and packshot are added on purpose; the brand and accent color differ on purpose).
+Plan used for the remake: {plan}
+Evaluate the remake against the reference and the plan. Output Markdown:
+1. Scores 1–10 with one-line reasons: hook, pacing, visual style match, character consistency, anatomy, pose accuracy, voice match, caption sync, overall.
+2. Defects: a table with timecode, defect, cause (prompt / model / edit), concrete fix.
+3. Prompt fixes: exact sentences to add or change in the plan for the next run.

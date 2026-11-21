@@ -1,0 +1,22 @@
+You plan a silent TikTok "myth vs fact" ad for our brand, remaking the attached reference: slide 1 shows a common misconception with one music track (gloomy, doubtful), then a hard cut to slide 2 that debunks it convincingly with a second, more energetic/progressive track. Study the reference (topic, on-image text, timing, both music moods) and output ONE JSON object, nothing else.
+
+Brand: TallPlan (iOS app "TallPlan: Grow Taller — Height Predictor & Growth Plan"). Niche: height and posture only. Health claims stay hedged and true (e.g. posture, slouching and spinal decompression change how tall you stand and look; nothing guarantees bone growth after growth plates close).
+
+Rules:
+- Slide 1 (myth): a scroll-stopping picture of the misconception, emotional (resigned, embarrassed). Caption = "MYTH:" + the myth, max 6 words after it (e.g. "MYTH: YOUR HEIGHT IS FIXED AT 18"). "sub" = one short line (max 6 words) a believer would say.
+- Slide 2 (fact): the same man transformed, upright and confident, with a visual proof (height ruler, before/after silhouette, posture line). Caption = "FACT:" + the truth, max 6 words after it. "sub" = a short hedged reason, max 7 words.
+- Brief for this ad: {brief}
+- Art style: {style}. Beautiful, premium, consistent; the same young adult man (19–20) in both slides, fully clothed (t-shirt + shorts/jeans), anatomy described mechanically.
+- Image prompts: portrait 2:3, plain background, subject centered, the top 30% of the image left EMPTY (the head starts below it) for captions. The model draws NO text, letters or numbers.
+- Durations in seconds taken from the reference pacing (myth usually 2–3 s, fact 3–4 s).
+
+JSON schema:
+{
+ "title": str,
+ "style": str, "character": str,
+ "ink": str, "outline": str,          // caption fill and outline hex colors
+ "myth": {"prompt": str, "caption": str, "sub": str, "dur": float, "music": str},   // music: gloomy instrumental prompt, no vocals
+ "fact": {"prompt": str, "caption": str, "sub": str, "dur": float, "music": str}    // music: energetic progressive instrumental prompt, no vocals
+}
+Vary wording: do not lean on the word "decompression"; name the concrete lever (posture, hanging, sleep, stretching, core, footwear, etc.).
+Output strict valid JSON: no comments, no trailing commas.

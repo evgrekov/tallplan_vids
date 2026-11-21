@@ -1,0 +1,13 @@
+Educational TikTok ad, 10 seconds, single continuous generation with quick camera cuts at the given timecodes.
+REFERENCES: image 1 = the character. Image 2 = exact keyframe 'quad_split_view', match its pose and anatomy. Image 3 = exact keyframe 'full_growth_reveal', match its pose and anatomy.
+CHARACTER LOCK: the main character is the person from image 1 (Young 20-year-old male 3D athletic mannequin, short dark hair, wearing charcoal compression shorts and a fitted grey sleeveless compression top.); other people only where a shot asks for them; no ghost, faded or duplicate figures.
+ANATOMY LOCK: correct anatomy at all times: knees bend only forward, natural ankles and wrists, no extra, missing or twisted limbs; x-ray or bone overlays stay inside the body outline, nothing sticks out through the skin.
+SILENT CHARACTER: nobody on screen speaks; mouths stay closed, no lip movement.
+CLEAN FRAME: no words, no subtitles, no letters, no UI anywhere in the image (graphic numbers only if the shot explicitly asks for them).
+STYLE: 3D anatomical fitness CGI render, neutral studio background, realistic muscle definition, glowing mint green anatomical target overlays, split-screen workout matrix aesthetic.
+
+0.0-1.7s: Split screen 4-panel view: top-left shows short posture morphing upright; other panels show dynamic decompression stretches, mint green glow highlighting targeted back muscles. SFX: digital swoosh, bass thud.
+1.7-3.3s: Fast push-in on bottom-left quadrant: the character performs dynamic high-knee march with spine extended upward. SFX: quick whoosh, pulse hum.
+3.3-6.8s: Bottom-right panel zooms forward: character performs standing windmill stretch with mint green light beaming along thoracic vertebrae. SFX: energy chime, flex crackle.
+6.8-10.0s: Panels merge into a single wide shot: character stands tall in the lower third with an elongated spine under a faint mint aura, upper half clear for app card. SFX: smooth riser, chime pop.
+Audio: ONLY punchy sound effects on every cut and action. NO music, NO voiceover, NO speech, NO singing.

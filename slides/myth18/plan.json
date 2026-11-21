@@ -1,0 +1,21 @@
+{
+  "title": "Stretching for Height Myth Debunked",
+  "style": "Ultra-saturated meme style 3D render, extreme fisheye lens distortion, vibrant dynamic lighting, cinematic glossy finish, highly expressive exaggerated faces, no text",
+  "character": "19-year-old young athletic male, tousled dark undercut hair, wearing a fitted black crewneck t-shirt and dark grey athletic shorts",
+  "ink": "#FFFFFF",
+  "outline": "#000000",
+  "myth": {
+    "prompt": "Extreme fisheye close-up view in 2:3 portrait, solid neutral grey studio background, top 30 percent completely empty space. A 19-year-old athletic male standing slightly slumped in a black t-shirt, head starting below the top third, looking utterly embarrassed and resigned. Surrounding him from wide-angle distorted perspective, two friends lean into the fisheye frame, pointing index fingers and laughing mockingly with exaggerated wide-open mouths. High-contrast vivid colors, hyper-detailed meme 3D animation style, no text, no letters.",
+    "caption": "MYTH: STRETCHING FOR HEIGHT IS FAKE",
+    "sub": "You cannot stretch your bones",
+    "dur": 3.0,
+    "music": "Comedic gloomy mocking kazoo melody with clumsy discordant acoustic bass, slow sad goofy vibe, instrumental, no vocals"
+  },
+  "fact": {
+    "prompt": "Dynamic low-angle fisheye 2:3 portrait, clean neutral grey backdrop, top 30 percent empty space. The same 19-year-old athletic male executing a deep, powerful cobra stretch on an exercise mat, chest lifted high, spine extended proudly, head starting below the top third. Behind him, the two friends have exaggerated dropped jaws and wide bulging eyes in complete awe and shock. Crisp biomechanical posture alignment visual glow along his back, ultra-saturated 3D CGI aesthetic, no text, no typography.",
+    "caption": "FACT: TARGETED STRETCHING UNPACKS COMPRESSED SPINES",
+    "sub": "Fixing spinal slump restores full height",
+    "dur": 3.5,
+    "music": "High-octane aggressive 142 BPM UK drill beat, sliding 808 sub bass, sharp skittering hi-hats, victorious brass stabs, instrumental, no vocals"
+  }
+}

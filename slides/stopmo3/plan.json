@@ -1,0 +1,159 @@
+{
+ "title": "Posture Mistakes Stealing Your Height",
+ "voice": "Calm, confident, teacher-like tone with crisp articulation and relaxed pacing at ~150 WPM",
+ "tts_voice": "Puck",
+ "music": "Chill lo-fi hip hop instrumental, warm muted piano chords, soft vinyl crackle, gentle downbeat kick, 78 BPM",
+ "cuts": {
+  "giant_phone": "A flat cut-paper cutout of a black modern smartphone silhouette with a minimalist pale screen, no text",
+  "slouched_phone": "A flat cut-paper cutout of a black stick figure sitting down, severely hunched forward with neck bent, no text",
+  "curved_spine": "A flat cut-paper cutout of a stylized human spine curved unnaturally forward in red paper, no text",
+  "straight_spine": "A flat cut-paper cutout of an upright elongated spine in fresh green paper, perfectly aligned, no text",
+  "chin_tuck": "A flat cut-paper cutout of a human head and neck profile demonstrating a chin tuck movement backwards, no text",
+  "wall_angel": "A flat cut-paper cutout of an upright stick figure standing flat against a surface with arms bent upward at ninety degrees, no text",
+  "eye_level_phone": "A flat cut-paper cutout of an upright stick figure with tall straight posture holding a phone up at eye level, no text"
+ },
+ "scenes": [
+  {
+   "vo": "Your phone is making you shorter. Seriously.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "giant_phone",
+     "x": 0.5,
+     "y": 0.34,
+     "w": 0.26
+    },
+    {
+     "cut": "slouched_phone",
+     "x": 0.5,
+     "y": 0.56,
+     "w": 0.32
+    }
+   ]
+  },
+  {
+   "vo": "Slouching compresses your spine and hides up to two inches of your natural height.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "curved_spine",
+     "x": 0.35,
+     "y": 0.46,
+     "w": 0.22
+    },
+    {
+     "tag": "-2 INCHES",
+     "color": "#FF4D4D",
+     "x": 0.65,
+     "y": 0.46,
+     "w": 0.28
+    }
+   ]
+  },
+  {
+   "vo": "Don't worry. You can reclaim your height with three simple posture habits.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "3 DAILY HABITS",
+     "color": "#FFF176",
+     "x": 0.5,
+     "y": 0.34,
+     "w": 0.42
+    },
+    {
+     "cut": "straight_spine",
+     "x": 0.5,
+     "y": 0.54,
+     "w": 0.18
+    }
+   ]
+  },
+  {
+   "vo": "Number one: chin tucks. Pull your head straight back to decompress your neck.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 1",
+     "color": "#FF7675",
+     "x": 0.5,
+     "y": 0.26,
+     "w": 0.22
+    },
+    {
+     "cut": "chin_tuck",
+     "x": 0.5,
+     "y": 0.45,
+     "w": 0.32
+    },
+    {
+     "tag": "CHIN TUCKS",
+     "color": "#ECEFF1",
+     "x": 0.5,
+     "y": 0.63,
+     "w": 0.35
+    }
+   ]
+  },
+  {
+   "vo": "Number two: wall angels. Two minutes against a wall resets rounded shoulders.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 2",
+     "color": "#FFA726",
+     "x": 0.5,
+     "y": 0.26,
+     "w": 0.22
+    },
+    {
+     "cut": "wall_angel",
+     "x": 0.5,
+     "y": 0.45,
+     "w": 0.3
+    },
+    {
+     "tag": "WALL ANGELS",
+     "color": "#ECEFF1",
+     "x": 0.5,
+     "y": 0.63,
+     "w": 0.36
+    }
+   ]
+  },
+  {
+   "vo": "Number three: eye level screen. Lift your phone up instead of looking down.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 3",
+     "color": "#66BB6A",
+     "x": 0.5,
+     "y": 0.26,
+     "w": 0.22
+    },
+    {
+     "cut": "eye_level_phone",
+     "x": 0.5,
+     "y": 0.45,
+     "w": 0.3
+    },
+    {
+     "tag": "EYE LEVEL",
+     "color": "#ECEFF1",
+     "x": 0.5,
+     "y": 0.63,
+     "w": 0.32
+    }
+   ]
+  },
+  {
+   "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+   "clear": true,
+   "items": []
+  }
+ ],
+ "surface": "clean white matte table surface",
+ "cut_style": "flat cut-paper craft, simple bold shapes",
+ "openai_voice": "ash"
+}

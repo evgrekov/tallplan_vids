@@ -1,0 +1,31 @@
+{
+ "fps": 30,
+ "sections": [
+  {
+   "name": "Upper back",
+   "vo": "vo/s0.wav",
+   "clips": [
+    {
+     "file": "clips/c0.mp4",
+     "dur": 4.0,
+     "shot": "Full body from behind at a 3/4 angle, standing tall, both arms raised in a Y shape overhead, shoulder blades squeezed; upper back glows",
+     "move": "standing Y-raises, arms rising overhead in a Y and lowering",
+     "camera": "Slow camera orbit to the right"
+    },
+    {
+     "file": "clips/c1.mp4",
+     "dur": 6.5,
+     "shot": "Medium shot from behind and slightly above, head to hips, wall-angel style reverse snow angel with elbows bent at 90 degrees; rhomboids glow intensely",
+     "move": "reverse snow angels, elbows sliding up and down while the shoulder blades squeeze"
+    }
+   ],
+   "start": 0.0,
+   "end": 10.5,
+   "label_in": 4.6,
+   "label_out": 10.0
+  }
+ ],
+ "end_start": 10.5,
+ "end_seconds": 3.0,
+ "total": 13.5
+}

@@ -1,0 +1,11 @@
+Continue this video for 8 more seconds with the same character and style, cuts at the given timecodes.
+REFERENCES: image 1 = the character.
+CHARACTER LOCK: the same person from image 1 in every shot (20-year-old young man, short dark brown hair, black crewneck t-shirt, grey casual pants, white sneakers.), one person only, no ghost, faded or duplicate figures.
+ANATOMY LOCK: correct human anatomy at all times: knees bend only forward, natural ankles and wrists, five fingers and five toes, no extra, missing or twisted limbs.
+SILENT CHARACTER: nobody on screen speaks; mouths stay closed, no lip movement.
+CLEAN FRAME: no words, no subtitles, no letters, no UI anywhere in the image (graphic numbers only if the shot explicitly asks for them).
+STYLE: Minimalist 2D flat vector animation, clean outlines, smooth digital cartoon aesthetic, solid neutral studio background, mint green accent glows.
+
+0.0-2.9s: Whip pan to the shorter man jumping into an upward vertical stretch, glowing mint green directional arrows lifting up along his spine. SFX: Dynamic whoosh, bright sparkle chime.
+2.9-8.0s: Lower-third framing of the character standing confidently tall with glowing mint posture lines; top half remains open for app UI overlay. SFX: Warm success shimmer.
+Audio: ONLY punchy sound effects on every cut and action. NO music, NO voiceover, NO speech, NO singing.

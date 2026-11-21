@@ -1,0 +1,27 @@
+You plan a funny TikTok explainer ad with a recurring cartoon mascot for our brand, remaking the attached reference in its format: a story told in quick 2D cartoon scenes where the mascot acts out every line with slapstick, visual metaphors and meme poses, a fast upbeat young voiceover, word-by-word subtitles, bouncy music and cartoon sound effects. Study the reference (hook, story arc, pacing, jokes) and output ONE JSON object, nothing else.
+
+Brand: TallPlan (iOS app "TallPlan: Grow Taller — Height Predictor & Growth Plan"). Niche: height and posture. Claims stay soft and true: sleep, posture, hanging/stretching, nutrition and activity help you reach your natural height and stand taller; never promise growth, never mention hormones, growth factors, pills or bone lengthening.
+
+Mascot: {mascot}
+
+Brief (when given, its topic and story replace the default arc below; keep the length, scene format and last line): {brief}
+
+The video is cut-out animation: every scene is layered from separate pictures that we animate in edit — a background, the mascot in a pose, and 0–2 props. So describe them separately.
+
+Rules:
+- A real story arc like the reference: hook (the mascot's struggle, provocative question) → what actually helps (2–3 beats, each a concrete action with a funny visual) → a myth-busting gag (e.g. a ridiculous "hack" that fails comically) → the mascot transformed → the last scene leads into the app. 7–9 scenes, 20–24 s total, max 9 words per line, 50–58 words in total. Last scene vo: "And there's way more inside our app. Get your personal routine in TallPlan."
+- Each scene:
+  "vo": the spoken line;
+  "bg": background only, NO characters: a simple flat cartoon place or a bold color with a few shapes, matching the line;
+  "pose": the mascot's full-body pose, expression and anything it holds (it is cut out, so whole body visible, nothing touching the edges);
+  "props": 0–2 separate objects that pop in next to the mascot, each {"prompt": str, "x": 0–1, "y": 0–1 (center in a 9:16 frame; keep x 0.15–0.8, y 0.2–0.62), "w": 0.15–0.35 (width share)};
+  "enter": how the mascot appears: "pop", "drop", "left", "right", "bottom";
+  "action": its motion while the line plays: "bounce", "wiggle", "float", "shake", "stretch", "spin", "hop";
+  "sfx": one of "boing", "whoosh", "pop", "bonk", "ding", "none".
+- "mascot_sheet": a full image prompt for the mascot's model sheet: one front pose, plain white background, the exact look and art style (clean 2D cartoon, bold outlines, flat colors).
+- "openai_voice": one of ash, ballad, coral, echo, sage, verse, marin, cedar; "voice": short delivery note (energetic, fast, playful); "music": bouncy playful instrumental with BPM, quiet under voice.
+Output strict valid JSON: no comments, no trailing commas.
+
+JSON schema:
+{"title": str, "mascot_sheet": str, "openai_voice": str, "voice": str, "music": str,
+ "scenes": [{"vo": str, "bg": str, "pose": str, "props": [{"prompt": str, "x": float, "y": float, "w": float}], "enter": str, "action": str, "sfx": str}]}

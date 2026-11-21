@@ -1,0 +1,21 @@
+{
+  "title": "Genetics Myth vs Posture Decompression",
+  "style": "Vintage 1950s propaganda poster illustration, bold flat vector shapes, limited color palette of cream, muted teal, and deep socialist red, screenprint texture, dramatic lighting, clean silhouette lines",
+  "character": "19-year-old young man with short dark parted hair, wearing a plain crewneck cotton t-shirt and dark denim trousers, mechanical athletic anatomy with clear muscular definition and proportioned posture",
+  "ink": "#FFF7E6",
+  "outline": "#1C2426",
+  "myth": {
+    "prompt": "Vintage 1950s propaganda poster graphic. A dejected 19-year-old man sits slumped on a low wooden bench with curled spine and downcast gaze, dressed in a plain teal t-shirt and dark trousers. Looming overhead on the side is a massive stylized pointing finger and silhouette of a stern elder figure casting a shadow. Solid cream background with subtle distressed halftone texture, subject centered in lower frame, top 30% completely empty of foreground elements, no text, no words, no letters.",
+    "caption": "MYTH: HEIGHT IS 100% GENETICS ONLY",
+    "sub": "Nothing you do can change it",
+    "dur": 2.5,
+    "music": "Melancholy slow waltz on a scratchy vintage vinyl record, solo mournful clarinet and distant acoustic guitar, dusty and hopeless atmosphere, instrumental only"
+  },
+  "fact": {
+    "prompt": "Heroic vintage 1950s propaganda poster art. Low-angle triumphant perspective of the same 19-year-old man standing tall with broad shoulders, chest out, perfect spinal alignment and confident upright chin, wearing a clean teal t-shirt and dark trousers. Behind his silhouette radiates a dynamic red and cream geometric sunburst pattern with subtle vertical alignment measurement lines. Minimalist cream backdrop, upper 30% completely open space, no text, no typography, no symbols.",
+    "caption": "FACT: POSTURE AND DECOMPRESSION ADD INCHES",
+    "sub": "Spinal alignment unlocks your true height",
+    "dur": 3.0,
+    "music": "Triumphant energetic brass marching band fanfare, driving snare rolls, crisp trumpets and powerful low brass at 120 BPM, victorious and decisive, instrumental only"
+  }
+}

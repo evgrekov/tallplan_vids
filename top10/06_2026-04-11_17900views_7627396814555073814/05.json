@@ -1,0 +1,73 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": false,
+  "description": "",
+  "bbox_pct": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "texts": [
+  {
+   "text": "Want to maximize your height potential?",
+   "font": "Helvetica/Arial-style geometric sans",
+   "weight": "bold",
+   "size_pct_of_height": 7,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    13,
+    7,
+    74,
+    16
+   ]
+  },
+  {
+   "text": "Download GoTall & unlock your custom height boosting plan NOW!",
+   "font": "Open Sans-style humanist sans",
+   "weight": "italic regular",
+   "size_pct_of_height": 5.5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    6,
+    85,
+    88,
+    13
+   ]
+  }
+ ],
+ "graphics": [],
+ "inserts": [
+  {
+   "kind": "app_screenshot",
+   "description": "dark-mode GoTall app phone screen (Insights tab) with 'Overall Growth Status' header and metric cards (Growth 90% Done, Percentile, Dream Height 5'10.1, Dream Height Probability, Growth Optimized 70%, Real Height Change) plus bottom nav bar, surrounded by a bright green glow",
+   "bbox_pct": [
+    25.5,
+    23.7,
+    27,
+    57
+   ],
+   "has_device_frame": true,
+   "shape": "phone"
+  },
+  {
+   "kind": "logo",
+   "description": "GoTall app icon: black stylized 'G' with upward arrow on a glossy green rounded square",
+   "bbox_pct": [
+    61,
+    40.4,
+    19.5,
+    19.5
+   ],
+   "has_device_frame": false,
+   "shape": "rounded"
+  }
+ ]
+}

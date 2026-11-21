@@ -1,0 +1,85 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": false,
+  "description": "",
+  "bbox_pct": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "texts": [
+  {
+   "text": "Want to maximize your height potential?",
+   "font": "Helvetica/Arial bold sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 7,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    13,
+    7,
+    74,
+    15
+   ]
+  },
+  {
+   "text": "Download GoTall & unlock your custom height boosting plan NOW!",
+   "font": "Open Sans/Calibri italic sans-serif",
+   "weight": "regular italic",
+   "size_pct_of_height": 4.8,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    6,
+    85,
+    88,
+    11
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "shape",
+   "color": "#39FF14",
+   "description": "Soft green outer glow surrounding the phone screenshot, rounded-rectangle halo fading into white",
+   "bbox_pct": [
+    25,
+    23.5,
+    27.5,
+    57.5
+   ]
+  }
+ ],
+ "inserts": [
+  {
+   "kind": "app_screenshot",
+   "description": "Phone with dark-mode GoTall app UI: header with GoTall wordmark, 'Overall Growth Status' card, grid of stat tiles (Growth 90% Done, Percentile, Dream Height 5'10.1, Dream Height Probability Very High, Growth Optimized 70%, Real Height Change), bottom tab bar and 'Late bloomer' label",
+   "bbox_pct": [
+    25.5,
+    23.7,
+    26.8,
+    57
+   ],
+   "has_device_frame": false,
+   "shape": "phone"
+  },
+  {
+   "kind": "logo",
+   "description": "GoTall app icon: bright green rounded square with a dark stylized 'G' with an upward arrow",
+   "bbox_pct": [
+    61,
+    40.4,
+    19.5,
+    19.5
+   ],
+   "has_device_frame": false,
+   "shape": "rounded"
+  }
+ ]
+}

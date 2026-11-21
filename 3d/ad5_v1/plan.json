@@ -1,0 +1,86 @@
+{
+ "title": "Sleep Posture Height Growth",
+ "summary": "Explains how bad sleeping postures compress the spine and pitches an optimal posture app routine.",
+ "style": "2D vector cartoon animation, thick black outlines, smooth cel shading, mint green glowing highlights, soft gradient background.",
+ "render": "anime",
+ "character": "20-year-old stylized cartoon young man, simple expressive facial features, dark short hair, white t-shirt, dark shorts.",
+ "style_ref_times": [
+  5.0,
+  11.0
+ ],
+ "character_prompt": "Stylized 2D cartoon young man, 20 years old, clean thick black lineart, side profile, standing upright, wearing white t-shirt and dark shorts, plain neutral grey background, full body view, single character, no text.",
+ "keyframes": [
+  {
+   "name": "sad_slouch",
+   "part": 0,
+   "prompt": "Stylized 2D cartoon young man, 20 years old, slouched posture looking down sadly, full body side view, white t-shirt, dark shorts, clean vector style, plain background."
+  },
+  {
+   "name": "optimal_sleep",
+   "part": 1,
+   "prompt": "Stylized 2D cartoon young man, 20 years old, lying supine flat on a simple bed, peaceful expression, full body side view, clean lineart, plain background."
+  }
+ ],
+ "parts": [
+  {
+   "shots": [
+    {
+     "visual": "Camera fast push-in on the young man slouching sadly beside a tall measuring scale. Fast whoosh SFX.",
+     "vo": "You'll never hit your peak height if you sleep in the wrong position.",
+     "t": [
+      0,
+      3.5
+     ]
+    },
+    {
+     "visual": "Cut to the young man lying twisted on his stomach on a bed, an exaggerated cartoon spine overlay twisting awkwardly. Strain snap SFX.",
+     "vo": "Sleeping on your stomach or curled on your side crushes your spine all night.",
+     "t": [
+      3.5,
+      7.13
+     ]
+    },
+    {
+     "visual": "Camera tilts down as the character stands hunched over while an arrow pulls downward against a height marker. Heavy thud SFX.",
+     "vo": "It stops spinal decompression and robs you of your natural growth potential.",
+     "t": [
+      7.13,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    {
+     "visual": "Bed view, character rests flat in a neutral supine position; a bright mint green glowing spine overlay expands and elongates. Shimmer chime SFX.",
+     "vo": "There's an exact spinal decompression alignment to unlock maximum length overnight.",
+     "t": [
+      0,
+      3.37
+     ]
+    },
+    {
+     "visual": "Whip pan to the character standing, excitedly pointing downward toward the bottom screen. Fast swoosh SFX.",
+     "vo": "Drop your current height in the comments right now.",
+     "t": [
+      3.37,
+      5.92
+     ]
+    },
+    {
+     "visual": "Character sits in the lower third looking upward with an eager thumbs-up; upper frame remains open. Gentle mint glow pulse SFX.",
+     "vo": "Unlock the complete nighttime routine in TallPlan.",
+     "t": [
+      5.92,
+      8
+     ]
+    }
+   ]
+  }
+ ],
+ "voice": "Male, 20s, American accent, energetic and punchy explainer tone, ~240 WPM, crisp broadcast microphone.",
+ "tts_voice": "Fenrir",
+ "music": "Fast-paced synth-driven tech beat, 125 BPM, bouncy rhythmic pulse, punchy electronic bass, upbeat motivation, no vocals.",
+ "packshot": 15.87
+}

@@ -1,0 +1,172 @@
+{
+ "title": "Why You Are Shorter at Night & How to Fix It",
+ "voice": "Calm, clear, and confident educational tone with steady rhythmic pauses, ending at ~140 WPM",
+ "tts_voice": "Puck",
+ "music": "Warm and minimal lo-fi chillhop beat with soft electric piano chords, steady kick and rim click, 75 BPM",
+ "cuts": {
+  "stick_figure": "flat cut-paper minimalist black outline stick figure standing upright on white paper with clean die-cut edge",
+  "ruler": "flat cut-paper measuring ruler tape with simple black vertical tick marks and no numbers",
+  "arrow_down": "flat cut-paper bold red arrow pointing straight downward",
+  "spine": "flat cut-paper illustration of a human spine column with soft blue vertebrae discs",
+  "dead_hang": "flat cut-paper silhouette of a person hanging by hands from an overhead pull-up bar",
+  "lying_flat": "flat cut-paper silhouette of a person lying completely flat on their back on a thin mat",
+  "sleep_icon": "flat cut-paper sleeping crescent moon with a calm resting face"
+ },
+ "scenes": [
+  {
+   "vo": "You lose up to one centimeter of height every single day.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "ruler",
+     "x": 0.32,
+     "y": 0.45,
+     "w": 0.16
+    },
+    {
+     "cut": "stick_figure",
+     "x": 0.52,
+     "y": 0.46,
+     "w": 0.2
+    },
+    {
+     "cut": "arrow_down",
+     "x": 0.7,
+     "y": 0.42,
+     "w": 0.14
+    }
+   ]
+  },
+  {
+   "vo": "Don't panic. Gravity compresses your spinal discs while you walk and sit.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "DON'T PANIC",
+     "color": "#FF4D4D",
+     "x": 0.5,
+     "y": 0.28,
+     "w": 0.38
+    },
+    {
+     "cut": "spine",
+     "x": 0.5,
+     "y": 0.52,
+     "w": 0.26
+    }
+   ]
+  },
+  {
+   "vo": "Here are three simple habits to decompress your spine and reclaim your height.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "3 HABITS",
+     "color": "#FFE17D",
+     "x": 0.5,
+     "y": 0.36,
+     "w": 0.32
+    },
+    {
+     "tag": "TO STAND TALLER",
+     "color": "#FFFFFF",
+     "x": 0.5,
+     "y": 0.5,
+     "w": 0.44
+    }
+   ]
+  },
+  {
+   "vo": "Number one: the dead hang. Just sixty seconds on a bar gently decompresses the spine.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 1",
+     "color": "#FF99C8",
+     "x": 0.5,
+     "y": 0.26,
+     "w": 0.24
+    },
+    {
+     "cut": "dead_hang",
+     "x": 0.5,
+     "y": 0.47,
+     "w": 0.3
+    },
+    {
+     "tag": "60 SECONDS",
+     "color": "#FFFFFF",
+     "x": 0.5,
+     "y": 0.66,
+     "w": 0.34
+    }
+   ]
+  },
+  {
+   "vo": "Number two: lie flat on a firm floor for ten minutes after work to release tension.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 2",
+     "color": "#FCF6BD",
+     "x": 0.5,
+     "y": 0.28,
+     "w": 0.24
+    },
+    {
+     "cut": "lying_flat",
+     "x": 0.5,
+     "y": 0.48,
+     "w": 0.42
+    },
+    {
+     "tag": "10 MIN DECOMPRESS",
+     "color": "#E8F5E9",
+     "x": 0.5,
+     "y": 0.64,
+     "w": 0.42
+    }
+   ]
+  },
+  {
+   "vo": "Number three: sleep on your back so your discs naturally rehydrate overnight.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 3",
+     "color": "#B9FBC0",
+     "x": 0.5,
+     "y": 0.26,
+     "w": 0.24
+    },
+    {
+     "cut": "sleep_icon",
+     "x": 0.36,
+     "y": 0.48,
+     "w": 0.24
+    },
+    {
+     "cut": "stick_figure",
+     "x": 0.62,
+     "y": 0.48,
+     "w": 0.2
+    },
+    {
+     "tag": "BACK SLEEPING",
+     "color": "#E0F2FE",
+     "x": 0.5,
+     "y": 0.66,
+     "w": 0.4
+    }
+   ]
+  },
+  {
+   "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+   "clear": true,
+   "items": []
+  }
+ ],
+ "surface": "clean white matte table surface",
+ "cut_style": "flat cut-paper craft, simple bold shapes",
+ "openai_voice": "ash"
+}

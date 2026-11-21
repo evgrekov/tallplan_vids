@@ -1,0 +1,116 @@
+{
+ "title": "Daily Spine Compression",
+ "surface": "cream aged paper",
+ "cut_style": "vintage anatomy textbook engravings, sepia ink",
+ "openai_voice": "sage",
+ "voice": "friendly, clear, brisk narrator, about 170 WPM, warm and practical",
+ "cuts": {
+  "compressed_spine": "simple flat paper cutout of a human spine in vintage anatomy textbook engraving style, slightly compressed between gentle downward arrows, sepia ink, no text",
+  "desk_sitting": "simple flat paper cutout of a fully clothed man in a shirt and trousers sitting hunched at a desk, side view, old book engraving style, sepia ink, no text",
+  "shorter_measure": "simple flat paper cutout of a fully clothed man in a shirt and trousers standing beside a plain height ruler shape with no markings, old book engraving style, sepia ink, no text",
+  "hanging_body": "simple flat paper cutout of a smiling athlete doing a pull-up bar stretch exercise, gripping the gym bar with both hands, feet just off the floor, vintage anatomy textbook engraving style, sepia ink, no text",
+  "long_sitting_clock": "simple flat paper cutout of a chair beside a simple round clock face with no numbers or letters, vintage anatomy textbook engraving style, sepia ink, no text"
+ },
+ "scenes": [
+  {
+   "vo": "Your spine shrinks a little every single day.",
+   "clear": false,
+   "items": [
+    {
+     "cut": "compressed_spine",
+     "x": 0.47,
+     "y": 0.36,
+     "w": 0.34
+    },
+    {
+     "tag": "A LITTLE",
+     "color": "#F2D27A",
+     "x": 0.47,
+     "y": 0.58,
+     "w": 0.28
+    }
+   ]
+  },
+  {
+   "vo": "Gravity and sitting gently compress soft spinal discs.",
+   "clear": false,
+   "items": [
+    {
+     "cut": "desk_sitting",
+     "x": 0.22,
+     "y": 0.36,
+     "w": 0.24
+    },
+    {
+     "tag": "GRAVITY",
+     "color": "#D9C4A3",
+     "x": 0.72,
+     "y": 0.25,
+     "w": 0.22
+    }
+   ]
+  },
+  {
+   "vo": "That can make you measure slightly shorter tonight.",
+   "clear": false,
+   "items": [
+    {
+     "cut": "shorter_measure",
+     "x": 0.73,
+     "y": 0.48,
+     "w": 0.25
+    },
+    {
+     "tag": "TONIGHT",
+     "color": "#BFD7C1",
+     "x": 0.22,
+     "y": 0.58,
+     "w": 0.2
+    }
+   ]
+  },
+  {
+   "vo": "Hanging gives your spine space to rebound.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "hanging_body",
+     "x": 0.42,
+     "y": 0.39,
+     "w": 0.34
+    },
+    {
+     "tag": "REBOUND",
+     "color": "#C8D6E5",
+     "x": 0.69,
+     "y": 0.4,
+     "w": 0.24
+    }
+   ]
+  },
+  {
+   "vo": "Try one relaxed hang after long sitting.",
+   "clear": false,
+   "items": [
+    {
+     "cut": "long_sitting_clock",
+     "x": 0.23,
+     "y": 0.55,
+     "w": 0.22
+    },
+    {
+     "tag": "RELAXED HANG",
+     "color": "#E8B7A7",
+     "x": 0.66,
+     "y": 0.58,
+     "w": 0.34
+    }
+   ]
+  },
+  {
+   "vo": "Get your personal routine in TallPlan.",
+   "clear": true,
+   "items": []
+  }
+ ]
+}

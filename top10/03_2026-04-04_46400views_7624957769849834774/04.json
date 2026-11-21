@@ -1,0 +1,93 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Flat vector cartoon illustration in clean navy outlines, front view of a person's lower legs and feet standing side by side. Both legs wear slim dark navy (#1F3A68-ish) trousers with subtle fold shading, ending in rolled cuffs just above the ankles. Exposed skin ankles in soft peach tone, short white crew socks, and white low-top leather sneakers with navy outlines, light gray side panels, visible laces and thin white soles. A soft pale lavender-gray elliptical ground shadow sits beneath the shoes. Plain white background, even soft lighting, friendly minimal editorial style.",
+  "bbox_pct": [
+   19.9,
+   23.5,
+   74.5,
+   51.1
+  ]
+ },
+ "texts": [
+  {
+   "text": "Pants Feel Shorter Suddenly",
+   "font": "geometric/grotesque sans-serif (Poppins/Montserrat-like)",
+   "weight": "bold",
+   "size_pct_of_height": 6.5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    11.9,
+    8.4,
+    81.4,
+    6.8
+   ]
+  },
+  {
+   "text": "Legs growing fast",
+   "font": "rounded sans-serif (Nunito/Poppins-like)",
+   "weight": "semibold",
+   "size_pct_of_height": 4.2,
+   "color": "#5E9A3E",
+   "align": "center",
+   "bbox_pct": [
+    32.9,
+    80.4,
+    34.8,
+    4.5
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "shape",
+   "color": "#F5B82E",
+   "description": "Three short yellow motion/vibration lines radiating from the left ankle, indicating shaking or movement",
+   "bbox_pct": [
+    33.1,
+    43.8,
+    19.4,
+    9.2
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#F5B82E",
+   "description": "Three short yellow motion lines beside the right ankle, indicating the growth/vibration effect",
+   "bbox_pct": [
+    66.8,
+    50.6,
+    4.2,
+    5.7
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#1F2D4A",
+   "description": "Vertical double-headed arrow between two dashed horizontal guide lines, measuring the height gap at the right ankle",
+   "bbox_pct": [
+    70.5,
+    48.2,
+    5.6,
+    8.8
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#6B7280",
+   "description": "Gray-blue dashed horizontal line spanning the bottom of the slide, ending in an open arrowhead pointing right",
+   "bbox_pct": [
+    3.6,
+    89.6,
+    92.4,
+    4.5
+   ]
+  }
+ ],
+ "inserts": []
+}

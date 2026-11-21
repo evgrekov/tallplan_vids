@@ -1,0 +1,190 @@
+{
+  "title": "How Human Height Changed Around the World",
+  "character": "Full-body front standing pose of a friendly young man against a plain white background, flat 2D vector style, clean minimal shapes with subtle dark contours, soft flat colors, wearing a mint-green crewneck t-shirt, straight dark charcoal trousers, and white sneakers with black accents.",
+  "openai_voice": "ash",
+  "voice": "Bright, friendly, warm, educational, brisk, clear pacing.",
+  "music": "Light upbeat lo-fi electronic instrumental with soft synth plucks at 115 BPM, quiet under narration.",
+  "scenes": [
+    {
+      "vo": "Have you ever wondered why humans are getting taller?",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Young man in mint-green t-shirt and dark pants standing curiously, shrugging with a slight smile",
+          "in": 68.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "Over the last century, average height rose four inches.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Standing straight as his body smoothly elongates upwards with a proud smile",
+          "in": 68.0,
+          "from": 64.0,
+          "label": "Past 150 Years"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat icon of an upward growth chart arrow",
+          "label": "+4 inches"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "Better childhood nutrition and healthcare drove most of that jump.",
+      "kind": "photo",
+      "bg": null,
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Vertical close-up photo of fresh nutritious food including a glass of milk, crisp green apples, and whole grains on a clean wooden table in soft morning light",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Today, Dutch men stand the tallest, averaging six feet.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Tall confident young man standing proud in mint-green tee and dark trousers, waving cheerfully",
+          "in": 72.0,
+          "from": null,
+          "label": "Netherlands"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat icon of the Netherlands flag beside a gold winner trophy",
+          "label": "Tallest"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    },
+    {
+      "vo": "In fact, the Dutch grew eight full inches since 1850!",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Character stretching upward to impressive height, eyes wide in happy amazement",
+          "in": 72.0,
+          "from": 64.0,
+          "label": "+8 inches"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "In America, men average five-nine and women five-four.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Young man in mint-green tee standing relaxed with hands by his sides",
+          "in": 69.0,
+          "from": null,
+          "label": "US Men"
+        },
+        {
+          "pose": "Female counterpart character with brown hair in matching mint-green tee and dark jeans standing beside him smiling",
+          "in": 64.0,
+          "from": null,
+          "label": "US Women"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "Your genetics create your natural height potential range.",
+      "kind": "photo",
+      "bg": null,
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Clean 3D medical render of a glowing DNA double-helix spiral floating vertically against an abstract deep navy scientific background",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Childhood sleep, nutrition, and activity decide where you land.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Character standing with perfect upright posture and a healthy energized smile",
+          "in": 70.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat icon of a crescent moon with soft sleep sparkles",
+          "label": "Sleep"
+        },
+        {
+          "prompt": "Flat icon of fresh vegetables and running shoes",
+          "label": "Habits"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "So where will you end up in your range?",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Young man pointing warmly toward the camera with an engaging smile",
+          "in": null,
+          "from": null,
+          "label": "Your Potential"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    },
+    {
+      "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Excited happy character holding up a smartphone, gesturing enthusiastically to download",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Sitting All Day Hip Reset",
+  "style": "Graphic comic style with bold black ink lines, subtle halftone shading, cream background, clean plain setting, upbeat fitness-ad energy, portrait 2:3 composition.",
+  "character": "Same 20-year-old adult character throughout: warm medium-brown skin, short curly dark hair, athletic but approachable build, fully clothed in a teal fitted t-shirt, navy shorts, white crew socks, and simple white sneakers.",
+  "ink": "#FFD43B",
+  "outline": "#111111",
+  "openai_voice": "echo",
+  "voice": "Upbeat, friendly, brisk delivery with a light echo effect; energetic but clear.",
+  "exercises": [
+    {
+      "name": "HIP FLEXOR",
+      "dose": "30 SEC",
+      "a": "Portrait 2:3 image, graphic comic style with bold black ink lines and halftone shading on a plain cream background. Same 20-year-old adult character centered with generous margins, whole body visible, top 18% of the image empty, no text, no letters, no numbers. Side three-quarter camera angle. Half-kneeling starting pose: left knee and left shin rest on the floor behind the body, top of left foot flat on the floor; right foot is planted flat in front with right knee bent about 90 degrees; torso upright over the hips; pelvis neutral; both hands resting on the hips; shoulders relaxed; head facing forward.",
+      "b": "Portrait 2:3 image, same camera angle, same framing, same graphic comic style, plain cream background. Same character centered with generous margins, whole body visible, top 18% empty, no text, no letters, no numbers. Half-kneeling hip-flexor stretch end pose: left knee and left shin still touch the floor behind the body, top of left foot flat; right foot still planted flat in front; hips gently shifted forward so the right knee moves slightly over the right ankle; pelvis tucked under; torso tall and vertical; both hands still on hips; shoulders relaxed; head facing forward, showing a controlled forward rock."
+    },
+    {
+      "name": "GLUTE BRIDGE",
+      "dose": "10 REPS",
+      "a": "Portrait 2:3 image, graphic comic style with bold black ink lines and halftone shading on a plain cream background. Same 20-year-old adult character centered with generous margins, whole body visible, top 18% empty, no text, no letters, no numbers. Side three-quarter camera angle from the feet. Supine starting pose: character lies on their back on the floor; head, upper back, hips, and soles of both sneakers touch the floor; knees bent and pointing upward; feet hip-width apart and flat; arms straight along the sides with palms down; chin slightly tucked; spine neutral.",
+      "b": "Portrait 2:3 image, same camera angle, same framing, same graphic comic style, plain cream background. Same character centered with generous margins, whole body visible, top 18% empty, no text, no letters, no numbers. Glute bridge top pose: upper back, shoulders, head, arms, and both feet remain touching the floor; hips lifted high so knees, hips, and shoulders form a straight diagonal line; knees still bent and hip-width apart; feet flat under knees; palms press lightly into the floor; ribs down, pelvis level, glutes engaged."
+    }
+  ],
+  "result": "Portrait 2:3 image, graphic comic style with bold black ink lines and halftone shading on a plain cream background. Same 20-year-old adult character centered with generous margins, whole body visible, top 18% empty, no text, no letters, no numbers. Character standing tall and relaxed with great posture: feet hip-width apart, knees soft, pelvis neutral, chest open, shoulders down and back, neck long, chin level, arms relaxed at sides, proud happy smile, confident calm energy.",
+  "captions": {
+    "hook": "SITTING ALL DAY?",
+    "takeaway": "RESET YOUR POSTURE"
+  },
+  "lines": {
+    "hook": "Sitting all day can tighten hips and tip your pelvis forward.",
+    "ex1": "Hip flexor rocks open the front of your hips.",
+    "ex2": "Glute bridges fire your glutes for a steadier stance.",
+    "takeaway": "Two minutes daily helps you stand looser and taller."
+  }
+}

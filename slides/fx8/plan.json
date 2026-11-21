@@ -1,0 +1,36 @@
+{
+  "title": "Bird Dog Fix + Superman Hold",
+  "style": "Retro 1970s fitness poster illustration, grainy print texture, warm orange and brown palette, clean plain background, beautiful consistent hand-painted look, portrait 2:3 composition, same framing across slides.",
+  "character": "Same adult 19–20-year-old fitness character in every image: slim-athletic build, medium height, warm tan skin, shoulder-length dark brown wavy hair tied back, expressive friendly face, wearing a burnt-orange fitted t-shirt, dark brown athletic shorts, cream crew socks, and simple brown trainers.",
+  "ink": "#FFF3D6",
+  "outline": "#3B1F12",
+  "openai_voice": "ballad",
+  "voice": "Upbeat, friendly, brisk delivery with warm ballad energy.",
+  "exercises": [
+    {
+      "name": "BIRD DOG",
+      "dose": "8 REPS/SIDE",
+      "marks": true,
+      "a": "Portrait 2:3 retro 1970s fitness poster illustration, grainy orange and brown print, plain clean background, no text, no letters, no numbers. Top 18% of the image is empty background for captions. Same adult character centered with generous margins, whole body visible, side three-quarter camera angle. WRONG bird dog pose on a floor mat: character on hands and knees, left hand and right knee planted under shoulder and hip, right arm reaching forward but too high, left leg extended backward but lifted unevenly. Hips are visibly rotated open to the left, pelvis tilted, lower back sagging downward, ribs dropped, shoulders shrugged toward ears, neck tense, head looking up. Hands flat on floor, planted knee and toes touching the mat, extended foot pointed back. Make the form mistake obvious while keeping anatomy realistic.",
+      "b": "Portrait 2:3 retro 1970s fitness poster illustration, grainy orange and brown print, plain clean background, no text, no letters, no numbers. Top 18% of the image is empty background for captions. Same adult character centered with generous margins, whole body visible, same side three-quarter camera angle and framing. RIGHT bird dog pose on a floor mat: character on hands and knees, left hand and right knee planted directly under shoulder and hip, right arm extended straight forward at shoulder height with palm facing inward, left leg extended straight back at hip height with toes pointing down. Hips square to the floor, pelvis level, spine long and neutral, ribs gently lifted, shoulders relaxed away from ears, neck aligned with spine, eyes looking down at the mat. Hands flat on floor, planted knee and toes touching the mat, body balanced and controlled."
+    },
+    {
+      "name": "SUPERMAN HOLD",
+      "dose": "10 REPS",
+      "marks": false,
+      "a": "Portrait 2:3 retro 1970s fitness poster illustration, grainy orange and brown print, plain clean background, no text, no letters, no numbers. Top 18% of the image is empty background for captions. Same adult character centered with generous margins, whole body visible, same clean floor mat and consistent poster style. Superman dynamic lower pose, side three-quarter camera angle: character lying face down on the mat, legs straight and hip-width apart with tops of feet resting on the floor, arms stretched forward beside ears with palms facing down and fingertips lightly touching the floor. Chest, thighs, and pelvis are on the mat, neck long, face angled slightly down, shoulders relaxed, body straight from fingertips to toes.",
+      "b": "Portrait 2:3 retro 1970s fitness poster illustration, grainy orange and brown print, plain clean background, no text, no letters, no numbers. Top 18% of the image is empty background for captions. Same adult character centered with generous margins, whole body visible, same side three-quarter camera angle and framing. Superman dynamic lift pose: character lying face down with pelvis and lower belly grounded on the mat while chest lifts slightly, both straight arms raised forward off the floor beside the ears, palms facing inward, both straight legs lifted a few inches off the floor behind the body, toes pointed back. Glutes and upper back engaged, neck long, eyes down, shoulders away from ears, smooth controlled lift with no crunching."
+    }
+  ],
+  "result": "Portrait 2:3 retro 1970s fitness poster illustration, grainy orange and brown print, plain clean background, no text, no letters, no numbers. Top 18% of the image is empty background for captions. Same adult character centered with generous margins, whole body visible, standing tall and relaxed in the same burnt-orange t-shirt, dark brown shorts, cream socks, and brown trainers. Feet hip-width apart and flat on the floor, knees soft, pelvis neutral, chest open, shoulders relaxed down and back, neck long, chin level, arms resting naturally by sides. Character looks proud and happy with great upright posture, calm confident smile, warm retro poster lighting.",
+  "captions": {
+    "hook": "BIRD DOG: YOU'RE WRONG",
+    "takeaway": "DAILY · STAND TALL"
+  },
+  "lines": {
+    "hook": "Twisting hips and sagging backs ruin bird dogs.",
+    "ex1": "Keep hips square, ribs zipped, and reach long.",
+    "ex2": "Superman holds light up your back line for standing tall.",
+    "takeaway": "Two minutes daily, smooth and tall."
+  }
+}

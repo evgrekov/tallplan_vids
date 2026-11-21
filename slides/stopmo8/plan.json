@@ -1,0 +1,145 @@
+{
+ "title": "5-Minute Height & Posture Habit",
+ "surface": "Pastel baby-blue textured paper desk with soft natural window shadows",
+ "cut_style": "Cute 3D-looking felt and craft fabric cutouts with visible embroidery stitching along edges, kawaii pastel aesthetic",
+ "openai_voice": "coral",
+ "voice": "Bright, friendly female teacher voice with an upbeat, encouraging rhythm, ~135 WPM",
+ "music": "Cozy chill lo-fi hip hop instrumental with warm mellow electric piano chords, soft drum groove, and gentle vinyl crackle, 80 BPM",
+ "cuts": {
+  "slouched_figure": "Kawaii felt stick figure with slightly rounded slouched shoulders and cute embroidered face with stitched perimeter edges",
+  "sparkle_star": "Cute pastel yellow felt sparkling star with stitched border and soft dimensional plush appearance",
+  "tall_posture_figure": "Kawaii felt stick figure standing upright and tall with confident posture and cute stitched details",
+  "wall_stand_figure": "Felt figure standing straight flat against a vertical felt ruler bar, neat stitched edges",
+  "cat_cow_figure": "Cute felt figure on hands and knees arching back gracefully in spinal stretch pose, stitched outline",
+  "chest_opener_figure": "Cute felt figure stretching arms wide and shoulders back with open upright torso, stitched fabric edges"
+ },
+ "scenes": [
+  {
+   "vo": "Look taller tonight with this quick habit.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "slouched_figure",
+     "x": 0.35,
+     "y": 0.46,
+     "w": 0.26
+    },
+    {
+     "cut": "sparkle_star",
+     "x": 0.65,
+     "y": 0.36,
+     "w": 0.18
+    },
+    {
+     "tag": "STAND TALLER",
+     "color": "#FFF9C4",
+     "x": 0.65,
+     "y": 0.54,
+     "w": 0.28
+    }
+   ]
+  },
+  {
+   "vo": "Slouching steals height, but three habits decompress your spine.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "3 SIMPLE FIXES",
+     "color": "#E1F5FE",
+     "x": 0.5,
+     "y": 0.3,
+     "w": 0.36
+    },
+    {
+     "cut": "tall_posture_figure",
+     "x": 0.5,
+     "y": 0.54,
+     "w": 0.26
+    }
+   ]
+  },
+  {
+   "vo": "Number one: wall stands reset spinal alignment.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 1",
+     "color": "#F8BBD0",
+     "x": 0.3,
+     "y": 0.28,
+     "w": 0.18
+    },
+    {
+     "tag": "WALL STAND",
+     "color": "#FFFFFF",
+     "x": 0.6,
+     "y": 0.28,
+     "w": 0.3
+    },
+    {
+     "cut": "wall_stand_figure",
+     "x": 0.5,
+     "y": 0.52,
+     "w": 0.32
+    }
+   ]
+  },
+  {
+   "vo": "Number two: daily cat-cows mobilize tight vertebrae.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 2",
+     "color": "#FFE082",
+     "x": 0.3,
+     "y": 0.28,
+     "w": 0.18
+    },
+    {
+     "tag": "CAT-COW",
+     "color": "#FFFFFF",
+     "x": 0.58,
+     "y": 0.28,
+     "w": 0.26
+    },
+    {
+     "cut": "cat_cow_figure",
+     "x": 0.5,
+     "y": 0.52,
+     "w": 0.35
+    }
+   ]
+  },
+  {
+   "vo": "Number three: doorway chest openers fix rounded shoulders.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 3",
+     "color": "#C8E6C9",
+     "x": 0.3,
+     "y": 0.28,
+     "w": 0.18
+    },
+    {
+     "tag": "CHEST OPENER",
+     "color": "#FFFFFF",
+     "x": 0.62,
+     "y": 0.28,
+     "w": 0.32
+    },
+    {
+     "cut": "chest_opener_figure",
+     "x": 0.5,
+     "y": 0.52,
+     "w": 0.32
+    }
+   ]
+  },
+  {
+   "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+   "clear": true,
+   "items": []
+  }
+ ]
+}

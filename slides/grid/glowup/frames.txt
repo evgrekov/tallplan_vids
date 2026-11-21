@@ -1,0 +1,7 @@
+file '/Users/ea/Desktop/go_tall_tiktok/slides/grid/glowup/frame0.png'
+duration 3.692
+file '/Users/ea/Desktop/go_tall_tiktok/slides/grid/glowup/frame1.png'
+duration 3.692
+file '/Users/ea/Desktop/go_tall_tiktok/slides/grid/glowup/clean.png'
+duration 2.200
+file '/Users/ea/Desktop/go_tall_tiktok/slides/grid/glowup/clean.png'

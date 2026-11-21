@@ -1,0 +1,48 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Flat vector cartoon illustration in a simple, bold style with thick black outlines and solid fills, on a plain white background. A bald, faceless figure with a peach skin tone sits sideways on a bright yellow wooden chair with a tall straight backrest. The figure wears a light blue short-sleeve t-shirt and navy blue trousers, and black shoes. The torso is slumped forward into a rounded, hunched posture, with the head hanging low and tilted down, and the arms resting loosely on the thighs. Three short red zigzag lines are drawn on the lower back to suggest pain. A soft light grey elliptical floor shadow sits beneath the chair legs and the feet. Even, soft studio lighting, clean and minimal composition.",
+  "bbox_pct": [
+   23.5,
+   25,
+   56,
+   50
+  ]
+ },
+ "texts": [
+  {
+   "text": "Sitting for hours",
+   "font": "Open Sans / Source Sans style humanist sans-serif",
+   "weight": "bold",
+   "size_pct_of_height": 6,
+   "color": "#2A2A2A",
+   "align": "center",
+   "bbox_pct": [
+    25,
+    9.6,
+    51.3,
+    6.8
+   ]
+  },
+  {
+   "text": "Compresses your spine",
+   "font": "Lora / Merriweather style serif",
+   "weight": "italic regular",
+   "size_pct_of_height": 5,
+   "color": "#2A2A2A",
+   "align": "center",
+   "bbox_pct": [
+    22.9,
+    80,
+    56,
+    6.3
+   ]
+  }
+ ],
+ "graphics": [],
+ "inserts": []
+}

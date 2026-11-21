@@ -1,0 +1,34 @@
+{
+  "title": "Can't Touch Your Toes? Hamstring Reset",
+  "style": "Dynamic manga ink illustration with speed lines, clean white background, portrait 2:3, same centered character throughout, generous margins, top 18% of every image left empty for captions, no text, letters, numbers, logos, or UI inside the artwork.",
+  "character": "One adult character, 19–20 years old, athletic-slim build, friendly face, short dark hair, fully clothed in a fitted sleeveless tank top, mid-thigh athletic shorts, ankle socks, and simple trainers; consistent face, outfit, proportions, and camera angle in every slide.",
+  "ink": "#111111",
+  "outline": "#FFFFFF",
+  "openai_voice": "ash",
+  "voice": "Upbeat, friendly, brisk delivery with clear emphasis for word-by-word subtitles.",
+  "exercises": [
+    {
+      "name": "FORWARD FOLD",
+      "dose": "30 SEC",
+      "a": "Portrait 2:3 dynamic manga ink illustration, white background with subtle speed lines, same adult character centered with generous margins, top 18% empty, whole body visible, no text or symbols. Standing side-front three-quarter view, feet hip-width apart flat on the floor, knees slightly soft, hips pushed back into a hip hinge, spine long, torso angled about halfway forward, arms hanging down with hands resting lightly on the fronts of the thighs just above the knees, neck neutral, gaze down toward the floor.",
+      "b": "Portrait 2:3 dynamic manga ink illustration, white background with subtle speed lines, same adult character centered with generous margins, top 18% empty, whole body visible, no text or symbols. Same side-front three-quarter camera angle and framing as pose a. Feet hip-width apart flat on the floor, knees softly bent, hips high, torso folded forward from the hips, belly closer to thighs, arms hanging straight down, fingertips reaching toward the toes and nearly touching the floor, head relaxed between upper arms, hamstrings visibly stretched but controlled."
+    },
+    {
+      "name": "SEATED STRETCH",
+      "dose": "30 SEC",
+      "a": "Portrait 2:3 dynamic manga ink illustration, white background with subtle speed lines, same adult character centered with generous margins, top 18% empty, whole body visible, no text or symbols. Seated on the floor in side-front three-quarter view, both legs extended straight forward with heels touching the floor and toes pointing upward, knees nearly straight, spine tall, chest open, hips grounded, hands placed beside the thighs on the floor for support, shoulders relaxed and down.",
+      "b": "Portrait 2:3 dynamic manga ink illustration, white background with subtle speed lines, same adult character centered with generous margins, top 18% empty, whole body visible, no text or symbols. Same side-front three-quarter camera angle and framing as pose a. Seated on the floor with both legs extended straight forward, heels on the floor, toes up, knees softly unlocked, hips grounded, torso hinging forward from the hips with a long back, arms reaching toward the feet, hands holding the ankles or reaching toward the toes, head aligned with spine, shoulders relaxed."
+    }
+  ],
+  "result": "Portrait 2:3 dynamic manga ink illustration, clean white background with light celebratory speed lines, same adult character centered with generous margins, top 18% empty, whole body visible, no text or symbols. Character standing tall and relaxed in three-quarter view, feet flat hip-width apart, knees soft, pelvis neutral, chest open, shoulders down and back, neck long, chin level, arms relaxed at sides, proud happy smile, confident posture as if feeling lighter and more upright.",
+  "captions": {
+    "hook": "CAN'T TOUCH TOES?",
+    "takeaway": "DAILY · 2 MIN"
+  },
+  "lines": {
+    "hook": "Can't touch your toes? Your hamstrings may be pulling posture down.",
+    "ex1": "Forward folds decompress your back and teach hips to hinge.",
+    "ex2": "Seated stretches lengthen hamstrings so standing feels easier.",
+    "takeaway": "Move gently daily, then stand tall and relaxed."
+  }
+}

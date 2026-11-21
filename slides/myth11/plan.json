@@ -1,0 +1,21 @@
+{
+  "title": "Phone Neck Myth vs Fact",
+  "style": "Dark cinematic horror movie poster style, deep vignette shadows, dramatic high contrast, sickly bioluminescent green rim light, grainy film texture, photorealistic, 8k resolution",
+  "character": "20-year-old lean athletic male, short messy dark hair, wearing a fitted black cotton crewneck t-shirt and dark jeans",
+  "ink": "#FFFFFF",
+  "outline": "#0A1A0F",
+  "myth": {
+    "prompt": "Side profile shot of a 20-year-old athletic male in a black t-shirt, severely hunched forward in an exaggerated tech-neck posture shaped like a curved question mark, staring downward into an ominous glowing smartphone held in his hands, sickly green neon glow illuminating his strained face and tense cervical spine, deep horror shadows, plain dark background, top 30 percent empty negative space, no text, no letters",
+    "caption": "MYTH: PHONE NECK IS JUST A MEME",
+    "sub": "It does not steal real height",
+    "dur": 2.5,
+    "music": "Dark horror ambient drone with deep muffled heartbeat pulses, tense sub-bass rumble, atmospheric eerie suspense, no vocals"
+  },
+  "fact": {
+    "prompt": "Side profile of the same 20-year-old male standing perfectly upright with impeccable posture, chin tucked, elongated neck aligned with spine, shoulders back, holding the smartphone downward at his side powered off, clean crisp white backlighting cutting through subtle green rim light, vertical alignment laser line overlay along his spine, plain dark studio background, top 30 percent empty negative space, no text, no letters",
+    "caption": "FACT: FORWARD HEAD HIDES TWO INCHES",
+    "sub": "Neck realignment restores your true stature",
+    "dur": 3.0,
+    "music": "Driving dark synthwave at 118 BPM, energetic punchy analog bassline, sharp synth arpeggios, powerful electronic drop, no vocals"
+  }
+}

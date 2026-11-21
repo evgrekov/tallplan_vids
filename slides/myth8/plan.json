@@ -1,0 +1,21 @@
+{
+ "title": "Sleep and Height Growth Myth vs Fact",
+ "style": "Anime shonen aesthetic, high-contrast dynamic cel shading, crisp linework, speed lines, cinematic dramatic lighting, vivid colors, no text, no watermark",
+ "character": "19-year-old Japanese male athlete, short messy dark hair, sharp jawline, intense focused eyes, wearing a black crewneck athletic t-shirt and dark gray workout shorts",
+ "ink": "#FFFFFF",
+ "outline": "#000000",
+ "myth": {
+  "prompt": "Anime shonen visual style, portrait 2:3 aspect ratio. A 19-year-old Japanese young man slumped and hunched over on a bed in a dark bedroom at 3 AM. Hollow exhausted eyes, sunken eye bags, pale skin illuminated strictly by the harsh blue glow of a smartphone screen. Messy unkempt dark hair, wearing an oversized dark t-shirt. Melancholy defeated atmosphere, subdued desaturated navy and charcoal tones. Minimalist dark bedroom background, subject centered, top 30 percent of the frame strictly empty with head starting below the top third line, completely clean of text, letters, or numbers.",
+  "caption": "MYTH: SLEEP DOES NOT AFFECT HEIGHT",
+  "sub": "Late nights won't stunt my growth",
+  "dur": 2.8,
+  "music": "Gloomy dull ambient ticking clock, slow minor synth drone, anxious muffled bass pulse, no vocals, instrumental only"
+ },
+ "fact": {
+  "prompt": "Anime shonen visual style, portrait 2:3 aspect ratio. The same 19-year-old Japanese young man waking up at dawn, standing perfectly upright with powerful tall posture and confident energetic expression. Radiant golden morning sunlight piercing through the room, vibrant cyan and golden power aura radiating around his shoulders. Visible glowing vertical posture alignment beam along his spine as visual measurement. Crisp defined muscles through a fitted black athletic t-shirt and dark shorts. Minimalist clean gradient background, subject centered, top 30 percent of the frame strictly empty with head starting below the top third line, completely clean of text, letters, or numbers.",
+  "caption": "FACT: DEEP SLEEP UNLOCKS PEAK HEIGHT",
+  "sub": "Spinal decompression and recovery maximize posture",
+  "dur": 3.2,
+  "music": "Explosive anime opening rock, 170 BPM, driving electric guitar riffs, heavy double bass drums, soaring synth leads, high energy instrumental drop, no vocals"
+ }
+}

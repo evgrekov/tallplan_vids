@@ -1,0 +1,140 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Four translucent glowing anatomical human figures standing in side profile on a plain white background, arranged left to right in a progression from poor to good posture. The first figure on the left is pale peach/orange, slouched with a rounded upper back, head jutting forward and downward, glowing spine visible. The second is warm amber-yellow, slightly less slouched, head more upright. The third is deep orange, nearly upright with a straighter spine. The fourth on the right is bright lime-green, fully upright with a tall straight posture, head level, glowing spine visible through translucent skin. Soft luminous rim lighting, smooth 3D medical-illustration style, subtle inner glow, clean studio lighting, minimal shadows, neutral white background.",
+  "bbox_pct": [
+   8,
+   33,
+   85,
+   62
+  ]
+ },
+ "texts": [
+  {
+   "text": "FIX YOUR",
+   "font": "bold condensed sans-serif (Anton/Bebas-like)",
+   "weight": "bold",
+   "size_pct_of_height": 12,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    21,
+    2,
+    58,
+    13
+   ]
+  },
+  {
+   "text": "POSTURE FAST",
+   "font": "bold condensed sans-serif (Anton/Bebas-like)",
+   "weight": "bold",
+   "size_pct_of_height": 13,
+   "color": "#FF5A1F",
+   "align": "center",
+   "bbox_pct": [
+    9,
+    13,
+    82,
+    14
+   ]
+  },
+  {
+   "text": "Look taller in minutes",
+   "font": "regular sans-serif (Helvetica/Arial-like)",
+   "weight": "regular",
+   "size_pct_of_height": 3.8,
+   "color": "#333333",
+   "align": "center",
+   "bbox_pct": [
+    32,
+    27,
+    36,
+    4
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "arrow",
+   "color": "#FF5A1F",
+   "description": "Curved orange arrow pointing up-right, placed between figure 1 and figure 2",
+   "bbox_pct": [
+    23,
+    66,
+    10,
+    5
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#FF5A1F",
+   "description": "Curved orange arrow pointing up-right, placed between figure 2 and figure 3",
+   "bbox_pct": [
+    45,
+    66,
+    10,
+    5
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#FF5A1F",
+   "description": "Curved orange arrow pointing up-right, placed between figure 3 and figure 4",
+   "bbox_pct": [
+    66,
+    66,
+    10,
+    5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#E8432A",
+   "description": "Vertical dotted red-orange curved spine-alignment line beside figure 1, showing curvature",
+   "bbox_pct": [
+    9,
+    45,
+    4,
+    25
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#E8432A",
+   "description": "Vertical dotted red-orange curved spine-alignment line beside figure 2, showing reduced curvature",
+   "bbox_pct": [
+    32,
+    43,
+    4,
+    22
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#E8432A",
+   "description": "Short dotted red-orange curved line beside figure 3, nearly straight",
+   "bbox_pct": [
+    55,
+    42,
+    3,
+    22
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#3DAA1E",
+   "description": "Vertical dotted green straight line with upward arrowhead beside figure 4, indicating height gain",
+   "bbox_pct": [
+    88,
+    42,
+    3,
+    46
+   ]
+  }
+ ],
+ "inserts": []
+}

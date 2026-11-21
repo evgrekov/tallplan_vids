@@ -1,0 +1,121 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Stylized anatomical silhouette of a bald man in side profile standing upright on bare feet, head tilted back and gazing upward, hands resting on the lower back at the hips. The body is a dark amber-to-brown silhouette with a warm orange rim light along its edges and a soft orange glow beneath the feet. The spine is highlighted as a glowing column of bright yellow-orange vertebrae running from the neck to the lower back, with a subtle inner ember glow. Clean digital medical-illustration style, smooth shading, centered composition, pure white background.",
+  "bbox_pct": [
+   41.3,
+   32.3,
+   18.4,
+   65.2
+  ]
+ },
+ "texts": [
+  {
+   "text": "4.",
+   "font": "Bebas Neue / Anton-style condensed bold sans",
+   "weight": "bold",
+   "size_pct_of_height": 16,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    16.4,
+    1.2,
+    5.5,
+    11.5
+   ]
+  },
+  {
+   "text": "STANDING",
+   "font": "Bebas Neue / Anton-style condensed bold sans",
+   "weight": "bold",
+   "size_pct_of_height": 16,
+   "color": "#FF4A12",
+   "align": "left",
+   "bbox_pct": [
+    28.5,
+    1.2,
+    48.0,
+    11.5
+   ]
+  },
+  {
+   "text": "BACK EXTENSION",
+   "font": "Bebas Neue / Anton-style condensed bold sans",
+   "weight": "bold",
+   "size_pct_of_height": 16,
+   "color": "#FF4A12",
+   "align": "center",
+   "bbox_pct": [
+    9.4,
+    14.0,
+    81.4,
+    12.5
+   ]
+  },
+  {
+   "text": "Reverses daily slouching",
+   "font": "Roboto Condensed / Barlow Semi Condensed-style sans",
+   "weight": "medium",
+   "size_pct_of_height": 4.5,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    28.9,
+    27.1,
+    42.4,
+    4.4
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#FF4A12",
+   "description": "Short horizontal orange dash to the left of the subtitle, flanking it",
+   "bbox_pct": [
+    19.2,
+    29.0,
+    7.3,
+    0.5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#FF4A12",
+   "description": "Short horizontal orange dash to the right of the subtitle, flanking it",
+   "bbox_pct": [
+    73.6,
+    29.0,
+    7.2,
+    0.5
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#FF4A12",
+   "description": "Thick curved arrow sweeping up and to the right beside the figure's back, with a filled triangular arrowhead pointing up-left toward the top",
+   "bbox_pct": [
+    54.5,
+    39.5,
+    11.0,
+    30.0
+   ]
+  },
+  {
+   "type": "dotted_trail",
+   "color": "#FF4A12",
+   "description": "Trail of fading orange dots leading from the figure's lower back up to the base of the curved arrow, decreasing in opacity toward the bottom",
+   "bbox_pct": [
+    54.5,
+    60.5,
+    8.5,
+    8.5
+   ]
+  }
+ ],
+ "inserts": []
+}

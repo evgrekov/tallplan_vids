@@ -1,0 +1,60 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#f6f6f6 off-white with subtle paper texture"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Flat cartoon-style illustration with thick dark outlines and soft cel shading. A woman with shoulder-length brown hair and closed, smiling eyes is mid-yawn with her mouth wide open. Both arms are raised overhead with clenched fists in a full body stretch. She wears a light blue short-sleeve t-shirt with a subtle fabric texture and dark navy pants. A tall vertical blue measuring ruler with tick marks stands to her left. Three small golden-yellow four-point sparkle stars float around her head and arms. Clean white background, no text.",
+  "bbox_pct": [
+   32,
+   24,
+   44,
+   53
+  ]
+ },
+ "texts": [
+  {
+   "text": "YOU STRETCH LIKE YOU JUST WOKE UP",
+   "font": "geometric/grotesque sans (Montserrat or Gotham-like)",
+   "weight": "bold",
+   "size_pct_of_height": 4.2,
+   "color": "#3a3a3a",
+   "align": "center",
+   "bbox_pct": [
+    5.7,
+    17.2,
+    88.6,
+    4.6
+   ]
+  },
+  {
+   "text": "BODY LOADING",
+   "font": "geometric/grotesque sans (Montserrat or Gotham-like)",
+   "weight": "bold",
+   "size_pct_of_height": 3.2,
+   "color": "#3a3a3a",
+   "align": "center",
+   "bbox_pct": [
+    36.3,
+    86.4,
+    29.8,
+    3.3
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "shape",
+   "color": "#3b7fd6",
+   "description": "Progress bar: rounded white track with dark slate outline, filled about 55% from the left with a blue gradient bar with subtle texture, reading as a loading indicator",
+   "bbox_pct": [
+    29.2,
+    79.8,
+    42.4,
+    3.4
+   ]
+  }
+ ],
+ "inserts": []
+}

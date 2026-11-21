@@ -1,0 +1,166 @@
+{
+ "title": "Fix Your Posture, Stand Two Inches Taller",
+ "voice": "Calm, confident, educational male tone speaking with clear and measured pacing at ~140 WPM",
+ "tts_voice": "Puck",
+ "music": "Mellow lo-fi hip-hop beat with gentle electric piano chords and soft vinyl crackle at 80 BPM",
+ "cuts": {
+  "phone_slouch": "Cut-paper illustration of a modern smartphone with a dark silhouette of a hunched, slouched figure on the screen",
+  "slouched_posture": "Cut-paper illustration of a slumped stick figure with hunched shoulders and forward head posture",
+  "upright_posture": "Cut-paper illustration of a tall, upright stick figure standing straight with aligned spine and proud posture",
+  "wall_slide_figure": "Cut-paper illustration of a person flat against a wall performing arm slides with bent elbows",
+  "cobra_stretch_figure": "Cut-paper illustration of a figure lying on stomach arching the chest upward in a gentle cobra yoga stretch",
+  "plank_figure": "Cut-paper illustration of a person holding a flat, rigid forearm plank pose on the ground"
+ },
+ "scenes": [
+  {
+   "vo": "She swiped left because of THIS.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "phone_slouch",
+     "x": 0.5,
+     "y": 0.42,
+     "w": 0.36
+    },
+    {
+     "tag": "SWIPED LEFT",
+     "color": "#FF4D4D",
+     "x": 0.5,
+     "y": 0.65,
+     "w": 0.32
+    }
+   ]
+  },
+  {
+   "vo": "Most guys look two inches shorter just from poor posture.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "slouched_posture",
+     "x": 0.35,
+     "y": 0.44,
+     "w": 0.24
+    },
+    {
+     "cut": "upright_posture",
+     "x": 0.65,
+     "y": 0.44,
+     "w": 0.24
+    },
+    {
+     "tag": "+2 INCHES",
+     "color": "#4CAF50",
+     "x": 0.65,
+     "y": 0.66,
+     "w": 0.26
+    }
+   ]
+  },
+  {
+   "vo": "Fix how you carry yourself in three simple daily moves.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "3 FIXES",
+     "color": "#FFE066",
+     "x": 0.5,
+     "y": 0.38,
+     "w": 0.28
+    },
+    {
+     "tag": "STAND TALLER",
+     "color": "#F0F0F0",
+     "x": 0.5,
+     "y": 0.54,
+     "w": 0.36
+    }
+   ]
+  },
+  {
+   "vo": "Number one: wall slides to pull your rounded shoulders back.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 1",
+     "color": "#FF8C42",
+     "x": 0.5,
+     "y": 0.27,
+     "w": 0.18
+    },
+    {
+     "cut": "wall_slide_figure",
+     "x": 0.5,
+     "y": 0.48,
+     "w": 0.32
+    },
+    {
+     "tag": "SHOULDERS BACK",
+     "color": "#E8F0FE",
+     "x": 0.5,
+     "y": 0.67,
+     "w": 0.38
+    }
+   ]
+  },
+  {
+   "vo": "Number two: cobra stretches to decompress tight spinal joints.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 2",
+     "color": "#4D96FF",
+     "x": 0.5,
+     "y": 0.27,
+     "w": 0.18
+    },
+    {
+     "cut": "cobra_stretch_figure",
+     "x": 0.5,
+     "y": 0.48,
+     "w": 0.38
+    },
+    {
+     "tag": "SPINE RELIEF",
+     "color": "#E8F0FE",
+     "x": 0.5,
+     "y": 0.67,
+     "w": 0.34
+    }
+   ]
+  },
+  {
+   "vo": "Number three: daily core planks so your spine holds upright effortlessly.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 3",
+     "color": "#6BCB77",
+     "x": 0.5,
+     "y": 0.27,
+     "w": 0.18
+    },
+    {
+     "cut": "plank_figure",
+     "x": 0.5,
+     "y": 0.48,
+     "w": 0.38
+    },
+    {
+     "tag": "CORE STRENGTH",
+     "color": "#E8F0FE",
+     "x": 0.5,
+     "y": 0.67,
+     "w": 0.36
+    }
+   ]
+  },
+  {
+   "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+   "clear": true,
+   "items": []
+  }
+ ],
+ "surface": "clean white matte table surface",
+ "cut_style": "flat cut-paper craft, simple bold shapes",
+ "openai_voice": "ash"
+}

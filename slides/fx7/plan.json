@@ -1,0 +1,36 @@
+{
+  "title": "Chin Tucks: You're Wrong",
+  "style": "Clean medical infographic illustration, blue and white palette, subtle cervical spine anatomy lines, soft shading, plain clean background, portrait 2:3 composition, beautiful and consistent across all slides.",
+  "character": "Same 19–20-year-old adult character in every image, athletic but realistic build, fully clothed in a fitted blue t-shirt or tank top and dark athletic shorts, simple sneakers, friendly expressive face.",
+  "ink": "#FFFFFF",
+  "outline": "#0B2A4A",
+  "openai_voice": "marin",
+  "voice": "Upbeat, friendly, brisk, clear coaching tone.",
+  "exercises": [
+    {
+      "name": "CHIN TUCK",
+      "dose": "10 REPS",
+      "marks": true,
+      "a": "Portrait 2:3 clean medical infographic illustration, subject centered with generous margins, top 18% of the image empty, whole body visible, no text, letters, or numbers. Same young adult character in blue t-shirt, dark shorts, sneakers. Side view facing left, standing on a plain white floor, both feet flat hip-width apart, knees softly straight, arms relaxed at sides with palms facing thighs. Common wrong chin tuck form: the character tilts the head downward like a nod, chin dropped toward the chest, eyes looking at the floor, neck flexed forward, upper back slightly rounded, shoulders mildly shrugged. Subtle blue cervical spine anatomy lines visible, clean blue-and-white background, same camera angle and framing.",
+      "b": "Portrait 2:3 clean medical infographic illustration, subject centered with generous margins, top 18% of the image empty, whole body visible, no text, letters, or numbers. Same young adult character in blue t-shirt, dark shorts, sneakers. Same side view facing left, standing on a plain white floor, both feet flat hip-width apart, knees softly straight, arms relaxed at sides with palms facing thighs. Correct chin tuck form: head glides straight backward horizontally, chin stays level with a small double-chin look, eyes looking straight ahead, ears stacked over shoulders, neck long, chest open, shoulders relaxed down, spine tall. Subtle blue cervical spine anatomy lines visible, clean blue-and-white background, same camera angle and framing."
+    },
+    {
+      "name": "NECK SIDE STRETCH",
+      "dose": "8 REPS",
+      "marks": false,
+      "a": "Portrait 2:3 clean medical infographic illustration, subject centered with generous margins, top 18% of the image empty, whole body visible, no text, letters, or numbers. Same young adult character in blue t-shirt, dark shorts, sneakers. Front three-quarter view, standing on a plain white floor, both feet flat hip-width apart, knees straight but relaxed, torso tall. Left hand reaches over the crown of the head and gently rests on the right side of the head, left elbow angled outward; head tilts left with left ear moving toward left shoulder; right shoulder drops down and right arm reaches diagonally toward the floor beside the right thigh, fingers long. Subtle blue neck anatomy lines, clean blue-and-white background, same camera angle and framing.",
+      "b": "Portrait 2:3 clean medical infographic illustration, subject centered with generous margins, top 18% of the image empty, whole body visible, no text, letters, or numbers. Same young adult character in blue t-shirt, dark shorts, sneakers. Same front three-quarter view, standing on a plain white floor, both feet flat hip-width apart, knees straight but relaxed, torso tall. Mirror end of the movement: right hand reaches over the crown of the head and gently rests on the left side of the head, right elbow angled outward; head tilts right with right ear moving toward right shoulder; left shoulder drops down and left arm reaches diagonally toward the floor beside the left thigh, fingers long. Subtle blue neck anatomy lines, clean blue-and-white background, same camera angle and framing."
+    }
+  ],
+  "result": "Portrait 2:3 clean medical infographic illustration, subject centered with generous margins, top 18% of the image empty, whole body visible, no text, letters, or numbers. Same young adult character in blue t-shirt, dark shorts, sneakers, standing tall and relaxed on a plain white floor, feet flat hip-width apart, knees relaxed, pelvis neutral, chest open, shoulders down and back, neck long, head level, ears stacked over shoulders. Character looks proud and happy with a soft confident smile, arms relaxed at sides, subtle blue posture alignment and cervical spine anatomy lines, clean blue-and-white background.",
+  "captions": {
+    "hook": "CHIN TUCKS: YOU'RE WRONG",
+    "takeaway": "DAILY · 2 MIN"
+  },
+  "lines": {
+    "hook": "Most people nod down, but chin tucks glide straight back.",
+    "ex1": "Keep eyes level, slide your head back, neck long.",
+    "ex2": "Now breathe into each side stretch and drop the shoulder.",
+    "takeaway": "Two minutes daily helps you stand taller and looser."
+  }
+}

@@ -1,0 +1,28 @@
+.env
+.DS_Store
+__pycache__/
+*.log
+3d/tools/
+# Media lives on Google Drive (My Drive/Projects/TT30/src), same folder layout
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.info.json
+# ...except brand/pipeline assets the scripts read
+!3d/man.png
+!3d/packshot.png
+!gen/hole_mask.png
+!gen/iphone_cut.png
+!gen/iphone_frame.png
+!muscle/assets/**
+!gads/assets/**
+!TallPlan 13:11/Logo/**
+!TallPlan 13:11/Screenshots/**
+!TallPlan photo/Logo/**
+!TallPlan photo/Screenshots/**
+!TallPlan photo/7nov/**

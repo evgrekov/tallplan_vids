@@ -1,0 +1,107 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Two side-profile views of a standing adult man in a glowing orange anatomical x-ray style. Both figures have dark translucent bodies with bright orange rim lighting and a visible glowing yellow spinal column with distinct vertebrae. The left figure has a forward head posture: the head juts forward, the neck is craned, and the upper back is rounded. The right figure stands upright with a neutral head position, aligned over the shoulders, with a straight spine. Smooth digital medical-illustration style, soft outer glow, dark charcoal-brown bodies, bright orange and yellow highlights, plain white studio background, even lighting.",
+  "bbox_pct": [
+   10.4,
+   29.1,
+   74.0,
+   68.6
+  ]
+ },
+ "texts": [
+  {
+   "text": "2.",
+   "font": "condensed bold sans-serif (e.g. Bebas Neue / Oswald style)",
+   "weight": "bold",
+   "size_pct_of_height": 19,
+   "color": "#000000",
+   "align": "left",
+   "bbox_pct": [
+    13.0,
+    2.8,
+    10.0,
+    13.2
+   ]
+  },
+  {
+   "text": "CHIN TUCK",
+   "font": "condensed bold sans-serif (e.g. Bebas Neue / Oswald style)",
+   "weight": "bold",
+   "size_pct_of_height": 19,
+   "color": "#FF5A00",
+   "align": "left",
+   "bbox_pct": [
+    26.3,
+    2.8,
+    61.2,
+    13.2
+   ]
+  },
+  {
+   "text": "Fixes forward head posture",
+   "font": "clean humanist sans-serif (e.g. Helvetica / Inter style)",
+   "weight": "regular with bold emphasis on 'forward'",
+   "size_pct_of_height": 4.3,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    25.5,
+    17.6,
+    49.0,
+    4.0
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "arrow",
+   "color": "#FF5A00",
+   "description": "Thick orange arrow pointing left above the right figure's head, with a tail that fades to transparent toward the right (motion blur gradient).",
+   "bbox_pct": [
+    66.2,
+    23.8,
+    13.5,
+    5.4
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#FF5A00",
+   "description": "Thick orange arrow pointing right between the two figures, with a tail that fades to transparent toward the left (motion blur gradient).",
+   "bbox_pct": [
+    42.7,
+    62.6,
+    13.0,
+    5.8
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#E8421A",
+   "description": "Curved dotted line in red-orange following the curvature of the left figure's rounded back, dots decreasing in size from top to bottom, indicating poor posture.",
+   "bbox_pct": [
+    10.4,
+    41.9,
+    12.2,
+    30.0
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#2E9E2E",
+   "description": "Thin vertical dotted line in green running along the back of the right figure, dots decreasing in size from top to bottom, indicating corrected posture.",
+   "bbox_pct": [
+    58.6,
+    45.5,
+    3.6,
+    28.7
+   ]
+  }
+ ],
+ "inserts": []
+}

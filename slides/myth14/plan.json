@@ -1,0 +1,21 @@
+{
+  "title": "Core Muscles and Height",
+  "style": "Cinematic noir detective graphic novel aesthetic, dramatic high-contrast black and white with subtle crimson red rim accents, sharp slatted venetian blind shadow patterns, clean studio lighting, realistic anatomy, no text, no letters",
+  "character": "19-year-old young man, sharp defined jawline, disheveled dark hair, athletic build, wearing a fitted dark crewneck t-shirt and charcoal denim pants",
+  "ink": "#FFFFFF",
+  "outline": "#B20610",
+  "myth": {
+    "prompt": "Cinematic noir black and white illustration with subtle crimson highlights. A 19-year-old man collapsing heavily on a high wooden bar stool, slumping forward with rounded shoulders, sagging thoracic spine, anterior pelvic tilt protruding lower abdomen forward, head hanging down in dejected resignation. Venetian blind shadows cast parallel diagonal stripes across the scene. Plain dark interior background, subject centered in frame, top 30 percent completely empty space above the head. Absolutely no text, no words, no numbers, no cigarettes.",
+    "caption": "MYTH: CORE STRENGTH DOESN'T AFFECT HEIGHT",
+    "sub": "\"Abs only matter for looks\"",
+    "dur": 2.8,
+    "music": "Smoky slow noir jazz trumpet solo, mournful, melancholic upright bass, sparse brushed snare, moody atmospheric detective score, instrumental only, no vocals"
+  },
+  "fact": {
+    "prompt": "Cinematic noir black and white illustration with vivid crimson rim light accentuating muscle tension. The same 19-year-old young man performing a rigid forearm plank on the floor, spine perfectly straight and elongated horizontally, engaged deep transverse abdominals, neutral pelvis, neck aligned squarely with back. Razor-sharp venetian blind shadows slicing across the floor and torso. Plain dark concrete studio background, subject centered in lower frame, upper 30 percent completely clear space. High physical tension and discipline. Absolutely no text, no words, no numbers.",
+    "caption": "FACT: A WEAK CORE COLLAPSES YOUR POSTURE",
+    "sub": "Toned core muscles support maximal upright stature",
+    "dur": 3.2,
+    "music": "Driving 125 BPM spy thriller drums, tense analog synth pulse, energetic accelerating cinematic percussion, intense investigative mystery beat, instrumental only, no vocals"
+  }
+}

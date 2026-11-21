@@ -1,0 +1,7 @@
+file '/Users/ea/Desktop/go_tall_tiktok/slides/grid/posture/frame0.png'
+duration 3.840
+file '/Users/ea/Desktop/go_tall_tiktok/slides/grid/posture/frame1.png'
+duration 3.840
+file '/Users/ea/Desktop/go_tall_tiktok/slides/grid/posture/clean.png'
+duration 2.200
+file '/Users/ea/Desktop/go_tall_tiktok/slides/grid/posture/clean.png'

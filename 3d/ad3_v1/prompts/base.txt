@@ -1,0 +1,9 @@
+Educational TikTok ad, 10 seconds, single continuous generation with quick camera cuts.
+REFERENCES: image 1 = the character. Image 2 = exact keyframe 'jawline_check', match its pose and anatomy.
+CHARACTER LOCK: the same person from image 1 in every shot (Teenage boy, 16 years old, short messy dark hair, athletic build, shirtless wearing black athletic shorts.), one person only, no ghost, faded or duplicate figures.
+ANATOMY LOCK: correct human anatomy at all times: knees bend only forward, natural ankles and wrists, five fingers and five toes, no extra, missing or twisted limbs.
+CLEAN FRAME: no text, no subtitles, no letters, no numbers, no UI anywhere in the image. The voiceover is audio only and is never written on screen.
+STYLE: 2D clean anime-inspired cel-shaded vector animation, solid outlines, bold flat colors, mint green glow accents, plain light background.
+
+0-3s: Close-up on the character's torso showing faint abdominal hair, camera pans up as a mint green cross-out flash shatters across screen. 3-6s: Medium shot of character standing against a wall looking puzzled as three mint green numeric circles (1, 2, 3) spin around him. 6-10s: Close-up zoom on character's jawline tracing a sharp square chin highlighted with mint green light. SFX: Whoosh, digital shatter, chime. Music: Upbeat energetic synth-pop groove.
+Audio: voiceover — Male, mid-20s, American accent, energetic and confident educational delivery, bright clear tone, ~160 WPM, crisp studio condenser mic. — speaking exactly: "Think body hair means you stopped growing? Totally false. Here are real signs your growth plates might be closing, starting with a developed square jawline." Music: Driving modern electronic beat with light synth pulses and punchy rhythm, upbeat and factual.

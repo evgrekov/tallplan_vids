@@ -1,0 +1,21 @@
+{
+  "title": "TallPlan Myth vs Fact: Stretching",
+  "style": "Bold pop-art comic, thick black outlines, halftone dot textures, high-contrast yellow and black palette, explosive comic action lines.",
+  "character": "19-year-old young adult male, messy dark hair, athletic build, wearing a fitted crewneck t-shirt and casual shorts.",
+  "ink": "#FFE800",
+  "outline": "#000000",
+  "myth": {
+    "prompt": "Pop-art comic panel, yellow and black halftone aesthetic, portrait 2:3. Top 30 percent completely empty space. Young adult male slouched deeply into a messy couch eating chips, crumpled posture, looking defeated and short. Background shows a girl ignoring him. Thick ink outlines, plain minimal background, no text.",
+    "caption": "MYTH: STRETCHING IS A COMPLETE WASTE",
+    "sub": "My height is completely locked now.",
+    "dur": 3.0,
+    "music": "Goofy deflated solo tuba stumbling rhythm, comical gloomy instrumental, no vocals."
+  },
+  "fact": {
+    "prompt": "Pop-art comic panel, dynamic yellow and black with explosive action burst background, portrait 2:3. Top 30 percent completely empty space. Same young adult male performing a dead-hang from a high bar, spine straight and elongated, athletic form, visual vertical posture guide line behind back. Thick outlines, no text.",
+    "caption": "FACT: DECOMPRESSION RESTORES LOST POSTURE HEIGHT",
+    "sub": "Spine decompression straightens your natural frame.",
+    "dur": 3.5,
+    "music": "Fast driving punk-rock electric guitar riff, high-energy drums, 160 BPM, raw instrumental, no vocals."
+  }
+}

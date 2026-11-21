@@ -1,0 +1,337 @@
+{
+ "canvas": {
+  "aspect_ratio": "9:16",
+  "background": "#FFFFFF with light grey grid lines (graph paper)"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Two-column infographic illustration on white graph paper. Left side: solid black silhouette of a tall, lean adult man standing with arms outstretched horizontally; below him, a slimmer black silhouette with long arms and legs; at the bottom, a grey-outlined anatomical line drawing of a human hand and wrist bones viewed from the back. Right side: solid black silhouette of a standing man with arms outstretched, a stockier, heavier-set black silhouette, and a grey-outlined anatomical line drawing of a hand and wrist bones. Flat vector style, crisp edges, pure black fills, minimal shading, clean white background.",
+  "bbox_pct": [
+   5,
+   20,
+   90,
+   74
+  ]
+ },
+ "texts": [
+  {
+   "text": "HIGH",
+   "font": "bold condensed sans-serif (Anton / Bebas style)",
+   "weight": "bold",
+   "size_pct_of_height": 8,
+   "color": "#2BA52B",
+   "align": "center",
+   "bbox_pct": [
+    15,
+    4.4,
+    20.5,
+    5.1
+   ]
+  },
+  {
+   "text": "POTENTIAL",
+   "font": "bold condensed sans-serif (Anton / Bebas style)",
+   "weight": "bold",
+   "size_pct_of_height": 8,
+   "color": "#2BA52B",
+   "align": "center",
+   "bbox_pct": [
+    5,
+    10.1,
+    42.5,
+    5.5
+   ]
+  },
+  {
+   "text": "LOW",
+   "font": "bold condensed sans-serif (Anton / Bebas style)",
+   "weight": "bold",
+   "size_pct_of_height": 8,
+   "color": "#E0201C",
+   "align": "center",
+   "bbox_pct": [
+    64.5,
+    4.4,
+    18,
+    5.1
+   ]
+  },
+  {
+   "text": "POTENTIAL",
+   "font": "bold condensed sans-serif (Anton / Bebas style)",
+   "weight": "bold",
+   "size_pct_of_height": 8,
+   "color": "#E0201C",
+   "align": "center",
+   "bbox_pct": [
+    54.3,
+    10.1,
+    41.2,
+    5.5
+   ]
+  },
+  {
+   "text": "Wingspan greater than height",
+   "font": "bold humanist sans-serif (Open Sans / Roboto style)",
+   "weight": "bold",
+   "size_pct_of_height": 2.9,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    14.8,
+    39.3,
+    28,
+    8.7
+   ]
+  },
+  {
+   "text": "Wingspan equals or less than height",
+   "font": "bold humanist sans-serif (Open Sans / Roboto style)",
+   "weight": "bold",
+   "size_pct_of_height": 2.9,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    62,
+    39.3,
+    25.5,
+    8.7
+   ]
+  },
+  {
+   "text": "Long limbs relative to torso",
+   "font": "bold humanist sans-serif (Open Sans / Roboto style)",
+   "weight": "bold",
+   "size_pct_of_height": 2.9,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    16.2,
+    66.4,
+    25.8,
+    8.3
+   ]
+  },
+  {
+   "text": "Compact proportions",
+   "font": "bold humanist sans-serif (Open Sans / Roboto style)",
+   "weight": "bold",
+   "size_pct_of_height": 2.9,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    60.5,
+    66.4,
+    26.5,
+    8.3
+   ]
+  },
+  {
+   "text": "Wrist bones still flexible",
+   "font": "bold humanist sans-serif (Open Sans / Roboto style)",
+   "weight": "bold",
+   "size_pct_of_height": 2.9,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    14.8,
+    90.3,
+    27.8,
+    6.2
+   ]
+  },
+  {
+   "text": "Wrist bones fused",
+   "font": "bold humanist sans-serif (Open Sans / Roboto style)",
+   "weight": "bold",
+   "size_pct_of_height": 2.9,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    59.5,
+    90.3,
+    27,
+    6.2
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#222222",
+   "description": "Thin vertical black divider line separating the two columns, full height below the headers",
+   "bbox_pct": [
+    49.6,
+    9.2,
+    0.4,
+    88
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#2BA52B",
+   "description": "Hand-drawn style underline stroke beneath HIGH POTENTIAL",
+   "bbox_pct": [
+    5.8,
+    16.7,
+    41.1,
+    0.8
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#E0201C",
+   "description": "Hand-drawn style underline stroke beneath LOW POTENTIAL",
+   "bbox_pct": [
+    55.2,
+    16.7,
+    38.8,
+    0.8
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#2BA52B",
+   "description": "Green filled circle with white checkmark",
+   "bbox_pct": [
+    5.3,
+    29.1,
+    8.2,
+    4.6
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#E0201C",
+   "description": "Red filled circle with white X mark",
+   "bbox_pct": [
+    52,
+    29.4,
+    7.2,
+    4.5
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#2BA52B",
+   "description": "Green filled circle with white checkmark",
+   "bbox_pct": [
+    5.3,
+    55.8,
+    8.2,
+    4.6
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#E0201C",
+   "description": "Red filled circle with white X mark",
+   "bbox_pct": [
+    52,
+    55.8,
+    7.2,
+    4.6
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#2BA52B",
+   "description": "Green filled circle with white checkmark",
+   "bbox_pct": [
+    5.3,
+    80.1,
+    8.2,
+    4.6
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#E0201C",
+   "description": "Red filled circle with white X mark",
+   "bbox_pct": [
+    52,
+    80.1,
+    7.2,
+    4.6
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#2BA52B",
+   "description": "Green dashed double-headed horizontal arrow spanning the outstretched arms of the left figure",
+   "bbox_pct": [
+    10.2,
+    22.5,
+    38.3,
+    1.8
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#E0201C",
+   "description": "Red dashed double-headed horizontal arrow spanning the outstretched arms of the right figure",
+   "bbox_pct": [
+    62.2,
+    23.4,
+    26.6,
+    1.8
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#E0201C",
+   "description": "Red dashed double-headed vertical arrow showing height beside the right figure",
+   "bbox_pct": [
+    60.2,
+    24.5,
+    2,
+    14
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#2BA52B",
+   "description": "Green dashed outline tracing the arms and legs of the slim figure to show long limbs",
+   "bbox_pct": [
+    22.5,
+    51.5,
+    14.5,
+    14.2
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#2BA52B",
+   "description": "Green circle outline around the wrist bones of the left hand",
+   "bbox_pct": [
+    21.4,
+    77.6,
+    12.5,
+    7.4
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#E0201C",
+   "description": "Red circle outline around the wrist bones of the right hand",
+   "bbox_pct": [
+    66.3,
+    78.6,
+    12.3,
+    6.9
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#2BA52B",
+   "description": "Two small green curved arrows beside the left hand indicating wrist rotation",
+   "bbox_pct": [
+    17.3,
+    81.8,
+    21,
+    4.1
+   ]
+  }
+ ],
+ "inserts": []
+}

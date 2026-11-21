@@ -1,0 +1,296 @@
+{
+ "canvas": {
+  "aspect_ratio": "9:16",
+  "background": "#F8F8F6 off-white with faint light-grey grid lines"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Black-and-white hand-drawn ink line art of a slim young man with short wavy dark hair standing front-facing with arms fully outstretched horizontally at shoulder height, shirtless, wearing a light-grey plain boxer-style short pair, barefoot, standing on a thin hatched floor line. A long flexible measuring tape with black tick marks lies across both outstretched arms and hands, with fingertips at the ends. Behind the figure is a vertical hatched wall panel with diagonal cross-hatching in light grey, and two thin vertical boundary lines frame the figure. Clean sketch linework, monochrome black on white, subtle crosshatch shading, no color, no text, no labels, no arrows.",
+  "bbox_pct": [
+   3,
+   19,
+   94,
+   52
+  ]
+ },
+ "texts": [
+  {
+   "text": "HOW TO MEASURE",
+   "font": "bold condensed grotesque sans (Anton / Bebas-style) with slight distressed texture",
+   "weight": "bold",
+   "size_pct_of_height": 10,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    8,
+    4.5,
+    87,
+    9
+   ]
+  },
+  {
+   "text": "ARM SPAN",
+   "font": "bold condensed sans (Oswald / Anton style)",
+   "weight": "bold",
+   "size_pct_of_height": 3.2,
+   "color": "#111111",
+   "align": "left",
+   "bbox_pct": [
+    9.9,
+    38.9,
+    19,
+    3.2
+   ]
+  },
+  {
+   "text": "Fingertip to fingertip",
+   "font": "regular humanist sans (Open Sans / Source Sans style)",
+   "weight": "regular",
+   "size_pct_of_height": 2.6,
+   "color": "#111111",
+   "align": "left",
+   "bbox_pct": [
+    9.9,
+    42.3,
+    17,
+    4.6
+   ]
+  },
+  {
+   "text": "BODY HEIGHT",
+   "font": "bold condensed sans (Oswald / Anton style)",
+   "weight": "bold",
+   "size_pct_of_height": 3.2,
+   "color": "#111111",
+   "align": "left",
+   "bbox_pct": [
+    73.7,
+    42.5,
+    21.7,
+    2.8
+   ]
+  },
+  {
+   "text": "Top of head to floor",
+   "font": "regular humanist sans (Open Sans / Source Sans style)",
+   "weight": "regular",
+   "size_pct_of_height": 2.6,
+   "color": "#111111",
+   "align": "left",
+   "bbox_pct": [
+    73.7,
+    45.8,
+    17.5,
+    4.6
+   ]
+  },
+  {
+   "text": "STAND STRAIGHT.",
+   "font": "bold condensed sans (Oswald / Anton style)",
+   "weight": "bold",
+   "size_pct_of_height": 4.2,
+   "color": "#111111",
+   "align": "left",
+   "bbox_pct": [
+    25.8,
+    76.5,
+    40.3,
+    3.8
+   ]
+  },
+  {
+   "text": "ARMS OUT.",
+   "font": "bold condensed sans (Oswald / Anton style)",
+   "weight": "bold",
+   "size_pct_of_height": 4.2,
+   "color": "#111111",
+   "align": "left",
+   "bbox_pct": [
+    25.8,
+    83.6,
+    25.5,
+    3.8
+   ]
+  },
+  {
+   "text": "MEASURE FINGERTIP TO FINGERTIP.",
+   "font": "bold condensed sans (Oswald / Anton style), two lines",
+   "weight": "bold",
+   "size_pct_of_height": 4.2,
+   "color": "#111111",
+   "align": "left",
+   "bbox_pct": [
+    25.8,
+    89.7,
+    39.6,
+    6.6
+   ]
+  },
+  {
+   "text": "1",
+   "font": "bold sans numeral",
+   "weight": "bold",
+   "size_pct_of_height": 3.6,
+   "color": "#FFFFFF",
+   "align": "center",
+   "bbox_pct": [
+    15.6,
+    75.8,
+    8,
+    4.3
+   ]
+  },
+  {
+   "text": "2",
+   "font": "bold sans numeral",
+   "weight": "bold",
+   "size_pct_of_height": 3.6,
+   "color": "#FFFFFF",
+   "align": "center",
+   "bbox_pct": [
+    15.6,
+    82.7,
+    8,
+    4.3
+   ]
+  },
+  {
+   "text": "3",
+   "font": "bold sans numeral",
+   "weight": "bold",
+   "size_pct_of_height": 3.6,
+   "color": "#FFFFFF",
+   "align": "center",
+   "bbox_pct": [
+    15.6,
+    89.9,
+    8,
+    4.3
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#111111",
+   "description": "Thick hand-drawn black underline stroke beneath the title, slightly rough edges",
+   "bbox_pct": [
+    8,
+    14.8,
+    87,
+    0.9
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#111111",
+   "description": "Thin curved black arrow pointing up-right toward the outstretched arm span, starting below the ARM SPAN label",
+   "bbox_pct": [
+    20,
+    33,
+    6,
+    6
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#111111",
+   "description": "Vertical thin double-headed black measurement arrow spanning from top of head level down to the floor, labeling body height",
+   "bbox_pct": [
+    70.2,
+    19.8,
+    1,
+    50.5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#111111",
+   "description": "Thin dashed black horizontal reference lines at the top of the head and at the floor, plus dashed vertical drop lines from the tape ends to the bottom of the tape",
+   "bbox_pct": [
+    50,
+    19.6,
+    22,
+    0.5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#111111",
+   "description": "Thin black horizontal floor line with grey diagonal hatching beneath it",
+   "bbox_pct": [
+    17,
+    70.5,
+    65,
+    1.8
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#111111",
+   "description": "Solid black filled circle containing white numeral 1",
+   "bbox_pct": [
+    15.6,
+    75.8,
+    8,
+    4.3
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#111111",
+   "description": "Solid black filled circle containing white numeral 2",
+   "bbox_pct": [
+    15.6,
+    82.7,
+    8,
+    4.3
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#111111",
+   "description": "Solid black filled circle containing white numeral 3",
+   "bbox_pct": [
+    15.6,
+    89.9,
+    8,
+    4.3
+   ]
+  },
+  {
+   "type": "icon",
+   "color": "#111111",
+   "description": "Small black line pictogram of a standing person with arms at sides, representing step 1",
+   "bbox_pct": [
+    68.8,
+    75.2,
+    4,
+    6.4
+   ]
+  },
+  {
+   "type": "icon",
+   "color": "#111111",
+   "description": "Small black line pictogram of a person with arms stretched straight out horizontally, representing step 2",
+   "bbox_pct": [
+    64.6,
+    82.3,
+    12,
+    5.5
+   ]
+  },
+  {
+   "type": "icon",
+   "color": "#111111",
+   "description": "Small black line drawing of a rolled tape measure, representing step 3",
+   "bbox_pct": [
+    68.8,
+    90.8,
+    7.9,
+    4
+   ]
+  }
+ ],
+ "inserts": []
+}

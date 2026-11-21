@@ -1,0 +1,58 @@
+{
+ "fps": 30,
+ "sections": [
+  {
+   "name": "Spine",
+   "say": "At night your spine decompresses. Child's pose before bed helps it let go.",
+   "vo": "vo/s0.wav",
+   "clips": [
+    {
+     "file": "clips/c0.mp4",
+     "dur": 6.0,
+     "shot": "Full body side view, child's pose on a black mat: kneeling, hips back on the heels, arms stretched far forward, forehead near the mat, long rounded back; the whole spine and lower back glow. Figure in the lower-middle of the frame",
+     "move": "a child's pose stretch, reaching the arms further forward on each slow breath while the hips sink back"
+    },
+    {
+     "file": "clips/c1.mp4",
+     "dur": 6.0,
+     "shot": "Rear 3/4 view from above, child's pose on a black mat, arms reaching forward, the spine visibly lengthening; the spinal muscles glow intensely along the whole back",
+     "move": "slow deep breaths in child's pose, the back lengthening and relaxing",
+     "camera": "Slow camera orbit to the right"
+    }
+   ],
+   "start": 0.0,
+   "end": 12.0,
+   "label_in": 0.3,
+   "label_out": 11.5
+  }
+ ],
+ "end_start": 12.0,
+ "end_seconds": 3.9722500000000003,
+ "total": 15.97225,
+ "cues": [
+  [
+   "vo/intro.wav",
+   0.1,
+   2.62225,
+   "Did you know you're taller in the morning?"
+  ],
+  [
+   "vo/s0.wav",
+   2.87225,
+   5.161458333333333,
+   "At night your spine decompresses. Child's pose before bed helps it let go."
+  ],
+  [
+   "vo/outro.wav",
+   8.183708333333334,
+   2.7763333333333335,
+   "Thirty seconds, then eight hours of sleep."
+  ],
+  [
+   "vo/tagline.wav",
+   12.75,
+   2.62225,
+   ""
+  ]
+ ]
+}

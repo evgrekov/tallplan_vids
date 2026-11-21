@@ -1,0 +1,401 @@
+{
+ "canvas": {
+  "aspect_ratio": "9:16",
+  "background": "#F7F7F5 off-white with faint light-grey grid paper texture"
+ },
+ "illustration": {
+  "present": false,
+  "description": "",
+  "bbox_pct": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "texts": [
+  {
+   "text": "WHAT YOUR SCORE MEANS",
+   "font": "heavy condensed grotesque sans (Anton / Bebas-style)",
+   "weight": "black",
+   "size_pct_of_height": 8,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    6,
+    5,
+    89,
+    17
+   ]
+  },
+  {
+   "text": "RATIO",
+   "font": "bold geometric sans",
+   "weight": "bold",
+   "size_pct_of_height": 2.6,
+   "color": "#FFFFFF",
+   "align": "center",
+   "bbox_pct": [
+    40.5,
+    26.5,
+    23,
+    3.4
+   ]
+  },
+  {
+   "text": "1.05+",
+   "font": "heavy rounded sans",
+   "weight": "black",
+   "size_pct_of_height": 10,
+   "color": "#1B7A1B",
+   "align": "left",
+   "bbox_pct": [
+    40.5,
+    31,
+    45,
+    8
+   ]
+  },
+  {
+   "text": "Strong growth window open",
+   "font": "bold rounded sans",
+   "weight": "bold",
+   "size_pct_of_height": 3.5,
+   "color": "#1A4D1A",
+   "align": "left",
+   "bbox_pct": [
+    40.3,
+    40,
+    43.5,
+    6.5
+   ]
+  },
+  {
+   "text": "ACT NOW.",
+   "font": "bold italic brush sans",
+   "weight": "black italic",
+   "size_pct_of_height": 4.2,
+   "color": "#FFFFFF",
+   "align": "center",
+   "bbox_pct": [
+    39.5,
+    47.3,
+    46,
+    4.6
+   ]
+  },
+  {
+   "text": "RATIO",
+   "font": "bold geometric sans",
+   "weight": "bold",
+   "size_pct_of_height": 2.6,
+   "color": "#FFFFFF",
+   "align": "center",
+   "bbox_pct": [
+    40.5,
+    56.6,
+    23,
+    3.3
+   ]
+  },
+  {
+   "text": "1.0",
+   "font": "heavy rounded sans",
+   "weight": "black",
+   "size_pct_of_height": 8.5,
+   "color": "#6B4A0C",
+   "align": "left",
+   "bbox_pct": [
+    40.5,
+    61.4,
+    23.5,
+    6.6
+   ]
+  },
+  {
+   "text": "Moderate potential",
+   "font": "bold rounded sans",
+   "weight": "bold",
+   "size_pct_of_height": 3.2,
+   "color": "#1A1A1A",
+   "align": "left",
+   "bbox_pct": [
+    40.5,
+    69.1,
+    47.5,
+    3.1
+   ]
+  },
+  {
+   "text": "optimize your routine.",
+   "font": "bold rounded sans",
+   "weight": "bold",
+   "size_pct_of_height": 3.1,
+   "color": "#1A1A1A",
+   "align": "left",
+   "bbox_pct": [
+    40.5,
+    72.4,
+    46.5,
+    2.5
+   ]
+  },
+  {
+   "text": "RATIO",
+   "font": "bold geometric sans",
+   "weight": "bold",
+   "size_pct_of_height": 2.6,
+   "color": "#FFFFFF",
+   "align": "center",
+   "bbox_pct": [
+    40.5,
+    79.8,
+    23.5,
+    3.1
+   ]
+  },
+  {
+   "text": "0.95-",
+   "font": "heavy rounded sans",
+   "weight": "black",
+   "size_pct_of_height": 8.5,
+   "color": "#5A1A0A",
+   "align": "left",
+   "bbox_pct": [
+    40.5,
+    84.1,
+    39,
+    6.4
+   ]
+  },
+  {
+   "text": "Window closing",
+   "font": "bold rounded sans",
+   "weight": "bold",
+   "size_pct_of_height": 3.4,
+   "color": "#3A1A0A",
+   "align": "left",
+   "bbox_pct": [
+    40.5,
+    91,
+    41,
+    2.8
+   ]
+  },
+  {
+   "text": "support remaining growth.",
+   "font": "bold rounded sans",
+   "weight": "bold",
+   "size_pct_of_height": 2.9,
+   "color": "#3A1A0A",
+   "align": "left",
+   "bbox_pct": [
+    40.5,
+    94,
+    46.5,
+    2.2
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "shape",
+   "color": "#8FE05A",
+   "description": "Rounded card 1 background, bright green fill with thick dark green (#1E7D1E) border and soft drop shadow",
+   "bbox_pct": [
+    5.4,
+    24.4,
+    89.5,
+    28.1
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#FFE94A",
+   "description": "Rounded card 2 background, bright yellow fill with darker gold border and soft drop shadow",
+   "bbox_pct": [
+    5.4,
+    54.8,
+    89.5,
+    21.3
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#F7871E",
+   "description": "Rounded card 3 background, orange fill with darker burnt-orange border and soft drop shadow",
+   "bbox_pct": [
+    5.4,
+    78,
+    89.5,
+    20
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#1E5E1E",
+   "description": "Vertical divider line inside card 1, separating icon from text",
+   "bbox_pct": [
+    36.5,
+    26.6,
+    0.4,
+    23.9
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#7A5A10",
+   "description": "Vertical divider line inside card 2",
+   "bbox_pct": [
+    36.5,
+    57,
+    0.4,
+    17
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#7A2A0A",
+   "description": "Vertical divider line inside card 3",
+   "bbox_pct": [
+    36.5,
+    80,
+    0.4,
+    15.6
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#1E7D1E",
+   "description": "Dark green rounded label behind RATIO in card 1",
+   "bbox_pct": [
+    40.5,
+    26.5,
+    23,
+    3.4
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#7A5A10",
+   "description": "Dark mustard-brown rounded label behind RATIO in card 2",
+   "bbox_pct": [
+    40.5,
+    56.6,
+    23,
+    3.3
+   ]
+  },
+  {
+   "type": "badge",
+   "color": "#B22A1A",
+   "description": "Dark red rounded label behind RATIO in card 3",
+   "bbox_pct": [
+    40.5,
+    79.8,
+    23.5,
+    3.1
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#0D1A0D",
+   "description": "Black-green brush-stroke highlight swoosh behind ACT NOW.",
+   "bbox_pct": [
+    39.5,
+    47.3,
+    46,
+    4.6
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#FFFFFF",
+   "description": "White circle backing the chart icon in card 1",
+   "bbox_pct": [
+    8.6,
+    30,
+    25.2,
+    15.8
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#FFFFFF",
+   "description": "White circle backing the bar icon in card 2",
+   "bbox_pct": [
+    8.6,
+    57.5,
+    24.2,
+    15.8
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#FFFFFF",
+   "description": "White circle backing the declining chart icon in card 3",
+   "bbox_pct": [
+    8.2,
+    80.9,
+    24.3,
+    14.7
+   ]
+  },
+  {
+   "type": "chart_icon",
+   "color": "#2E9E1E",
+   "description": "Rising bar chart with green upward trend arrow",
+   "bbox_pct": [
+    11.5,
+    33,
+    19.5,
+    11.5
+   ]
+  },
+  {
+   "type": "chart_icon",
+   "color": "#E0A010",
+   "description": "Three ascending gold bar chart, no arrow",
+   "bbox_pct": [
+    12,
+    62,
+    19,
+    10.5
+   ]
+  },
+  {
+   "type": "chart_icon",
+   "color": "#D9401A",
+   "description": "Three descending red-orange bars with downward red arrow",
+   "bbox_pct": [
+    13,
+    83.5,
+    20,
+    11.5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#111111",
+   "description": "Decorative hand-drawn sparkle lines in top-left corner above title",
+   "bbox_pct": [
+    4,
+    1.5,
+    9,
+    5.5
+   ]
+  },
+  {
+   "type": "shape",
+   "color": "#111111",
+   "description": "Outlined four-point sparkle stars in top-right corner beside title",
+   "bbox_pct": [
+    85,
+    2,
+    10,
+    7
+   ]
+  }
+ ],
+ "inserts": []
+}

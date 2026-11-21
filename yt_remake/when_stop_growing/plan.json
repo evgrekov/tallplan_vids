@@ -1,0 +1,225 @@
+{
+ "title": "When Do You Actually Stop Growing?",
+ "character": "Flat 2D vector character model sheet, full-body front standing pose, plain white background. Friendly smiling young man with neat brown hair, wearing a mint-green crewneck t-shirt, dark navy straight-cut trousers, white socks, and dark casual sneakers. Clean minimalist corporate vector illustration style, simple geometric anatomy, soft solid colors, no heavy outlines, subtle flat shadow on the floor.",
+ "openai_voice": "cedar",
+ "voice": "bright, friendly, warm, educational, brisk and upbeat narrator",
+ "music": "Light upbeat electronic lo-fi beat with soft synth plucks, 115 BPM, warm, playful and quiet under narration",
+ "scenes": [
+  {
+   "vo": "Ever wondered when you actually stop growing?",
+   "kind": "figure",
+   "bg": "#7cc6f5",
+   "figures": [
+    {
+     "pose": "Young friendly guy in mint-green tee looking curious, raising an eyebrow with hands relaxed at sides",
+     "in": 71.0,
+     "from": 63.0,
+     "label": null,
+     "x": 0.5
+    }
+   ],
+   "icons": [],
+   "alarm": false,
+   "photo": "",
+   "sfx": "rise"
+  },
+  {
+   "vo": "Genetics set your range. Habits decide the rest.",
+   "kind": "figure",
+   "bg": "#1e7cf0",
+   "figures": [
+    {
+     "pose": "Young guy in mint-green tee standing proudly with hands slightly gesturing to sides",
+     "in": 69.0,
+     "from": null,
+     "label": null,
+     "x": 0.5
+    }
+   ],
+   "icons": [
+    {
+     "prompt": "Flat white vector icon of a DNA double helix",
+     "label": "Genetics",
+     "x": 0.3,
+     "y": 0.22
+    },
+    {
+     "prompt": "Flat white vector icon of a milk carton and an apple",
+     "label": "Nutrition",
+     "x": 0.7,
+     "y": 0.22
+    }
+   ],
+   "alarm": false,
+   "photo": "",
+   "sfx": "pop"
+  },
+  {
+   "vo": "Average American man: 5'9\". Average woman: 5'4\".",
+   "kind": "figure",
+   "bg": "#7cc6f5",
+   "figures": [
+    {
+     "pose": "Young woman in coral tee and dark jeans standing straight and smiling",
+     "in": 64.0,
+     "from": null,
+     "label": "Woman",
+     "x": 0.38
+    },
+    {
+     "pose": "Young guy in mint-green tee standing straight next to her with friendly smile",
+     "in": 69.0,
+     "from": null,
+     "label": "Man",
+     "x": 0.62
+    }
+   ],
+   "icons": [],
+   "alarm": false,
+   "photo": "",
+   "sfx": "whoosh"
+  },
+  {
+   "vo": "Girls usually stop around 16. Guys, around 18.",
+   "kind": "figure",
+   "bg": "#1e7cf0",
+   "figures": [
+    {
+     "pose": "Teen girl character in coral tee pointing up slightly with a confident smile",
+     "in": 64.0,
+     "from": null,
+     "label": "Age 15",
+     "x": 0.38
+    },
+    {
+     "pose": "Teen boy character in mint tee stretching upward on toes playfully",
+     "in": 70.0,
+     "from": 66.0,
+     "label": "Age 17",
+     "x": 0.62
+    }
+   ],
+   "icons": [],
+   "alarm": false,
+   "photo": "",
+   "sfx": "rise"
+  },
+  {
+   "vo": "The tallest? Dutch men, at about 6 feet.",
+   "kind": "figure",
+   "bg": "#7cc6f5",
+   "figures": [
+    {
+     "pose": "Young guy in mint tee standing upright waving proudly",
+     "in": 72.0,
+     "from": null,
+     "label": "Netherlands",
+     "x": 0.5
+    }
+   ],
+   "icons": [
+    {
+     "prompt": "Flat vector golden champion trophy cup",
+     "label": "Tallest",
+     "x": 0.5,
+     "y": 0.22
+    }
+   ],
+   "alarm": false,
+   "photo": "",
+   "sfx": "ding"
+  },
+  {
+   "vo": "In a growth spurt, boys can gain four inches a year.",
+   "kind": "figure",
+   "bg": "#1e7cf0",
+   "figures": [
+    {
+     "pose": "Young guy in mint tee smiling widely as his frame stretches rapidly taller",
+     "in": 71.0,
+     "from": 67.0,
+     "label": "+4 inches",
+     "x": 0.5
+    }
+   ],
+   "icons": [],
+   "alarm": false,
+   "photo": "",
+   "sfx": "rise"
+  },
+  {
+   "vo": "You're half an inch taller in the morning.",
+   "kind": "photo",
+   "bg": "",
+   "figures": [],
+   "icons": [],
+   "alarm": false,
+   "photo": "Clean 3D medical illustration of a human spine with illuminated intervertebral discs softly glowing, deep dark blue medical background, cinematic lighting, ultra-detailed anatomical render",
+   "sfx": "none"
+  },
+  {
+   "vo": "Most growing happens in sleep. Teens need eight to ten hours.",
+   "kind": "photo",
+   "bg": "",
+   "figures": [],
+   "icons": [],
+   "alarm": false,
+   "photo": "Cozy aesthetic bedroom setting at night with a teenager peacefully asleep in bed, soft blue moonlight streaming through the window, warm and calm atmosphere, high quality photography",
+   "sfx": "none"
+  },
+  {
+   "vo": "And slouching makes you look shorter.",
+   "kind": "figure",
+   "bg": "#1e7cf0",
+   "figures": [
+    {
+     "pose": "Young guy in mint tee slouching heavily with curved back and frowning head dropped down",
+     "in": 67.5,
+     "from": 69.5,
+     "label": "Slouching",
+     "x": 0.5
+    }
+   ],
+   "icons": [],
+   "alarm": true,
+   "photo": "",
+   "sfx": "pop"
+  },
+  {
+   "vo": "So how tall will YOU be?",
+   "kind": "figure",
+   "bg": "#7cc6f5",
+   "figures": [
+    {
+     "pose": "Young guy in mint tee standing upright in perfect confident posture, smiling warmly at camera",
+     "in": 71.0,
+     "from": 68.0,
+     "label": "You?",
+     "x": 0.5
+    }
+   ],
+   "icons": [],
+   "alarm": false,
+   "photo": "",
+   "sfx": "rise"
+  },
+  {
+   "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+   "kind": "figure",
+   "bg": "#1e7cf0",
+   "figures": [
+    {
+     "pose": "Young guy in mint tee smiling enthusiastically, giving a thumbs up with one hand, looking confident and happy",
+     "in": null,
+     "from": null,
+     "label": null,
+     "x": 0.5
+    }
+   ],
+   "icons": [],
+   "alarm": false,
+   "photo": "",
+   "sfx": "ding"
+  }
+ ]
+}

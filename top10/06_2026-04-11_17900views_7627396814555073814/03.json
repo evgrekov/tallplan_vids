@@ -1,0 +1,71 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#F7F7F5 off-white with faint paper grain"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Hand-drawn cartoon illustration in a flat vector style with thin dark outlines, soft pastel fills and a light grain texture. A woman with blonde hair in a messy top bun and a small hair tie, wearing a coral-pink crew-neck t-shirt, stands in a half-body pose. She holds a blue toothbrush with white foam in her mouth, lifting her right arm up to the side of her face. Her eyebrows are furrowed in a grumpy, concentrated expression, with simple dot eyes and a small nose. Lighting is soft and even, with no cast shadows. The background is plain off-white and empty.",
+  "bbox_pct": [
+   24,
+   27.5,
+   51.5,
+   46.5
+  ]
+ },
+ "texts": [
+  {
+   "text": "YOU START USING THE WRONG HAND",
+   "font": "geometric sans-serif (Futura/Gill Sans-like)",
+   "weight": "bold",
+   "size_pct_of_height": 5.5,
+   "color": "#3A3A3A",
+   "align": "center",
+   "bbox_pct": [
+    5.9,
+    15.4,
+    88.3,
+    4.6
+   ]
+  },
+  {
+   "text": "Brain Switch",
+   "font": "italic serif (Garamond/Caslon-like)",
+   "weight": "semibold",
+   "size_pct_of_height": 4.2,
+   "color": "#4A4A4A",
+   "align": "center",
+   "bbox_pct": [
+    38.6,
+    83,
+    25.6,
+    4.4
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#F28C28",
+   "description": "Short wavy orange motion squiggle above and to the left of the raised arm, suggesting shaking/brushing movement",
+   "bbox_pct": [
+    24.4,
+    47.7,
+    5.1,
+    6
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#F28C28",
+   "description": "Longer wavy orange motion squiggle to the left of the arm, suggesting shaking/brushing movement",
+   "bbox_pct": [
+    20.2,
+    56.4,
+    3.4,
+    13.7
+   ]
+  }
+ ],
+ "inserts": []
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Shrimpy's Guide to Standing Taller",
+  "mascot_sheet": "Character model sheet of Shrimpy, a cute cartoon shrimp with an orange-pink shell, large expressive anime-style eyes, tiny black noodle limbs, and two curved antennae on his head. Clean 2D vector cartoon style, bold black outlines, flat vibrant colors, isolated on a plain white background, showing a full-body upright standing pose.",
+  "openai_voice": "ash",
+  "voice": "Fast, punchy, energetic delivery with an upbeat humorous tone",
+  "music": "Bouncy comedic cartoon instrumental with plucky pizzicato strings and bass at 125 BPM",
+  "scenes": [
+    {
+      "vo": "Tired of being curved like a shrimp?",
+      "bg": "Vibrant solid yellow background with subtle cartoon speed lines radiating outwards",
+      "pose": "Shrimpy hunched over in an extreme C-shape, desperately staring at a glowing smartphone with wide panicked eyes",
+      "props": [
+        {
+          "prompt": "Cartoon cracked smartphone emitting blue light with glowing alert icons",
+          "x": 0.65,
+          "y": 0.45,
+          "w": 0.22
+        }
+      ],
+      "enter": "drop",
+      "action": "shake",
+      "sfx": "bonk"
+    },
+    {
+      "vo": "First, fix that gamer slouch with simple stretches.",
+      "bg": "Warm pastel orange gradient background with playful floating curved arrows",
+      "pose": "Shrimpy enthusiastically arching his upper back backward, arms reaching high overhead with a determined smile",
+      "props": [],
+      "enter": "pop",
+      "action": "stretch",
+      "sfx": "boing"
+    },
+    {
+      "vo": "Hang from a pull-up bar every day.",
+      "bg": "Light cyan indoor gym background with minimal geometric wall patterns",
+      "pose": "Shrimpy dangling comically from a pull-up bar by his little claws, eyes squeezed shut in effort as his body elongates slightly",
+      "props": [
+        {
+          "prompt": "Sturdy metal cartoon pull-up bar mounted horizontally",
+          "x": 0.5,
+          "y": 0.25,
+          "w": 0.35
+        }
+      ],
+      "enter": "bottom",
+      "action": "wiggle",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Eat nutrient-rich meals and sleep eight full hours.",
+      "bg": "Soft teal background split diagonally with light golden yellow accents",
+      "pose": "Shrimpy happily resting his head on a fluffy cloud pillow while nibbling a leafy green broccoli floret",
+      "props": [
+        {
+          "prompt": "A tall glass of milk and fresh leafy green vegetables on a white plate",
+          "x": 0.72,
+          "y": 0.38,
+          "w": 0.28
+        },
+        {
+          "prompt": "Cartoon crescent moon surrounded by sleepy 'Zzz' floating symbols",
+          "x": 0.25,
+          "y": 0.3,
+          "w": 0.2
+        }
+      ],
+      "enter": "pop",
+      "action": "float",
+      "sfx": "pop"
+    },
+    {
+      "vo": "Forget wacky internet contraptions; they do nothing!",
+      "bg": "Flat lavender background with a faint comical question mark pattern",
+      "pose": "Shrimpy strapped into a ridiculous medieval stretching torture rack, screaming with spiraling dizzy eyes",
+      "props": [
+        {
+          "prompt": "Absurd cartoon wooden stretching contraption with giant squeaky gears and leather straps",
+          "x": 0.5,
+          "y": 0.5,
+          "w": 0.35
+        }
+      ],
+      "enter": "left",
+      "action": "shake",
+      "sfx": "bonk"
+    },
+    {
+      "vo": "Good posture reveals your true natural height!",
+      "bg": "Bright sunny yellow backdrop with explosive comic book burst rays",
+      "pose": "Shrimpy standing proudly straight, chest puffed out, hands on hips with a confident wink, casting a tall heroic shadow",
+      "props": [
+        {
+          "prompt": "Cartoon wooden height ruler measurement chart with bright red marker notches",
+          "x": 0.75,
+          "y": 0.42,
+          "w": 0.18
+        }
+      ],
+      "enter": "pop",
+      "action": "hop",
+      "sfx": "ding"
+    },
+    {
+      "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+      "bg": "Clean dynamic royal blue gradient background with subtle glowing dots",
+      "pose": "Shrimpy standing upright, cheerfully pointing a thumb toward an app screen with a beaming smile",
+      "props": [
+        {
+          "prompt": "Modern sleek smartphone displaying the TallPlan app interface with daily growth goals and streak calendar",
+          "x": 0.68,
+          "y": 0.44,
+          "w": 0.32
+        }
+      ],
+      "enter": "right",
+      "action": "bounce",
+      "sfx": "ding"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#F7F7F7"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Flat hand-drawn style cartoon illustration of a young man with short dark charcoal hair, bust-up view, pale green skin and a light green crew-neck shirt with subtle knit texture, dark outlines, slightly grumpy expression with furrowed brows and pursed lips, puffed cheeks holding in breath, a few light blue wavy breath or wind lines drifting to the left of his face, soft muted pastel palette, clean off-white background with faint paper grain, gentle even lighting, minimalist editorial illustration style",
+  "bbox_pct": [
+   17,
+   26,
+   66,
+   49
+  ]
+ },
+ "texts": [
+  {
+   "text": "YOU RANDOMLY HOLD YOUR BREATH",
+   "font": "geometric humanist sans-serif (Gill Sans / Futura-like)",
+   "weight": "bold",
+   "size_pct_of_height": 5,
+   "color": "#3A3A3A",
+   "align": "center",
+   "bbox_pct": [
+    5.5,
+    14.5,
+    90,
+    6
+   ]
+  },
+  {
+   "text": "Auto Response",
+   "font": "serif italic (Garamond / Baskerville-like)",
+   "weight": "semibold",
+   "size_pct_of_height": 4.2,
+   "color": "#3A3A3A",
+   "align": "center",
+   "bbox_pct": [
+    35,
+    82,
+    30,
+    5
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#A9C8E6",
+   "description": "Three light blue wavy horizontal lines representing breath or wind, drawn to the left of the face",
+   "bbox_pct": [
+    24,
+    43,
+    16,
+    9
+   ]
+  }
+ ],
+ "inserts": []
+}

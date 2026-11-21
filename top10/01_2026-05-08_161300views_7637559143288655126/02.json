@@ -1,0 +1,96 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Side view of a person in child's pose (Balasana) kneeling on a white floor with hips sitting back on the heels, torso folded forward, head lowered, and arms stretched straight out in front along the ground with palms flat. The body is a translucent dark brown-black silhouette with a glowing orange-yellow rim light outline. The spine is visualized as a bright glowing orange-yellow column of vertebrae arching from the hips to the neck, with a faint glowing skeletal structure and a small glowing organ-like detail near the head. Soft orange ambient glow and subtle reflections on a seamless white studio background, clean medical-infographic style, high contrast, smooth digital 3D rendering.",
+  "bbox_pct": [
+   3,
+   45,
+   95,
+   34
+  ]
+ },
+ "texts": [
+  {
+   "text": "1.",
+   "font": "condensed bold grotesque sans (Anton / Barlow Condensed style)",
+   "weight": "bold",
+   "size_pct_of_height": 14.5,
+   "color": "#000000",
+   "align": "left",
+   "bbox_pct": [
+    4,
+    2.8,
+    8,
+    15
+   ]
+  },
+  {
+   "text": "CHILD’S POSE",
+   "font": "condensed bold grotesque sans (Anton / Barlow Condensed style)",
+   "weight": "bold",
+   "size_pct_of_height": 14.5,
+   "color": "#FF5A1F",
+   "align": "left",
+   "bbox_pct": [
+    15.5,
+    2.8,
+    75.5,
+    15
+   ]
+  },
+  {
+   "text": "Gently stretches your spine",
+   "font": "neo-grotesque sans (Roboto Condensed / Barlow style); only 'stretches' is bold, rest regular",
+   "weight": "regular with bold word 'stretches'",
+   "size_pct_of_height": 3.8,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    25.5,
+    20.4,
+    52,
+    4
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#FF5A1F",
+   "description": "Short horizontal orange dash to the left of the subtitle",
+   "bbox_pct": [
+    16.6,
+    21.5,
+    7.1,
+    0.6
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#FF5A1F",
+   "description": "Short horizontal orange dash to the right of the subtitle",
+   "bbox_pct": [
+    79.5,
+    21.5,
+    6.9,
+    0.6
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#FF5A1F",
+   "description": "Dotted orange arc rising over the back from the hips to the head, ending in a solid arrowhead pointing down-right toward the head, indicating spinal stretch motion",
+   "bbox_pct": [
+    15.5,
+    41.5,
+    52,
+    13
+   ]
+  }
+ ],
+ "inserts": []
+}

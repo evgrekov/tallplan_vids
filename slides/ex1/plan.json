@@ -1,0 +1,34 @@
+{
+  "title": "Rounded Shoulders Phone Fix",
+  "style": "Elegant watercolor and ink illustration on warm off-white paper, soft natural washes, clean plain background, consistent portrait 2:3 composition, gentle shadows, no props except the wall or doorway needed for the exercise.",
+  "character": "Same 19–20-year-old adult character in every slide, fully clothed in a simple fitted t-shirt or tank top, athletic shorts, low-profile sneakers, neat hair, friendly focused expression, whole body visible, centered with generous margins.",
+  "ink": "#243044",
+  "outline": "#FFF4E3",
+  "openai_voice": "ash",
+  "voice": "Upbeat, friendly, brisk, clear TikTok-style coaching with warm energy.",
+  "exercises": [
+    {
+      "name": "WALL ANGELS",
+      "dose": "10 REPS",
+      "a": "Portrait 2:3 watercolor and ink illustration on warm off-white paper, no text or letters. Top 18% of the image is empty background. Whole body visible, same young adult character centered with generous margins, standing with back flat against a plain wall, heels about 10 centimeters from the wall, feet hip-width apart flat on the floor, knees softly bent. Head, upper back, and hips touch the wall. Arms form a goalpost shape: upper arms horizontal at shoulder height touching the wall, elbows bent 90 degrees, forearms vertical, backs of hands near the wall, palms facing forward. Chin gently tucked, eyes forward, chest relaxed.",
+      "b": "Portrait 2:3 watercolor and ink illustration on warm off-white paper, no text or letters. Top 18% of the image is empty background. Same camera angle, same framing, same character centered, whole body visible, back flat against the plain wall, heels slightly away from the wall, feet hip-width apart flat on the floor, knees softly bent. Character has slid both arms upward from the goalpost position into a wide overhead angel shape, elbows nearly straight but relaxed, backs of hands reaching high near the wall, shoulders down away from ears, chin gently tucked, ribs not flared."
+    },
+    {
+      "name": "DOORWAY STRETCH",
+      "dose": "30 SEC",
+      "a": "Portrait 2:3 watercolor and ink illustration on warm off-white paper, no text or letters. Top 18% of the image is empty background. Whole body visible, same young adult character centered with generous margins, standing inside a simple open doorway drawn with minimal clean lines. Both feet flat on the floor in a split stance, right foot forward inside the doorway, left foot back, toes pointing forward. Both elbows bent 90 degrees at shoulder height, forearms vertical, palms and forearms pressing gently against the two doorframe sides. Torso upright, shoulders relaxed, head level, gaze forward.",
+      "b": "Portrait 2:3 watercolor and ink illustration on warm off-white paper, no text or letters. Top 18% of the image is empty background. Same camera angle, same framing, same character centered, whole body visible in the same doorway. Palms and forearms remain planted on the two doorframe sides, elbows still bent 90 degrees at shoulder height. Character has shifted weight forward into the right foot, front knee slightly bent, back leg long with back heel lightly lifted, chest moving forward through the doorway, shoulders open and down, neck long, face calm."
+    }
+  ],
+  "result": "Portrait 2:3 watercolor and ink illustration on warm off-white paper, no text or letters. Top 18% of the image is empty background. Same young adult character centered with generous margins, whole body visible, standing tall and relaxed on both feet flat on the floor, feet hip-width apart, knees soft, spine long, shoulders gently back and down, chest open, chin level, proud happy smile, arms relaxed by sides, clean plain background.",
+  "captions": {
+    "hook": "ROUNDED SHOULDERS?",
+    "takeaway": "EVERY DAY · 2 MIN"
+  },
+  "lines": {
+    "hook": "Rounded shoulders from your phone? Try these resets.",
+    "ex1": "Wall angels wake your upper back and open tight shoulders.",
+    "ex2": "Doorway stretch eases phone hunch so your chest can lift.",
+    "takeaway": "Two minutes daily helps you stand taller."
+  }
+}

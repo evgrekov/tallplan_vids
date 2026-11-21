@@ -1,0 +1,62 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Stylized anatomical x-ray-like rendering of a muscular male figure in a high plank position, side profile facing right, arms straight down to the floor with fists/forearms planted, legs extended straight back to bare toes. Body is dark near-black with glowing orange-yellow rim light and translucent muscle fibers. The spine is highlighted with glowing orange vertebrae along the back, and the lower abdominal core muscles are intensely glowing bright yellow-orange with a soft red-orange heat haze and faint concentric pulse rings around the midsection. Soft orange reflection on a white floor beneath the feet and hands. Clean white studio background, high-contrast medical-infographic style, realistic 3D render.",
+  "bbox_pct": [
+   3,
+   43,
+   96,
+   37
+  ]
+ },
+ "texts": [
+  {
+   "text": "4. PLANK HOLD",
+   "font": "bold condensed sans-serif (Barlow/Oswald-like)",
+   "weight": "bold",
+   "size_pct_of_height": 14,
+   "color": "#FF5A0A",
+   "align": "center",
+   "bbox_pct": [
+    4,
+    4,
+    92,
+    14
+   ]
+  },
+  {
+   "text": "4.",
+   "font": "bold condensed sans-serif (Barlow/Oswald-like)",
+   "weight": "bold",
+   "size_pct_of_height": 14,
+   "color": "#111111",
+   "align": "left",
+   "bbox_pct": [
+    4,
+    4,
+    12,
+    14
+   ]
+  },
+  {
+   "text": "Builds core for posture",
+   "font": "regular humanist sans-serif (Inter/Helvetica-like)",
+   "weight": "regular with bold 'core'",
+   "size_pct_of_height": 4.5,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    28,
+    19,
+    45,
+    5
+   ]
+  }
+ ],
+ "graphics": [],
+ "inserts": []
+}

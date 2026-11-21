@@ -1,0 +1,58 @@
+{
+ "fps": 30,
+ "sections": [
+  {
+   "name": "Deep neck",
+   "say": "Chin tucks wake up the deep neck muscles and pull your head back over your shoulders.",
+   "vo": "vo/s0.wav",
+   "clips": [
+    {
+     "file": "clips/c0.mp4",
+     "dur": 9.0,
+     "shot": "Full body side view (profile), standing tall, doing a chin tuck: the head glides straight back so the ears line up over the shoulders; the deep front neck muscles and upper trapezius glow",
+     "move": "chin tucks, the head gliding straight back and returning, chin level, 3 slow reps"
+    },
+    {
+     "file": "clips/c1.mp4",
+     "dur": 7.0,
+     "shot": "Close-up side profile from the chest up, head pulled back in a chin tuck, neck long; the deep neck muscles glow intensely",
+     "move": "chin tucks, holding each one for a second at the back, 2 slow reps",
+     "camera": "Slow camera orbit to the right"
+    }
+   ],
+   "start": 0.0,
+   "end": 16.0,
+   "label_in": 0.3,
+   "label_out": 15.5
+  }
+ ],
+ "end_start": 16.0,
+ "end_seconds": 4.351041666666666,
+ "total": 20.351041666666667,
+ "cues": [
+  [
+   "vo/intro.wav",
+   0.1,
+   2.785625,
+   "Does your head drift forward when you scroll?"
+  ],
+  [
+   "vo/s0.wav",
+   3.035625,
+   6.043291666666667,
+   "Chin tucks wake up the deep neck muscles and pull your head back over your shoulders."
+  ],
+  [
+   "vo/outro.wav",
+   9.228916666666667,
+   4.389958333333333,
+   "Ten slow reps a day, and you stand taller."
+  ],
+  [
+   "vo/tagline.wav",
+   16.75,
+   3.0010416666666666,
+   ""
+  ]
+ ]
+}

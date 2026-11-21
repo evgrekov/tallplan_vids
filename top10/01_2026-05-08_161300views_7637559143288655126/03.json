@@ -1,0 +1,110 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Translucent anatomical silhouette of a person in a seated forward fold, legs extended straight forward and torso folded over them, head down near the feet. The body is a dark brown-black silhouette with a warm orange-amber rim glow. The spine is highlighted with bright glowing vertebrae running from the tailbone to the neck, and the hamstrings on the extended legs glow intensely in orange-yellow. Smooth digital medical-illustration style with soft volumetric lighting, subtle shadow pooling beneath the figure, and a plain white background.",
+  "bbox_pct": [
+   9.6,
+   48.7,
+   81.2,
+   33.5
+  ]
+ },
+ "texts": [
+  {
+   "text": "2.",
+   "font": "bold condensed grotesque sans (e.g. Bebas Neue / Oswald-like)",
+   "weight": "bold",
+   "size_pct_of_height": 12.5,
+   "color": "#000000",
+   "align": "left",
+   "bbox_pct": [
+    14.8,
+    2.9,
+    9.0,
+    12.5
+   ]
+  },
+  {
+   "text": "SEATED",
+   "font": "bold condensed grotesque sans (e.g. Bebas Neue / Oswald-like)",
+   "weight": "bold",
+   "size_pct_of_height": 12.5,
+   "color": "#FF5A1A",
+   "align": "left",
+   "bbox_pct": [
+    27.5,
+    2.9,
+    41.0,
+    12.5
+   ]
+  },
+  {
+   "text": "FORWARD FOLD",
+   "font": "bold condensed grotesque sans (e.g. Bebas Neue / Oswald-like)",
+   "weight": "bold",
+   "size_pct_of_height": 12.5,
+   "color": "#FF5A1A",
+   "align": "center",
+   "bbox_pct": [
+    9.6,
+    17.2,
+    80.7,
+    12.5
+   ]
+  },
+  {
+   "text": "Releases back tension",
+   "font": "medium grotesque sans (e.g. Helvetica / Inter-like)",
+   "weight": "regular with \"back\" in bold",
+   "size_pct_of_height": 3.6,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    30.3,
+    31.1,
+    39.3,
+    4.0
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#FF5A1A",
+   "description": "Short horizontal orange rule to the left of the subtitle, flanking it",
+   "bbox_pct": [
+    20.4,
+    32.8,
+    7.6,
+    0.6
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#FF5A1A",
+   "description": "Short horizontal orange rule to the right of the subtitle, flanking it",
+   "bbox_pct": [
+    72.3,
+    32.8,
+    7.6,
+    0.6
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#FF5A1A",
+   "description": "Dotted orange arc rising over the figure's back from left to right and ending in a solid arrowhead pointing down-right toward the feet, indicating the motion of the spine folding forward",
+   "bbox_pct": [
+    17.2,
+    43.5,
+    56.5,
+    16.5
+   ]
+  }
+ ],
+ "inserts": []
+}

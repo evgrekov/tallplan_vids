@@ -1,0 +1,48 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Two minimalist solid black human silhouettes standing side by side in front view on a plain white background. Both have relaxed arms hanging at their sides, slightly curved hands, and tapered legs ending in simple feet. The figure on the left is taller and has a proportionally smaller head, while the figure on the right is shorter with a larger head relative to its body. Clean, flat vector silhouette style with smooth edges, no outlines, no shading, no gradients, and no text.",
+  "bbox_pct": [
+   29.9,
+   20.5,
+   40.4,
+   55.7
+  ]
+ },
+ "texts": [
+  {
+   "text": "Your Head Looks Smaller",
+   "font": "geometric sans-serif (Century Gothic / Questrial-like)",
+   "weight": "regular",
+   "size_pct_of_height": 5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    15,
+    7,
+    70.3,
+    4.7
+   ]
+  },
+  {
+   "text": "Tall Body Proportions",
+   "font": "geometric sans-serif (Century Gothic / Questrial-like)",
+   "weight": "regular",
+   "size_pct_of_height": 4.5,
+   "color": "#6AA84F",
+   "align": "center",
+   "bbox_pct": [
+    26.7,
+    83.5,
+    48.5,
+    4.6
+   ]
+  }
+ ],
+ "graphics": [],
+ "inserts": []
+}

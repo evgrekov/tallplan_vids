@@ -1,0 +1,96 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FFFFFF"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Stylized anatomical silhouette of a person lying supine on a bare white floor, knees drawn up to the chest and both hands clasped around the shins, head tilted back with the chin lifted, feet relaxed in the air. The body is a dark near-black translucent figure outlined with a glowing orange-to-yellow rim light. The lower back and spine area glows bright amber-yellow with vertebrae-like segments and concentric pulse rings radiating outward, as if highlighting pressure relief. Soft, clean studio lighting, smooth digital medical-illustration style, faint reflection and soft contact shadow beneath the body on a pure white background. No text, no arrows, no UI elements.",
+  "bbox_pct": [
+   6.4,
+   37,
+   89,
+   43.5
+  ]
+ },
+ "texts": [
+  {
+   "text": "3.",
+   "font": "condensed bold grotesque sans (Bebas Neue / Oswald-like)",
+   "weight": "bold",
+   "size_pct_of_height": 17,
+   "color": "#111111",
+   "align": "left",
+   "bbox_pct": [
+    5.4,
+    7.6,
+    9.2,
+    12.8
+   ]
+  },
+  {
+   "text": "KNEE TO CHEST",
+   "font": "condensed bold grotesque sans (Bebas Neue / Oswald-like)",
+   "weight": "bold",
+   "size_pct_of_height": 17,
+   "color": "#FF4A1C",
+   "align": "left",
+   "bbox_pct": [
+    17.7,
+    7.6,
+    78.8,
+    12.8
+   ]
+  },
+  {
+   "text": "Relieves lower back pressure",
+   "font": "condensed sans (Barlow Condensed / Roboto Condensed-like)",
+   "weight": "regular, with 'lower back' in bold",
+   "size_pct_of_height": 4,
+   "color": "#111111",
+   "align": "center",
+   "bbox_pct": [
+    25.7,
+    22.3,
+    52.6,
+    4.2
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#FF4A1C",
+   "description": "short horizontal dash to the left of the subtitle, thin stroke",
+   "bbox_pct": [
+    16.6,
+    24,
+    6.5,
+    0.5
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#FF4A1C",
+   "description": "short horizontal dash to the right of the subtitle, thin stroke",
+   "bbox_pct": [
+    80.5,
+    24,
+    6.5,
+    0.5
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#E8401C",
+   "description": "curved arrow with a filled triangular head pointing up-right, rising from near the hip/knee side toward the raised knees, indicating motion",
+   "bbox_pct": [
+    30.2,
+    39.4,
+    13.6,
+    14.2
+   ]
+  }
+ ],
+ "inserts": []
+}

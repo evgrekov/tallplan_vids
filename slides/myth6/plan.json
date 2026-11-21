@@ -1,0 +1,21 @@
+{
+  "title": "Spine Lengthening Myth vs Fact",
+  "style": "glitchy cyberpunk 3D render, magenta and cyan neon rim lighting, chromatic aberration, subtle scanlines, high-end octane render, cinematic lighting",
+  "character": "athletic 20-year-old young man with short messy dark hair, wearing a fitted dark grey crewneck t-shirt and charcoal denim jeans",
+  "ink": "#FFFFFF",
+  "outline": "#00E5FF",
+  "myth": {
+    "prompt": "portrait 2:3 aspect ratio, top 30% of frame completely empty plain dark void, subject centered below the empty space, an athletic 20-year-old young man with short dark hair wearing a fitted dark grey t-shirt and charcoal jeans, trapped and tightly cramped inside a small glowing neon cage, spine severely hunched over and compressed, head hanging down resigned and defeated, glowing magenta wireframe cage bars pressing against him, glitchy cyberpunk 3D aesthetic, chromatic aberration, scanline texture, plain dark background, no text, no letters",
+    "caption": "MYTH: YOUR SPINE CANNOT BE LENGTHENED",
+    "sub": "My height is locked forever",
+    "dur": 3.4,
+    "music": "broken glitchy ambient synth pad, slow melancholic chords, muffled lo-fi distortion, hollow sorrowful atmosphere, instrumental, no vocals"
+  },
+  "fact": {
+    "prompt": "portrait 2:3 aspect ratio, top 30% of frame completely empty plain dark void, subject centered below the empty space, the same athletic 20-year-old young man with short dark hair wearing a fitted dark grey t-shirt and charcoal jeans standing tall with perfect upright posture, spine fully extended, glowing neon cage shattered into exploding floating glass-like shards around him, standing confidently in an open radiant doorway of cyan and magenta light, volumetric lighting, glitchy cyberpunk 3D aesthetic, chromatic aberration, plain background, no text, no letters",
+    "caption": "FACT: DECOMPRESSION UNLOCKS HIDDEN STANDING HEIGHT",
+    "sub": "Decompressing spinal discs restores true height",
+    "dur": 2.6,
+    "music": "hard cyberpunk electro, 128 BPM, aggressive synth bassline, punchy four-on-the-floor beat, high-energy drop, instrumental, no vocals"
+  }
+}

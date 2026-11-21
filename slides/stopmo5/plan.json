@@ -1,0 +1,159 @@
+{
+ "title": "3 Night Habits to Reach Your Natural Height",
+ "voice": "Calm, supportive, articulate male teacher speaking in a steady conversational rhythm ~140 WPM",
+ "tts_voice": "Puck",
+ "music": "Chill lo-fi hip hop beat with soft Rhodes piano chords, light vinyl crackle, and steady relaxed drums at 75 BPM",
+ "cuts": {
+  "bed_phone": "simple flat cut-paper illustration of a stick figure lying in bed staring at a glowing smartphone screen",
+  "stick_short_tall": "simple flat cut-paper illustration of a shorter stick figure next to a taller upright stick figure",
+  "moon_stars": "simple flat cut-paper illustration of a yellow crescent moon with two small twinkling stars",
+  "phone_crossed": "simple flat cut-paper illustration of a smartphone silhouette covered by a bold red prohibition slash",
+  "sleeping_face": "simple flat cut-paper illustration of a peaceful sleeping emoji with gently closed eyes",
+  "stretching_figure": "simple flat cut-paper illustration of a stick figure reaching overhead in a full-body vertical stretch"
+ },
+ "scenes": [
+  {
+   "vo": "Stop doing this before bed if you want to be taller.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "bed_phone",
+     "x": 0.5,
+     "y": 0.42,
+     "w": 0.38
+    },
+    {
+     "tag": "STOP",
+     "color": "#E53935",
+     "x": 0.5,
+     "y": 0.62,
+     "w": 0.24
+    }
+   ]
+  },
+  {
+   "vo": "Don't panic, you can still unlock your full natural height.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "DON'T PANIC",
+     "color": "#37474F",
+     "x": 0.5,
+     "y": 0.32,
+     "w": 0.36
+    },
+    {
+     "cut": "stick_short_tall",
+     "x": 0.5,
+     "y": 0.54,
+     "w": 0.36
+    }
+   ]
+  },
+  {
+   "vo": "Your spine decompresses and recovers overnight. Just build these three night habits.",
+   "clear": true,
+   "items": [
+    {
+     "cut": "moon_stars",
+     "x": 0.5,
+     "y": 0.36,
+     "w": 0.28
+    },
+    {
+     "tag": "3 NIGHT HABITS",
+     "color": "#FDD835",
+     "x": 0.5,
+     "y": 0.56,
+     "w": 0.42
+    }
+   ]
+  },
+  {
+   "vo": "Number one: screen off sixty minutes before bed for deep recovery.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 1",
+     "color": "#FF8A80",
+     "x": 0.32,
+     "y": 0.28,
+     "w": 0.2
+    },
+    {
+     "cut": "phone_crossed",
+     "x": 0.5,
+     "y": 0.48,
+     "w": 0.32
+    },
+    {
+     "tag": "SCREEN OFF",
+     "color": "#ECEFF1",
+     "x": 0.5,
+     "y": 0.66,
+     "w": 0.32
+    }
+   ]
+  },
+  {
+   "vo": "Number two: get eight to ten hours of uninterrupted sleep.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 2",
+     "color": "#FFB74D",
+     "x": 0.32,
+     "y": 0.28,
+     "w": 0.2
+    },
+    {
+     "cut": "sleeping_face",
+     "x": 0.5,
+     "y": 0.46,
+     "w": 0.28
+    },
+    {
+     "tag": "8-10 HOURS",
+     "color": "#E8F5E9",
+     "x": 0.5,
+     "y": 0.64,
+     "w": 0.32
+    }
+   ]
+  },
+  {
+   "vo": "Number three: do a gentle two-minute spine stretch right before sleep.",
+   "clear": true,
+   "items": [
+    {
+     "tag": "NO. 3",
+     "color": "#81C784",
+     "x": 0.32,
+     "y": 0.28,
+     "w": 0.2
+    },
+    {
+     "cut": "stretching_figure",
+     "x": 0.5,
+     "y": 0.48,
+     "w": 0.3
+    },
+    {
+     "tag": "NIGHT STRETCH",
+     "color": "#E1F5FE",
+     "x": 0.5,
+     "y": 0.66,
+     "w": 0.36
+    }
+   ]
+  },
+  {
+   "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+   "clear": true,
+   "items": []
+  }
+ ],
+ "surface": "clean white matte table surface",
+ "cut_style": "flat cut-paper craft, simple bold shapes",
+ "openai_voice": "ash"
+}

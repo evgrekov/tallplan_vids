@@ -1,0 +1,34 @@
+{
+  "title": "Before-Bed Spine Relax",
+  "style": "Cozy children's-book gouache illustration, warm night colors, deep blue plain background, soft bedside glow, gentle texture, beautiful consistent portrait 2:3 framing.",
+  "character": "Same 19–20-year-old adult in every slide, adult proportions, warm brown skin, short curly dark hair, calm expressive face, wearing a soft cream t-shirt and muted terracotta athletic shorts, barefoot.",
+  "ink": "#FFF2C6",
+  "outline": "#10213A",
+  "openai_voice": "sage",
+  "voice": "Warm sage tone; upbeat, friendly, brisk, and bedtime-calm.",
+  "exercises": [
+    {
+      "name": "SUPINE TWIST",
+      "dose": "30 SEC",
+      "a": "Portrait 2:3 cozy gouache image, same young adult centered with generous margins on a simple warm rug against a deep blue plain background, top 18% completely empty for captions, whole body visible, no text, no letters, no numbers. Overhead camera with slight gentle angle. The character lies on their back: head, upper back, both shoulders, both arms, and palms touch the floor; arms are stretched straight out in a T shape. Both knees are bent about 90 degrees and dropped together toward the viewer's left; outer left thigh, left knee, and side of left lower leg touch the floor; right knee rests stacked over left knee; feet are relaxed and stacked. Face looks upward, shoulders stay flat and relaxed.",
+      "b": "Portrait 2:3 cozy gouache image, same young adult centered with generous margins on the same simple warm rug against a deep blue plain background, top 18% completely empty for captions, whole body visible, no text, no letters, no numbers. Same overhead camera angle and framing as pose a. The character lies on their back: head, upper back, both shoulders, both arms, and palms touch the floor; arms are stretched straight out in a T shape. Both knees are bent about 90 degrees and dropped together toward the viewer's right; outer right thigh, right knee, and side of right lower leg touch the floor; left knee rests stacked over right knee; feet are relaxed and stacked. Face looks upward, shoulders stay flat and relaxed."
+    },
+    {
+      "name": "KNEES TO CHEST",
+      "dose": "30 SEC",
+      "a": "Portrait 2:3 cozy gouache image, same young adult centered with generous margins on a simple warm rug against a deep blue plain background, top 18% completely empty for captions, whole body visible, no text, no letters, no numbers. Overhead camera with slight gentle angle. The character lies on their back with head, shoulders, spine, hips, arms, and both palms touching the floor. Knees are bent upward, feet flat on the floor hip-width apart, toes pointing forward, heels near the hips. Arms rest long beside the body, face soft and relaxed, torso straight.",
+      "b": "Portrait 2:3 cozy gouache image, same young adult centered with generous margins on the same simple warm rug against a deep blue plain background, top 18% completely empty for captions, whole body visible, no text, no letters, no numbers. Same overhead camera angle and framing as pose a. The character lies on their back with head, shoulders, spine, and hips touching the floor. Both knees are pulled toward the chest; feet are lifted off the floor, ankles relaxed, soles visible. Both hands clasp around the front of the shins just below the knees, elbows bent outward. Lower back looks gently rounded and relaxed, face peaceful."
+    }
+  ],
+  "result": "Portrait 2:3 cozy children's-book gouache image, same 19–20-year-old adult centered with generous margins against a plain deep blue warm night background, top 18% completely empty, whole body visible, no text, no letters, no numbers. The character stands barefoot facing forward with feet hip-width apart, knees soft, shoulders relaxed down and back, chest open, neck long, chin level, great upright posture. They look proud, calm, and happy, wearing the same cream t-shirt and terracotta shorts, softly lit like a peaceful bedtime scene.",
+  "captions": {
+    "hook": "CAN'T SLEEP STRAIGHT?",
+    "takeaway": "2 MIN · NIGHTLY"
+  },
+  "lines": {
+    "hook": "Can’t sleep straight? Try two calm spine stretches tonight.",
+    "ex1": "Supine twists calm tight sides and unwind your back.",
+    "ex2": "Knees to chest softens your lower back before sleep.",
+    "takeaway": "Breathe slow and repeat nightly."
+  }
+}

@@ -1,0 +1,12 @@
+Continue this video for 8 more seconds with the same character, style, voice and music.
+REFERENCES: image 1 = the character. Image 2 = exact keyframe 'kf_growth_hologram', match its pose and anatomy.
+CHARACTER LOCK: the same person from image 1 in every shot (15-year-old teenage boy with messy dark brown hair, expressive dark eyes, athletic lean build, wearing black athletic shorts.), one person only, no ghost, faded or duplicate figures.
+ANATOMY LOCK: correct human anatomy at all times: knees bend only forward, natural ankles and wrists, five fingers and five toes, no extra, missing or twisted limbs.
+NARRATION: the voiceover is an off-screen narrator; the character never speaks, mouth stays closed, no lip movement.
+CLEAN FRAME: no words, no subtitles, no letters, no UI anywhere in the image (graphic numbers only if the shot explicitly asks for them). The voiceover is audio only and is never written on screen.
+STYLE: Modern 2D anime-influenced webcomic animation, clean bold line art, cel shading, bright studio lighting, neutral gradient backgrounds, vibrant mint green VFX highlights.
+
+0-3s: Cut to translucent full-body silhouette with glowing mint hormonal nodes shifting from spine to facial bones. [SFX: Deep hum, digital pulse]
+3-5.5s: Teen stands thoughtfully as glowing mint holographic measurement lines trace his stature. [SFX: Shimmer, rising tone]
+5.5-8s: Low-angle medium-wide shot; teen points upward toward empty upper-middle space, holding pose as mint sparkle radiates. [SFX: Pop, light chime]
+Audio: voiceover — Male, early 20s, North American accent, confident, educational, clear energetic delivery, ~150 WPM, crisp broadcast vocal tone. — speaking exactly: "A defined jawline indicates hormone shifts. Check your growth plate status and potential in TallPlan." Music: Mid-tempo modern hip-hop beat with punchy 808s, light synthesizer melodies, and a clean forward groove.

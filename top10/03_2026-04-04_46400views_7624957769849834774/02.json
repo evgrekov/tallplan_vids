@@ -1,0 +1,82 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#FAFAFA"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Realistic semi-illustrated side view of a human leg with a white ankle sock, stepping into a black low-top athletic sneaker with white thick rubber midsole and a black pull tab loop at the heel. A translucent, glowing view shows the foot's toes pushing against the front of the shoe, with the toe area blurred and tinted warm peach/skin tone, and a few short red motion tick marks near the toes indicating pressure or pain. Clean white studio background with a soft shadow beneath the shoe, detailed fabric texture, laces, soft even lighting, polished digital illustration style.",
+  "bbox_pct": [
+   16,
+   23,
+   68,
+   46
+  ]
+ },
+ "texts": [
+  {
+   "text": "Shoes Feel Tight Randomly",
+   "font": "humanist sans-serif (Gill Sans / Optima-like)",
+   "weight": "semibold",
+   "size_pct_of_height": 6.5,
+   "color": "#000000",
+   "align": "center",
+   "bbox_pct": [
+    12,
+    8,
+    77,
+    8
+   ]
+  },
+  {
+   "text": "Feet growing first",
+   "font": "humanist sans-serif (Gill Sans-like)",
+   "weight": "medium",
+   "size_pct_of_height": 4.5,
+   "color": "#6A9E3C",
+   "align": "center",
+   "bbox_pct": [
+    29,
+    78,
+    42,
+    6
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#D7262B",
+   "description": "Three short red motion/pain tick marks radiating from the toe area of the shoe, indicating pressure",
+   "bbox_pct": [
+    77,
+    46,
+    80,
+    9
+   ]
+  },
+  {
+   "type": "line",
+   "color": "#9E9E9E",
+   "description": "Dashed horizontal grey line running across the bottom of the slide",
+   "bbox_pct": [
+    4,
+    93,
+    91,
+    1
+   ]
+  },
+  {
+   "type": "chevron",
+   "color": "#9E9E9E",
+   "description": "Grey open arrowhead at the right end of the dashed line pointing right, acting as a next/continue indicator",
+   "bbox_pct": [
+    91,
+    92,
+    5,
+    6
+   ]
+  }
+ ],
+ "inserts": []
+}

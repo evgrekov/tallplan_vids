@@ -1,0 +1,192 @@
+{
+  "title": "Why Your Height Changes Every Day",
+  "character": "Full-body model sheet of a friendly young man standing facing forward on a plain white background, flat 2D vector illustration style, clean minimalist shapes, subtle clean outlines, wearing a solid mint-green crewneck t-shirt, straight-leg dark navy trousers, and white-soled black sneakers, pleasant confident facial expression with a gentle smile",
+  "openai_voice": "cedar",
+  "voice": "bright, friendly, warm, educational and briskly paced",
+  "music": "light upbeat electronic lo-fi groove with warm melodic synth pads, 115 BPM, mixed quiet under speech",
+  "scenes": [
+    {
+      "vo": "Have you ever wondered why your height changes every day?",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "standing upright facing front with relaxed hands at sides and an open curious smile, mint-green t-shirt and dark trousers",
+          "in": 70.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat vector sun rising icon with soft yellow rays",
+          "label": "Morning"
+        },
+        {
+          "prompt": "flat vector crescent moon and stars icon in pale yellow",
+          "label": "Night"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "One quarter of your spine consists of soft cushions.",
+      "kind": "photo",
+      "bg": null,
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "A clean 3D anatomical medical render of a human spine against a dark studio background, highlighting the intervertebral discs glowing with translucent cyan cartilage cushioning between vertebrae, photorealistic, educational lighting",
+      "sfx": "ding"
+    },
+    {
+      "vo": "During the day, gravity compresses them down half an inch.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "standing looking slightly fatigued as height ruler ticks slightly down, shoulders naturally sagging, mint-green t-shirt and dark trousers",
+          "in": 69.5,
+          "from": 70.0,
+          "label": "Evening"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat vector downward compression arrows icon in bold white",
+          "label": "Gravity"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "Good sleep rehydrates them back to full morning height.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "standing energetic with a cheerful stretch pose, standing tall as height ruler rises back up, mint-green t-shirt and dark trousers",
+          "in": 70.0,
+          "from": 69.5,
+          "label": "Morning"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat vector glowing water drop icon indicating disc rehydration",
+          "label": "Rest"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "In zero gravity, astronauts stretch up to two inches taller!",
+      "kind": "photo",
+      "bg": null,
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "A photorealistic vertical shot of an astronaut floating weightlessly inside the cupola of the International Space Station, relaxed elongated spine in microgravity with the blue curve of Earth visible in the background",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Back on Earth, gravity squeezes them right back down.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "standing holding an astronaut helmet under one arm, smiling as ruler smoothly adjusts back to baseline height, mint-green t-shirt and dark trousers",
+          "in": 70.0,
+          "from": 72.0,
+          "label": "Earth"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat vector stylized planet Earth icon in blue and green",
+          "label": "1G Gravity"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "Poor posture and rounded shoulders also steal visible inches.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "slumping forward with a pronounced forward head posture, rounded shoulders and sheepish expression, ruler showing noticeable loss of height",
+          "in": 68.5,
+          "from": 70.0,
+          "label": "Slouched"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat vector red alert triangle warning badge icon",
+          "label": "Slouch"
+        }
+      ],
+      "alarm": true,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "Wall angels and chin tucks restore your upright frame.",
+      "kind": "photo",
+      "bg": null,
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "A bright high-key athletic studio photo of a young adult performing a wall angel posture exercise flat against a neutral wall, demonstrating ideal vertical spine alignment with arms in a W position, clean natural morning sunlight",
+      "sfx": "ding"
+    },
+    {
+      "vo": "So how tall could your natural posture make you?",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "standing proudly tall with open chest, retracted chin and confident smile, height ruler rising to peak stature, mint-green t-shirt and dark trousers",
+          "in": 70.0,
+          "from": 68.5,
+          "label": "Full Height"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat vector golden trophy cup icon with sparkle accents",
+          "label": "Natural Max"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "standing cheerful and welcoming, giving an encouraging thumbs-up toward the viewer, mint-green t-shirt and dark trousers",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    }
+  ]
+}

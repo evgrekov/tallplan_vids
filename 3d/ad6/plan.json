@@ -1,0 +1,99 @@
+{
+ "ref_shot_count": 10,
+ "title": "Essential Growth Stretches",
+ "summary": "Remakes the animated guide demonstrating spine decompression stretches and inversion using 3D character motion, mint green vectors, and TallPlan branding.",
+ "style": "Stylized 3D digital animation, smooth cartoon proportions, vibrant solid blue studio backdrop, soft studio lighting, clean wooden flooring.",
+ "render": "anime",
+ "character": "Young 20-year-old male, athletic build, short dark textured hair, friendly stylized 3D face, wearing white crewneck t-shirt and black athletic shorts with white socks.",
+ "style_ref_times": [
+  0.5,
+  6.0
+ ],
+ "character_prompt": "Stylized 3D cartoon young adult man, 20 years old, athletic slender build, short tousled black hair, wearing plain white fitted t-shirt and black shorts with white socks, standing relaxed in 3/4 view, clean blue studio background, soft 3D character render, no text.",
+ "keyframes": [
+  {
+   "name": "standing_base",
+   "part": 0,
+   "prompt": "Full body stylized 3D young adult male in white t-shirt and black shorts standing upright against vivid blue background, confident posture."
+  },
+  {
+   "name": "cobra_stretch",
+   "part": 0,
+   "prompt": "Full body stylized 3D young adult male performing cobra stretch on polished wood floor, palms flat, chest arched upward, blue background."
+  },
+  {
+   "name": "hanging_bar",
+   "part": 1,
+   "prompt": "Full body stylized 3D young adult male hanging with both arms extended overhead from a horizontal bar, legs dangling straight, solid blue backdrop."
+  }
+ ],
+ "parts": [
+  {
+   "shots": [
+    {
+     "vo": "To unlock your full height, these four stretches are essential.",
+     "visuals": [
+      "Studio blue backdrop, quick camera push-in on character standing upright as glowing mint green vertical arrow surges up beside him. SFX: Upward whoosh.",
+      "Smooth transition to floor; character drops into prone position and pushes chest upward into cobra stretch. SFX: Floor slide swish."
+     ],
+     "t": [
+      0,
+      3.94
+     ]
+    },
+    {
+     "vo": "First is the cobra stretch, decompressing your lower spine.",
+     "visuals": [
+      "Behind character low angle, spine visibly illuminated with internal mint green energy pulsing toward the neck. SFX: Shimmering hum.",
+      "Fast whip pan up to character grabbing overhead bar, lifting feet off floor. SFX: Quick whoosh."
+     ],
+     "t": [
+      3.94,
+      7.42
+     ]
+    },
+    {
+     "vo": "Next, dead hangs instantly relieve spinal compression.",
+     "visuals": [
+      "Full shot hanging straight down, subtle downward mint green force arrows along spine and legs. SFX: Low tension stretch sound.",
+      "Quick switch to hanging from top of modern door frame, body suspended straight. SFX: Solid grip thud."
+     ],
+     "t": [
+      7.42,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    {
+     "vo": "Third, an inversion table fully reverses gravity's daily pull.",
+     "visuals": [
+      "Side view of character strapped onto black inversion bench, camera pans as table tilts backwards. SFX: Mechanical pivot click.",
+      "Full inversion upside down, mint green decompression arrows extending down from ankles to head. SFX: Riser whoosh."
+     ],
+     "t": [
+      0,
+      3.85
+     ]
+    },
+    {
+     "vo": "And track your customized height growth journey in TallPlan.",
+     "visuals": [
+      "Character dismounts into standing stance, standing tall with shoulders back and smiling. SFX: Confident step thud.",
+      "Character positioned in lower third of frame looking upward, upper half open for card overlay, mint green aura glowing. SFX: Pop chime."
+     ],
+     "t": [
+      3.85,
+      8
+     ]
+    }
+   ]
+  }
+ ],
+ "voice": "Young adult male, North American accent, crisp upbeat explainer tone, ~145 WPM, clean studio narration",
+ "tts_voice": "Puck",
+ "music": "Modern upbeat lo-fi hip hop groove, 115 BPM, bouncy muted bassline, crisp snaps, airy synth accents, purely instrumental",
+ "packshot": 13.8
+}

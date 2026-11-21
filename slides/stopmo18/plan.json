@@ -1,0 +1,109 @@
+{
+  "title": "One Stretch Before Bed",
+  "surface": "pastel pink paper",
+  "cut_style": "Memphis design cutouts, bold geometric shapes, squiggles and dots in bright colors",
+  "openai_voice": "shimmer",
+  "voice": "Friendly, clear, brisk narrator at about 170 WPM, warm and encouraging.",
+  "cuts": {
+    "doorway_chest_stretch": "Simple flat paper illustration of a person standing in a doorway with forearms on the frame, gently leaning forward, no text, bright Memphis geometric accents.",
+    "slumped_shoulders": "Side-view flat paper illustration of a seated person with rounded shoulders looking at a phone, no text, playful squiggles and dots around them.",
+    "soft_open_arrow": "Curved paper arrow with small sparkle shapes suggesting gentle opening and release, no text, bold bright Memphis colors.",
+    "relaxed_posture": "Flat paper illustration of a person standing tall with relaxed shoulders and an easy neutral spine, no text, colorful geometric accents.",
+    "sleep_bed": "Simple paper bed with pillow and a crescent moon above it, no text, bright Memphis shapes and dots.",
+    "round_timer": "Cute round kitchen timer paper cutout with a simple dial and no numbers or text, bold colorful Memphis style."
+  },
+  "scenes": [
+    {
+      "vo": "One stretch before bed. That's it.",
+      "clear": true,
+      "items": [
+        {
+          "cut": "doorway_chest_stretch",
+          "x": 0.47,
+          "y": 0.31,
+          "w": 0.24
+        }
+      ]
+    },
+    {
+      "vo": "Tight chest pulls shoulders forward all day.",
+      "clear": false,
+      "items": [
+        {
+          "cut": "slumped_shoulders",
+          "x": 0.2,
+          "y": 0.38,
+          "w": 0.17
+        },
+        {
+          "tag": "TIGHT CHEST",
+          "color": "#FFE66D",
+          "x": 0.74,
+          "y": 0.36,
+          "w": 0.2
+        }
+      ]
+    },
+    {
+      "vo": "Doorway stretch opens your chest gently.",
+      "clear": false,
+      "items": [
+        {
+          "cut": "soft_open_arrow",
+          "x": 0.32,
+          "y": 0.58,
+          "w": 0.16
+        },
+        {
+          "tag": "OPENS CHEST",
+          "color": "#7AE7C7",
+          "x": 0.64,
+          "y": 0.58,
+          "w": 0.23
+        }
+      ]
+    },
+    {
+      "vo": "Easier shoulders can let posture relax.",
+      "clear": true,
+      "items": [
+        {
+          "cut": "relaxed_posture",
+          "x": 0.29,
+          "y": 0.39,
+          "w": 0.22
+        },
+        {
+          "cut": "sleep_bed",
+          "x": 0.67,
+          "y": 0.36,
+          "w": 0.24
+        }
+      ]
+    },
+    {
+      "vo": "Hold thirty slow seconds before sleep tonight.",
+      "clear": false,
+      "items": [
+        {
+          "cut": "round_timer",
+          "x": 0.48,
+          "y": 0.58,
+          "w": 0.15
+        },
+        {
+          "tag": "SLOW HOLD",
+          "color": "#FF8FAB",
+          "x": 0.7,
+          "y": 0.58,
+          "w": 0.18
+        }
+      ]
+    },
+    {
+      "vo": "Get your personal routine in TallPlan.",
+      "clear": true,
+      "items": []
+    }
+  ]
+}

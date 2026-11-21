@@ -1,0 +1,71 @@
+{
+ "canvas": {
+  "aspect_ratio": "1:1",
+  "background": "#F5F5F8"
+ },
+ "illustration": {
+  "present": true,
+  "description": "Soft hand-drawn cartoon illustration of a smiling man in a white t-shirt stretching both arms straight up with open palms, head tilted back with eyes closed in contentment, short dark hair, light peach skin tones, thin dark ink outlines with gentle watercolor-like fill, small pale yellow motion strokes beside each hand suggesting a wiggle, set against a flat pale grey-blue background panel, calm minimal editorial style, soft even lighting",
+  "bbox_pct": [
+   16,
+   21,
+   67,
+   50
+  ]
+ },
+ "texts": [
+  {
+   "text": "You Stretch Without Thinking",
+   "font": "geometric humanist sans-serif (Futura/Century Gothic-like)",
+   "weight": "medium",
+   "size_pct_of_height": 4.5,
+   "color": "#222222",
+   "align": "center",
+   "bbox_pct": [
+    16,
+    8,
+    68,
+    6
+   ]
+  },
+  {
+   "text": "Body trying to expand",
+   "font": "geometric humanist sans-serif (Futura/Century Gothic-like)",
+   "weight": "regular",
+   "size_pct_of_height": 3.8,
+   "color": "#7A9A5E",
+   "align": "center",
+   "bbox_pct": [
+    28,
+    79,
+    45,
+    5
+   ]
+  }
+ ],
+ "graphics": [
+  {
+   "type": "line",
+   "color": "#B0B0B0",
+   "description": "Dashed horizontal line running across the bottom of the slide, ending in an arrowhead pointing right",
+   "bbox_pct": [
+    4,
+    92,
+    92,
+    4
+   ]
+  },
+  {
+   "type": "arrow",
+   "color": "#A0A0A0",
+   "description": "Grey right-pointing arrowhead at the right end of the dashed line",
+   "bbox_pct": [
+    91,
+    92,
+    5,
+    4
+   ]
+  }
+ ],
+ "inserts": []
+}

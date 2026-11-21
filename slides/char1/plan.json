@@ -1,0 +1,51 @@
+{
+ "title": "Unlock Your Full Height with Rulo",
+ "mascot_sheet": "Full body character model sheet of Rulo, a light wooden cartoon school ruler with black centimeter measurement lines. He has large expressive cartoon eyes, tiny stick arms and legs, clean bold outlines, flat colors, plain white background.",
+ "openai_voice": "ash",
+ "voice": "Fast, energetic, comedic, relatable young voice.",
+ "music": "Bouncy upbeat cartoon instrumental, 125 BPM, light marimba and pizzicato strings.",
+ "scenes": [
+  {
+   "vo": "Can you actually get taller naturally?",
+   "prompt": "Rulo the wooden ruler cartoon slouching sadly, looking down at his own marks with a horrified face, solid yellow background.",
+   "motion": "squash",
+   "sfx": "bonk"
+  },
+  {
+   "vo": "First, fix your posture to unlock hidden height.",
+   "prompt": "Rulo snapping straight like an arrow, beaming proudly with sparkling eyes, solid light blue background.",
+   "motion": "stretch",
+   "sfx": "ding"
+  },
+  {
+   "vo": "Hang daily to decompress your spine.",
+   "prompt": "Rulo hanging by his tiny hands from a pull-up bar, stretching comically long, mint green background.",
+   "motion": "bounce",
+   "sfx": "whoosh"
+  },
+  {
+   "vo": "Fuel up on protein, calcium, and vitamin D.",
+   "prompt": "Rulo juggling a giant egg, milk bottle, and broccoli, sweating happily, bright orange background.",
+   "motion": "shake",
+   "sfx": "pop"
+  },
+  {
+   "vo": "Deep sleep lets your spine recover overnight.",
+   "prompt": "Rulo sleeping soundly in a cozy bed, snoring cartoon z-bubbles floating upward, dark navy background.",
+   "motion": "push",
+   "sfx": "none"
+  },
+  {
+   "vo": "No magical pills\u2014just solid daily habits.",
+   "prompt": "Rulo swatting away floating shady supplement bottles with a resolute smirk, pastel purple background.",
+   "motion": "punch",
+   "sfx": "whoosh"
+  },
+  {
+   "vo": "And there's way more inside our app. Get your personal routine in TallPlan.",
+   "prompt": "Rulo happily pointing at a large floating smartphone displaying a progress chart, warm yellow background.",
+   "motion": "bounce",
+   "sfx": "boing"
+  }
+ ]
+}
