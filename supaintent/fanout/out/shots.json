@@ -1,0 +1,27 @@
+[
+ {
+  "start": 0.2,
+  "end": 1.98,
+  "vo": "ChatGPT doesn't search what you typed."
+ },
+ {
+  "start": 2.13,
+  "end": 6.45,
+  "vo": "In eighteen thousand ChatGPT searches, only five percent repeat the prompt word for word."
+ },
+ {
+  "start": 6.6,
+  "end": 9.64,
+  "vo": "Twenty-seven percent add the year. Twelve percent ask for official info."
+ },
+ {
+  "start": 9.79,
+  "end": 12.31,
+  "vo": "So put the answer at the top and keep your facts current."
+ },
+ {
+  "start": 12.46,
+  "end": 15.84,
+  "vo": "See the real searches behind your prompts with SupaIntent."
+ }
+]

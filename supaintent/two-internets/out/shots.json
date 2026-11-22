@@ -1,0 +1,27 @@
+[
+ {
+  "start": 0.2,
+  "end": 3.07,
+  "vo": "ChatGPT and Google read a different internet."
+ },
+ {
+  "start": 3.22,
+  "end": 7.09,
+  "vo": "For the same question, only one in four sources overlap."
+ },
+ {
+  "start": 7.24,
+  "end": 13.58,
+  "vo": "Google leans on YouTube, in twenty percent of its answers. ChatGPT almost never cites it."
+ },
+ {
+  "start": 13.73,
+  "end": 18.24,
+  "vo": "Reddit? Eighteen percent on Google, eight on ChatGPT, which trusts review sites like G2."
+ },
+ {
+  "start": 18.39,
+  "end": 23.39,
+  "vo": "So one strategy won't win both. See who each AI cites, free, at SupaIntent."
+ }
+]

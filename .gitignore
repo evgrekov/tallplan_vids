@@ -27,3 +27,10 @@ __pycache__/
 !TallPlan photo/Screenshots/**
 !TallPlan photo/7nov/**
 research/work/
+*.m4a
+*.pcm
+node_modules/
+!supaintent/*/logos/**
+!supaintent/*/screenshots/**
+!supaintent/*/char/**
+!supaintent/stage3d/assets/**

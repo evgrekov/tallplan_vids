@@ -1,0 +1,27 @@
+[
+ {
+  "start": 0.2,
+  "end": 3.67,
+  "vo": "Ask three AIs the same question and you get three different winners."
+ },
+ {
+  "start": 3.82,
+  "end": 8.59,
+  "vo": "Best project management tool? ChatGPT says Asana, Gemini says Monday, and Google says ClickUp."
+ },
+ {
+  "start": 8.74,
+  "end": 12.75,
+  "vo": "Email marketing? Omnisend, ActiveCampaign and Mailchimp, one winner each."
+ },
+ {
+  "start": 12.9,
+  "end": 16.54,
+  "vo": "In our data, all three agree on the number one brand only about a third of the time."
+ },
+ {
+  "start": 16.69,
+  "end": 20.75,
+  "vo": "So winning one AI isn't enough. Check every engine with SupaIntent."
+ }
+]

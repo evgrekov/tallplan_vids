@@ -8,6 +8,8 @@
 - `02_sources/characters/<slug>/` — коллекция персонажей из чужих роликов: кадры `NN_<ракурс>_<поза>.png` (полный рост, профиль, лицо, ключевые позы), `00_sheet.png`, `character.md` (источник, описание, набросок промпта для генерации похожего)
 - `02_sources/music/<sound_id>_<title>.m4a` — звуки из роликов (вкладка Music: использование, просмотры, лучшие ролики)
 
+`My Drive/Projects/TT30/supaintent` — отдельный проект SupaIntent (код в `supaintent/`): `01_ready/<папка>.mp4` (финал `out/final.mp4`; `stage3d_<id>.mp4` из `stage3d/videos/<id>`), `03_work/` — раскладка как в `supaintent/`; `hotleads/` (LinkedIn-сборщик лидов через Bright Data: скрипты, `data/hotleads.sqlite`, `runs/`, запуск — его `README.md`, ключ `BRIGHTDATA_API` из `.env`) и `агентства/` (данные по агентствам) — перенесены из `~/Desktop/SI` как есть.
+
 Новый ролик: генерируем в папке репо → финал в `01_ready/<формат>/`, референс в `02_sources/references/`, остальное в `03_work/<та же папка>`.
 
 ## Готовые ролики

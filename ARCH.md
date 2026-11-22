@@ -42,6 +42,7 @@
 | `gads/` | Google App Campaigns: сцены-экраны телефона, 9:16 / 1:1 / 16:9 | `uv run gads/<name>.py` | — | докстринги в `gads/*.py` |
 | `gen/` | Пересборка слайдов топ-10 постов (fal, gpt-image) по разбору `top10/` | `python3 gen/build.py <NN>` / `gen/full.py` | — | код |
 | `yt_remake/` | Перезвучка готовых 3d-роликов новым голосом OpenAI без перегенерации видео | `python3 remake3d.py <3d/adN> <sfx.mp4> <out>` | — | докстринг |
+| `supaintent/` | **Другой проект — SupaIntent:** TikTok 30 с про видимость брендов в ChatGPT (скриншоты, персонаж Dana, 3D-сцена `stage3d`). Медиа — Drive `TT30/supaintent` | см. README | — | `supaintent/README.md` |
 
 ## Ключевые выученные уроки (3d)
 - Видео — `gemini-omni-1.1-flash` только через Interactions API, ≤10 с за генерацию, дальше extend (+8 с). Лимит Tier 1: 20 видео-запросов/сутки.

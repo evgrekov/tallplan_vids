@@ -1,0 +1,27 @@
+[
+ {
+  "start": 0.2,
+  "end": 2.1,
+  "vo": "AI has already picked the winner in your niche."
+ },
+ {
+  "start": 2.25,
+  "end": 5.85,
+  "vo": "Ask about e-commerce site search, and Algolia shows up in every single answer."
+ },
+ {
+  "start": 6.0,
+  "end": 8.54,
+  "vo": "It's named first in eighty-six out of ninety-three."
+ },
+ {
+  "start": 8.69,
+  "end": 13.66,
+  "vo": "Then Klevu at ninety-one percent, Bloomreach eighty-four, and Searchanise only forty-four."
+ },
+ {
+  "start": 13.81,
+  "end": 17.28,
+  "vo": "Which step are you on? Check your niche with SupaIntent."
+ }
+]

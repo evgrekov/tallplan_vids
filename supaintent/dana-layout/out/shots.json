@@ -1,0 +1,27 @@
+[
+ {
+  "start": 0.2,
+  "end": 3.67,
+  "vo": "My CEO asked me one question: are we number one in AI?"
+ },
+ {
+  "start": 3.82,
+  "end": 5.57,
+  "vo": "I asked back: which AI?"
+ },
+ {
+  "start": 5.72,
+  "end": 11.92,
+  "vo": "ChatGPT, Gemini and Google AI Mode name the same top brand for only thirty six percent of prompts."
+ },
+ {
+  "start": 12.07,
+  "end": 15.37,
+  "vo": "So two times out of three, at least one of them crowns someone else."
+ },
+ {
+  "start": 15.52,
+  "end": 18.76,
+  "vo": "Don't check one AI. Track all of them with SupaIntent."
+ }
+]

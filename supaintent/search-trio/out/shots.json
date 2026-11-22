@@ -1,0 +1,27 @@
+[
+ {
+  "start": 0.2,
+  "end": 3.13,
+  "vo": "Same question, three engines, three different answers."
+ },
+ {
+  "start": 3.28,
+  "end": 6.07,
+  "vo": "Google gives you links: Reddit, Forbes, Slack."
+ },
+ {
+  "start": 6.22,
+  "end": 9.7,
+  "vo": "Google's AI Overview picks for you: HubSpot first, then Pipedrive."
+ },
+ {
+  "start": 9.85,
+  "end": 13.4,
+  "vo": "And ChatGPT goes its own way: HubSpot, Attio and Pipedrive."
+ },
+ {
+  "start": 13.55,
+  "end": 17.65,
+  "vo": "Your Google rank won't tell you what AI recommends. Check that with SupaIntent."
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "start": 0.2,
+  "end": 6.24,
+  "vo": "This YouTube video has two thousand views. Google's AI cited it ten times."
+ },
+ {
+  "start": 6.39,
+  "end": 13.17,
+  "vo": "Google AI Mode cites YouTube in one answer out of five. ChatGPT almost never does."
+ },
+ {
+  "start": 13.32,
+  "end": 17.29,
+  "vo": "And the median cited video has just two thousand six hundred views."
+ },
+ {
+  "start": 17.44,
+  "end": 20.99,
+  "vo": "AI reads the transcript, not the view count."
+ },
+ {
+  "start": 21.14,
+  "end": 25.67,
+  "vo": "Find the videos shaping your category with SupaIntent YouTube Radar."
+ }
+]

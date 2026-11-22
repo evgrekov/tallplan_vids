@@ -1,0 +1,13 @@
+{
+ "lines": [
+  "Your robots.txt lets ChatGPT in. Your server might still slam the door.",
+  "Your hosting can still answer AI crawlers with a four oh three error.",
+  "Test it like the bot: send a request with GPTBot's user agent and look for a two hundred.",
+  "If AI can't read your page, it can't cite it.",
+  "Then check whether AI names your brand with SupaIntent."
+ ],
+ "profile": "American female, about 40, marketing lead explaining one sharp finding to a peer. Dry, deadpan wit with a smile in the voice, confident, lively, ~185 WPM, close-mic.",
+ "voice": "Kore",
+ "music": "Instrumental only, no vocals. Clean electronic tech groove: crisp hi-hats, deep sub bass, glassy synth arps, slightly tense then resolving, 115 BPM, 30 seconds.",
+ "length": 26
+}

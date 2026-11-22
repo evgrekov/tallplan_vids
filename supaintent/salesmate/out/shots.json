@@ -1,0 +1,27 @@
+[
+ {
+  "start": 0.2,
+  "end": 3.71,
+  "vo": "Forbes ranks on page one of Google and says the best CRM is Salesmate."
+ },
+ {
+  "start": 3.86,
+  "end": 8.85,
+  "vo": "Now ask the AIs. Google AI Mode names HubSpot, Pipedrive, Zoho and Salesforce."
+ },
+ {
+  "start": 9.0,
+  "end": 11.57,
+  "vo": "ChatGPT says HubSpot, Attio and Pipedrive."
+ },
+ {
+  "start": 11.72,
+  "end": 16.29,
+  "vo": "In two hundred AI answers about CRM software, Salesmate showed up zero times."
+ },
+ {
+  "start": 16.44,
+  "end": 20.81,
+  "vo": "Ranking on Google isn't the same as getting picked by AI. Check yours with SupaIntent."
+ }
+]
