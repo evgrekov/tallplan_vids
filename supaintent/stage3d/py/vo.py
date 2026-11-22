@@ -19,7 +19,7 @@ def pcm(af, raw, fmt=()):
 
 def heard(wav):
     """What the TTS actually said, normalized to lowercase words."""
-    t = oai.transcribe(wav, "Brands: SupaIntent, ChatGPT, Gemini, Google AI Mode, G2, Reddit, Perplexity, GPTBot, OpenAI, Stripe, PayPal. Spell numbers as words.")
+    t = oai.transcribe(wav, f"Brands: SupaIntent, ChatGPT, Gemini, Google AI Mode, G2, Reddit, Perplexity, GPTBot, OpenAI, {', '.join(CFG.get('brands', []))}. Spell numbers as words.")
     return norm(t)
 
 def norm(t):

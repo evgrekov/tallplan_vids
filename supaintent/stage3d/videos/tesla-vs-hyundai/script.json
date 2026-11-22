@@ -1,0 +1,19 @@
+{
+ "lines": [
+  "Tesla or Hyundai? We collected eighty answers from ChatGPT and Gemini.",
+  "Overall, it's almost a tie: Tesla eighty one percent, Hyundai seventy six.",
+  "Ask about charging networks, and Tesla wins, ninety to six.",
+  "Ask about the car's own charging, and it flips: Hyundai eighty, Tesla four.",
+  "And for energy efficiency, Tesla gets fifty six percent and Hyundai gets nine.",
+  "AI doesn't crown one winner. It picks one per question.",
+  "See what AI says about your brand with SupaIntent."
+ ],
+ "brands": [
+  "Tesla",
+  "Hyundai"
+ ],
+ "profile": "American female, about 40, marketing lead calling a close match like a sharp sports commentator. Dry, deadpan wit with a smile in the voice, confident, lively, ~185 WPM, close-mic.",
+ "voice": "Kore",
+ "music": "Instrumental only, no vocals. Sleek electric driving beat: pulsing synth bass, crisp electronic drums, bright arpeggios, forward momentum, 120 BPM, 30 seconds.",
+ "length": 30
+}

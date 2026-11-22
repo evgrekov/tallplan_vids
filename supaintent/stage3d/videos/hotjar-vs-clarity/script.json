@@ -1,0 +1,20 @@
+{
+ "lines": [
+  "Hotjar or Microsoft Clarity? We collected eighty answers from ChatGPT and Gemini.",
+  "Overall, it's almost a tie: Hotjar in eighty four percent of answers, Clarity in eighty two.",
+  "But ask about user feedback, and Hotjar wins, eighty four to thirty.",
+  "Ask about high traffic sites, and it flips: Clarity sixty five, Hotjar thirty one.",
+  "And for ease of use, Hotjar gets fifty seven percent and Clarity gets twenty six.",
+  "AI doesn't crown one winner. It picks one per question.",
+  "See what AI says about your brand with SupaIntent."
+ ],
+ "brands": [
+  "Hotjar",
+  "Clarity",
+  "Microsoft Clarity"
+ ],
+ "profile": "American female, about 40, marketing lead calling a close match like a sharp sports commentator. Dry, deadpan wit with a smile in the voice, confident, lively, ~185 WPM, close-mic.",
+ "voice": "Kore",
+ "music": "Instrumental only, no vocals. Playful bouncy tech groove: plucky synths, snappy claps, warm bass, curious and upbeat, 118 BPM, 30 seconds.",
+ "length": 30
+}

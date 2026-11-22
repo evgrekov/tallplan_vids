@@ -1,0 +1,19 @@
+{
+ "lines": [
+  "HubSpot or Salesforce? We collected eighty answers from ChatGPT and Gemini.",
+  "Overall, it's close: Salesforce in ninety five percent of answers, HubSpot in eighty six.",
+  "But ask about marketing, and HubSpot wins, seventy six to two.",
+  "Ask about big enterprises, and it flips: Salesforce sixty three, HubSpot thirteen.",
+  "And for customization, Salesforce gets sixty three percent and HubSpot gets twenty one.",
+  "AI doesn't crown one winner. It picks one per question.",
+  "See what AI says about your brand with SupaIntent."
+ ],
+ "brands": [
+  "HubSpot",
+  "Salesforce"
+ ],
+ "profile": "American female, about 40, marketing lead calling a close match like a sharp sports commentator. Dry, deadpan wit with a smile in the voice, confident, lively, ~185 WPM, close-mic.",
+ "voice": "Kore",
+ "music": "Instrumental only, no vocals. Confident boardroom funk: tight drums, punchy bass, bright brass stabs, competitive energy, 116 BPM, 30 seconds.",
+ "length": 30
+}
