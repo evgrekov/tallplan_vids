@@ -1,0 +1,15 @@
+{
+ "lines": [
+  "Stripe or PayPal? We collected eighty answers from ChatGPT and Gemini.",
+  "Overall, it's almost a tie: Stripe in eighty five percent of answers, PayPal in eighty.",
+  "But ask about checkout, and PayPal wins, ninety one to twenty.",
+  "Ask about developers, and it flips: Stripe eighty three, PayPal twenty three.",
+  "And for subscriptions, Stripe gets seventy nine percent and PayPal gets zero.",
+  "AI doesn't crown one winner. It picks one per question.",
+  "See what AI says about your brand with SupaIntent."
+ ],
+ "profile": "American female, about 40, marketing lead calling a close match like a sharp sports commentator. Dry, deadpan wit with a smile in the voice, confident, lively, ~185 WPM, close-mic.",
+ "voice": "Kore",
+ "music": "Instrumental only, no vocals. Energetic sports-broadcast tech beat: punchy drums, brass-like synth hits, driving bass, playful tension, 118 BPM, 30 seconds.",
+ "length": 30
+}
