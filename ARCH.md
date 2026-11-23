@@ -7,7 +7,9 @@
 |---|---|
 | Код пайплайнов, промпты, спеки (`*.json`), отчёты QA, правила | этот репозиторий |
 | Ключи | `.env` в корне (в git не попадает): `GEMINI_API_KEY`, `OPENAI_API_KEY`, `FAL_KEY`, `OPENROUTER_API_KEY`, `BRIGHTDATA_API` (Bright Data, Bearer-токен для `api.brightdata.com`: Datasets / Web Scraper API — парсеры и статистика) |
-| Статистика | `stats/` (TikTok @go_.tall: посты, просмотры, выводы) + `top10/` (разбор слайдов топ-10 постов) |
+| Статистика | `stats/` (старый аккаунт @go_.tall: `tiktok_go_tall.md`; наши аккаунты: `stats/ours/`; чужие каналы: `stats/refs/<handle>/`) + `top10/` (разбор слайдов топ-10 постов) |
+| Общая таблица фермы | Google Sheet «TT farm accounts», id `1XfssHqNvfstrUMoLvSEWP0U-q4wvFnnTapwADjAJu-M` (см. ниже) |
+| Выводы по референсам | `research/INSIGHTS.md` |
 | Медиа | Google Drive `My Drive/Projects/TT30/src`: `01_ready/<формат>/`, `02_sources/` (бренд, референсы, топ-10), `03_work/` (раскладка как в репо). Индекс роликов — `DRIVE.md` |
 | brand-ассеты, которые читают скрипты (лого, скриншоты, `man.png`, `packshot.png`, шрифты) | и в репо, и на Drive |
 | Real-ESRGAN (`3d/tools/realesrgan`, 70 МБ) | только локально в репо (gitignored); при потере — скачать ncnn-vulkan сборку с github.com/xinntao/Real-ESRGAN |
@@ -43,6 +45,41 @@
 | `gen/` | Пересборка слайдов топ-10 постов (fal, gpt-image) по разбору `top10/` | `python3 gen/build.py <NN>` / `gen/full.py` | — | код |
 | `yt_remake/` | Перезвучка готовых 3d-роликов новым голосом OpenAI без перегенерации видео | `python3 remake3d.py <3d/adN> <sfx.mp4> <out>` | — | докстринг |
 | `supaintent/` | **Другой проект — SupaIntent:** TikTok 30 с про видимость брендов в ChatGPT (скриншоты, персонаж Dana, 3D-сцена `stage3d`). Медиа — Drive `TT30/supaintent` | см. README | — | `supaintent/README.md` |
+
+## TikTok-ферма: кто что делает
+- **Мы (этот репо):** генерируем ролики, собираем статистику своих и чужих аккаунтов, исследуем референсы.
+- **Агент друга (вне репо, со своими доступами):** постит ролики по аккаунтам и сам выбирает время.
+- Связь — общая таблица. Вкладки:
+
+| Вкладка | Чья | Что |
+|---|---|---|
+| `Vids` | наша | наши опубликованные ролики: ссылка, дата, статистика, звук, заметки |
+| `Stats` | наша | журнал снимков статистики по роликам (дата снимка, `kind`: `ref` — чужие); формулы ER и возраста |
+| `ChannelStats` | наша | снимки по каналам: подписчики, видео, медиана/максимум просмотров |
+| `Accounts` | друга | аккаунты фермы. **Колонку паролей не читаем и не используем** |
+| `WarmupLog` | друга | прогрев аккаунтов |
+| `Refs` | наша | чужие каналы-референсы: формат, персонаж, почему интересен; цифры — формулами из `ChannelStats` |
+| `RefVids` | наша | разбор чужих роликов, 75 колонок по слоям (id / stats / what / feel / craft / sound / insight / files); stats — формулами из `Stats` |
+| `Music` | наша | звуки из роликов: голос/музыка, где использован, лучшие просмотры (формулы из `RefVids`) |
+| `Codebook` | наша | словарь колонок `RefVids`: смысл и допустимые значения |
+
+Схема колонок и все формулы — в `research/schema.py` (`python3 research/schema.py headers|codebook|cols`); строки собираем через него, не руками. 19-значные id пишем с апострофом (`'7708…`), иначе Sheets округлит.
+
+## Исследование референсов (`research/`)
+Статистику и разборы собираем **только когда пользователь просит**. Сейчас фаза исследования: собираем механики, сценарии и ролики не предлагаем, пока не попросят.
+
+| Шаг | Команда | Результат |
+|---|---|---|
+| Профиль канала | `python3 research/ref.py profile <handle>` | `stats/refs/<handle>/<дата>_profile.json` |
+| Посты канала | `python3 research/ref.py posts <handle> [n]` | `stats/refs/<handle>/<дата>_posts.json` |
+| Сводка канала | `python3 research/channel.py <handle> [top]` | медиана, топ постов, ER, сохранения (нужны оба файла выше) |
+| Разбор ролика | `python3 research/ref.py video <url>` | видео → Drive `02_sources/references/tiktok/<handle>/<views>_<id>.mp4`, звук → `02_sources/music/` (если посты уже скачаны), кадры `sheet.png`/`hook.png`, склейки, речь (локальный Whisper) → `research/work/<handle>/<id>/summary.json` (gitignored) |
+| Карусель | `python3 research/ref.py photo <url>` | слайды + звук на Drive |
+| Комментарии | `python3 research/ref.py comments <url>` | `stats/refs/<handle>/<дата>_comments_<id>.json` |
+
+Bright Data Datasets v3 (ключ `BRIGHTDATA_API`): profile `gd_l1villgoiiidt09ci`, posts `gd_lu702nij2f790tmv9h` (discover_by=profile_url), comments `gd_lkf2st302ap89utw5k`. Платного AI в разборе нет: кадры и транскрипт смотрим сами.
+
+Порядок разбора канала: profile + posts → `channel.py` → `video` для топ-5 и 1 провального для контраста → (по желанию) `comments` топ-2 → строки в `Stats`, `RefVids`, `ChannelStats`, `Refs`, `Music` → персонаж в Drive `02_sources/characters/<slug>/` (кадры + `character.md`) → раздел в `research/INSIGHTS.md` (таблица постов, «что работает», идеи 🟢/🟡). Whisper на роликах без голоса выдаёт мусор («Music», «FADE OUT») — тогда транскрипт пустой, `voice` = none.
 
 ## Ключевые выученные уроки (3d)
 - Видео — `gemini-omni-1.1-flash` только через Interactions API, ≤10 с за генерацию, дальше extend (+8 с). Лимит Tier 1: 20 видео-запросов/сутки.

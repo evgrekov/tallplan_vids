@@ -101,3 +101,61 @@ Ideas for TallPlan (own style):
 - 🟢 Variants: vs dad, vs country averages, parent formula, exercise per age.
 - 🟢 Poster carousels "measure your hand / parents combos" with TallPlan slide at the end.
 - 🟡 Keep ≤60 s; the 40 s video got the highest ER of the November batch.
+
+## @gotallapp (2026-11-23, user note: "ruler (hook) + real person + interface")
+
+Official GoTall app account. 17.5K followers, 77 posts, 74 scraped (2025-06..2026-05), median 19.5K, max 907K.
+Monthly median: Dec 3.5K → Jan 39.6K (29 posts, daily series) → Feb 25K; the series stopped at Day 30 (02-07).
+Rows: RefVids 43–48, Stats 48–53, Music 39–44. Style: characters/tape-measure-teen.
+
+| Post | Views | ER | Saves | Shares | Format |
+|---|---|---|---|---|---|
+| Day 8/50 | 907K | 2.2% | 0.5% | 0.66% | tape hook + app widget + 3 exercises |
+| Day 1/50 | 495K | 2.6% | 0.5% | 0.39% | same + food (banana, raw milk) |
+| 3 worst heights | 221K | 3.2% | 0.2% | 0.14% | talking head roast, 580 comments, app onboarding in the middle |
+| Day 30/50 | 189K | 2.6% | 0.4% | 0.19% | same, card current 5'9 → predicted 6'2.4 |
+| i dont gatekeep | 180K | 2.3% | 0.6% | 0.06% | 12 y 162 → 14 y 175 "here is how I did it" |
+| Secret sauce | 170K | 3.4% | 0.7% | 0.17% | Day 1 172 → Day 7 175 + exercises |
+
+What works:
+- **Tape measure = hook in 1 s.** Everyone understands "he is measuring his height" without words; the result question (did he grow?) holds to the end.
+- **Public challenge "Day N/50".** 29 Day posts: median 39.6K, 13 of 29 over 50K; non-series posts of the same months: median 29K. Hits are random days (1, 8, 10, 30): the series is a lottery ticket every day, cheap to film.
+- **Real app UI as proof, not as an ad.** The widget (projected height + accuracy + countdown) is part of the story in second 2; exercise icons from the app label every move.
+- **No voice, music only, ~25 s** → works for any language; shares 0.4–0.7% on the hits (people send it to friends).
+- Before/after with age + cm ("I thought it was over for me.. until...") gets the best saves (0.6–0.7%) and comments.
+- Talking-head roast "worst heights" = comments (580), app inserted as "your last hope".
+
+Ideas for TallPlan:
+- 🟢 Our own "Trying to get taller | Day N/50" series: real teen + tape measure in the first second + TallPlan prediction screen + 3 exercises with our app icons; daily, ~25 s, no voice.
+- 🟢 Before/after "age X — Y cm … until… here is how I did it" with the same exercise block.
+- 🟡 Needs a real person on camera (actor/UGC) — our current pipelines are 3D/slides; could be approximated with a consistent AI character, untested.
+- 🟡 Roast/ranking talking head for comments, app in the middle.
+
+## @how.tall.will.i.b (2026-11-23, user note: "weird ones perform well")
+
+"How tall will i be?" — channel created 2026-11-15; 8 days, 11 posts, 467 followers, median 7.9K, 3 posts over 100K.
+Rows: RefVids 49–54, Stats 54–59, Music 45–50, Refs 14, ChannelStats 18. Style: characters/stick-family.
+
+| Post | Views | x median | ER | Comments | Format |
+|---|---|---|---|---|---|
+| Grandad twist (17 y, 5'10.5, beat the formula) | 371K | 47x | 3.2% | 471 | stick family + formula + twist |
+| Spiky 5'4 at 13 | 211K | 27x | 4.9% | 699 | comment card + sad kid → "not short, just early" |
+| Knox 12 y 5'0 | 121K | 15x | 3.5% | 1036 | comment card + range |
+| Mars correction ("thought you were a girl") | 21K | 2.7x | 3.6% | 152 | humor, extreme numbers |
+| Black vs white kids | 14K | 1.8x | 3.5% | 42 | race-bait hook, mansion scene |
+| He beat the formula? (text slides) | 1.7K | 0.2x | 1.1% | 3 | same script, NO figures |
+
+What works:
+- **Strange crude characters.** Flat stick figures with pill bodies and emoji faces, one color per family member. The same script as plain text slides got 1.7K vs 371K: the figures are the hook, not the math.
+- **Viewer's own numbers → their family on a height chart.** A comment card on top, the kid named (Knox, Spiky). The answer is personal yet everyone checks it against their own family.
+- **One simple formula, live.** (dad + mom + 5) ÷ 2 plugged in on screen, big yellow result, range ± 2–4 in. Viewers can repeat it themselves.
+- **Comfort / twist ending.** "Not short. Just early." (best ER 4.9%), "+3 above the formula → grandad's tall genes".
+- **Comment loop.** CTA "comment your height + parents' heights, you might be next" → 470–1036 comments per hit; about 90% of comments are new stats ("plsss do me") = a free queue of episodes.
+- Short: 28–33 s for the hits after the first, AI male voiceover ~140 wpm, no music, static, no cuts.
+- Did not help: race-bait hook (14K), correction or humor episode (21K). The plain reply template wins.
+- Captions stuffed with long AI-written SEO paragraphs (unknown effect).
+
+Ideas for TallPlan:
+- 🟢 "Reply to a comment" series: viewer's stats → stick-style family on a chart → TallPlan prediction → range + comfort line → CTA for the next comment. Fully 2D, cheap, no actor.
+- 🟢 Our own "weird" consistent character set (one color per family member) instead of realistic people.
+- 🟡 Use TallPlan's real prediction instead of the textbook formula: proof of the app, but the formula's repeatability is part of the appeal.
