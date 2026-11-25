@@ -1,0 +1,94 @@
+{
+ "fps": 30,
+ "sections": [
+  {
+   "name": "1 \u00b7 Y-raises",
+   "say": "One. Y raises pull your shoulders back.",
+   "vo": "vo/s0.wav",
+   "clips": [
+    {
+     "file": "clips/c1.mp4",
+     "dur": 6.0,
+     "move": "standing Y-raises (from upback/c0)"
+    }
+   ],
+   "start": 0.0,
+   "end": 6.0,
+   "label_in": 3.8,
+   "label_out": 5.3
+  },
+  {
+   "name": "2 \u00b7 Hip flexor stretch",
+   "say": "Two. This stretch undoes sitting all day.",
+   "vo": "vo/s1.wav",
+   "clips": [
+    {
+     "file": "clips/c2.mp4",
+     "dur": 6.0,
+     "move": "kneeling hip flexor stretch (from hips/c0)"
+    }
+   ],
+   "start": 6.0,
+   "end": 12.0,
+   "label_in": 6.4,
+   "label_out": 11.3
+  },
+  {
+   "name": "3 \u00b7 Dead hang",
+   "say": "Three. Hang for thirty seconds to decompress your spine.",
+   "vo": "vo/s2.wav",
+   "clips": [
+    {
+     "file": "clips/c0.mp4",
+     "dur": 8.5,
+     "move": "dead hang (from dumb/c0)"
+    }
+   ],
+   "start": 12.0,
+   "end": 20.5,
+   "label_in": 12.4,
+   "label_out": 20.0
+  }
+ ],
+ "end_start": 20.5,
+ "end_seconds": 4.05,
+ "total": 24.55,
+ "cues": [
+  [
+   "vo/intro.wav",
+   0.1,
+   3.05,
+   "Three moves to stand taller. Save this."
+  ],
+  [
+   "vo/s0.wav",
+   3.3,
+   2.45,
+   "One. Y raises pull your shoulders back."
+  ],
+  [
+   "vo/s1.wav",
+   6.2,
+   3.15,
+   "Two. This stretch undoes sitting all day."
+  ],
+  [
+   "vo/s2.wav",
+   12.2,
+   3.75,
+   "Three. Hang for thirty seconds to decompress your spine."
+  ],
+  [
+   "vo/outro.wav",
+   16.099999999999998,
+   3.5,
+   "Posture can add up to an inch. Comment your age and height."
+  ],
+  [
+   "vo/tagline.wav",
+   21.25,
+   2.7,
+   ""
+  ]
+ ]
+}

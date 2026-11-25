@@ -18,7 +18,7 @@ CARRY, LEAVE, SWEEP = 0.3, 0.25, 0.35  # s: hand brings an item / hand leaves / 
 PACKSHOT = 2.2
 SPEED = 1.2  # voice played faster than the TTS pace
 FONT = HERE.parent / "3d/fonts/Montserrat.ttf"
-CTA = "GET YOUR\nPERSONAL ROUTINE"
+CTA = "PREDICT\nYOUR HEIGHT"
 KEY = "isolated on a solid flat pure magenta #FF00FF background, nothing else"
 
 d, brief, music_src = (HERE / sys.argv[1]).resolve(), sys.argv[2], pathlib.Path(sys.argv[3])
@@ -167,7 +167,7 @@ subprocess.run([HERE.parent / "3d/packshot.sh", cut, f"{ps:.2f}"], check=True)
 cta = d / "cta.png"
 im = Image.new("RGBA", (W, H))
 f = font(130)
-while f.getlength("PERSONAL ROUTINE") > W * 0.8: f = font(f.size - 2)
+while f.getlength("YOUR HEIGHT") > W * 0.8: f = font(f.size - 2)
 ImageDraw.Draw(im).multiline_text((W / 2, H * 0.615), CTA, font=f, fill="white", anchor="ma", align="center", spacing=10, stroke_width=9, stroke_fill="black")
 im.save(cta)
 subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", d / "cut_final.mp4", "-i", cta, "-filter_complex",

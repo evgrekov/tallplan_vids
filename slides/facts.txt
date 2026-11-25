@@ -6,7 +6,7 @@ Topic: {topic}
 Use only these facts (you may round or simplify, US units first): {facts}
 
 Rules:
-- English voiceover, 9–11 scenes, 28–32 s: 85–95 words in total, max 10 words per line. Scene 1 = curiosity question hook like the reference ("Have you ever wondered..."). The second-to-last scene turns it to the viewer ("So how tall will YOU be?"-style). Last scene vo: "And there's way more inside our app. Get your personal routine in TallPlan." (kind "figure", one happy figure, no heights).
+- English voiceover, 9–11 scenes, 28–32 s: 85–95 words in total, max 10 words per line. Scene 1 = curiosity question hook like the reference ("Have you ever wondered..."). The second-to-last scene turns it to the viewer ("So how tall will YOU be?"-style). Last scene vo: "And there's way more inside our app. Predict your height in TallPlan." (kind "figure", one happy figure, no heights).
 - Most scenes (~70%) are kind "figure", the rest kind "photo". Each scene:
   "vo": the spoken line;
   "kind": "figure" or "photo";

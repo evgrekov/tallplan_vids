@@ -11,7 +11,7 @@
   "script": {
     "intro": "Did you know you're taller in the morning?",
     "outro": "Thirty seconds, then eight hours of sleep.",
-    "tagline": "Get your personal routine in TallPlan."
+    "tagline": "Predict your height in TallPlan."
   },
   "sections": [
     { "name": "Spine", "say": "At night your spine decompresses. Child's pose before bed helps it let go.", "vo": "vo/s0.wav", "clips": [

@@ -1,0 +1,62 @@
+{
+  "fps": 30,
+  "res": "360p",
+  "intro_seconds": 3.8,
+  "label_delay": 0.4,
+  "end_card_seconds": 3.0,
+  "openai_voice": "cedar",
+  "voice": "High-energy TikTok fitness creator talking straight to camera: upbeat, punchy, fast, big smile in the voice, stress the key words, short snappy pauses.",
+  "music": "TikTok sound 7604889772407719952 \"alter ego - Slowed\" (Kosu), from Drive 02_sources/music; staturesecrets 405K + 181K under AI voice",
+  "script": {
+    "intro": "Three moves to stand taller. Save this.",
+    "outro": "Posture can add up to an inch. Comment your age and height.",
+    "tagline": "Predict your height in TallPlan."
+  },
+  "sections": [
+    {
+      "name": "1 · Y-raises",
+      "say": "One. Y raises pull your shoulders back.",
+      "vo": "vo/s0.wav",
+      "clips": [
+        {
+          "file": "clips/c1.mp4",
+          "dur": 6.0,
+          "move": "standing Y-raises (from upback/c0)"
+        }
+      ]
+    },
+    {
+      "name": "2 · Hip flexor stretch",
+      "say": "Two. This stretch undoes sitting all day.",
+      "vo": "vo/s1.wav",
+      "clips": [
+        {
+          "file": "clips/c2.mp4",
+          "dur": 6.0,
+          "move": "kneeling hip flexor stretch (from hips/c0)"
+        }
+      ]
+    },
+    {
+      "name": "3 · Dead hang",
+      "say": "Three. Hang for thirty seconds to decompress your spine.",
+      "vo": "vo/s2.wav",
+      "clips": [
+        {
+          "file": "clips/c0.mp4",
+          "dur": 8.5,
+          "move": "dead hang (from dumb/c0)"
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "intro": "vo/intro.wav",
+    "outro": "vo/outro.wav",
+    "tagline": "vo/tagline.wav",
+    "music": "vo/music_alter-ego-slowed.mp3",
+    "music_volume": 0.05
+  },
+  "out": "final.mp4",
+  "speed": 1.0
+}

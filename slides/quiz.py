@@ -17,7 +17,7 @@ HOOK, STEP, RESULT, PACKSHOT = 7.0, 1.1, 3.0, 2.2
 FONT = HERE.parent / "3d/fonts/Montserrat.ttf"
 PHOTOS = HERE.parent / "TallPlan photo"
 LIME, BLUE, CARD = "#c8f03c", "#2337c9", "#1c1d21"
-CTA = "GET YOUR\nPERSONAL ROUTINE"
+CTA = "PREDICT\nYOUR HEIGHT"
 QUIZ = "TAKE THE QUIZ TO FIND\nYOUR HEIGHT POTENTIAL"
 
 spec_f = pathlib.Path(sys.argv[1]).resolve()
@@ -145,7 +145,7 @@ for n in range(round(total * FPS)):
 ff.stdin.close(); ff.wait()
 subprocess.run([HERE.parent / "3d/packshot.sh", cut, f"{total - PACKSHOT:.2f}"], check=True)
 im = Image.new("RGBA", (W, H))
-ImageDraw.Draw(im).multiline_text((W / 2, H * 0.615), CTA, font=fit("PERSONAL ROUTINE", 130, W * 0.8), fill="white", anchor="ma", align="center", spacing=10, stroke_width=9, stroke_fill="black")
+ImageDraw.Draw(im).multiline_text((W / 2, H * 0.615), CTA, font=fit("YOUR HEIGHT", 130, W * 0.8), fill="white", anchor="ma", align="center", spacing=10, stroke_width=9, stroke_fill="black")
 im.save(d / "cta.png")
 subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", d / "cut_final.mp4", "-i", d / "cta.png", "-filter_complex",
                 f"[0][1]overlay=enable='gte(t,{total - PACKSHOT + 0.25:.2f})'", "-c:v", "libx264", "-crf", "18", "-c:a", "copy", d / "final.mp4"], check=True)

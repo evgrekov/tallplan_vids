@@ -10,7 +10,7 @@ import datetime, json, pathlib, re, shutil, statistics, subprocess, sys, time, u
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 KEY = re.search(r"BRIGHTDATA_API=(\S+)", (ROOT / ".env").read_text()).group(1)
-DRIVE = pathlib.Path.home() / "Library/CloudStorage/GoogleDrive-evgrekov@gmail.com/My Drive/Projects/TT30/src/02_sources"
+DRIVE = pathlib.Path.home() / "Library/CloudStorage/GoogleDrive-evgrekov@gmail.com/My Drive/Projects/TT30/tallplan/02_sources"
 WHISPER = [str(pathlib.Path.home() / ".local/bin/mlx_whisper"), "--model", str(pathlib.Path.home() / ".cache/mlx-models/whisper-small")]
 DS = {"profile": "gd_l1villgoiiidt09ci", "posts": "gd_lu702nij2f790tmv9h", "comments": "gd_lkf2st302ap89utw5k"}
 TODAY = datetime.date.today().isoformat()
@@ -53,6 +53,16 @@ def sound_of(handle, pid):
                 return p["music"]
     return {}
 
+def save_sound(m, words=0):
+    """Clean TikTok sound by its playurl. A creator's 'original sound' with lots of speech is the narrator, not music: skip it."""
+    if not m.get("playurl") or list((DRIVE / "music").glob(f"{m['id']}_*")): return
+    # shortcut: songs and narration both have words; 60+ words in an original sound = narrator (songs seen so far ≤44), check by ear if unsure
+    if m.get("original") and words >= 60:
+        return print(f"🔇 sound {m['id']} skipped: original sound with voice ({words} words)", flush=True)
+    if m.get("original") and words >= 15: print(f"⚠️  sound {m['id']} has {words} words: check by ear it is music", flush=True)
+    slug = "_".join(re.sub(r"[^a-z0-9]+", "-", (m.get(k) or "").lower()).strip("-") for k in ("title", "authorname"))[:60]
+    urllib.request.urlretrieve(m["playurl"], DRIVE / "music" / f"{m['id']}_{slug}.mp3")
+
 def video(url):
     handle, pid = parse(url)
     work = ROOT / "research/work" / handle / pid; work.mkdir(parents=True, exist_ok=True)
@@ -81,10 +91,7 @@ def video(url):
     speech = statistics.median([rms(mp4, s["start"], s["end"]) for s in segs[:5]]) if segs else None
     gap = statistics.median([rms(mp4, a, b) for a, b in gaps[:5]]) if gaps else None
     music = sound_of(handle, pid)
-    if music.get("id"):
-        mdir = DRIVE / "music"; slug = "_".join(re.sub(r"[^a-z0-9]+", "-", (music.get(k) or "").lower()).strip("-") for k in ("title", "authorname"))[:60]
-        if not list(mdir.glob(f"{music['id']}_*")):
-            run("ffmpeg", "-y", "-i", mp4, "-vn", "-c:a", "copy", mdir / f"{music['id']}_{slug}.m4a")
+    save_sound(music, words)
     summary = {"handle": handle, "post_id": pid, "views": info.get("view_count"), "likes": info.get("like_count"),
                "comments": info.get("comment_count"), "shares": info.get("repost_count"), "saves": info.get("save_count"),
                "posted": datetime.datetime.fromtimestamp(info["timestamp"], datetime.UTC).date().isoformat() if info.get("timestamp") else None,
@@ -124,10 +131,7 @@ def photo(url):
     if not dst.exists():
         dst.mkdir(parents=True); [shutil.copy(f, dst / f.name) for f in imgs]
     m = p.get("music") or {}
-    if m.get("playurl"):
-        slug = "_".join(re.sub(r"[^a-z0-9]+", "-", (m.get(k) or "").lower()).strip("-") for k in ("title", "authorname"))[:60]
-        if not list((DRIVE / "music").glob(f"{m['id']}_*")):
-            urllib.request.urlretrieve(m["playurl"], DRIVE / "music" / f"{m['id']}_{slug}.mp3")
+    save_sound(m)
     n = lambda k: int(p.get(k) or 0)
     summary = {"handle": handle, "post_id": pid, "views": p["play_count"], "likes": n("digg_count"), "comments": n("comment_count"),
                "shares": n("share_count"), "saves": n("collect_count"), "posted": p["create_time"][:10], "slides": len(imgs),

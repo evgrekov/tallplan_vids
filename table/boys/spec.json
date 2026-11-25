@@ -1,0 +1,61 @@
+{
+  "source": "CDC stature-for-age, 50th percentile, boys",
+  "title": "AVERAGE HEIGHT",
+  "subtitle": "BOYS · BY AGE",
+  "header": [
+    "AGE",
+    "HEIGHT"
+  ],
+  "openai_voice": "cedar",
+  "voice": "High-energy TikTok fitness creator talking straight to camera: upbeat, punchy, fast, big smile in the voice, stress the key words, short snappy pauses.",
+  "intro": "Average height for boys at every age. Find yours.",
+  "rows": [
+    {
+      "age": 10,
+      "value": "4'6\" · 138 cm",
+      "say": "Ten. Four six. Most boys haven't hit their growth spurt yet."
+    },
+    {
+      "age": 11,
+      "value": "4'8\" · 144 cm",
+      "say": "Eleven. Four eight."
+    },
+    {
+      "age": 12,
+      "value": "4'11\" · 149 cm",
+      "say": "Twelve. Four eleven. For many, the spurt starts here."
+    },
+    {
+      "age": 13,
+      "value": "5'1\" · 156 cm",
+      "say": "Thirteen. Five one."
+    },
+    {
+      "age": 14,
+      "value": "5'4\" · 163 cm",
+      "say": "Fourteen. Five four. Often the fastest year of growth."
+    },
+    {
+      "age": 15,
+      "value": "5'7\" · 169 cm",
+      "say": "Fifteen. Five seven."
+    },
+    {
+      "age": 16,
+      "value": "5'8\" · 173 cm",
+      "say": "Sixteen. Five eight. Growth starts to slow down."
+    },
+    {
+      "age": 17,
+      "value": "5'9\" · 175 cm",
+      "say": "Seventeen. Five nine."
+    },
+    {
+      "age": 18,
+      "value": "5'9\" · 176 cm",
+      "say": "Eighteen. Five nine. Most boys are close to their final height."
+    }
+  ],
+  "outro": "And you? Comment your age and height.",
+  "tagline": "Predict your height in TallPlan."
+}

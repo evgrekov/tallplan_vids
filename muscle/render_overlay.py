@@ -56,7 +56,8 @@ def load_config(path):
     tl = {'fps': fps, 'sections': secs, 'end_start': end_start, 'end_seconds': cfg.get('end_card_seconds', 3.0)}
     # voice lines back to back from 0.1s (question, each section's explanation, conclusion); the tagline plays under the packshot
     a, t, cues = cfg['audio'], 0.1, []
-    for f, text in [(a['intro'], cfg['script']['intro'])] + [(s['vo'], s['say']) for s in secs] + [(a['outro'], cfg['script']['outro'])]:
+    for f, text, st in [(a['intro'], cfg['script']['intro'], 0)] + [(s['vo'], s['say'], s['start'] + 0.2) for s in secs] + [(a['outro'], cfg['script']['outro'], 0)]:
+        t = max(t, st)  # a section's line never starts before its clip
         with wave.open(os.path.join(base, f)) as w:
             d = w.getnframes() / w.getframerate()
         cues.append((f, t, d, text)); t += d + 0.15
@@ -90,12 +91,12 @@ def prep(cfg, tl):
         ImageDraw.Draw(im).text((20 - bb[0], 20 - bb[1]), txt, font=lf, fill=(255, 255, 255, 255))
         labels.append(Image.alpha_composite(sh.filter(ImageFilter.GaussianBlur(5)), im))
     _A['labels'] = labels
-    words = []  # (start, word): each line's words spread over its clip by length
-    for _, st, d, text in tl['cues']:
+    words = []  # (start, word, chunk): each line's words spread over its clip by length, 3-word chunks never cross lines
+    for li, (_, st, d, text) in enumerate(tl['cues']):
         ws = text.split()
         tot, acc = sum(len(w) + 1 for w in ws), 0
-        for w in ws:
-            words.append((st + d * acc / tot, w.upper())); acc += len(w) + 1
+        for j, w in enumerate(ws):
+            words.append((st + d * acc / tot, w.upper(), (li, j // 3))); acc += len(w) + 1
     _A['words'] = words
     return _A
 
@@ -134,10 +135,10 @@ def sub_font(size):
 
 def draw_subs(frame, t, tl):
     words = _A['words']
-    cur = max((i for i, (a, _) in enumerate(words) if a <= t), default=None)
+    cur = max((i for i, (a, _, _) in enumerate(words) if a <= t), default=None)
     if cur is None or t >= tl['cues'][-2][1] + tl['cues'][-2][2] + 0.3: return
-    first = cur - cur % 3
-    chunk = [w for _, w in words[first:first + 3]]
+    first = next(i for i, x in enumerate(words) if x[2] == words[cur][2])
+    chunk = [w for _, w, c in words if c == words[cur][2]]
     f = sub_font(84)
     while f.getlength(' '.join(chunk)) > W * 0.8: f = sub_font(f.size - 4)
     x, dr = W / 2 - f.getlength(' '.join(chunk)) / 2, ImageDraw.Draw(frame)

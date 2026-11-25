@@ -79,21 +79,24 @@ def main():
     cut = os.path.join(work, 'cut.mp4')
     run(['-i', video, '-i', audio, '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-c:a', 'copy', '-shortest', cut])
 
-    # 5) our ending: TallPlan packshot card + two-line CTA (same as every other format)
-    ps = tl['end_start'] - 0.3
+    packshot(cut, tl['end_start'] - 0.3, out)
+    print('done:', out, f'{T:.2f}s')
+
+
+def packshot(cut, ps, out):
+    """Our ending on a 1080x1920 cut: TallPlan packshot card from `ps` s + two-line CTA (same as every other format)."""
     subprocess.run([os.path.join(HERE, '..', '3d', 'packshot.sh'), cut, f'{ps:.2f}'], check=True)
     f = ImageFont.truetype(os.path.join(HERE, '..', '3d', 'fonts', 'Montserrat.ttf'), 130)
     f.set_variation_by_axes([900])
-    while f.getlength('PERSONAL ROUTINE') > 1080 * 0.8:
+    while f.getlength('YOUR HEIGHT') > 1080 * 0.8:
         f = f.font_variant(size=f.size - 2); f.set_variation_by_axes([900])
     cta = Image.new('RGBA', (1080, 1920))
-    ImageDraw.Draw(cta).multiline_text((540, 1920 * 0.615), 'GET YOUR\nPERSONAL ROUTINE', font=f, fill='white', anchor='ma', align='center',
+    ImageDraw.Draw(cta).multiline_text((540, 1920 * 0.615), 'PREDICT\nYOUR HEIGHT', font=f, fill='white', anchor='ma', align='center',
                                        spacing=10, stroke_width=9, stroke_fill='black')
-    cta_f = os.path.join(work, 'cta.png')
+    cta_f = cut.replace('.mp4', '_cta.png')
     cta.save(cta_f)
-    run(['-i', os.path.join(work, 'cut_final.mp4'), '-i', cta_f, '-filter_complex', f"[0][1]overlay=enable='gte(t,{ps + 0.25:.2f})'",
+    run(['-i', cut.replace('.mp4', '_final.mp4'), '-i', cta_f, '-filter_complex', f"[0][1]overlay=enable='gte(t,{ps + 0.25:.2f})'",
          '-c:v', 'libx264', '-crf', '18', '-c:a', 'copy', '-movflags', '+faststart', out])
-    print('done:', out, f'{T:.2f}s')
 
 
 if __name__ == '__main__':

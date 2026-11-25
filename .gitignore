@@ -3,7 +3,7 @@
 __pycache__/
 *.log
 3d/tools/
-# Media lives on Google Drive (My Drive/Projects/TT30/src), same folder layout
+# Media lives on Google Drive (My Drive/Projects/TT30/tallplan), same folder layout
 *.mp4
 *.mov
 *.wav

@@ -10,7 +10,7 @@ from api import gemini, data
 W, H, FPS, SR = 1080, 1920, 30, 24000
 GAP, PACKSHOT = 0.06, 2.2
 FONT = HERE.parent / "3d/fonts/Montserrat.ttf"
-CTA = "GET YOUR\nPERSONAL ROUTINE"
+CTA = "PREDICT\nYOUR HEIGHT"
 SFX = {  # synthesized cartoon sounds (ffmpeg lavfi sources)
     "boing": "aevalsrc='0.6*sin(2*PI*(220+160*sin(2*PI*9*t))*t)*exp(-4*t)':d=0.5",
     "whoosh": "anoisesrc=d=0.35:color=pink:a=0.5,highpass=f=900,lowpass=f=5000,afade=t=in:d=0.15,afade=t=out:st=0.15:d=0.2",
@@ -125,7 +125,7 @@ def render(d, total, frame, hits, ps):
     subprocess.run([HERE.parent / "3d/packshot.sh", cut, f"{ps:.2f}"], check=True)
     im = Image.new("RGBA", (W, H))
     f = font(130)
-    while f.getlength("PERSONAL ROUTINE") > W * 0.8: f = font(f.size - 2)
+    while f.getlength("YOUR HEIGHT") > W * 0.8: f = font(f.size - 2)
     ImageDraw.Draw(im).multiline_text((W / 2, H * 0.615), CTA, font=f, fill="white", anchor="ma", align="center", spacing=10, stroke_width=9, stroke_fill="black")
     im.save(d / "cta.png")
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", d / "cut_final.mp4", "-i", d / "cta.png", "-filter_complex",

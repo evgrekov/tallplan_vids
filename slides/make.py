@@ -75,7 +75,7 @@ segs = [  # (pose pair, caption) per voice line; the last line plays under the p
     ([slide(result)] * 2),
 ]
 L = plan["lines"]
-lines = [L["hook"], L["ex1"], L["ex2"], L["takeaway"], "Get your personal routine in TallPlan."]
+lines = [L["hook"], L["ex1"], L["ex2"], L["takeaway"], "Predict your height in TallPlan."]
 starts, dur, total = voiceover(d, lines, plan, SPEED)
 subs = Subs(starts, dur, lines)
 shutil.copy(src / "music.mp3", d / "music.mp3")

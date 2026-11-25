@@ -16,7 +16,7 @@ BEATS, PACKSHOT = 8, 2.2
 GX, GY, GAP = 24, int(H * 0.255), 12  # grid stays clear of the right-side UI icons and the bottom description
 TILE = (W - 150 - GX - GAP) // 2
 FONT = HERE.parent / "3d/fonts/Montserrat.ttf"
-CTA = "GET YOUR\nPERSONAL ROUTINE"
+CTA = "PREDICT\nYOUR HEIGHT"
 
 spec_f = pathlib.Path(sys.argv[1]).resolve()
 spec, d = json.loads(spec_f.read_text()), spec_f.with_suffix("")
@@ -71,7 +71,7 @@ subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i
                 "-map", "[v]", "-map", "[a]", "-t", f"{total:.3f}", "-c:v", "libx264", "-crf", "18", "-c:a", "aac", "-b:a", "192k", cut], check=True)
 subprocess.run([HERE.parent / "3d/packshot.sh", cut, f"{total - PACKSHOT:.2f}"], check=True)
 im = Image.new("RGBA", (W, H))
-ImageDraw.Draw(im).multiline_text((W / 2, H * 0.615), CTA, font=fit("PERSONAL ROUTINE", 130, W * 0.8), fill="white", anchor="ma", align="center", spacing=10, stroke_width=9, stroke_fill="black")
+ImageDraw.Draw(im).multiline_text((W / 2, H * 0.615), CTA, font=fit("YOUR HEIGHT", 130, W * 0.8), fill="white", anchor="ma", align="center", spacing=10, stroke_width=9, stroke_fill="black")
 im.save(d / "cta.png")
 subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", d / "cut_final.mp4", "-i", d / "cta.png", "-filter_complex",
                 f"[0][1]overlay=enable='gte(t,{total - PACKSHOT + 0.25:.2f})'", "-c:v", "libx264", "-crf", "18", "-c:a", "copy", d / "final.mp4"], check=True)

@@ -14,7 +14,7 @@ from api import gemini, data, file
 W, H = 1080, 1920
 PACKSHOT = 2.2
 FONT = HERE.parent / "3d/fonts/Montserrat.ttf"
-CTA = "GET YOUR\nPERSONAL ROUTINE"
+CTA = "PREDICT\nYOUR HEIGHT"
 
 url, d, style = sys.argv[1], (HERE / sys.argv[2]).resolve(), sys.argv[3]
 brief = sys.argv[4] if len(sys.argv) > 4 else "none, follow the reference"
@@ -81,7 +81,7 @@ print(f"🎞️  myth {plan['myth']['dur']}s → fact {plan['fact']['dur']}s · 
 subprocess.run([HERE.parent / "3d/packshot.sh", cut, f"{total - PACKSHOT:.2f}"], check=True)
 cta = d / "cta.png"
 im = Image.new("RGBA", (W, H))
-ImageDraw.Draw(im).multiline_text((W / 2, H * 0.615), CTA, font=fit("PERSONAL ROUTINE", 130), fill="white", anchor="ma", align="center", spacing=10, stroke_width=9, stroke_fill="black")
+ImageDraw.Draw(im).multiline_text((W / 2, H * 0.615), CTA, font=fit("YOUR HEIGHT", 130), fill="white", anchor="ma", align="center", spacing=10, stroke_width=9, stroke_fill="black")
 im.save(cta)
 subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", d / "cut_final.mp4", "-i", cta, "-filter_complex",
                 f"[0][1]overlay=enable='gte(t,{total - PACKSHOT + 0.25:.2f})'", "-c:v", "libx264", "-crf", "18", "-c:a", "copy", d / "final.mp4"], check=True)

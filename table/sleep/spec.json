@@ -1,0 +1,22 @@
+{
+  "source": "CDC / AASM recommended sleep by age (6–12: 9–12 h, 13–18: 8–10 h, 18+: 7–9 h); bedtime = wake at 7 AM. Rules: C-TODD-1..4, G01 G03 G04 G05 G07 G08 G11 G19",
+  "title": "SLEEP TO GROW",
+  "subtitle": "HOURS · BEDTIME · BY AGE",
+  "header": ["AGE", "SLEEP"],
+  "openai_voice": "cedar",
+  "voice": "High-energy TikTok fitness creator talking straight to camera: upbeat, punchy, fast, big smile in the voice, stress the key words, short snappy pauses.",
+  "intro": "Still growing? Here's how much you should sleep at your age.",
+  "rows": [
+    {"age": 10, "value": "10–12 h · 8 PM", "say": "Ten. Ten to twelve hours. Lights out at eight."},
+    {"age": 11, "value": "10–12 h · 8 PM", "say": "Eleven. Same. Ten to twelve."},
+    {"age": 12, "value": "9–12 h · 9 PM", "say": "Twelve. Nine to twelve. Your body does a lot of its growing while you sleep."},
+    {"age": 13, "value": "9–10 h · 9 PM", "say": "Thirteen. Nine to ten hours."},
+    {"age": 14, "value": "9–10 h · 9 PM", "say": "Fourteen. Nine to ten. This is often your fastest year of growth."},
+    {"age": 15, "value": "8–10 h · 10 PM", "say": "Fifteen. Eight to ten. Bed by ten."},
+    {"age": 16, "value": "8–10 h · 10 PM", "say": "Sixteen. Eight to ten. Phone off, not just face down."},
+    {"age": 17, "value": "8–10 h · 10 PM", "say": "Seventeen. Still eight to ten."},
+    {"age": 18, "value": "7–9 h · 11 PM", "say": "Eighteen. Seven to nine. Good sleep helps you stand tall."}
+  ],
+  "outro": "And you? Comment your age, height and bedtime.",
+  "tagline": "Predict your height in TallPlan."
+}

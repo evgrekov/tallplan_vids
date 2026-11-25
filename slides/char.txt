@@ -9,7 +9,7 @@ Brief (when given, its topic and story replace the default arc below; keep the l
 The video is cut-out animation: every scene is layered from separate pictures that we animate in edit — a background, the mascot in a pose, and 0–2 props. So describe them separately.
 
 Rules:
-- A real story arc like the reference: hook (the mascot's struggle, provocative question) → what actually helps (2–3 beats, each a concrete action with a funny visual) → a myth-busting gag (e.g. a ridiculous "hack" that fails comically) → the mascot transformed → the last scene leads into the app. 7–9 scenes, 20–24 s total, max 9 words per line, 50–58 words in total. Last scene vo: "And there's way more inside our app. Get your personal routine in TallPlan."
+- A real story arc like the reference: hook (the mascot's struggle, provocative question) → what actually helps (2–3 beats, each a concrete action with a funny visual) → a myth-busting gag (e.g. a ridiculous "hack" that fails comically) → the mascot transformed → the last scene leads into the app. 7–9 scenes, 20–24 s total, max 9 words per line, 50–58 words in total. Last scene vo: "And there's way more inside our app. Predict your height in TallPlan."
 - Each scene:
   "vo": the spoken line;
   "bg": background only, NO characters: a simple flat cartoon place or a bold color with a few shapes, matching the line;

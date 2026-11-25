@@ -1,0 +1,61 @@
+{
+  "source": "CDC stature-for-age, 50th percentile, girls",
+  "title": "AVERAGE HEIGHT",
+  "subtitle": "GIRLS · BY AGE",
+  "header": [
+    "AGE",
+    "HEIGHT"
+  ],
+  "openai_voice": "cedar",
+  "voice": "High-energy TikTok fitness creator talking straight to camera: upbeat, punchy, fast, big smile in the voice, stress the key words, short snappy pauses.",
+  "intro": "Average height for girls at every age. Find yours.",
+  "rows": [
+    {
+      "age": 10,
+      "value": "4'6\" · 138 cm",
+      "say": "Ten. Four six. Many girls start growing faster soon."
+    },
+    {
+      "age": 11,
+      "value": "4'9\" · 145 cm",
+      "say": "Eleven. Four nine."
+    },
+    {
+      "age": 12,
+      "value": "4'11\" · 151 cm",
+      "say": "Twelve. Four eleven. Often the fastest year of growth."
+    },
+    {
+      "age": 13,
+      "value": "5'2\" · 157 cm",
+      "say": "Thirteen. Five two."
+    },
+    {
+      "age": 14,
+      "value": "5'3\" · 160 cm",
+      "say": "Fourteen. Five three. Growth usually starts to slow down."
+    },
+    {
+      "age": 15,
+      "value": "5'4\" · 162 cm",
+      "say": "Fifteen. Five four."
+    },
+    {
+      "age": 16,
+      "value": "5'4\" · 162 cm",
+      "say": "Sixteen. Five four. Most girls are close to their final height."
+    },
+    {
+      "age": 17,
+      "value": "5'4\" · 163 cm",
+      "say": "Seventeen. Five four."
+    },
+    {
+      "age": 18,
+      "value": "5'4\" · 163 cm",
+      "say": "Eighteen. Five four. Pretty much final."
+    }
+  ],
+  "outro": "And you? Comment your age and height.",
+  "tagline": "Predict your height in TallPlan."
+}
