@@ -11,11 +11,9 @@ The script is the same for every video: the spec only sets the final height and 
 import json, pathlib, sys
 from PIL import Image, ImageDraw
 sys.path.insert(0, str(pathlib.Path(__file__).parent.parent / "slides"))
-from kit import W, H, LIME, font, ftin, say, timeline, figure, tallcard, render
+from kit import W, H, LIME, MUSIC, PCT, font, ftin, say, timeline, figure, tallcard, render
 
-MUSIC = pathlib.Path.home() / "Library/CloudStorage/GoogleDrive-evgrekov@gmail.com/My Drive/Projects/TT30/tallplan/02_sources/music"
 BG, GRID, GREY, GROUND, PXC = "#0B0B0D", "#2A2A2E", "#9A9A9A", 1290, 3.6  # PXC = pixels per cm: 201 cm reaches y≈567
-PCT = {12: 84, 13: 88, 14: 92, 15: 96, 16: 98, 17: 99, 18: 100}  # % of adult height, CDC stature-for-age 50th pct boys (~176.5 cm at 20)
 TAGS = {12: "BEFORE THE SPURT", 13: "THE SPURT STARTS", 14: "TURBO MODE · UP TO 12 CM/YR", 15: "ALREADY 96% THERE", 16: "GROWTH SLOWS",
         17: "ALMOST DONE", 18: "FINAL HEIGHT"}
 spec_f = pathlib.Path(sys.argv[1]).resolve()

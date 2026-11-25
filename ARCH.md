@@ -10,7 +10,7 @@
 | Статистика | `stats/` (старый аккаунт @go_.tall: `tiktok_go_tall.md`; наши аккаунты: `stats/ours/`; чужие каналы: `stats/refs/<handle>/`) + `top10/` (разбор слайдов топ-10 постов) |
 | Общая таблица фермы | Google Sheet «TT farm accounts», id `1XfssHqNvfstrUMoLvSEWP0U-q4wvFnnTapwADjAJu-M` (см. ниже) |
 | Выводы по референсам | `research/INSIGHTS.md` |
-| Медиа | Google Drive `My Drive/Projects/TT30/tallplan` ([TT30](https://drive.google.com/drive/folders/1l4HFp1fJXSZIwr82rDOz29jwjxJiGLRE), [tallplan](https://drive.google.com/drive/folders/1C7IKWNLZWZpoxw-gmmiZOg7-sk8jsMNu)): `01_ready/<tt№>_<handle>/` (по аккаунтам; старое в `01_ready/_archive/`), `02_sources/` (бренд, референсы, топ-10), `03_work/` (раскладка как в репо). Индекс роликов — `DRIVE.md` |
+| Медиа | Google Drive `My Drive/Projects/TT30/tallplan` ([TT30](https://drive.google.com/drive/folders/1l4HFp1fJXSZIwr82rDOz29jwjxJiGLRE), [tallplan](https://drive.google.com/drive/folders/1C7IKWNLZWZpoxw-gmmiZOg7-sk8jsMNu)): `01_ready/<tt№>_<handle>/` (по аккаунтам; старое в `01_ready/_archive/`), `02_sources/` (бренд, референсы, топ-10), `03_work/` (раскладка как в репо), `04_assets/` (официальные материалы TallPlan: экраны и записи экрана в `Screenshots/iOS/promo/{ft,cm}`, ASO для App Store и Google Play, логотипы; каталог — вкладка `Assets`). Индекс роликов — `DRIVE.md` |
 | brand-ассеты, которые читают скрипты (лого, скриншоты, `man.png`, `packshot.png`, шрифты) | и в репо, и на Drive |
 | Real-ESRGAN (`3d/tools/realesrgan`, 70 МБ) | только локально в репо (gitignored); при потере — скачать ncnn-vulkan сборку с github.com/xinntao/Real-ESRGAN |
 
@@ -47,6 +47,7 @@
 | `table/table.py` | Reveal table (@todd.f.moir): лист-таблица, бумага открывает по строке под голос, «YOU ??» → коммент, ответ — реальный экран прогноза TallPlan, потом пэкшот. Без видео | `uv run table.py <x>/spec.json` | ~$0.01 | докстринг |
 | `family/family.py` | Ответ на комментарий (@how.tall.will.i.b, C-HTW): карточка коммента, кривые фигурки семьи на шкале роста по одной на фразу, формула (папа + мама ± 5) ÷ 2 с жёлтым результатом, карточка прогноза TallPlan, утешение + CTA, пэкшот. Без видео | `uv run family.py <x>/spec.json` | ~$0.015 | докстринг |
 | `path/path.py` | Final height X по годам (@staturesecrets, C-STAT): чёрная линейка, наш лаймовый персонаж растёт с 12 до 18 лет (% от взрослого роста, CDC), серые призраки прошлых лет, финишная линия, карточка-угол (страны / формула родителей), «genes set your range», карточка TallPlan, slowed phonk из референса под голосом. Сценарий общий, спека задаёт только рост и угол | `uv run path.py <x>/spec.json` | ~$0.02 | докстринг |
+| `selfie/selfie.py` | Селфи + таблица роста (@heightible, @gotall.abdul, C-SELF): готовое селфи из прошлых генераций, медленный наезд, «If you're N and X → ~Y at 18» над лицом с первого кадра, громкий звук из референса, без голоса, карточка TallPlan на последних 2 с, ≤12 с | `uv run selfie.py <x>/spec.json` (рядом `photo.png`) | $0 | докстринг |
 | `slides/kit.py` | Общее для family/ и path/: шрифт, кривая фигурка-капсула, карточка прогноза TallPlan, TTS-строки, сборка ffmpeg из полноэкранных состояний | — | — | докстринг |
 | `gads/` | Google App Campaigns: сцены-экраны телефона, 9:16 / 1:1 / 16:9 | `uv run gads/<name>.py` | — | докстринги в `gads/*.py` |
 | `gen/` | Пересборка слайдов топ-10 постов (fal, gpt-image) по разбору `top10/` | `python3 gen/build.py <NN>` / `gen/full.py` | — | код |
@@ -74,6 +75,7 @@
 | `RulesGlobal` | наша | общие правила роликов (G01…), с доказательствами |
 | `RulesChannels` | наша | правила шаблонов каналов, которые повторяем (C-TODD, C-HTW, C-STAT…) |
 | `RulesTrends` | наша | актуальные темы с датами активности и правилом подмеса (T-XMAS, T-GTA6…) |
+| `Assets` | наша | каталог `04_assets`: какой экран или запись что показывает, какие цифры в кадре, когда брать (правила G24–G29) |
 
 Схема колонок и все формулы — в `research/schema.py` (`python3 research/schema.py headers|codebook|cols`); строки собираем через него, не руками. 19-значные id пишем с апострофом (`'7708…`), иначе Sheets округлит.
 

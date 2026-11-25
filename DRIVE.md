@@ -1,7 +1,8 @@
 # Google Drive: TT30/tallplan
 
 `My Drive/Projects/TT30/tallplan`:
-- `01_ready/<tt№>_<handle>/` — финалы в работе, разложены по аккаунтам фермы (`tt31_tallmcpyvts/`, `tt2_heightguide0/`, `tt1_heightexpert7/`, `tt4_heightquest2/`, `tt7_user9813356728773/`): `<папка>_<тема>[_вариант].mp4`; каждый стоит в очереди `Vids`
+- `04_assets/` — официальные материалы TallPlan от команды (не генерим, только берём): `Screenshots/iOS/promo/{ft,cm}/` (18 экранов, locked-версии, `video/` — 7 записей экрана), `ASO/` (App Store, Google Play, us/metric), `Logo/`. Каталог и правила — вкладки `Assets` и `RulesGlobal` (G24–G29)
+- `01_ready/<tt№>_<handle>/` — финалы в работе, разложены по аккаунтам фермы (`tt31_tallmcpyvts/`, `tt2_heightguide0/`, `tt1_heightexpert7/`, `tt4_heightquest2/`, `tt7_user9813356728773/`, `tt33_kateabsz3ot/`): `<папка>_<тема>[_вариант].mp4`; каждый стоит в очереди `Vids`
 - `01_ready/_archive/<формат>/` — старые финалы прошлых партий (до 2026-11-25), не в очереди
 - `02_sources/` — `brand/` (киты, мокапы), `references/` (`<формат>_<папка>.mp4` + `.info.json` с исходной ссылкой, `youtube/`), `our-top10-posts/`
 - `03_work/` — кадры, клипы, голос, музыка, черновики; раскладка как в репо (`3d/ad4/` ↔ `03_work/3d/ad4/`)
@@ -66,6 +67,9 @@
 | `tt7_user9813356728773/173_final-height-173cm-year-by-year.mp4` | final height path (C-STAT) | Final height 173 cm year by year | `path/173` |
 | `tt7_user9813356728773/183_final-height-183cm-year-by-year.mp4` | final height path (C-STAT) | Final height 183 cm year by year | `path/183` |
 | `tt7_user9813356728773/191_final-height-191cm-year-by-year.mp4` | final height path (C-STAT) | Final height 191 cm year by year | `path/191` |
+| `tt33_kateabsz3ot/a13_if-youre-13-height-at-18.mp4` | selfie + height table (C-SELF) | If you're 13: height at 18 | `selfie/a13` |
+| `tt33_kateabsz3ot/a14_if-youre-14-height-at-18.mp4` | selfie + height table (C-SELF) | If you're 14: height at 18 | `selfie/a14` |
+| `tt33_kateabsz3ot/a15_if-youre-15-height-at-18.mp4` | selfie + height table (C-SELF) | If you're 15: height at 18 | `selfie/a15` |
 | `_archive/mascot/char01_unlock-your-full-height-with-rulo.mp4` | mascot cut-out | Unlock Your Full Height with Rulo | `slides/char1` |
 | `_archive/mascot/char02_shrimpy-s-guide-to-standing-taller.mp4` | mascot cut-out | Shrimpy's Guide to Standing Taller | `slides/char2` |
 | `_archive/mascot/char03_can-you-actually-grow-taller.mp4` | mascot cut-out | Can You Actually Grow Taller? | `slides/char3` |

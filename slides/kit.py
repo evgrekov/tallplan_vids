@@ -9,6 +9,8 @@ from assemble import packshot
 
 W, H, LIME = 1080, 1920, "#c8f03c"
 ICON = ROOT / "TallPlan photo/Logo/app-icon.png"
+MUSIC = pathlib.Path.home() / "Library/CloudStorage/GoogleDrive-evgrekov@gmail.com/My Drive/Projects/TT30/tallplan/02_sources/music"
+PCT = {12: 84, 13: 88, 14: 92, 15: 96, 16: 98, 17: 99, 18: 100}  # % of adult height by age, CDC stature-for-age 50th pct boys (~176.5 cm at 20)
 
 def font(size, wght=800):
     f = ImageFont.truetype(str(ROOT / "3d/fonts/Montserrat.ttf"), size); f.set_variation_by_axes([wght]); return f
