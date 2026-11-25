@@ -1,7 +1,7 @@
 # Google Drive: TT30/tallplan
 
 `My Drive/Projects/TT30/tallplan`:
-- `01_ready/<tt№>_<handle>/` — финалы в работе, разложены по аккаунтам фермы (`tt31_tallmcpyvts/`, `tt32_tallplanman/`, `tt1_heightexpert7/`): `<папка>_<тема>[_вариант].mp4`; каждый стоит в очереди `Vids`
+- `01_ready/<tt№>_<handle>/` — финалы в работе, разложены по аккаунтам фермы (`tt31_tallmcpyvts/`, `tt2_heightguide0/`, `tt1_heightexpert7/`): `<папка>_<тема>[_вариант].mp4`; каждый стоит в очереди `Vids`
 - `01_ready/_archive/<формат>/` — старые финалы прошлых партий (до 2026-11-25), не в очереди
 - `02_sources/` — `brand/` (киты, мокапы), `references/` (`<формат>_<папка>.mp4` + `.info.json` с исходной ссылкой, `youtube/`), `our-top10-posts/`
 - `03_work/` — кадры, клипы, голос, музыка, черновики; раскладка как в репо (`3d/ad4/` ↔ `03_work/3d/ad4/`)
@@ -54,10 +54,10 @@
 | `_archive/muscle-reels/test.mp4` | muscle reel | test | `muscle/test` |
 | `_archive/muscle-reels/upback.mp4` | muscle reel | upback | `muscle/upback` |
 | `tt31_tallmcpyvts/f1_01_3-moves-to-stand-taller.mp4` | muscle remix (old clips, new voice) | 3 moves to stand taller | `muscle/f1_01` |
-| `tt32_tallplanman/boys_average-height-by-age.mp4` | reveal table | Average height · boys by age | `table/boys` |
-| `tt32_tallplanman/girls_average-height-by-age.mp4` | reveal table | Average height · girls by age | `table/girls` |
-| `tt32_tallplanman/sleep_hours-of-sleep-by-age.mp4` | reveal table | Sleep to grow · hours and bedtime by age | `table/sleep` |
-| `tt32_tallplanman/gta6_how-much-you-grew-since-gta6.mp4` | reveal table (T-GTA6) | How much you grew since GTA 6 was announced | `table/gta6` |
+| `tt2_heightguide0/boys_average-height-by-age.mp4` | reveal table | Average height · boys by age | `table/boys` |
+| `tt2_heightguide0/girls_average-height-by-age.mp4` | reveal table | Average height · girls by age | `table/girls` |
+| `tt2_heightguide0/sleep_hours-of-sleep-by-age.mp4` | reveal table | Sleep to grow · hours and bedtime by age | `table/sleep` |
+| `tt2_heightguide0/gta6_how-much-you-grew-since-gta6.mp4` | reveal table (T-GTA6) | How much you grew since GTA 6 was announced | `table/gta6` |
 | `tt1_heightexpert7/odds_if-you-are-5-10-at-15.mp4` | face + odds (C-FACE) | If you are 5'10 at 15 | `slides/quiz/odds` |
 | `tt1_heightexpert7/xmas_christmas-wish-be-taller.mp4` | face + odds (C-FACE, T-XMAS) | Christmas wish: be taller? | `slides/quiz/xmas` |
 | `_archive/mascot/char01_unlock-your-full-height-with-rulo.mp4` | mascot cut-out | Unlock Your Full Height with Rulo | `slides/char1` |
