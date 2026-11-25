@@ -1,7 +1,7 @@
 # Google Drive: TT30/tallplan
 
 `My Drive/Projects/TT30/tallplan`:
-- `01_ready/<tt№>_<handle>/` — финалы в работе, разложены по аккаунтам фермы (`tt31_tallmcpyvts/`, `tt2_heightguide0/`, `tt1_heightexpert7/`, `tt4_heightquest2/`): `<папка>_<тема>[_вариант].mp4`; каждый стоит в очереди `Vids`
+- `01_ready/<tt№>_<handle>/` — финалы в работе, разложены по аккаунтам фермы (`tt31_tallmcpyvts/`, `tt2_heightguide0/`, `tt1_heightexpert7/`, `tt4_heightquest2/`, `tt7_user9813356728773/`): `<папка>_<тема>[_вариант].mp4`; каждый стоит в очереди `Vids`
 - `01_ready/_archive/<формат>/` — старые финалы прошлых партий (до 2026-11-25), не в очереди
 - `02_sources/` — `brand/` (киты, мокапы), `references/` (`<формат>_<папка>.mp4` + `.info.json` с исходной ссылкой, `youtube/`), `our-top10-posts/`
 - `03_work/` — кадры, клипы, голос, музыка, черновики; раскладка как в репо (`3d/ad4/` ↔ `03_work/3d/ad4/`)
@@ -63,6 +63,9 @@
 | `tt4_heightquest2/jake_how-tall-will-i-be.mp4` | comment reply, stick family (C-HTW) | Jake 15, 5'7: how tall will I be | `family/jake` |
 | `tt4_heightquest2/mia_am-i-done-growing.mp4` | comment reply, stick family (C-HTW) | Mia 13, 5'1: am I done growing | `family/mia` |
 | `tt4_heightquest2/xmas_did-you-grow-grandpa-genes.mp4` | comment reply, stick family (C-HTW, T-XMAS-2) | Christmas: did you grow? grandpa genes | `family/xmas` |
+| `tt7_user9813356728773/173_final-height-173cm-year-by-year.mp4` | final height path (C-STAT) | Final height 173 cm year by year | `path/173` |
+| `tt7_user9813356728773/183_final-height-183cm-year-by-year.mp4` | final height path (C-STAT) | Final height 183 cm year by year | `path/183` |
+| `tt7_user9813356728773/191_final-height-191cm-year-by-year.mp4` | final height path (C-STAT) | Final height 191 cm year by year | `path/191` |
 | `_archive/mascot/char01_unlock-your-full-height-with-rulo.mp4` | mascot cut-out | Unlock Your Full Height with Rulo | `slides/char1` |
 | `_archive/mascot/char02_shrimpy-s-guide-to-standing-taller.mp4` | mascot cut-out | Shrimpy's Guide to Standing Taller | `slides/char2` |
 | `_archive/mascot/char03_can-you-actually-grow-taller.mp4` | mascot cut-out | Can You Actually Grow Taller? | `slides/char3` |

@@ -1,0 +1,37 @@
+{
+ "rules": "C-STAT-1..3, G01 G02 G03 G04 G07 G08 G10 G11 G12 G15 G19",
+ "final_cm": 183,
+ "openai_voice": "cedar",
+ "voice": "Confident male narrator for a TikTok infographic: brisk steady pace, clear punchy numbers, very short pauses.",
+ "music": "7443847444193282064_execution-2-slowed_dkzinx-gg-scrxxch.mp3",
+ "addon": {
+  "label": "THE AVERAGE MAN",
+  "title": "TALLEST",
+  "rows": [
+   [
+    "NETHERLANDS",
+    184
+   ],
+   [
+    "MONTENEGRO",
+    183
+   ],
+   [
+    "DENMARK",
+    182
+   ],
+   [
+    "ICELAND",
+    181
+   ],
+   [
+    "USA",
+    177
+   ]
+  ],
+  "say": "Six foot is the average man in the Netherlands, the tallest country on earth. The US is one seventy-seven.",
+  "hl": 0
+ },
+ "source": "Country averages: NCD-RisC men, rounded",
+ "speed": 1.08
+}
