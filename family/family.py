@@ -1,8 +1,8 @@
 # /// script
 # dependencies = ["pillow"]
 # ///
-"""Comment reply with a stick-figure family (ref @how.tall.will.i.b, rules C-HTW): a viewer's comment card on top, crooked family figures
-pop onto a height scale one per voice line, the mid-parental formula (dad + mom ± 5) ÷ 2 with a big yellow result, a TallPlan-style
+"""Comment reply with a stick-figure family (ref @how.tall.will.i.b, rules C-HTW): a viewer's comment card on top, the whole crooked
+family stands on a height scale from frame 1 (each voice line adds that member's height), the mid-parental formula (dad + mom ± 5) ÷ 2 with a big yellow result, a TallPlan-style
 prediction card as the refinement, honest/comforting outro + CTA, then packshot. No video or image generation: only TTS (~$0.02).
 
   uv run family.py <work>/spec.json   -> <work>/final.mp4   (idempotent: delete a wav to redo that line)
@@ -50,55 +50,67 @@ for f, dur in lines: cues.append((f, t)); t += dur + 0.15
 ps, T = t + 0.5, t + 2.3
 app_t = cues[-2][1]
 
-# 2) drawing states: each is the full frame after one more line
+# 2) drawing states. Frame 1 already shows the whole family on the scale (G02: the hook is the figures, not the math);
+#    each member's line only adds their height tag, then the formula, then the kid at 18 fills the "?" slot.
 xs = [W * (0.17 + 0.69 * k / len(fam)) for k in range(len(fam) + 1)]  # last slot = the kid at 18
+INK = "#222"
 
 def figure(im, x, inches, color, seed, hat=False):
-    """Crooked stick figure standing on the ground line, height to scale; a fixed seed keeps the wobble identical in every state."""
+    """Crooked pill-body figure with a simple face (ref style), height to scale; a fixed seed keeps the wobble identical in every state."""
     r, dr = random.Random(seed), ImageDraw.Draw(im, "RGBA")
-    j = lambda p: (p[0] + r.uniform(-5, 5), p[1] + r.uniform(-4, 4))
-    h = inches * PX; top = GROUND - h; hr = h * 0.085
-    neck, hip, sh = top + 2 * hr, top + h * 0.55, top + 2 * hr + h * 0.07
-    dr.ellipse((x - hr, top, x + hr, top + 2 * hr), outline=color, width=9)
-    dr.line([j((x, neck)), j((x, hip))], fill=color, width=9)
-    dr.line([j((x - h * 0.12, hip - h * 0.04)), j((x, sh)), j((x + h * 0.12, hip - h * 0.04))], fill=color, width=9, joint="curve")
-    dr.line([j((x - h * 0.09, GROUND)), j((x, hip)), j((x + h * 0.09, GROUND))], fill=color, width=9, joint="curve")
-    if hat: dr.polygon([(x - hr * 1.1, top + hr * 0.35), (x + hr * 1.1, top + hr * 0.35), (x + hr * 1.6, top - hr * 1.3)], fill="#D62828")
+    j = lambda p: (p[0] + r.uniform(-6, 6), p[1] + r.uniform(-4, 4))
+    h = inches * PX; top = GROUND - h; hr = h * 0.1; bw = h * 0.09
+    neck, hip = top + 2 * hr + 4, top + h * 0.58
+    ink = INK if len(color) != 4 else (34, 34, 34, color[3])
+    dr.line([j((x - h * 0.08, GROUND)), (x - bw * 0.4, hip - 10)], fill=color, width=20)
+    dr.line([j((x + h * 0.08, GROUND)), (x + bw * 0.4, hip - 10)], fill=color, width=20)
+    dr.line([j((x - h * 0.16, hip - h * 0.05)), (x, neck + h * 0.05), j((x + h * 0.16, hip - h * 0.05))], fill=color, width=16, joint="curve")
+    dr.rounded_rectangle((x - bw, neck, x + bw, hip), bw, fill=color)
+    dr.ellipse((x - hr, top, x + hr, top + 2 * hr), fill=color)
+    ey, er = top + hr * 0.85, max(4, hr * 0.13)
+    for ex in (x - hr * 0.38, x + hr * 0.38): dr.ellipse((ex - er, ey - er, ex + er, ey + er), fill="white")
+    dr.arc((x - hr * 0.45, top + hr * 0.75, x + hr * 0.45, top + hr * 1.5), 20, 160, fill="white", width=5)
+    if hat: dr.polygon([(x - hr * 1.1, top + hr * 0.35), (x + hr * 1.1, top + hr * 0.35), (x + hr * 1.3, top - hr * 0.7)], fill="#D62828")
     return top
 
-def tag(dr, x, y, text, color, size=40):
-    dr.text((x, y), text, font=font(size, 900), fill=color, anchor="mm")
+def tag(dr, x, y, text, color, size=44):
+    dr.text((x, y), text, font=font(size, 900), fill=color, anchor="mm", stroke_width=5, stroke_fill=PAPER)
 
 base = Image.new("RGB", (W, H), PAPER)
 dr = ImageDraw.Draw(base)
 for i in range(48, 79, 6):  # scale: dashed line every 6 in, labelled on the left
     y = GROUND - i * PX
-    for x0 in range(150, 1010, 28): dr.line((x0, y, x0 + 14, y), fill="#BBB", width=3)
-    dr.text((70, y), ftin(i), font=font(30, 700), fill="#888", anchor="lm")
-dr.line((120, GROUND, 1010, GROUND), fill="#222", width=6)
+    for x0 in range(150, 1010, 28): dr.line((x0, y, x0 + 16, y), fill="#999", width=4)
+    dr.text((62, y), ftin(i), font=font(32, 800), fill="#666", anchor="lm")
+dr.line((120, GROUND, 1010, GROUND), fill=INK, width=8)
 c = spec["comment"]  # comment card: grey avatar, handle, two lines of text
 dr.rounded_rectangle((90, 280, W - 90, 470), 34, fill="white", outline="#E2E2E2", width=3)
 dr.ellipse((122, 312, 202, 392), fill="#9aa0a6")
 dr.text((226, 330), c["user"], font=font(32, 700), fill="#777", anchor="lm")
 dr.multiline_text((226, 360), c["text"], font=font(38, 800), fill="#111", spacing=8)
 
-states, im = [], base.copy()
-states.append(im.copy())
+im, tops = base.copy(), []
+d2 = ImageDraw.Draw(im)
 for k, m in enumerate(fam):
-    top = figure(im, xs[k], m["in"], m["color"], k, spec.get("hats", False))
-    d2 = ImageDraw.Draw(im)
-    tag(d2, xs[k], top - (70 if spec.get("hats") else 34), ftin(m["in"]), m["color"])
-    tag(d2, xs[k], GROUND + 36, m["who"], m["color"], 34)
-    states.append(im.copy())
-d2 = ImageDraw.Draw(im)
+    tops.append(figure(im, xs[k], m["in"], m["color"], k, spec.get("hats", False)))
+    tag(d2, xs[k], GROUND + 38, m["who"], m["color"], 36)
+tag(d2, xs[-1], GROUND + 38, "AT 18", "#C99A00", 36)
+
+def with_q(frame):  # the empty "kid at 18" slot until the result line
+    f = frame.copy()
+    ImageDraw.Draw(f).text((xs[-1], GROUND - 300), "?", font=font(260, 900), fill=YELLOW, anchor="mm", stroke_width=8, stroke_fill=INK)
+    return f
+
+states = [with_q(im)]
+for k, m in enumerate(fam):
+    tag(d2, xs[k], tops[k] - (m["in"] * PX * 0.07 + 30 if spec.get("hats") else 34), ftin(m["in"]), m["color"])
+    states.append(with_q(im))
 d2.text((W / 2, 1282), f"({dad} + {mom} {'+' if plus > 0 else '−'} 5) ÷ 2 = {mid} in", font=font(56, 800), fill="#111", anchor="mm")
-states.append(im.copy())
+states.append(with_q(im))
 ghost = Image.new("RGBA", (W, H))
-gtop = figure(ghost, xs[-1], mid, (247, 197, 0, 150), 99)
+gtop = figure(ghost, xs[-1], mid, (247, 197, 0, 170), 99)
 im.paste(ghost, (0, 0), ghost)
-d2 = ImageDraw.Draw(im)
-tag(d2, xs[-1], gtop - 34, "AT 18?", "#C99A00")
-tag(d2, xs[-1], GROUND + 36, kid["who"], "#C99A00", 34)
+tag(d2, xs[-1], gtop - 34, ftin(mid), "#C99A00")
 d2.text((W / 2 - 40, 1380), ftin(mid), font=font(150, 900), fill=YELLOW, anchor="mm", stroke_width=8, stroke_fill="#111")
 d2.text((W / 2 + 190, 1395), f"± {rng} in", font=font(48, 800), fill="#111", anchor="lm")
 states.append(im.copy())

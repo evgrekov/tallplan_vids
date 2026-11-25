@@ -1,16 +1,40 @@
 {
  "rules": "C-HTW-1..4, G01 G02 G03 G05 G06 G07 G08 G11 G14 G19",
- "sex": "boy", "openai_voice": "cedar", "voice": "Warm, friendly TikTok creator answering a follower comment: upbeat, clear, a little playful, stress the numbers, short pauses.",
- "comment": {"user": "@jake.hoops", "text": "15, 5'7. Dad 6'0, mom 5'5.\nHow tall will I be??"},
+ "sex": "boy",
+ "openai_voice": "cedar",
+ "voice": "Warm, friendly TikTok creator answering a follower comment: upbeat, clear, a little playful, stress the numbers, short pauses.",
+ "comment": {
+  "user": "@jake.hoops",
+  "text": "15, 5'7. Dad 6'0, mom 5'5.\nHow tall will I be??"
+ },
  "family": [
-  {"who": "DAD", "in": 72, "color": "#2F6FED", "say": "Dad. Six foot."},
-  {"who": "MOM", "in": 65, "color": "#E8508A", "say": "Mom. Five five."},
-  {"who": "JAKE", "in": 67, "color": "#1E9E50", "kid": true, "say": "Jake now. Five seven."}
+  {
+   "who": "DAD",
+   "in": 72,
+   "color": "#2F6FED",
+   "say": "Dad. Six foot."
+  },
+  {
+   "who": "MOM",
+   "in": 65,
+   "color": "#E8508A",
+   "say": "Mom. Five five."
+  },
+  {
+   "who": "JAKE",
+   "in": 67,
+   "color": "#1E9E50",
+   "kid": true,
+   "say": "Jake now. Five seven."
+  }
  ],
- "intro": "Jake is fifteen and five seven. How tall will he get? Let's draw his family.",
+ "intro": "Jake asked: how tall will I be?",
  "formula_say": "Dad plus mom plus five inches. Divide by two.",
  "result_say": "Seventy-one inches. Five eleven, give or take three.",
  "range": 3,
- "app": {"adult": 73, "say": "TallPlan looks at how fast he's growing and says six one."},
+ "app": {
+  "adult": 73,
+  "say": "TallPlan looks at how fast he's growing and says six one."
+ },
  "outro": "Not short, just early. Comment your height and your parents' heights. You might be next."
 }
