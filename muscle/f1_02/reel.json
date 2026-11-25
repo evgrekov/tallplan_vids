@@ -1,0 +1,75 @@
+{
+  "fps": 30,
+  "res": "360p",
+  "intro_seconds": 3.8,
+  "label_delay": 0.4,
+  "end_card_seconds": 3.0,
+  "openai_voice": "cedar",
+  "voice": "High-energy TikTok fitness creator talking straight to camera: upbeat, punchy, fast, big smile in the voice, stress the key words, short snappy pauses.",
+  "music": "TikTok sound 7604889772407719952 \"alter ego - Slowed\" (Kosu), from Drive 02_sources/music; staturesecrets 405K + 181K under AI voice",
+  "script": {
+    "intro": "Want to stand taller by tonight? Three moves. Save this.",
+    "outro": "Posture can add up to an inch. Comment your age and height.",
+    "tagline": "Predict your height in TallPlan."
+  },
+  "sections": [
+    {
+      "name": "1 · Chin tucks",
+      "say": "One. Chin tucks. Glide your head straight back, like a drawer closing.",
+      "vo": "vo/s0.wav",
+      "clips": [
+        {
+          "file": "clips/c0.mp4",
+          "dur": 8.0,
+          "move": "chin tucks (from neck/c0)"
+        }
+      ]
+    },
+    {
+      "name": "2 · Snow angels",
+      "say": "Two. Snow angels on the floor. Squeeze your shoulder blades and your chest opens up.",
+      "vo": "vo/s1.wav",
+      "clips": [
+        {
+          "file": "clips/c1.mp4",
+          "dur": 8.0,
+          "move": "reverse snow angels (from test/c1)"
+        }
+      ]
+    },
+    {
+      "name": "3 · Forearm plank",
+      "say": "Three. Forearm plank. Your core is the belt that holds your spine straight.",
+      "vo": "vo/s2.wav",
+      "clips": [
+        {
+          "file": "clips/c2.mp4",
+          "dur": 8.0,
+          "move": "forearm plank (from dumb3/c0)"
+        }
+      ]
+    },
+    {
+      "name": "Your daily plan",
+      "say": "TallPlan builds your workout for today, step by step.",
+      "vo": "vo/s3.wav",
+      "clips": [
+        {
+          "file": "clips/app.mp4",
+          "dur": 9.0,
+          "move": "real app recording 04_assets ft/video/v03-jump-day.mp4 0-9 s"
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "intro": "vo/intro.wav",
+    "outro": "vo/outro.wav",
+    "tagline": "vo/tagline.wav",
+    "music": "vo/music_alter-ego-slowed.mp3",
+    "music_volume": 0.05
+  },
+  "out": "final.mp4",
+  "speed": 1.25,
+  "rules": "C-SKEL-1 G01 G02 G06 G08 G09 G19 G21 G24 G28 G29"
+}

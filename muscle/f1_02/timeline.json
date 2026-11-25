@@ -1,0 +1,116 @@
+{
+ "fps": 30,
+ "sections": [
+  {
+   "name": "1 \u00b7 Chin tucks",
+   "say": "One. Chin tucks. Glide your head straight back, like a drawer closing.",
+   "vo": "vo/s0.wav",
+   "clips": [
+    {
+     "file": "clips/c0.mp4",
+     "dur": 8.0,
+     "move": "chin tucks (from neck/c0)"
+    }
+   ],
+   "start": 0.0,
+   "end": 8.0,
+   "label_in": 3.8,
+   "label_out": 7.3
+  },
+  {
+   "name": "2 \u00b7 Snow angels",
+   "say": "Two. Snow angels on the floor. Squeeze your shoulder blades and your chest opens up.",
+   "vo": "vo/s1.wav",
+   "clips": [
+    {
+     "file": "clips/c1.mp4",
+     "dur": 8.0,
+     "move": "reverse snow angels (from test/c1)"
+    }
+   ],
+   "start": 8.0,
+   "end": 16.0,
+   "label_in": 8.4,
+   "label_out": 15.3
+  },
+  {
+   "name": "3 \u00b7 Forearm plank",
+   "say": "Three. Forearm plank. Your core is the belt that holds your spine straight.",
+   "vo": "vo/s2.wav",
+   "clips": [
+    {
+     "file": "clips/c2.mp4",
+     "dur": 8.0,
+     "move": "forearm plank (from dumb3/c0)"
+    }
+   ],
+   "start": 16.0,
+   "end": 24.0,
+   "label_in": 16.4,
+   "label_out": 23.3
+  },
+  {
+   "name": "Your daily plan",
+   "say": "TallPlan builds your workout for today, step by step.",
+   "vo": "vo/s3.wav",
+   "clips": [
+    {
+     "file": "clips/app.mp4",
+     "dur": 9.0,
+     "move": "real app recording 04_assets ft/video/v03-jump-day.mp4 0-9 s"
+    }
+   ],
+   "start": 24.0,
+   "end": 33.0,
+   "label_in": 24.4,
+   "label_out": 32.5
+  }
+ ],
+ "end_start": 33.0,
+ "end_seconds": 3.3204583333333333,
+ "total": 36.320458333333335,
+ "cues": [
+  [
+   "vo/intro.wav",
+   0.1,
+   3.164,
+   "Want to stand taller by tonight? Three moves. Save this."
+  ],
+  [
+   "vo/s0.wav",
+   3.414,
+   3.607125,
+   "One. Chin tucks. Glide your head straight back, like a drawer closing."
+  ],
+  [
+   "vo/s1.wav",
+   8.2,
+   4.566458333333333,
+   "Two. Snow angels on the floor. Squeeze your shoulder blades and your chest opens up."
+  ],
+  [
+   "vo/s2.wav",
+   16.2,
+   3.9768333333333334,
+   "Three. Forearm plank. Your core is the belt that holds your spine straight."
+  ],
+  [
+   "vo/s3.wav",
+   24.2,
+   3.117125,
+   "TallPlan builds your workout for today, step by step."
+  ],
+  [
+   "vo/outro.wav",
+   27.467125,
+   2.9640416666666667,
+   "Posture can add up to an inch. Comment your age and height."
+  ],
+  [
+   "vo/tagline.wav",
+   33.75,
+   1.9704583333333334,
+   ""
+  ]
+ ]
+}

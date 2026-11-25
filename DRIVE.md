@@ -55,6 +55,8 @@
 | `_archive/muscle-reels/test.mp4` | muscle reel | test | `muscle/test` |
 | `_archive/muscle-reels/upback.mp4` | muscle reel | upback | `muscle/upback` |
 | `tt31_tallmcpyvts/f1_01_3-moves-to-stand-taller.mp4` | muscle remix (old clips, new voice) | 3 moves to stand taller | `muscle/f1_01` |
+| `tt31_tallmcpyvts/f1_02_stand-taller-tonight.mp4` | muscle remix + real app recording v03 | stand taller by tonight | `muscle/f1_02` |
+| `tt31_tallmcpyvts/f1_03_stretches-before-bed.mp4` | muscle remix + real app screen 07-sleep | 3 stretches before bed | `muscle/f1_03` |
 | `tt2_heightguide0/boys_average-height-by-age.mp4` | reveal table | Average height · boys by age | `table/boys` |
 | `tt2_heightguide0/girls_average-height-by-age.mp4` | reveal table | Average height · girls by age | `table/girls` |
 | `tt2_heightguide0/sleep_hours-of-sleep-by-age.mp4` | reveal table | Sleep to grow · hours and bedtime by age | `table/sleep` |

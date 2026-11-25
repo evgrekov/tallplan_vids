@@ -43,8 +43,9 @@ def say(path, text):
         w.setnchannels(1); w.setsampwidth(2); w.setframerate(24000)
         w.writeframes(oai.speech(text, cfg["voice"], cfg["openai_voice"], cfg["speed"]))
 
-with ThreadPoolExecutor(4) as ex: list(ex.map(still, clips))
-with ThreadPoolExecutor(3) as ex: list(ex.map(clip, clips))
+todo = [c for c in clips if not (d / c["file"]).exists()]  # remix: existing clips need no still
+with ThreadPoolExecutor(4) as ex: list(ex.map(still, todo))
+with ThreadPoolExecutor(3) as ex: list(ex.map(clip, todo))
 a = cfg["audio"]
 for key in ("intro", "outro", "tagline"): say(a[key], cfg["script"][key])
 for s in cfg["sections"]: say(s["vo"], s["say"])

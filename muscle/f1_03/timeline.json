@@ -1,0 +1,121 @@
+{
+ "fps": 30,
+ "sections": [
+  {
+   "name": "1 \u00b7 Child's pose",
+   "say": "One. Child's pose. Let your spine stretch out like a spring.",
+   "vo": "vo/s0.wav",
+   "clips": [
+    {
+     "file": "clips/c0.mp4",
+     "dur": 6.0,
+     "move": "child's pose (from sleep/c0)"
+    },
+    {
+     "file": "clips/c3.mp4",
+     "dur": 3.0,
+     "move": "child's pose breathing (from sleep/c1)"
+    }
+   ],
+   "start": 0.0,
+   "end": 9.0,
+   "label_in": 3.8,
+   "label_out": 8.3
+  },
+  {
+   "name": "2 \u00b7 Cobra",
+   "say": "Two. Cobra. It undoes a whole day of slouching.",
+   "vo": "vo/s1.wav",
+   "clips": [
+    {
+     "file": "clips/c1.mp4",
+     "dur": 8.0,
+     "move": "cobra stretch (from dumb2/c0)"
+    }
+   ],
+   "start": 9.0,
+   "end": 17.0,
+   "label_in": 9.4,
+   "label_out": 16.3
+  },
+  {
+   "name": "3 \u00b7 Lunge reach",
+   "say": "Three. Lunge reach. Tight hips pull you shorter, this lets them go.",
+   "vo": "vo/s2.wav",
+   "clips": [
+    {
+     "file": "clips/c2.mp4",
+     "dur": 6.0,
+     "move": "kneeling lunge reach (from hips/c1)"
+    }
+   ],
+   "start": 17.0,
+   "end": 23.0,
+   "label_in": 17.4,
+   "label_out": 22.3
+  },
+  {
+   "name": "Track your sleep",
+   "say": "TallPlan tracks your sleep and stretches every night.",
+   "vo": "vo/s3.wav",
+   "clips": [
+    {
+     "file": "clips/app.mp4",
+     "dur": 9.0,
+     "move": "real app screen 04_assets ft/07-sleep.png, slow push-in"
+    }
+   ],
+   "start": 23.0,
+   "end": 32.0,
+   "label_in": 23.4,
+   "label_out": 31.5
+  }
+ ],
+ "end_start": 32.0,
+ "end_seconds": 3.0,
+ "total": 35.0,
+ "cues": [
+  [
+   "vo/intro.wav",
+   0.1,
+   3.208,
+   "Three stretches before bed to wake up taller. Save this."
+  ],
+  [
+   "vo/s0.wav",
+   3.458,
+   3.9650833333333333,
+   "One. Child's pose. Let your spine stretch out like a spring."
+  ],
+  [
+   "vo/s1.wav",
+   9.2,
+   3.932875,
+   "Two. Cobra. It undoes a whole day of slouching."
+  ],
+  [
+   "vo/s2.wav",
+   17.2,
+   4.331291666666667,
+   "Three. Lunge reach. Tight hips pull you shorter, this lets them go."
+  ],
+  [
+   "vo/s3.wav",
+   23.2,
+   3.32775,
+   "TallPlan tracks your sleep and stretches every night."
+  ],
+  [
+   "vo/outro.wav",
+   26.67775,
+   3.568791666666667,
+   "Your spine recovers overnight, so you wake up taller. Comment your age and height."
+  ],
+  [
+   "vo/tagline.wav",
+   32.75,
+   1.6097916666666667,
+   ""
+  ]
+ ]
+}
