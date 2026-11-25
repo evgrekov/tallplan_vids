@@ -1,0 +1,17 @@
+{
+ "rules": "C-HTW-1..4, T-XMAS-2, G01 G02 G03 G05 G06 G07 G08 G11 G14 G19",
+ "sex": "boy", "hats": true, "openai_voice": "cedar", "voice": "Warm, friendly TikTok creator answering a follower comment: upbeat, clear, a little playful, stress the numbers, short pauses.",
+ "comment": {"user": "@leo.m", "text": "Every Christmas: \"did you grow?\"\n16, 5'6. Will I ever be tall??"},
+ "family": [
+  {"who": "GRANDPA", "in": 74, "color": "#D4731C", "say": "Grandpa. Six two!"},
+  {"who": "DAD", "in": 68, "color": "#2F6FED", "say": "Dad. Five eight."},
+  {"who": "MOM", "in": 63, "color": "#E8508A", "say": "Mom. Five three."},
+  {"who": "LEO", "in": 66, "color": "#1E9E50", "kid": true, "say": "Leo now. Five six."}
+ ],
+ "intro": "Christmas dinner, and everyone asks Leo: did you grow? He's sixteen and five six. Let's draw the family.",
+ "formula_say": "Dad plus mom plus five inches. Divide by two.",
+ "result_say": "Sixty-eight inches. Five eight, give or take four.",
+ "range": 4,
+ "app": {"adult": 70, "say": "But tall genes can skip a generation. TallPlan checks his growth and says five ten."},
+ "outro": "Thank you, grandpa. Comment your height and your parents' heights. You might be next."
+}

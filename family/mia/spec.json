@@ -1,0 +1,16 @@
+{
+ "rules": "C-HTW-1..4, G01 G02 G03 G05 G06 G07 G08 G11 G14 G19",
+ "sex": "girl", "openai_voice": "cedar", "voice": "Warm, friendly TikTok creator answering a follower comment: upbeat, clear, a little playful, stress the numbers, short pauses.",
+ "comment": {"user": "@mia.writes", "text": "13, 5'1. Dad 5'11, mom 5'4.\nAm I done growing??"},
+ "family": [
+  {"who": "DAD", "in": 71, "color": "#2F6FED", "say": "Dad. Five eleven."},
+  {"who": "MOM", "in": 64, "color": "#E8508A", "say": "Mom. Five four."},
+  {"who": "MIA", "in": 61, "color": "#8E44C9", "kid": true, "say": "Mia now. Five one."}
+ ],
+ "intro": "Mia is thirteen and five one. Is she done growing? Let's draw her family.",
+ "formula_say": "Dad plus mom, minus five inches for girls. Divide by two.",
+ "result_say": "Sixty-five inches. Five five, give or take three.",
+ "range": 3,
+ "app": {"adult": 66, "say": "TallPlan looks at how fast she's growing and says five six."},
+ "outro": "So no, not done yet. Comment your height and your parents' heights. You might be next."
+}

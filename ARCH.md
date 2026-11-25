@@ -45,6 +45,7 @@
 | `slides/grid.py` | Сетка 2×2 «glow up» | `uv run grid.py grid/<spec>.json` | ~$0.24 | `slides/FORMATS.md` |
 | `slides/quiz.py` | UGC-квиз: фото + таблица/коммент → экраны квиза → реальный экран TallPlan | `uv run quiz.py quiz/<spec>.json` | ~$0.07 | `slides/FORMATS.md` |
 | `table/table.py` | Reveal table (@todd.f.moir): лист-таблица, бумага открывает по строке под голос, «YOU ??» → коммент, ответ — реальный экран прогноза TallPlan, потом пэкшот. Без видео | `uv run table.py <x>/spec.json` | ~$0.01 | докстринг |
+| `family/family.py` | Ответ на комментарий (@how.tall.will.i.b, C-HTW): карточка коммента, кривые фигурки семьи на шкале роста по одной на фразу, формула (папа + мама ± 5) ÷ 2 с жёлтым результатом, карточка прогноза TallPlan, утешение + CTA, пэкшот. Без видео | `uv run family.py <x>/spec.json` | ~$0.015 | докстринг |
 | `gads/` | Google App Campaigns: сцены-экраны телефона, 9:16 / 1:1 / 16:9 | `uv run gads/<name>.py` | — | докстринги в `gads/*.py` |
 | `gen/` | Пересборка слайдов топ-10 постов (fal, gpt-image) по разбору `top10/` | `python3 gen/build.py <NN>` / `gen/full.py` | — | код |
 | `yt_remake/` | Перезвучка готовых 3d-роликов новым голосом OpenAI без перегенерации видео | `python3 remake3d.py <3d/adN> <sfx.mp4> <out>` | — | докстринг |
