@@ -159,3 +159,65 @@ Ideas for TallPlan:
 - 🟢 "Reply to a comment" series: viewer's stats → stick-style family on a chart → TallPlan prediction → range + comfort line → CTA for the next comment. Fully 2D, cheap, no actor.
 - 🟢 Our own "weird" consistent character set (one color per family member) instead of realistic people.
 - 🟡 Use TallPlan's real prediction instead of the textbook formula: proof of the app, but the formula's repeatability is part of the appeal.
+
+## @todd.f.moir (2026-11-24, user note: "the info is not shown at once — that holds retention")
+
+"Todd F moir" — bio "You vs the chart — who wins?", 13.7K followers, 210 videos since 2026-06-07; 38 posts scraped (09-17..10-08), median 10.4K.
+Rows: RefVids 55–59, Stats 60–64, Music 51–55, Refs 15, ChannelStats 19. Style: characters/red-foam-hand. Comments: Bright Data crawl error, not collected.
+
+| Post | Views | x median | ER | Comments | Format |
+|---|---|---|---|---|---|
+| Daily saving → 1 year total | 1.2M | 115x | 2.1% | 608 | reveal table |
+| Your age → bedtime | 750K | 72x | 2.5% | 1206 | reveal table |
+| Average height · Girls (plain) | 584K | 56x | 4.1% | 5267 | reveal table |
+| Average height · Boys (user's link) | 158K | 15x | 3.2% | 1381 | reveal table |
+| Average height · Girls (cute pink template) | 2.4K | 0.2x | 1.8% | 1 | same data, pretty design |
+
+What works:
+- **Hidden answers, revealed one row at a time.** A beige paper covers the answer column; a red foam hand slides it down one row per voice line. The viewer can't skip to their own row, so they watch 70+ s for it. Long videos (70–86 s) still hit 0.5–1.2M.
+- **"Find yourself in the table".** Each row is a personal check ("am I above average for 14?"). Last row "You ??" + "What about you?" → 0.9% comments on both height videos (5.3K on the girls one).
+- **Ugly beats pretty (again).** Plain white school worksheet 584K vs the same data on a cute pink template with a cartoon girl 2.4K (240x). Also: the flop read numbers slowly ("4 feet 7 inches") and begged "follow for second part" mid-video.
+- One template, many topics: height, bedtime, savings, allowance, screen time. The format is the brand, the topic rotates.
+- Each row has a one-line comment ("this is your fastest year of growth") — a small fact per reveal.
+- AI male voiceover ~160 wpm, no music, one static shot, 0 cuts. Captions are long AI-written SEO text.
+
+Ideas for TallPlan:
+- 🟢 "Your age → your height" reveal table (boys / girls editions) with a growth fact per row; last row "You ??" → comment → next video answers with the TallPlan prediction.
+- 🟢 Same reveal on other height tables: growth left by age, growth plates closing by age, sleep hours for growth by age.
+- 🟡 Plain worksheet look, no cute decoration; the physical prop (foam hand + paper) can be faked in 2D, but the real-prop look is part of the charm.
+
+## Format: UGC reaction + app demo (X @cesaralvarezll, 2026-11-24)
+
+Source: https://x.com/cesaralvarezll/status/2124948534596403455 — a marketer's post selling AI UGC clones: original UGC video (claimed 8M+ views, creator and app not named) side by side with its AI clone. Not a TikTok channel, so no sheet rows. Video: Drive `02_sources/references/x/cesaralvarezll/`.
+
+Structure (~11 s, no voice, quiet sound):
+1. 0–3.5 s **reaction hook:** a real girl on a bed, hand on forehead then over mouth, shocked; caption "4 years at the gym and I just NOW find this?!?!".
+2. 3.5–11 s **app demo:** the app is filmed with a phone pointing at another phone screen (fingers, blanket in the background), not a clean screen recording; finger scrolls the training plan; caption "An app that plans and tracks all your workouts!!".
+
+What works:
+- Relatable regret in the hook ("4 years and only NOW") — the viewer feels they are late too; the answer is the app.
+- The demo looks amateur (filmed screen, real hand), so it reads as a friend's tip, not an ad.
+- Very short: one reaction + one demo shot, the product is on screen from 3.5 s.
+- In the AI clone only the reaction person is generated; the app footage is reused as is. The face is the only expensive part.
+
+Ideas for TallPlan:
+- 🟢 Reaction hook (AI-generated 19–20 y person, shocked) + filmed-screen demo of TallPlan's prediction / routine; caption like "17 and I only NOW find out how tall I'll be?!".
+- 🟡 Pair it with @todd.f.moir's hidden-answer idea: the demo reveals the predicted height last.
+
+## @jonathan.taller + @g4dijar (2026-11-25, from partner: "test a live avatar"; "just our interface from the site + a live person")
+
+| Post | Views | x median | Comments | Format |
+|---|---|---|---|---|
+| @jonathan.taller "If you are 5'1 at 14…" | 559K | 81x | 3286 | adult selfie, pensive chin rub, text list "6'3 at 18 (4%) … 5'9 at 18 (84%)", music only, 6 s, NO app |
+| @jonathan.taller reply to comment + Taller app recording | 6.9K | 1x | 52 | talking head + app screen, 16 s |
+| @g4dijar "WE gonna be 6'2" | 333K | 321x | 1079 | web height-calculator screenshot (result 6'2 + red arrow) + small cut-out teen vibing, trending rap, 10 s |
+
+@jonathan.taller: promo account for the "Taller" app, created 2026-11-08, 3 posts, 206 followers. @g4dijar: a regular teen (scooters), 82 posts, one height hit.
+
+What works:
+- **A live face + one screen of numbers, ~6–10 s, music only.** Both hits are a single static shot that loops; no voice, no explanation.
+- **Odds instead of one answer.** "5'11 at 18 (56%)" — the viewer finds their own row and argues in comments (3.3K).
+- **A real result screen with a real reaction.** "WE gonna be 6'2" over a calculator result reads as genuine joy, not an ad.
+- The app demo with a talking head (6.9K) lost to the plain face + text (559K) on the same account.
+
+Built: `slides/quiz/xmas.json` — Christmas version of the quiz format (Santa hat selfie + "dear santa… all I want is to grow taller" card → quiz → real TallPlan screen 6'2"), $0.074, Drive `01_ready/quiz/xmas.mp4`.

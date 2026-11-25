@@ -1,9 +1,9 @@
 # /// script
 # dependencies = ["pillow"]
 # ///
-"""UGC quiz ad: teen photo bobbing to the beat + hook card (table or comment) → app-style quiz screens with typed answers →
+"""UGC quiz ad: teen photo bobbing to the beat + hook card (table, odds lines or comment) → app-style quiz screens with typed answers →
 real store screen with the result (+ TallPlan name and icon) → packshot. No voice, Lyria music.
-Usage: uv run quiz.py quiz/<spec>.json  (outputs in a folder named after the spec; idempotent: delete a file to redo it)
+Usage: uv run quiz.py quiz/<spec>.json  ("answers": [] skips the quiz; outputs in a folder named after the spec; idempotent: delete a file to redo it)
 """
 import json, math, pathlib, re, subprocess, sys
 from PIL import Image, ImageDraw, ImageFont
@@ -63,9 +63,14 @@ def badge(im, y=480):
     dr.text((x + 94, y + 38), "TallPlan", font=f, fill="white", anchor="lm")
 
 def hook_card(im, t):
-    """Table rows pop in one by one, the viewer's row lit; or a comment bubble."""
+    """Table rows pop in one by one, the viewer's row lit; odds lines over the face; or a comment bubble."""
     dr, x0, y = ImageDraw.Draw(im, "RGBA"), 70, 980
-    if "table" in spec:
+    if "odds" in spec:
+        for k, line in enumerate(spec["odds"]):
+            if t > 1.0 + 0.6 * k:
+                f = fit(line, 64, W * 0.86, 700)
+                dr.text((W / 2, 620 + 115 * k), line, font=f, fill="white", anchor="mm", stroke_width=5, stroke_fill="black")
+    elif "table" in spec:
         tb = spec["table"]
         rows = [r for k, r in enumerate(tb["rows"]) if t > 1.2 + 0.35 * k]
         if not rows: return
