@@ -1,6 +1,6 @@
 {
- "rules": "C-SELF-1, G01 G02 G03 G06 G10 G11 G14 G19 G20",
- "photo_from": "03_work/slides/quiz/chart2/photo.png (remix)",
+ "rules": "C-SELF-1 C-SELF-2, G01 G02 G03 G06 G10 G11 G14 G19 G20",
+ "photo_from": "02_sources/characters/selfie-curly/01_base_bedroom.png (channel face, C-SELF-2)",
  "age": 13,
  "rows": [
   59,
