@@ -1,11 +1,13 @@
 {
- "rules": "C-SELF-1 C-SELF-2, G01 G02 G03 G06 G10 G11 G14 G19 G20",
- "photo_from": "02_sources/characters/selfie-curly/03_living_plants.png (channel face, C-SELF-2)",
+ "rules": "C-SELF-1 C-SELF-2, G01 G02 G03 G06 G10 G11 G14 G19 G20 G30",
+ "photo_from": "02_sources/characters/selfie-curly/a15_street_handinhair.png",
+ "pose": "street handinhair",
+ "sound_from": "generationalglowup 622K",
  "age": 15,
  "rows": [
   64,
   67,
   70
  ],
- "music": "7667522371921660704_oryginalny-d-wi-k_.m4a"
+ "music": "7652029318209473302_original-sound_sparky.m4a"
 }

@@ -1,11 +1,13 @@
 {
- "rules": "C-SELF-1 C-SELF-2, G01 G02 G03 G06 G10 G11 G14 G19 G20",
- "photo_from": "02_sources/characters/selfie-curly/01_base_bedroom.png (channel face, C-SELF-2)",
+ "rules": "C-SELF-1 C-SELF-2, G01 G02 G03 G06 G10 G11 G14 G19 G20 G30",
+ "photo_from": "02_sources/characters/selfie-curly/a13_car_seat.png",
+ "pose": "car seat",
+ "sound_from": "gotall.abdul 1.4M",
  "age": 13,
  "rows": [
   59,
   61,
   64
  ],
- "music": "7667522371921660704_oryginalny-d-wi-k_.m4a"
+ "music": "7641009408738102048_sexy-and-i-know-it-hardtekk-releasing-on-june-5th_hussinbeat.m4a"
 }

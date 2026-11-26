@@ -1,0 +1,13 @@
+{
+ "rules": "C-SELF-1 C-SELF-2, G01 G02 G03 G06 G10 G11 G14 G19 G20 G30",
+ "photo_from": "02_sources/characters/selfie-curly/a17_doorframe_measure.png",
+ "pose": "doorframe measure",
+ "sound_from": "heightible 1.8M",
+ "age": 17,
+ "rows": [
+  67,
+  70,
+  73
+ ],
+ "music": "7667522371921660704_oryginalny-d-wi-k_.m4a"
+}

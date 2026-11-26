@@ -1,0 +1,13 @@
+{
+ "rules": "C-SELF-1 C-SELF-2, G01 G02 G03 G06 G10 G11 G14 G19 G20 G30",
+ "photo_from": "02_sources/characters/selfie-curly/a16_desk_chinonhand.png",
+ "pose": "desk chinonhand",
+ "sound_from": "generationalglowup 604K",
+ "age": 16,
+ "rows": [
+  65,
+  68,
+  71
+ ],
+ "music": "7494736469880965910_son-original_.m4a"
+}

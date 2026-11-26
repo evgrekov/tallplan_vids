@@ -34,7 +34,7 @@ tallcard(d / "app.png", at18[mid], rows[mid])
 cut = str(d / "cut.mp4")
 subprocess.run(["ffmpeg", "-v", "error", "-y", "-loop", "1", "-framerate", "30", "-t", f"{PS + 1.8:.2f}", "-i", d / "photo.png",
                 "-loop", "1", "-framerate", "30", "-i", d / "table.png", "-loop", "1", "-framerate", "30", "-i", d / "app.png",
-                "-ss", str(spec.get("music_start", 0)), "-i", MUSIC / spec["music"],
+                "-stream_loop", "-1", "-ss", str(spec.get("music_start", 0)), "-i", MUSIC / spec["music"],  # some ref sounds are <11 s
                 "-filter_complex", f"[0]scale=-2:{H},crop={W}:{H},scale=w='{W}*(1+0.05*t/{PS})':h=-2:eval=frame,crop={W}:{H}[bg];"
                 f"[bg][1]overlay=shortest=1[s];[s][2]overlay=x=(W-w)/2:y='560+1400*(1-clip((t-{APP})/0.35,0,1))':enable='gte(t,{APP})',"
                 f"fade=t=out:st={PS - 0.4:.2f}:d=0.4,format=yuv420p[v];[3:a]afade=t=out:st={PS + 1.2:.2f}:d=0.6,loudnorm=I=-12:TP=-1,aresample=48000[a]",

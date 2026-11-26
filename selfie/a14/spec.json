@@ -1,11 +1,13 @@
 {
- "rules": "C-SELF-1 C-SELF-2, G01 G02 G03 G06 G10 G11 G14 G19 G20",
- "photo_from": "02_sources/characters/selfie-curly/02_gaming_led.png (channel face, C-SELF-2)",
+ "rules": "C-SELF-1 C-SELF-2, G01 G02 G03 G06 G10 G11 G14 G19 G20 G30",
+ "photo_from": "02_sources/characters/selfie-curly/a14_gym_lowangle.png",
+ "pose": "gym lowangle",
+ "sound_from": "gotall.abdul 1.2M / heightible 739K",
  "age": 14,
  "rows": [
   61,
   64,
   67
  ],
- "music": "7667522371921660704_oryginalny-d-wi-k_.m4a"
+ "music": "7654085411592997663_original-sound_ren.m4a"
 }

@@ -1,0 +1,13 @@
+{
+ "rules": "C-SELF-1 C-SELF-2, G01 G02 G03 G06 G10 G11 G14 G19 G20 G30",
+ "photo_from": "02_sources/characters/selfie-curly/a12_bed_topdown.png",
+ "pose": "bed topdown",
+ "sound_from": "heightible 2M",
+ "age": 12,
+ "rows": [
+  55,
+  58,
+  61
+ ],
+ "music": "7703953409162185505_original-sound_feevo.m4a"
+}
