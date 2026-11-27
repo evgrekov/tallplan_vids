@@ -221,3 +221,25 @@ What works:
 - The app demo with a talking head (6.9K) lost to the plain face + text (559K) on the same account.
 
 Built: `slides/quiz/xmas.json` — Christmas version of the quiz format (Santa hat selfie + "dear santa… all I want is to grow taller" card → quiz → real TallPlan screen 6'2"), $0.074, Drive `01_ready/quiz/xmas.mp4`.
+
+## @dimonplaypro42 (2026-11-27, user link)
+
+| Post | Views | x median | Shares | Format |
+|---|---|---|---|---|
+| "if I were taller" — dachshund in fence bars + ft→cm table | 1.4M | 101x | 35.8K (2.6%) | B&W stock meme clip on top, pasted phone screenshot of a conversion table 6'2"–7'0" below, sad sound, 9 s, no text, no voice |
+| lookism "genetic lottery" coin flip | 244K | 18x | 2.4K | coin flip → 17 cuts of models and actors, 18 s |
+| lookism "its over" dice | 27K | 2x | 447 | same idea, 32 cuts |
+| horror game clip | 737 | 0.1x | 1 | off-topic flop |
+
+Random meme account (526 followers, 5 videos, no niche). The 1.4M is a one-off, but a very cheap one.
+
+What works:
+- **The viewer is the animal.** A short dog straining through fence bars = "me trying to reach 6'2". There is no caption, the joke is read from the picture + the table, so it works in any language.
+- **The table of dream heights is the hook.** Rows 6'2"…7'0" with cm: every viewer finds the height they want; cm adds the non-US audience.
+- **Self-irony, not advice → shares.** 221K likes (15.8%) and 35.8K shares: people send it to friends ("this is you"). Saves only 1%: nothing to come back to.
+- **Zero production:** two stock pieces stacked, 9 s loop, one sound. The description is long SEO text ("how tall is 6'2" in cm").
+
+Ideas for TallPlan:
+- 🟢 Meme stack: a funny animal "trying to be taller" (dachshund, corgi on tiptoes, cat reaching a shelf) on top + a plain height table or a real TallPlan result screen below, no voice, trending sad/slow sound, ~9 s. Cheap: stock or our own footage, no generation.
+- 🟡 Series by the same template: "me at 5'7 looking at 6'2 guys", "my growth plates at 18" — the same animal, a different table/row each time.
+- 🟡 The lookism "genetic lottery" edit (coin/dice → faces) also lands (244K) but needs other people's celebrity footage — not for us.
