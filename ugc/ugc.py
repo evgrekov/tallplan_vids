@@ -3,7 +3,7 @@
 # ///
 """UGC reaction + app reveal (rule C-UGC-1, ref: GoTall UGC 674K): ~2.5 s of the channel face reacting in disbelief with a ≤4-word hook,
 then real TallPlan screens from 04_assets (recordings or stills, in order) held up on a blurred backdrop with a slight hand shake, ref sound, no voice, packshot.
-The reaction clip is a 360p Omni generation (ugc/<x>/react.txt); the low resolution + grain is the amateur phone look.
+The reaction clip is a raw 360p Omni generation (ugc/<x>/react.txt), only scaled: no added grain or filters (they read as fake).
 
   uv run ugc.py <work>/spec.json   -> <work>/final.mp4
 """
@@ -37,12 +37,9 @@ subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", str(r["ss"]), "-t", str(r[
                 + "".join(f"[{i + 1}]scale=1320:2868,setsar=1,fps=30[c{i}];" for i in range(n))
                 + "".join(f"[c{i}]" for i in range(n)) + f"concat=n={n}:v=1:a=0,split[s1][s2];[s1]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=40,eq=brightness=-0.2[bg];"
                 f"[s2]scale=-2:{int(H * 0.9)}[ph];[bg][ph]overlay=x='(W-w)/2+6*sin(2.1*t)':y='(H-h)/2+8*sin(1.7*t)',setsar=1[b];"
-                f"[a][b]concat=n=2:v=1:a=0,tpad=stop_mode=clone:stop_duration=1.8,noise=alls=9:allf=t,format=yuv420p[v];"
+                f"[a][b]concat=n=2:v=1:a=0,tpad=stop_mode=clone:stop_duration=1.8,format=yuv420p[v];"
                 f"[{n + 2}:a]afade=t=out:st={PS + 1.2:.2f}:d=0.6,loudnorm=I=-12:TP=-1,aresample=48000[au]",
                 "-map", "[v]", "-map", "[au]", "-t", f"{PS + 1.8:.2f}", "-c:v", "libx264", "-crf", "18", "-c:a", "aac", "-b:a", "192k", cut],
                check=True)
-packshot(cut, PS, str(d / "full.mp4"))
-# grain is incompressible at crf 18 (~115 MB for 10 s): cap the bitrate for upload
-subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", d / "full.mp4", "-c:v", "libx264", "-crf", "20", "-maxrate", "8M", "-bufsize", "16M",
-                "-c:a", "copy", "-movflags", "+faststart", d / "final.mp4"], check=True)
+packshot(cut, PS, str(d / "final.mp4"))
 print(f"✅ {d / 'final.mp4'} · {PS + 1.8:.1f}s")

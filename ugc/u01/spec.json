@@ -1,13 +1,13 @@
 {
  "rules": "C-UGC-1, G01 G02 G06 G10 G11 G16 G19 G20 G24 G25 G26 G27 G28 G29 G30",
  "face": "avatar.png = nb_curly_4 (Nano Banana Pro one-shot from real TikTok frame @bledarrrrg), channel face",
- "pose": "evening room, phone propped at eye level, hand through hair",
+ "pose": "evening room, phone propped at eye level, quiet laugh + half-smile (subtle acting)",
  "sound_from": "@bledarrrrg GoTall UGC 674K (ViVO original sound)",
  "hook": "Wait… I'll be 6'3?!",
  "react": {
-  "file": "react_t2.mp4",
-  "ss": 1.0,
-  "dur": 2.6
+  "file": "mimic/c.mp4",
+  "ss": 1.5,
+  "dur": 2.5
  },
  "music": "7607133728368003862_original-sound_vivo.mp3",
  "screens": [
