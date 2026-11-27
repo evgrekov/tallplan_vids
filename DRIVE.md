@@ -2,7 +2,7 @@
 
 `My Drive/Projects/TT30/tallplan`:
 - `04_assets/` — официальные материалы TallPlan от команды (не генерим, только берём): `Screenshots/iOS/promo/{ft,cm}/` (18 экранов, locked-версии, `video/` — 7 записей экрана), `ASO/` (App Store, Google Play, us/metric), `Logo/`. Каталог и правила — вкладки `Assets` и `RulesGlobal` (G24–G29)
-- `01_ready/<tt№>_<handle>/` — финалы в работе, разложены по аккаунтам фермы (`tt31_tallmcpyvts/`, `tt2_heightguide0/`, `tt1_heightexpert7/`, `tt4_heightquest2/`, `tt7_user9813356728773/`, `tt33_kateabsz3ot/`): `<папка>_<тема>[_вариант].mp4`; каждый стоит в очереди `Vids`
+- `01_ready/<tt№>_<handle>/` — финалы в работе, разложены по аккаунтам фермы (`tt31_tallmcpyvts/`, `tt2_heightguide0/`, `tt1_heightexpert7/`, `tt4_heightquest2/`, `tt7_user9813356728773/`, `tt33_kateabsz3ot/`, `yt_tallplan/` — YouTube-канал Tallplan, не ферма, в `Vids` не ставим): `<папка>_<тема>[_вариант].mp4`; каждый стоит в очереди `Vids`
 - `01_ready/_archive/<формат>/` — старые финалы прошлых партий (до 2026-11-25), не в очереди
 - `02_sources/` — `brand/` (киты, мокапы), `references/` (`<формат>_<папка>.mp4` + `.info.json` с исходной ссылкой, `youtube/`), `our-top10-posts/`
 - `03_work/` — кадры, клипы, голос, музыка, черновики; раскладка как в репо (`3d/ad4/` ↔ `03_work/3d/ad4/`)
@@ -95,6 +95,11 @@
 | `_archive/facts/facts02_how-human-height-changed-around-the-world.mp4` | facts explainer | How Human Height Changed Around the World | `slides/facts2` |
 | `_archive/facts/facts03_why-your-height-changes-every-day.mp4` | facts explainer | Why Your Height Changes Every Day | `slides/facts3` |
 | `_archive/facts/facts04_how-fast-do-humans-actually-grow.mp4` | facts explainer | How Fast Do Humans Actually Grow? | `slides/facts4` |
+| `yt_tallplan/facts05_sleep-and-height-why-teens-need-more-rest.mp4` | facts explainer (YouTube) | Sleep and Height: Why Teens Need More Rest | `slides/facts5` |
+| `yt_tallplan/facts06_posture-how-many-inches-slouching-hides.mp4` | facts explainer (YouTube) | Posture: How Many Inches Slouching Hides | `slides/facts6` |
+| `yt_tallplan/facts07_how-tall-will-you-be-the-science-of-height-prediction.mp4` | facts explainer (YouTube) | How Tall Will You Be? The Science of Height Prediction | `slides/facts7` |
+| `yt_tallplan/facts08_will-you-be-taller-by-next-christmas.mp4` | facts explainer (YouTube) | Will You Be Taller By Next Christmas? | `slides/facts8` |
+| `yt_tallplan/facts09_hands-and-feet-grow-first-early-signs-of-a-growth-spurt.mp4` | facts explainer (YouTube) | Hands and Feet Grow First: Early Signs of a Growth Spurt | `slides/facts9` |
 | `_archive/form-fixes/fx01_plank-fix-dead-bug.mp4` | wrong vs right form | Plank Fix + Dead Bug | `slides/fx1` |
 | `_archive/form-fixes/fx10_hamstring-stretch-mistake-fix.mp4` | wrong vs right form | Hamstring Stretch Mistake Fix | `slides/fx10` |
 | `_archive/form-fixes/fx02_dead-hang-fix-for-taller-posture.mp4` | wrong vs right form | Dead Hang Fix for Taller Posture | `slides/fx2` |

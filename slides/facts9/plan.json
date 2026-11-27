@@ -1,0 +1,198 @@
+{
+ "title": "Hands and Feet Grow First: Early Signs of a Growth Spurt",
+ "character": "Full-body front standing pose of a friendly young guy with short brown hair, wearing a mint-green crewneck t-shirt, dark charcoal straight-leg trousers, and clean white sneakers with dark accents, standing upright with a warm confident smile, minimalist flat 2D vector character style, smooth curves, solid colors, plain white background, character design sheet style.",
+ "openai_voice": "marin",
+ "voice": "Bright, curious, friendly, clear and brisk educational delivery with an encouraging warm cadence.",
+ "scenes": [
+  {
+   "vo": "Ever wondered what part of your body grows first?",
+   "kind": "figure",
+   "bg": "#7cc6f5",
+   "figures": [
+    {
+     "pose": "Friendly young guy in mint-green tee looking slightly down at his hands with a curious head tilt, standing upright",
+     "in": 68.0,
+     "from": null,
+     "label": null
+    }
+   ],
+   "icons": [],
+   "alarm": false,
+   "photo": null,
+   "sfx": "whoosh"
+  },
+  {
+   "vo": "During a growth spurt, your hands and feet lead.",
+   "kind": "figure",
+   "bg": "#1e7cf0",
+   "figures": [
+    {
+     "pose": "Character standing smiling, holding both palms up proudly and showing oversized sneakers on his feet",
+     "in": 68.0,
+     "from": null,
+     "label": null
+    }
+   ],
+   "icons": [
+    {
+     "prompt": "Flat vector icon of a skin-tone hand with spread fingers, solid colors",
+     "label": "Hands"
+    },
+    {
+     "prompt": "Flat vector icon of a dark navy sneaker footprint, solid colors",
+     "label": "Feet"
+    }
+   ],
+   "alarm": false,
+   "photo": null,
+   "sfx": "pop"
+  },
+  {
+   "vo": "They actually speed up way before your spine does.",
+   "kind": "photo",
+   "bg": null,
+   "figures": null,
+   "icons": null,
+   "alarm": false,
+   "photo": "Clean 3D medical render of a human skeletal silhouette on deep royal blue background, highlighting glowing extremities in bright turquoise before the spinal column, scientific and educational.",
+   "sfx": "whoosh"
+  },
+  {
+   "vo": "Suddenly outgrowing your shoes is a huge clue.",
+   "kind": "figure",
+   "bg": "#7cc6f5",
+   "figures": [
+    {
+     "pose": "Young guy looking down wide-eyed at one foot lifted up in a tight, bursting sneaker, smiling in pleasant surprise",
+     "in": 68.0,
+     "from": null,
+     "label": "New Shoes"
+    }
+   ],
+   "icons": [
+    {
+     "prompt": "Flat vector bright orange sneaker icon popping with small sparkles",
+     "label": "Shoe Size"
+    }
+   ],
+   "alarm": false,
+   "photo": null,
+   "sfx": "ding"
+  },
+  {
+   "vo": "Your feet usually stop growing two years earlier.",
+   "kind": "figure",
+   "bg": "#1e7cf0",
+   "figures": [
+    {
+     "pose": "Character standing tall and steady while the ruler counter climbs slightly, looking confident",
+     "in": 71.0,
+     "from": 68.0,
+     "label": null
+    }
+   ],
+   "icons": [
+    {
+     "prompt": "Flat vector orange stopwatch timer with a green checkmark, solid colors",
+     "label": "2 Years"
+    }
+   ],
+   "alarm": false,
+   "photo": null,
+   "sfx": "rise"
+  },
+  {
+   "vo": "Still, shoe size alone won't predict final height.",
+   "kind": "figure",
+   "bg": "#7cc6f5",
+   "figures": [
+    {
+     "pose": "Character shrugging playfully with hands out to sides, head tilted slightly, pleasant thoughtful expression",
+     "in": 71.0,
+     "from": null,
+     "label": "Myth"
+    }
+   ],
+   "icons": [
+    {
+     "prompt": "Flat vector red warning badge with a clean diagonal strike through a shoe silhouette",
+     "label": "Not exact"
+    }
+   ],
+   "alarm": false,
+   "photo": null,
+   "sfx": "pop"
+  },
+  {
+   "vo": "Here's a cool trick: check your arm span.",
+   "kind": "photo",
+   "bg": null,
+   "figures": null,
+   "icons": null,
+   "alarm": false,
+   "photo": "Studio photograph against a clean solid cyan background showing a teenager with arms outstretched fingertip to fingertip, holding a yellow measuring tape across the chest, crisp lighting.",
+   "sfx": "ding"
+  },
+  {
+   "vo": "Fingertip to fingertip roughly matches your total height.",
+   "kind": "figure",
+   "bg": "#1e7cf0",
+   "figures": [
+    {
+     "pose": "Character standing with arms spread wide in a symmetrical T-pose, big happy smile, with width and height aligned",
+     "in": 71.0,
+     "from": null,
+     "label": "Equal"
+    }
+   ],
+   "icons": [
+    {
+     "prompt": "Flat vector yellow measuring tape stretched horizontally with arrow ends, solid colors",
+     "label": "Arm Span"
+    }
+   ],
+   "alarm": false,
+   "photo": null,
+   "sfx": "whoosh"
+  },
+  {
+   "vo": "So how tall will your body grow to be?",
+   "kind": "figure",
+   "bg": "#7cc6f5",
+   "figures": [
+    {
+     "pose": "Character pointing forward toward the camera with one finger, leaning in friendly with an inviting grin",
+     "in": 71.0,
+     "from": null,
+     "label": "Your Turn"
+    }
+   ],
+   "icons": [],
+   "alarm": false,
+   "photo": null,
+   "sfx": "ding"
+  },
+  {
+   "vo": "And there's way more inside our app. Predict your height in TallPlan.",
+   "kind": "figure",
+   "bg": "#1e7cf0",
+   "figures": [
+    {
+     "pose": "Happy character giving two enthusiastic thumbs up, cheerful wide grin, relaxed stance",
+     "in": null,
+     "from": null,
+     "label": null
+    }
+   ],
+   "icons": [
+    {
+     "prompt": "Flat vector smartphone silhouette displaying a rising green progress chart",
+     "label": "TallPlan"
+    }
+   ],
+   "alarm": false,
+   "photo": null,
+   "sfx": "ding"
+  }
+ ]
+}

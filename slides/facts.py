@@ -2,8 +2,8 @@
 # dependencies = ["pillow"]
 # ///
 """Facts explainer: flat vector character on blue with a height ruler + live counter (growing, side-by-side comparisons),
-popping icons, realistic photo shots with a slow push, pleasant OpenAI voice, word subtitles, Lyria music, packshot.
-Usage: uv run facts.py <reference_url> <folder> "<topic>" "<facts>"  (idempotent: delete a file to redo it)
+popping icons, realistic photo shots with a slow push, pleasant OpenAI voice, word subtitles, music from our saved sounds, packshot.
+Usage: uv run facts.py <reference_url> <folder> "<topic>" "<facts>" <sound_id>  (idempotent: delete a file to redo it)
 """
 import json, math, subprocess
 from concurrent.futures import ThreadPoolExecutor
@@ -16,7 +16,7 @@ FEET = H * 0.7  # ground line, above the subtitles
 INK = "#0d1b3d"
 WHITE = "isolated on a plain pure white background, nothing touching the edges, no shadow, no text"
 
-url, d, topic, facts = sys.argv[1], (HERE / sys.argv[2]).resolve(), sys.argv[3], sys.argv[4]
+url, d, topic, facts, sound = sys.argv[1], (HERE / sys.argv[2]).resolve(), sys.argv[3], sys.argv[4], sys.argv[5]
 d.mkdir(parents=True, exist_ok=True)
 ref = d / "reference.mp4"
 if not ref.exists():
@@ -65,7 +65,7 @@ red = Image.new("RGBA", (W, H), (230, 40, 50, 0))
 starts, vo_dur, total = voiceover(d, [s["vo"] for s in scenes], plan, SPEED)
 ps = starts[-1]
 subs = Subs(starts, vo_dur, [s["vo"] for s in scenes])
-music(d, plan["music"])
+music(d, sound)
 
 def ftin(v):
     v = round(v); return f"{v // 12}'{v % 12}\""

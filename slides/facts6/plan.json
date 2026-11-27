@@ -1,0 +1,199 @@
+{
+  "title": "Posture: How Many Inches Slouching Hides",
+  "character": "Flat 2D vector character model sheet of a friendly young man standing in a front pose on a plain white background, wearing a mint-green t-shirt, dark charcoal pants, and black sneakers. Minimalist clean vector art style, simple geometric anatomy, soft flat lighting, no harsh gradients, cheerful and approachable expression.",
+  "openai_voice": "cedar",
+  "voice": "bright, friendly, warm, educational, brisk",
+  "scenes": [
+    {
+      "vo": "Have you ever wondered how much height slouching hides?",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Young man standing upright, slight curious head tilt with one hand scratching his chin, mint-green tee and dark trousers.",
+          "in": 71.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "none"
+    },
+    {
+      "vo": "Slouching can actually hide one to two whole inches.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Young man visibly hunching his shoulders forward, curved upper back, dropping down in height with a disappointed face.",
+          "in": 69.0,
+          "from": 71.0,
+          "label": "Slouched"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat 2D icon of a downward red measuring tape arrow",
+          "label": "-2 Inches"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Looking down at your phone strains your neck badly.",
+      "kind": "photo",
+      "bg": "",
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Clean 3D medical anatomical visualization of a human cervical spine bending forward under extreme pressure, glowing stress points along the neck vertebrae on a dark clinical background, no text.",
+      "sfx": "pop"
+    },
+    {
+      "vo": "The lower you bend, the heavier your head gets.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Young man bending his neck deeply over a smartphone, wincing in discomfort with curved upper spine.",
+          "in": 68.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat vector icon of a heavy dumbbell pressing down",
+          "label": "60 lbs Strain"
+        }
+      ],
+      "alarm": true,
+      "photo": "",
+      "sfx": "ding"
+    },
+    {
+      "vo": "Standing tall aligns your ears, shoulders, and hips.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Young man standing in perfect posture from a side-angled front view, head high, shoulders back, aligned vertically.",
+          "in": 71.0,
+          "from": 68.0,
+          "label": "Aligned"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat vector icon of vertical alignment guide dots and a plumb line",
+          "label": "Posture"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "rise"
+    },
+    {
+      "vo": "Strengthening your core and back makes standing tall effortless.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Young man flexing his torso confidently, smiling proudly with confident athletic stance.",
+          "in": 71.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat 2D icon of a strong torso core shield with a checkmark",
+          "label": "Core"
+        },
+        {
+          "prompt": "Flat 2D icon of strong upper back muscles",
+          "label": "Back"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "pop"
+    },
+    {
+      "vo": "It unlocks your true height without lengthening any bones.",
+      "kind": "photo",
+      "bg": "",
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Clean 3D medical render of a human spine gently decompressing to its natural elongated curve with soft blue energy flowing vertically, against a dark studio background, no text.",
+      "sfx": "ding"
+    },
+    {
+      "vo": "Good posture simply reveals every inch you already have.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Slouched version of the young man in a muted grey tee standing slightly bent.",
+          "in": 69.0,
+          "from": null,
+          "label": "Before"
+        },
+        {
+          "pose": "Upright version of the young man in mint-green tee standing tall and proud beside him.",
+          "in": 71.0,
+          "from": null,
+          "label": "After"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "rise"
+    },
+    {
+      "vo": "So how much taller could your posture make you?",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Young man pointing directly forward at the camera with an encouraging smile and straight spine.",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "And there's way more inside our app. Predict your height in TallPlan.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Young man holding up an iPhone displaying a green growth chart screen, waving happily.",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat vector app icon with a rising height graph and laurel badge",
+          "label": "TallPlan"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "ding"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "title": "Sleep and Height: Why Teens Need More Rest",
+  "character": "Full-body model sheet of a friendly teenage guy in flat 2D vector style, front standing neutral pose, plain white background, simple geometric shapes with soft flat colors and subtle shading, wearing a mint-green crewneck t-shirt, dark navy straight pants, and white sneakers, cheerful expression, clean modern corporate Memphis illustration style like the reference video.",
+  "openai_voice": "marin",
+  "voice": "Bright, friendly, warm, educational, and brisk pace matching the reference explainer video style.",
+  "scenes": [
+    {
+      "vo": "Have you ever wondered if sleep actually makes you taller?",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Curious teen guy in mint-green tee looking up and scratching head, questioning smile",
+          "in": 68.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "none"
+    },
+    {
+      "vo": "Teens actually need eight to ten hours of sleep nightly.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Teen guy smiling peacefully, gesturing toward clock and moon icons",
+          "in": 68.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat vector sleeping moon with stars icon, white graphic style",
+          "label": "8–10 Hours"
+        },
+        {
+          "prompt": "Flat vector analog alarm clock icon, clean white graphic style",
+          "label": "Every Night"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "Yet seven in ten teens sleep way too little.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Tired teen guy slouching with heavy eyes, dark navy tee, hands down",
+          "in": 67.0,
+          "from": null,
+          "label": "< 8 Hours"
+        },
+        {
+          "pose": "Energetic rested teen guy standing tall in mint-green tee, smiling confidently",
+          "in": 68.0,
+          "from": null,
+          "label": "Rested"
+        }
+      ],
+      "icons": [],
+      "alarm": true,
+      "photo": null,
+      "sfx": "ding"
+    },
+    {
+      "vo": "Most growth and repair happens during deep night sleep.",
+      "kind": "photo",
+      "bg": null,
+      "figures": null,
+      "icons": null,
+      "alarm": false,
+      "photo": "Clean 3D medical visualization of a human body resting horizontally in a dark bedroom setting, glowing cellular repair and bone renewal nodes along the spine and legs in deep blue and turquoise light, vertical framing, highly detailed scientific render.",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Scrolling late on bright screens delays falling asleep fast.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Teen guy holding glowing smartphone close to face, squinting and yawning groggily",
+          "in": 68.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat vector smartphone screen emitting bright blue light rays icon with slash over it",
+          "label": "Blue Light"
+        }
+      ],
+      "alarm": true,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "Deep rest allows your body to reach its potential.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Smiling teen guy standing tall, posture straight, hands comfortably in pockets",
+          "in": 71.0,
+          "from": 68.0,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "Remember, sleep helps you reach your natural genetic height.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Happy teen guy standing proud next to ruler with thumb up",
+          "in": 71.0,
+          "from": null,
+          "label": "Full Height"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat vector double helix DNA strand icon in clean white graphic style",
+          "label": "Genetics"
+        },
+        {
+          "prompt": "Flat vector bed with cozy pillow icon in clean white graphic style",
+          "label": "Bedtime"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    },
+    {
+      "vo": "It cannot take you beyond what genes already set.",
+      "kind": "photo",
+      "bg": null,
+      "figures": null,
+      "icons": null,
+      "alarm": false,
+      "photo": "Stunning microscopic 3D render of a luminous glowing DNA strand floating in deep dark blue space, delicate molecular structure with gentle bokeh and soft ambient lighting, vertical orientation, photorealistic 8k.",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "So how tall will your body naturally grow?",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Teen guy winking and pointing directly forward toward viewer with friendly smile",
+          "in": 71.0,
+          "from": null,
+          "label": "You?"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "And there's way more inside our app. Predict your height in TallPlan.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Delighted teen guy holding up a modern phone showcasing a growth chart icon, big welcoming wave",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    }
+  ]
+}

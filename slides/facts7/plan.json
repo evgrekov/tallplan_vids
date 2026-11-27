@@ -1,0 +1,189 @@
+{
+  "title": "How Tall Will You Be? The Science of Height Prediction",
+  "character": "Full-body model sheet of a friendly young man standing facing forward, flat 2D vector illustration style with clean minimalist shapes, no outlines, soft flat shading, wearing a mint-green crewneck t-shirt, dark charcoal straight-leg trousers, and white-soled dark casual sneakers, cheerful neutral expression, plain solid white background",
+  "openai_voice": "coral",
+  "voice": "bright, friendly, warm, educational, brisk",
+  "scenes": [
+    {
+      "vo": "Have you ever wondered how tall you will grow?",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Young man in mint-green tee looking up inquisitively, one hand raised slightly in curiosity",
+          "in": 68.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "none"
+    },
+    {
+      "vo": "Genetics explain around eighty percent of your final height.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Young man standing upright and gesturing toward floating science badges beside him",
+          "in": 68.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "minimal flat vector white icon of a DNA double helix",
+          "label": "Genetics"
+        },
+        {
+          "prompt": "minimal flat vector white icon of a pie chart showing eighty percent",
+          "label": "80%"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "Doctors predict adult height using both of your parents.",
+      "kind": "photo",
+      "bg": null,
+      "figures": null,
+      "icons": null,
+      "alarm": false,
+      "photo": "Clean cinematic 3D medical render of a human DNA strand softly glowing next to an illuminated clinical height ruler, sleek blue scientific background, soft studio lighting",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Take a mom at five foot four inches...",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Flat vector woman in an orange top and navy pants standing straight beside a vertical ruler",
+          "in": 64.0,
+          "from": null,
+          "label": "Mom"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "...and a dad standing five foot ten inches.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Flat vector woman in an orange top and navy pants standing calmly",
+          "in": 64.0,
+          "from": null,
+          "label": "Mom"
+        },
+        {
+          "pose": "Tall vector father figure in a slate-blue polo shirt and dark jeans standing next to her with ruler",
+          "in": 70.0,
+          "from": null,
+          "label": "Dad"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "Their son averages around five foot nine inches.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Young man in mint-green tee growing taller on screen beside a ruler counter",
+          "in": 69.5,
+          "from": 64.0,
+          "label": "Estimated Son"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat vector white icon of a calculator with growth arrow",
+          "label": "Formula"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "Actual adult height lands within four inches of that.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Young man standing confidently between two subtle horizontal measurement bounds",
+          "in": 71.5,
+          "from": 67.5,
+          "label": "+/- 4 inches"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    },
+    {
+      "vo": "Sleep, proper nutrition, and posture decide where you land.",
+      "kind": "photo",
+      "bg": null,
+      "figures": null,
+      "icons": null,
+      "alarm": false,
+      "photo": "Photorealistic 3D medical visual of an athletic human spine in healthy upright alignment, glowing vertebrae with subtle blue light, clean wellness background",
+      "sfx": "pop"
+    },
+    {
+      "vo": "So how tall will you actually end up?",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Young man leaning slightly forward, smiling warmly and gesturing with both palms up toward the viewer",
+          "in": 68.0,
+          "from": null,
+          "label": "Your Height?"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat vector white question mark bubble icon",
+          "label": "Predict"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "And there's way more inside our app. Predict your height in TallPlan.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Happy young man standing tall, holding a modern smartphone displaying a colorful growth graph, big smile",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    }
+  ]
+}

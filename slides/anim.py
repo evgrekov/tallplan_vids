@@ -96,11 +96,14 @@ class Subs:
             dr.text((x, H * 0.76 - 60), w, font=f, fill="#FFE14D" if first + j == cur else "white", anchor="lm", stroke_width=9, stroke_fill="black")
             x += f.getlength(w + " ")
 
-def music(d, prompt):
+MUSIC = pathlib.Path.home() / "Library/CloudStorage/GoogleDrive-evgrekov@gmail.com/My Drive/Projects/TT30/tallplan/02_sources/music"
+
+def music(d, sound):
+    """Saved reference sound by sound_id (sheet tab Music) from Drive 02_sources/music → music.mp3; mixed quiet under the voice."""
     m = d / "music.mp3"
     if not m.exists():
-        print("🎵 music...")
-        m.write_bytes(data(gemini("lyria-3-clip-preview", [{"text": f"Instrumental only, no vocals. {prompt}"}], responseModalities=["AUDIO"])))
+        print(f"🎵 music {sound}...")
+        m.write_bytes(next(MUSIC.glob(f"{sound}_*")).read_bytes())
     return m
 
 def render(d, total, frame, hits, ps):

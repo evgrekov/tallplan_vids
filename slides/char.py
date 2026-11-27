@@ -2,8 +2,8 @@
 # dependencies = ["pillow"]
 # ///
 """Mascot cut-out animation: model sheet → per scene a background, a mascot pose and props (OpenAI edits, same art style),
-cut out and animated separately (entrances with overshoot, bounce/hop/wiggle..., squash & stretch, props popping in), OpenAI TTS, word-by-word subtitles, synthesized cartoon SFX, Lyria music, packshot.
-Usage: uv run char.py <reference_url> <folder> "<mascot idea>" ["<brief: topic/story that overrides the default arc>"]  (idempotent: delete a file to redo it)
+cut out and animated separately (entrances with overshoot, bounce/hop/wiggle..., squash & stretch, props popping in), OpenAI TTS, word-by-word subtitles, synthesized cartoon SFX, music from our saved sounds, packshot.
+Usage: uv run char.py <reference_url> <folder> "<mascot idea>" <sound_id> ["<brief: topic/story that overrides the default arc>"]  (idempotent: delete a file to redo it)
 """
 import json, math, subprocess
 from concurrent.futures import ThreadPoolExecutor
@@ -15,7 +15,8 @@ SPEED = 1.27
 WHITE = "isolated on a plain pure white background, bold black outline all around, nothing touching the edges, no shadow, no text"
 
 url, d, mascot = sys.argv[1], (HERE / sys.argv[2]).resolve(), sys.argv[3]
-brief = sys.argv[4] if len(sys.argv) > 4 else "none, use the default story arc"
+sound = sys.argv[4]
+brief = sys.argv[5] if len(sys.argv) > 5 else "none, use the default story arc"
 d.mkdir(parents=True, exist_ok=True)
 ref = d / "reference.mp4"
 if not ref.exists():
@@ -92,7 +93,7 @@ def props_at(fr, i, u):
         sprite(fr, im, p["x"] * W, cy, q, rot=4 * math.sin(u * 3 + j))
 
 subs = Subs(starts, vo_dur, [s["vo"] for s in scenes])
-music(d, plan["music"])
+music(d, sound)
 
 def frame(t):
     i = max(j for j, st in enumerate(starts) if st <= t)

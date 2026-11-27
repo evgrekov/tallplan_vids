@@ -19,9 +19,9 @@ Rules:
   "action": its motion while the line plays: "bounce", "wiggle", "float", "shake", "stretch", "spin", "hop";
   "sfx": one of "boing", "whoosh", "pop", "bonk", "ding", "none".
 - "mascot_sheet": a full image prompt for the mascot's model sheet: one front pose, plain white background, the exact look and art style (clean 2D cartoon, bold outlines, flat colors).
-- "openai_voice": one of ash, ballad, coral, echo, sage, verse, marin, cedar; "voice": short delivery note (energetic, fast, playful); "music": bouncy playful instrumental with BPM, quiet under voice.
+- "openai_voice": one of ash, ballad, coral, echo, sage, verse, marin, cedar; "voice": short delivery note (energetic, fast, playful).
 Output strict valid JSON: no comments, no trailing commas.
 
 JSON schema:
-{"title": str, "mascot_sheet": str, "openai_voice": str, "voice": str, "music": str,
+{"title": str, "mascot_sheet": str, "openai_voice": str, "voice": str,
  "scenes": [{"vo": str, "bg": str, "pose": str, "props": [{"prompt": str, "x": float, "y": float, "w": float}], "enter": str, "action": str, "sfx": str}]}

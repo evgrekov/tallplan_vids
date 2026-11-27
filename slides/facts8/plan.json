@@ -1,0 +1,223 @@
+{
+  "title": "Will You Be Taller By Next Christmas?",
+  "character": "Full-body front-facing character sheet, flat 2D vector illustration style, clean geometric shapes, soft flat colors, white background. A friendly smiling teenage boy with brown messy hair, wearing a mint-green t-shirt, dark charcoal straight-cut pants, and white-soled low-top sneakers. Standing upright, relaxed posture, clean minimal design suitable for motion animation.",
+  "openai_voice": "coral",
+  "voice": "Bright, friendly, upbeat and warm educational tone, brisk pacing like a viral science explainer.",
+  "scenes": [
+    {
+      "vo": "Have you ever wondered if you'll grow by Christmas?",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Smiling teen boy in mint tee, looking curiously at the height ruler beside him, festive Santa hat on his head",
+          "in": 62.0,
+          "from": null,
+          "label": "This Christmas"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat 2D vector icon of a wrapped holiday gift box with red ribbon",
+          "label": "Gifts"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "During growth spurts, girls shoot up three inches yearly,",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Smiling teen girl in mint tee and ponytail, growing taller against vertical ruler",
+          "in": 61.0,
+          "from": 58.0,
+          "label": "Age 11-12"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat 2D vector icon of an upward growth green arrow",
+          "label": "+3 inches"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "usually peaking around eleven or twelve years old.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Two teenage girls standing side by side, comparing heights happily",
+          "in": 61.0,
+          "from": null,
+          "label": "Peak Spurt"
+        },
+        {
+          "pose": "Second teenage girl in yellow tee, smiling friendly",
+          "in": 58.0,
+          "from": null,
+          "label": "Pre-Spurt"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    },
+    {
+      "vo": "Boys hit their peak later, around thirteen or fourteen,",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Teen boy in mint tee stretching tall with ruler climbing rapidly",
+          "in": 66.0,
+          "from": 62.0,
+          "label": "Age 13-14"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat 2D vector icon of a decorated holiday pine tree",
+          "label": "Winter"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "gaining up to four full inches in one year!",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Teen boy in mint tee looking surprised and excited, hands on hips next to tall ruler mark",
+          "in": 66.0,
+          "from": null,
+          "label": "+4 inches"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat 2D vector gold trophy cup icon",
+          "label": "Peak Growth"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    },
+    {
+      "vo": "Interestingly, teens grow noticeably faster in spring and summer.",
+      "kind": "photo",
+      "bg": null,
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Warm bright sunny outdoor field with golden sunlight flare, a tall adolescent silhouette stretching under bright blue skies, realistic cinematic photography, no text",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Plus, boys keep growing two years longer than girls.",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Teen girl standing relaxed at final adult height",
+          "in": 64.0,
+          "from": null,
+          "label": "Age 16"
+        },
+        {
+          "pose": "Young adult guy in mint tee standing taller beside her with ruler",
+          "in": 70.0,
+          "from": null,
+          "label": "Age 18"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat 2D vector calendar icon showing added years",
+          "label": "+2 Years"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "So by next Christmas, you could add several inches!",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Teen boy in mint tee wearing Christmas scarf, standing proud next to ruler rising higher",
+          "in": 67.0,
+          "from": 63.0,
+          "label": "Christmas 2026"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat 2D vector festive sparkle star icon",
+          "label": "Next Year"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "So how tall will YOU be next holiday season?",
+      "kind": "figure",
+      "bg": "#1e7cf0",
+      "figures": [
+        {
+          "pose": "Teen boy pointing friendly directly at camera with questioning expression and slight head tilt",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat 2D vector glowing question mark icon",
+          "label": "Your Height?"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "And there's way more inside our app. Predict your height in TallPlan.",
+      "kind": "figure",
+      "bg": "#7cc6f5",
+      "figures": [
+        {
+          "pose": "Happy smiling teen boy holding a modern smartphone, waving warmly to the viewer",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "flat 2D vector mobile phone icon with growth graph line on screen",
+          "label": "TallPlan"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    }
+  ]
+}
