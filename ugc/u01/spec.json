@@ -4,7 +4,17 @@
  "pose": "evening room, phone propped at eye level, hand through hair",
  "sound_from": "@bledarrrrg GoTall UGC 674K (ViVO original sound)",
  "hook": "Wait… I'll be 6'3?!",
- "react": {"file": "react_t2.mp4", "ss": 1.0, "dur": 2.6},
- "reveal": {"file": "ft/video/v01-reveal.mp4", "ss": 0.5, "dur": 5.85},
- "music": "7607133728368003862_original-sound_vivo.mp3"
+ "react": {
+  "file": "react_t2.mp4",
+  "ss": 1.0,
+  "dur": 2.6
+ },
+ "music": "7607133728368003862_original-sound_vivo.mp3",
+ "screens": [
+  {
+   "file": "ft/video/v01-reveal.mp4",
+   "ss": 0.5,
+   "dur": 5.85
+  }
+ ]
 }
