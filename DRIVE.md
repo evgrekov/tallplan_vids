@@ -2,7 +2,7 @@
 
 `My Drive/Projects/TT30/tallplan`:
 - `04_assets/` — официальные материалы TallPlan от команды (не генерим, только берём): `Screenshots/iOS/promo/{ft,cm}/` (18 экранов, locked-версии, `video/` — 7 записей экрана), `ASO/` (App Store, Google Play, us/metric), `Logo/`. Каталог и правила — вкладки `Assets` и `RulesGlobal` (G24–G29)
-- `01_ready/<tt№>_<handle>/` — финалы в работе, разложены по аккаунтам фермы (`tt31_tallmcpyvts/`, `tt2_heightguide0/`, `tt1_heightexpert7/`, `tt4_heightquest2/`, `tt7_user9813356728773/`, `tt33_kateabsz3ot/`, `yt_tallplan/` — YouTube-канал Tallplan, не ферма, в `Vids` не ставим): `<папка>_<тема>[_вариант].mp4`; каждый стоит в очереди `Vids`
+- `01_ready/<tt№>_<handle>/` — финалы в работе, разложены по аккаунтам фермы (`tt31_tallmcpyvts/`, `tt2_heightguide0/`, `tt1_heightexpert7/`, `tt4_heightquest2/`, `tt7_user9813356728773/`, `tt33_kateabsz3ot/`, `ugc_no-handle-yet/` — новый UGC-аккаунт, хэндла пока нет (переименовать в `<tt№>_<handle>/`, когда появится), `yt_tallplan/` — YouTube-канал Tallplan, не ферма, в `Vids` не ставим): `<папка>_<тема>[_вариант].mp4`; каждый стоит в очереди `Vids`
 - `01_ready/_archive/<формат>/` — старые финалы прошлых партий (до 2026-11-25), не в очереди
 - `02_sources/` — `brand/` (киты, мокапы), `references/` (`<формат>_<папка>.mp4` + `.info.json` с исходной ссылкой, `youtube/`), `our-top10-posts/`
 - `03_work/` — кадры, клипы, голос, музыка, черновики; раскладка как в репо (`3d/ad4/` ↔ `03_work/3d/ad4/`)
@@ -73,6 +73,12 @@
 | `tt33_kateabsz3ot/a13_if-youre-13-height-at-18.mp4` | selfie + height table (C-SELF) | If you're 13: height at 18 | `selfie/a13` |
 | `tt33_kateabsz3ot/a14_if-youre-14-height-at-18.mp4` | selfie + height table (C-SELF) | If you're 14: height at 18 | `selfie/a14` |
 | `tt33_kateabsz3ot/a15_if-youre-15-height-at-18.mp4` | selfie + height table (C-SELF) | If you're 15: height at 18 | `selfie/a15` |
+| `ugc_no-handle-yet/u01_wait-ill-be-6-3.mp4` | UGC reaction + app screens (C-UGC-1) | Wait… I'll be 6'3?! | `ugc/u01` |
+| `ugc_no-handle-yet/u02_dads-5-8-me.mp4` | UGC reaction + app screens (C-UGC-1) | Dad's 5'8. Me?! | `ugc/u02` |
+| `ugc_no-handle-yet/u03_still-growing-at-19.mp4` | UGC reaction + app screens (C-UGC-1) | Still growing at 19?! | `ugc/u03` |
+| `ugc_no-handle-yet/u04_top-7-for-my-age.mp4` | UGC reaction + app screens (C-UGC-1) | Top 7 0.000000or my age?! | `ugc/u04` |
+| `ugc_no-handle-yet/u05_4-more-inches-xmas.mp4` | UGC reaction + app screens (C-UGC-1) | 4 more inches?! (T-XMAS) | `ugc/u05` |
+| `ugc_no-handle-yet/u06_wait-sleep-matters.mp4` | UGC reaction + app screens (C-UGC-1) | Wait, sleep matters?! | `ugc/u06` |
 | `_archive/mascot/char01_unlock-your-full-height-with-rulo.mp4` | mascot cut-out | Unlock Your Full Height with Rulo | `slides/char1` |
 | `_archive/mascot/char02_shrimpy-s-guide-to-standing-taller.mp4` | mascot cut-out | Shrimpy's Guide to Standing Taller | `slides/char2` |
 | `_archive/mascot/char03_can-you-actually-grow-taller.mp4` | mascot cut-out | Can You Actually Grow Taller? | `slides/char3` |
