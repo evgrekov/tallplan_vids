@@ -1,9 +1,8 @@
-Image 1 is a real iPhone frame of a kitchen. Image 2 shows the person who must appear in it.
+Image 1 is a real iPhone selfie frame filmed in a home kitchen in the evening. Image 2 shows the person who must appear in it.
 
-Edit image 1 in this single pass. Keep EXACTLY its framing, camera height and angle, lens, daylight direction and color, image grain, sensor noise, the dark wood cabinets, the wall and the wooden counter in the foreground.
-1. Replace the man with the young man from image 2: the same face, same curly light-brown hair, same grey-blue eyes, same freckles, same age, same thin silver chain. He stands behind the counter, both hands resting on it, looking straight into the camera with a calm, slightly tired morning face, as if the phone is propped on the counter in front of him.
-2. Different outfit: an oversized light-grey hoodie, no beanie, no glasses, no wired earbuds.
-3. On the counter: remove the pancakes, plate, candle and syrup bottle; put a half-empty glass of water and a cereal bowl with a spoon instead, slightly out of focus.
-4. Remove any text.
+Edit image 1 in this single pass. Keep EXACTLY its framing, close handheld selfie angle, lens distortion, the warm brown wooden cabinets and shelf with ornaments, the beige tiled backsplash, the warm indoor light, image grain and sensor noise.
+1. Replace the man with the young man from image 2: the same face, same curly light-brown hair, same grey-blue eyes, same freckles, same age, same thin silver chain. He looks straight into the phone camera with a calm, slightly tired evening face, mouth closed.
+2. He wears an oversized light-grey hoodie (not shirtless). No earbuds, no hat, no glasses.
+3. Remove all text, captions and subtitles.
 
 Natural real skin with pores and freckles, no smoothing, no glossy highlights. It must look like an unedited real phone frame, not a studio photo, not AI-perfect.

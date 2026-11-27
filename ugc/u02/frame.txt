@@ -1,8 +1,8 @@
-Image 1 is a real iPhone frame from a phone propped on a car dashboard. Image 2 shows the person who must appear in it.
+Image 1 is a real iPhone selfie frame filmed inside a car at dusk. Image 2 shows the person who must appear in it.
 
-Edit image 1 in this single pass. Keep EXACTLY its framing, low dashboard camera angle, lens distortion, steering wheel in the foreground, beige car interior, the trees outside, the soft overcast daylight, image grain and sensor noise.
-1. Replace the girl with the young man from image 2: the same face, same curly light-brown hair, same grey-blue eyes, same freckles, same age, same thin silver chain. He sits in the driver's seat of the parked car, one hand resting on the top of the steering wheel, looking straight into the phone camera with a relaxed, slightly bored face.
+Edit image 1 in this single pass. Keep EXACTLY its framing, low handheld selfie angle, wide lens distortion, the car door and open side window, the street, trees and buildings outside, the dusk sky, the street lamp glare, image grain and sensor noise.
+1. Replace the man with the young man from image 2: the same face, same curly light-brown hair, same grey-blue eyes, same freckles, same age, same thin silver chain. He sits in the car seat next to the open window, head slightly tilted, looking straight into the phone camera with a calm, slightly bored face.
 2. Different outfit: a dark-green zip-up jacket over a white t-shirt. No earbuds, no hat.
-3. Remove any text.
+3. Remove all text and captions.
 
 Natural real skin with pores and freckles, no smoothing, no glossy highlights. It must look like an unedited real phone frame, not a studio photo, not AI-perfect.
