@@ -28,7 +28,7 @@ except urllib.error.HTTPError as e:
     raise SystemExit(f"❌ {e.code} {e.read().decode()}")
 
 u = r["usage"]
-cost = u["total_output_tokens"] * 17.5e-6 + u.get("total_thought_tokens", 0) * 9e-6 + u["total_input_tokens"] * 1.5e-6
+cost = u["total_output_tokens"] * {"gemini-omni-1.2-flash": 12e-6}.get(a.model, 17.5e-6) + u.get("total_thought_tokens", 0) * 9e-6 + u["total_input_tokens"] * 1.5e-6
 video = next(c["data"] for s in r["steps"] if s["type"] == "model_output" for c in s["content"] if c["type"] == "video")
 pathlib.Path(a.out).write_bytes(base64.b64decode(video))
 print(f"✅ {a.out} · id={r['id']} · 💰 ~${cost:.3f}")
