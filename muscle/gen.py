@@ -10,6 +10,7 @@ from concurrent.futures import ThreadPoolExecutor
 HERE = pathlib.Path(__file__).parent
 sys.path[:0] = [str(HERE.parent / "slides"), str(HERE.parent / "3d")]
 import api, oai
+oai.MODEL = "gpt-image-2.6-flare"  # 3D mannequin stills: gpt-image-2.5 not tested here
 from api import gemini, data
 
 cfg_f = pathlib.Path(sys.argv[1]).resolve()

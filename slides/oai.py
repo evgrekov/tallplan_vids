@@ -1,9 +1,14 @@
-"""OpenAI image generation (key from ../.env). gpt-image-2.6-flare: text in $5/M, image out $30/M; medium ~$0.035 per 1024x1536 image (low ~$0.02)."""
+"""OpenAI image generation (key from ../.env). gpt-image-2.5-flare: text in $5/M, image in $8/M, image out $30/M;
+medium 1024x1536 = ~343 out tokens (~$0.011, ~$0.019 with a reference image) — 3.3x fewer out tokens than 2.6 (A/B 2026-11-27)."""
 import base64, json, pathlib, re, subprocess, urllib.request
 
 KEY = re.search(r"OPENAI_API_KEY=(\S+)", (pathlib.Path(__file__).parent.parent / ".env").read_text()).group(1)
 spent = 0.0  # $ of this process on the OpenAI account (estimate from usage)
-MODEL = "gpt-image-2.6-flare"  # best quality; the price is set by quality (output tokens), not the model
+MODEL = "gpt-image-2.5-flare"  # same quality for our flat/vector art, ~2-3x cheaper per image than 2.6
+
+def cost(u):
+    i = u.get("input_tokens_details", {})
+    return i.get("text_tokens", 0) * 5e-6 + i.get("image_tokens", 0) * 8e-6 + u["output_tokens"] * 30e-6
 
 def image(prompt, out, quality="medium", size="1024x1536"):
     """Writes a PNG (default 1024x1536); cost goes to `spent`."""
@@ -12,9 +17,8 @@ def image(prompt, out, quality="medium", size="1024x1536"):
                                  {"Content-Type": "application/json", "Authorization": f"Bearer {KEY}"})
     r = json.load(urllib.request.urlopen(req, timeout=300))
     pathlib.Path(out).write_bytes(base64.b64decode(r["data"][0]["b64_json"]))
-    u = r["usage"]
     global spent
-    spent += u["input_tokens"] * 5e-6 + u["output_tokens"] * 30e-6
+    spent += cost(r["usage"])
 
 def speech(text, instructions, voice="cedar", speed=1.0):
     """gpt-realtime-2.1-mini via say_rt.py → raw PCM s16le 24 kHz mono (~$0.026 per minute). `instructions` = delivery style;
@@ -37,9 +41,8 @@ def edit(prompt, refs, out, quality="medium", size="1024x1536"):
                                  {"Content-Type": "application/json", "Authorization": f"Bearer {KEY}"})
     r = json.load(urllib.request.urlopen(req, timeout=300))
     pathlib.Path(out).write_bytes(base64.b64decode(r["data"][0]["b64_json"]))
-    u = r["usage"]
     global spent
-    spent += u["input_tokens"] * 5e-6 + u["output_tokens"] * 30e-6
+    spent += cost(r["usage"])
 
 def chat(prompt, model="gpt-5.5"):
     """Text answer as a JSON object string (Responses API). Not added to `spent`: chat tokens are covered by our plan."""

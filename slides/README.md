@@ -5,7 +5,7 @@ Separate from `3d/` (video pipeline). For references that are a sequence of stat
 `uv run make.py <reference_url> <folder> "<art style>" ["<brief: other exercises, music>"]`
 
 1. `plan.txt` → gemini-3.8-flash plans from the reference: style, character, slide prompts (hook + exercises), captions, music prompt.
-2. `oai.py` → OpenAI `gpt-image-2.6-flare`, 1024×1536, quality medium (~$0.035 per image; low ~$0.02). The model draws no text.
+2. `oai.py` → OpenAI `gpt-image-2.5-flare`, 1024×1536, quality medium (~$0.011 per image, ~$0.019 with a reference image; 2.6 was ~2–3× pricier at the same look, A/B 2026-11-27). The model draws no text.
 3. Captions in edit (Montserrat Black, colors from the plan) in the empty top band; the image is fit to full width at the bottom of the 9:16 frame.
 4. Music: Lyria 3 clip ($0.04). Slides cut every 4 beats of the planned BPM; the last slide is held 2.2 s under `../3d/packshot.sh`, with the CTA caption below the card.
 
@@ -22,5 +22,5 @@ Hooks: every plan follows the scroll-stopping hook rule in `plan.txt`, but plans
 - `quiz.py quiz/<spec>.json` — UGC quiz ad, no voice: photo bobbing to the beat + hook card (`table` = height chart / mom's height, or `comment`), app-style quiz screens with typed answers, the real store screen from `TallPlan photo/7nov` with the TallPlan icon + name, packshot. ~$0.07. Photoreal minors are blocked by OpenAI moderation: the photo is a ~19-year-old.
 - `char.py` takes an optional 4th arg brief that replaces the default story arc (e.g. "signs you're still growing").
 See FORMATS.md for the five formats.
-- `facts.py <url> <folder> "<topic>" "<facts>"` — facts explainer (ref: maxphilipstudio): flat vector character on blue, height ruler with live ft/cm value (grows, side-by-side comparisons, one scale for the whole video), icons, realistic photo shots with a push, pleasant OpenAI voice, word subtitles, packshot. Only the given facts are used. ~$0.7 per ad. Keep ~90 words for ~30 s.
+- `facts.py <url> <folder> "<topic>" "<facts>"` — facts explainer (ref: maxphilipstudio): flat vector character on blue, height ruler with live ft/cm value (grows, side-by-side comparisons, one scale for the whole video), icons, realistic photo shots with a push, pleasant OpenAI voice, word subtitles, packshot. Only the given facts are used. ~$0.3 per ad. Keep ~90 words for ~30 s.
 - `anim.py` — helpers shared by char.py and facts.py (cut-outs, easing, voice timing, subtitles, music, SFX, render + packshot).
