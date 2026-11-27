@@ -1,13 +1,23 @@
 {
  "rules": "C-UGC-1 C-SELF-2, G01 G02 G06 G10 G11 G19 G20 G24 G25 G26 G28 G30",
- "face": "frame.png = Nano Banana Pro one-shot: real kitchen frame @hugoscookbooktolife + channel face ugc-curly/01_base_room",
- "pose": "kitchen morning, standing at counter, hand on top of head",
+ "face": "frame.png = Nano Banana Pro one-shot: real kitchen frame @bledarrrrg video 7666989619140906253 8.0 s + channel face u01/avatar.png",
+ "pose": "evening kitchen, handheld selfie, grey hoodie, re-reads then small embarrassed smile (subtle acting)",
  "sound_from": "@heightmaxxing101 GoTall UGC (strykercel original sound)",
  "hook": "Still growing at 19?!",
- "react": {"file": "react.mp4", "ss": 1.5, "dur": 2.5},
+ "react": {
+  "file": "react.mp4",
+  "ss": 1.5,
+  "dur": 2.5
+ },
  "screens": [
-  {"file": "ft/05-height-history.png", "dur": 3.5},
-  {"file": "ft/01-home.png", "dur": 2.3}
+  {
+   "file": "ft/05-height-history.png",
+   "dur": 3.5
+  },
+  {
+   "file": "ft/01-home.png",
+   "dur": 2.3
+  }
  ],
  "music": "7605325156059335438_original-sound_strykercel.mp3"
 }

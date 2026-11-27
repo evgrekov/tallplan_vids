@@ -1,13 +1,23 @@
 {
  "rules": "C-UGC-1 C-SELF-2, G01 G02 G06 G10 G11 G19 G20 G24 G25 G26 G28 G30",
- "face": "frame.png = Nano Banana Pro one-shot: real dashboard car frame @lucyiscute08 + channel face ugc-curly/01_base_room",
- "pose": "parked car daytime, phone on dashboard, hand over mouth",
+ "face": "frame.png = Nano Banana Pro one-shot: real car frame @bledarrrrg video 7659450445974244639 4.0 s + channel face u01/avatar.png",
+ "pose": "parked car at dusk by the open window, handheld selfie, quiet disbelief: brows up, head shake, held-back smile (subtle acting)",
  "sound_from": "Galaxy by Hensonn (saved ref sound)",
  "hook": "Dad's 5'8. Me?!",
- "react": {"file": "react.mp4", "ss": 1.5, "dur": 2.5},
+ "react": {
+  "file": "react.mp4",
+  "ss": 1.0,
+  "dur": 2.5
+ },
  "screens": [
-  {"file": "ft/02-estimate-sources.png", "dur": 2.8},
-  {"file": "ft/01-home.png", "dur": 3.0}
+  {
+   "file": "ft/02-estimate-sources.png",
+   "dur": 2.8
+  },
+  {
+   "file": "ft/01-home.png",
+   "dur": 3.0
+  }
  ],
  "music": "7023195722158491649_galaxy_hensonn.mp3"
 }
