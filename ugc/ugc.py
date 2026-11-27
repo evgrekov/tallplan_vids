@@ -37,5 +37,8 @@ subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", str(r["ss"]), "-t", str(r[
                 f"[3:a]afade=t=out:st={PS + 1.2:.2f}:d=0.6,loudnorm=I=-12:TP=-1,aresample=48000[au]",
                 "-map", "[v]", "-map", "[au]", "-t", f"{PS + 1.8:.2f}", "-c:v", "libx264", "-crf", "18", "-c:a", "aac", "-b:a", "192k", cut],
                check=True)
-packshot(cut, PS, str(d / "final.mp4"))
+packshot(cut, PS, str(d / "full.mp4"))
+# grain is incompressible at crf 18 (~115 MB for 10 s): cap the bitrate for upload
+subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", d / "full.mp4", "-c:v", "libx264", "-crf", "20", "-maxrate", "8M", "-bufsize", "16M",
+                "-c:a", "copy", "-movflags", "+faststart", d / "final.mp4"], check=True)
 print(f"✅ {d / 'final.mp4'} · {PS + 1.8:.1f}s")
