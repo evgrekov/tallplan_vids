@@ -1,0 +1,8 @@
+Image 1 is a real iPhone selfie frame filmed outdoors under big eucalyptus trees on a sunny late afternoon. Image 2 shows the person who must appear in it.
+
+Edit image 1 in this single pass. Keep EXACTLY its framing, low handheld selfie angle from slightly below, wide lens distortion, the green leaves and pale tree trunks, the blue sky, the warm sunlight, image grain and sensor noise.
+1. Replace the man with the young man from image 2: the same face, same curly light-brown hair, same grey-blue eyes, same freckles, same age, same thin silver chain. He holds the phone himself at arm's length and looks straight into the camera with a calm, neutral face, mouth closed.
+2. Different outfit: a faded navy t-shirt. One white wireless earbud in his right ear only. No hat.
+3. Remove all text and captions.
+
+Natural real skin with pores and freckles, no smoothing, no glossy highlights. It must look like an unedited real phone frame, not a studio photo, not AI-perfect.

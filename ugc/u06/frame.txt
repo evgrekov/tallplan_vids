@@ -1,0 +1,8 @@
+Image 1 is a real iPhone selfie frame filmed outdoors in a backyard at night. Image 2 shows the person who must appear in it.
+
+Edit image 1 in this single pass. Keep EXACTLY its framing, close handheld selfie angle, lens distortion, the dark night sky, the fence and roofs behind, the distant small lights, the harsh phone-screen light on the face, image grain and heavy sensor noise of a night phone shot.
+1. Replace the man with the young man from image 2: the same face, same curly light-brown hair, same grey-blue eyes, same freckles, same age, same thin silver chain. He looks straight into the phone camera with a tired late-night face, mouth closed.
+2. Different outfit: a black hoodie with the hood down. No earbuds, no hat.
+3. Remove all text and captions.
+
+Natural real skin with pores and freckles, no smoothing, no glossy highlights. It must look like an unedited real phone frame, not a studio photo, not AI-perfect.

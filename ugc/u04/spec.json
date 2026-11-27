@@ -1,0 +1,23 @@
+{
+ "rules": "C-UGC-1 C-SELF-2, G01 G02 G06 G10 G11 G16 G19 G20 G24 G25 G26 G27 G28 G29 G30",
+ "face": "frame.png = Nano Banana Pro one-shot: real outdoor frame @bledarrrrg video 7659923866101353742 0.5 s + channel face u01/avatar.png",
+ "pose": "outdoors under eucalyptus trees, sunny afternoon, low selfie angle, navy tee, one wireless earbud; quiet pride: brows up, glance up, small nod",
+ "sound_from": "saved ref sound famous-music",
+ "hook": "Top 7% for my age?!",
+ "react": {
+  "file": "react.mp4",
+  "ss": 1.5,
+  "dur": 2.5
+ },
+ "screens": [
+  {
+   "file": "ft/01-home-locked.png",
+   "dur": 1.8
+  },
+  {
+   "file": "ft/01-home.png",
+   "dur": 3.5
+  }
+ ],
+ "music": "7630346860917639958_original-sound_famous-music.m4a"
+}

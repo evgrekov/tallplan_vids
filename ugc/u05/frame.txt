@@ -1,0 +1,9 @@
+Image 1 is a real iPhone selfie frame filmed in a bright minimal apartment room in the daytime. Image 2 shows the person who must appear in it.
+
+Edit image 1 in this single pass. Keep EXACTLY its framing, close handheld selfie angle, lens distortion, the white walls and ceiling, the black wall speaker, the soft daylight, image grain and sensor noise.
+1. Replace the man with the young man from image 2: the same face, same curly light-brown hair, same grey-blue eyes, same freckles, same age, same thin silver chain. He looks straight into the phone camera with a relaxed, slightly sleepy face, mouth closed.
+2. Different outfit: a dark-red knit sweater. No earbuds, no hat.
+3. In the background on the left, slightly out of focus, add a small real Christmas tree with warm white string lights, as an ordinary home would have in December.
+4. Remove all text and captions.
+
+Natural real skin with pores and freckles, no smoothing, no glossy highlights. It must look like an unedited real phone frame, not a studio photo, not AI-perfect.

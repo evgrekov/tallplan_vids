@@ -1,0 +1,24 @@
+{
+ "rules": "C-UGC-1 C-SELF-2, G01 G02 G06 G10 G11 G16 G19 G20 G24 G25 G26 G27 G28 G29 G30",
+ "face": "frame.png = Nano Banana Pro one-shot: real room frame @bledarrrrg video 7691100603853933837 18.3 s + channel face u01/avatar.png + Christmas tree (T-XMAS)",
+ "pose": "bright white room, Christmas tree behind, dark-red sweater; quiet smirk, glance to the side",
+ "sound_from": "saved ref sound voley",
+ "trend": "T-XMAS setting",
+ "hook": "4 more inches?!",
+ "react": {
+  "file": "react.mp4",
+  "ss": 1.3,
+  "dur": 2.5
+ },
+ "screens": [
+  {
+   "file": "ft/01-home.png",
+   "dur": 3.0
+  },
+  {
+   "file": "ft/03-share-card.png",
+   "dur": 2.5
+  }
+ ],
+ "music": "7711004320649857810__voley.mp3"
+}

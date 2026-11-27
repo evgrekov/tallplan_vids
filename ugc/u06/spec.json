@@ -1,0 +1,23 @@
+{
+ "rules": "C-UGC-1 C-SELF-2, G01 G02 G06 G10 G11 G16 G19 G20 G24 G25 G26 G27 G28 G29 G30",
+ "face": "frame.png = Nano Banana Pro one-shot: real night backyard frame @bledarrrrg video 7667338954357673229 12.5 s + channel face u01/avatar.png",
+ "pose": "backyard at night, black hoodie, phone-lit face; quiet guilty realisation, glance away",
+ "sound_from": "saved ref sound illegal-milk",
+ "hook": "Wait, sleep matters?!",
+ "react": {
+  "file": "react.mp4",
+  "ss": 1.5,
+  "dur": 2.5
+ },
+ "screens": [
+  {
+   "file": "ft/07-sleep.png",
+   "dur": 3.5
+  },
+  {
+   "file": "ft/01-home.png",
+   "dur": 2.0
+  }
+ ],
+ "music": "7678931146117221121_original-sound-illegal-milk_illegal-milk.mp3"
+}
