@@ -1,0 +1,184 @@
+{
+  "title": "What to Eat to Reach Your Natural Height",
+  "character": "Full body character sheet of a friendly young teenage guy standing facing forward on an isolated solid white background. Clean semi-flat vector illustration style with soft subtle gradients and a crisp light rim light. Neat wavy brown hair, warm smiling approachable expression, wearing a vibrant coral-orange crewneck t-shirt that contrasts sharply against mint and teal, paired with dark navy straight-fit trousers and white-and-navy sneakers. Proportions are natural and stylized, vector line art with smooth shading.",
+  "openai_voice": "marin",
+  "voice": "Bright, friendly, warm, educational, and briskly paced narrator.",
+  "scenes": [
+    {
+      "vo": "Have you ever wondered what to eat to grow taller?",
+      "kind": "figure",
+      "bg": "#c9f2e3",
+      "figures": [
+        {
+          "pose": "Young guy in coral t-shirt looking up thoughtfully with hand on chin beside a vertical measurement ruler, curious cheerful smile",
+          "in": 68.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Teens actually need about thirteen hundred milligrams of calcium daily.",
+      "kind": "figure",
+      "bg": "#5fd3bd",
+      "figures": [
+        {
+          "pose": "Young guy smiling confidently and pointing towards the floating calcium badge beside him, standing straight",
+          "in": 68.0,
+          "from": null,
+          "label": "Teen"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat stylized vector icon of a glass of rich dairy milk with a golden calcium badge, vibrant colors",
+          "label": "Calcium"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "pop"
+    },
+    {
+      "vo": "That is even more calcium than full-grown adults need.",
+      "kind": "figure",
+      "bg": "#c9f2e3",
+      "figures": [
+        {
+          "pose": "Teen guy in coral tee smiling and holding up an apple, standing proud beside an adult",
+          "in": 67.0,
+          "from": null,
+          "label": "Teen"
+        },
+        {
+          "pose": "Adult version of the character in a navy polo shirt shrugging friendly hands palms up",
+          "in": 70.0,
+          "from": null,
+          "label": "Adult"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "ding"
+    },
+    {
+      "vo": "Vitamin D helps your body absorb that vital calcium.",
+      "kind": "photo",
+      "bg": "",
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Clean cinematic close-up photo of fresh nutritious foods arranged on a bright marble surface: farm fresh brown eggs, whole milk bottle, sliced wild salmon, and sunny morning light streaming across.",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "You get it from sunshine, milk, eggs, and fish.",
+      "kind": "figure",
+      "bg": "#5fd3bd",
+      "figures": [
+        {
+          "pose": "Young guy smiling warmly with open hands presenting healthy food sources, sunny stance",
+          "in": 68.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat saturated vector icon of a bright golden sun, clean graphic design",
+          "label": "Sunlight"
+        },
+        {
+          "prompt": "Flat saturated vector icon of a healthy cooked salmon fillet and boiled egg, bold clean colors",
+          "label": "Vitamin D"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "pop"
+    },
+    {
+      "vo": "Protein serves as the building block for growing tissue.",
+      "kind": "photo",
+      "bg": "",
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Clean 3D medical render of human musculoskeletal anatomy showing healthy muscle fibers and bone structure glowing with warm biological energy, dark slate scientific studio backdrop.",
+      "sfx": "ding"
+    },
+    {
+      "vo": "Without enough nutrition, kids may stay shorter than expected.",
+      "kind": "figure",
+      "bg": "#c9f2e3",
+      "figures": [
+        {
+          "pose": "Young guy looking slightly concerned, slouched posture with shoulders dropped, standing next to a height marker",
+          "in": 64.0,
+          "from": null,
+          "label": "Under-nourished"
+        }
+      ],
+      "icons": [],
+      "alarm": true,
+      "photo": "",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Yet overeating will not push you past genetic limits.",
+      "kind": "figure",
+      "bg": "#5fd3bd",
+      "figures": [
+        {
+          "pose": "Young guy attempting to stretch on tiptoes with a cheerful wry grin, hitting a dashed biological ceiling line",
+          "in": 70.0,
+          "from": 68.0,
+          "label": "Gene limit"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "rise"
+    },
+    {
+      "vo": "So how tall will your body naturally grow?",
+      "kind": "figure",
+      "bg": "#c9f2e3",
+      "figures": [
+        {
+          "pose": "Young guy standing tall with great posture, looking directly at the viewer with an inviting smile and pointing forward",
+          "in": 71.0,
+          "from": 67.0,
+          "label": "You?"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "rise"
+    },
+    {
+      "vo": "And there's way more inside our app. Predict your height in TallPlan.",
+      "kind": "figure",
+      "bg": "#5fd3bd",
+      "figures": [
+        {
+          "pose": "Extremely happy young guy holding up a smartphone, smiling warmly at the camera with confident friendly posture",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "ding"
+    }
+  ]
+}

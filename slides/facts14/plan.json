@@ -1,0 +1,219 @@
+{
+  "title": "Growth charts: are you on track?",
+  "character": "Full-body paper cut-out collage illustration of a friendly young guy with neat wavy brown hair, warm smiling expression, wearing a warm golden-yellow t-shirt, dark charcoal navy trousers, and white sneakers, slight paper texture and soft drop shadow, standing frontally on a clean plain white background",
+  "openai_voice": "coral",
+  "voice": "bright, friendly, warm, educational, brisk",
+  "scenes": [
+    {
+      "vo": "Have you ever wondered if you're growing fast enough?",
+      "kind": "figure",
+      "bg": "#d4ebff",
+      "figures": [
+        {
+          "pose": "Young guy with wavy brown hair looking up curiously at a tall measuring line, hands relaxed at sides, golden-yellow tee and charcoal pants",
+          "in": 64.5,
+          "from": 58.0,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "Doctors compare your height against official pediatric growth charts.",
+      "kind": "photo",
+      "bg": null,
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Clean 3D medical render of a colorful pediatric growth chart clipboard with smooth percentile curves, a stethoscope resting beside it, soft studio lighting, vertical framing",
+      "sfx": "pop"
+    },
+    {
+      "vo": "At fourteen, the average American boy stands five-four.",
+      "kind": "figure",
+      "bg": "#ffcfe3",
+      "figures": [
+        {
+          "pose": "Young teen boy with neat wavy brown hair standing proudly upright, smiling, golden-yellow tee and dark charcoal pants",
+          "in": 64.5,
+          "from": null,
+          "label": "Boy, 14"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat cut-out icon of the United States flag in vibrant red and blue",
+          "label": "US Average"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    },
+    {
+      "vo": "While the average fourteen-year-old girl is about five-three.",
+      "kind": "figure",
+      "bg": "#d4ebff",
+      "figures": [
+        {
+          "pose": "Teen boy with neat wavy brown hair standing straight in a golden-yellow tee",
+          "in": 64.5,
+          "from": null,
+          "label": "Boy, 14"
+        },
+        {
+          "pose": "Teen girl with brown ponytail smiling kindly, wearing a coral pink tee and charcoal trousers",
+          "in": 63.0,
+          "from": null,
+          "label": "Girl, 14"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    },
+    {
+      "vo": "Growth charts use percentiles to see how you rank.",
+      "kind": "photo",
+      "bg": null,
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Realistic top-down macro photograph of a pediatric growth curve graph with clean percentile lines 5th, 50th, 95th printed on textured medical paper, shallow depth of field, vertical",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Fiftieth percentile means half are taller, half are shorter.",
+      "kind": "figure",
+      "bg": "#ffcfe3",
+      "figures": [
+        {
+          "pose": "Slightly shorter boy in a light blue tee looking up smiling",
+          "in": 60.0,
+          "from": null,
+          "label": "25th"
+        },
+        {
+          "pose": "Young guy with wavy brown hair in golden-yellow tee waving cheerfully",
+          "in": 64.5,
+          "from": null,
+          "label": "50th"
+        },
+        {
+          "pose": "Taller teen boy in a sage green tee standing straight",
+          "in": 69.0,
+          "from": null,
+          "label": "75th"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    },
+    {
+      "vo": "What matters most is following your own steady curve.",
+      "kind": "figure",
+      "bg": "#d4ebff",
+      "figures": [
+        {
+          "pose": "Young guy with wavy brown hair at age twelve smiling, golden-yellow tee",
+          "in": 59.0,
+          "from": null,
+          "label": "Age 12"
+        },
+        {
+          "pose": "Same young guy at age fourteen standing confident, golden-yellow tee",
+          "in": 64.5,
+          "from": null,
+          "label": "Age 14"
+        },
+        {
+          "pose": "Same young guy at age sixteen looking tall and happy, golden-yellow tee",
+          "in": 69.5,
+          "from": null,
+          "label": "Age 16"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat cut-out icon of a rising green upward trend line graph on a rounded white card",
+          "label": "Steady Curve"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "rise"
+    },
+    {
+      "vo": "A sudden drop across lines means check with a doctor.",
+      "kind": "figure",
+      "bg": "#ffcfe3",
+      "figures": [
+        {
+          "pose": "Young guy with wavy brown hair looking puzzled and concerned, shoulders slightly slouched, golden-yellow tee",
+          "in": 62.0,
+          "from": 64.5,
+          "label": "Drop"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat cut-out icon of a red medical cross on a white circle",
+          "label": "Check In"
+        }
+      ],
+      "alarm": true,
+      "photo": null,
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "So are you on track for your adult height?",
+      "kind": "figure",
+      "bg": "#d4ebff",
+      "figures": [
+        {
+          "pose": "Young guy standing frontally, pointing friendly toward the viewer with an inviting warm smile, golden-yellow tee",
+          "in": 68.0,
+          "from": null,
+          "label": "Your Path"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat cut-out icon of a bright yellow measuring tape rolled in a circle",
+          "label": "Track Now"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "ding"
+    },
+    {
+      "vo": "And there's way more inside our app. Predict your height in TallPlan.",
+      "kind": "figure",
+      "bg": "#ffcfe3",
+      "figures": [
+        {
+          "pose": "Young guy smiling brightly, holding up a smartphone showing a colorful clean growth graph, golden-yellow tee and dark charcoal pants",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Flat cut-out icon of a blue smartphone with a rising colorful chart on its screen",
+          "label": "TallPlan"
+        }
+      ],
+      "alarm": false,
+      "photo": null,
+      "sfx": "pop"
+    }
+  ]
+}

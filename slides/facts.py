@@ -1,9 +1,9 @@
 # /// script
 # dependencies = ["pillow"]
 # ///
-"""Facts explainer: flat vector character on blue with a height ruler + live counter (growing, side-by-side comparisons),
+"""Facts explainer: an illustrated character on a colored background (art style + palette = <look>) with a height ruler + live counter (growing, side-by-side comparisons),
 popping icons, realistic photo shots with a slow push, pleasant OpenAI voice, word subtitles, music from our saved sounds, packshot.
-Usage: uv run facts.py <reference_url> <folder> "<topic>" "<facts>" <sound_id>  (idempotent: delete a file to redo it)
+Usage: uv run facts.py <reference_url> <folder> "<topic>" "<facts>" <sound_id> "<look>"  (idempotent: delete a file to redo it)
 """
 import json, math, subprocess
 from concurrent.futures import ThreadPoolExecutor
@@ -16,7 +16,7 @@ FEET = H * 0.7  # ground line, above the subtitles
 INK = "#0d1b3d"
 WHITE = "isolated on a plain pure white background, nothing touching the edges, no shadow, no text"
 
-url, d, topic, facts, sound = sys.argv[1], (HERE / sys.argv[2]).resolve(), sys.argv[3], sys.argv[4], sys.argv[5]
+url, d, topic, facts, sound, look = sys.argv[1], (HERE / sys.argv[2]).resolve(), sys.argv[3], sys.argv[4], sys.argv[5], sys.argv[6]
 d.mkdir(parents=True, exist_ok=True)
 ref = d / "reference.mp4"
 if not ref.exists():
@@ -25,7 +25,7 @@ if not ref.exists():
 plan_f = d / "plan.json"
 if not plan_f.exists():
     print("🧭 planning...")
-    plan_f.write_text(gemini("gemini-3.8-flash", [file(ref), {"text": (HERE / "facts.txt").read_text().replace("{topic}", topic).replace("{facts}", facts)}],
+    plan_f.write_text(gemini("gemini-3.8-flash", [file(ref), {"text": (HERE / "facts.txt").read_text().replace("{look}", look).replace("{topic}", topic).replace("{facts}", facts)}],
                              responseMimeType="application/json")[0]["text"])
 plan = json.loads(plan_f.read_text())
 scenes = plan["scenes"]
@@ -34,14 +34,14 @@ print(f"📋 {plan['title']} · {len(scenes)} scenes")
 sheet = d / "sheet.png"
 if not sheet.exists():
     print("🧍 character sheet...")
-    oai.image(plan["character"] + " No text.", sheet, size="1024x1024")
+    oai.edit(f"Redraw the person from the reference image (same face, hair, build) as: {plan['character']} No text.", [d / "face.png"], sheet, size="1024x1024")
 jobs = []  # (out, prompt, size, quality)
 for i, s in enumerate(scenes):
     if s["kind"] == "photo":
         jobs.append((d / f"photo{i}.png", f"{s['photo']} Vertical, full-bleed, no text, no letters.", "1024x1536", "medium", False))
         continue
     for j, f in enumerate(s["figures"]):
-        jobs.append((d / f"fig{i}_{j}.png", f"The character from the reference image exactly (same flat vector style, face, proportions), full body standing on the ground: {f['pose']}. {WHITE}.", "1024x1536", "medium", True))
+        jobs.append((d / f"fig{i}_{j}.png", f"The character from the reference image exactly (same art style, face, proportions), full body standing on the ground: {f['pose']}. {WHITE}.", "1024x1536", "medium", True))
     for j, c in enumerate(s["icons"]):
         jobs.append((d / f"icon{i}_{j}.png", f"A single flat vector icon in the art style of the reference image: {c['prompt']}. {WHITE}.", "1024x1024", "low", True))
 

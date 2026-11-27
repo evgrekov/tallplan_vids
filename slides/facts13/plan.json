@@ -1,0 +1,200 @@
+{
+  "title": "Does Coffee Stunt Your Growth?",
+  "character": "Full-body model sheet, front standing pose, plain white background, bold flat comic-style illustration with clean thick dark outlines, a friendly 17-year-old young guy with neat wavy brown hair and an open smile, wearing a royal blue crewneck tee, dark charcoal straight-cut pants, and clean white sneakers with dark navy laces, clean graphic art, warm and welcoming look.",
+  "openai_voice": "cedar",
+  "voice": "bright, friendly, warm, educational, and brisk, conversational science explainer cadence",
+  "scenes": [
+    {
+      "vo": "Have you ever wondered if coffee really stunts your growth?",
+      "kind": "figure",
+      "bg": "#ffeb99",
+      "figures": [
+        {
+          "pose": "Full body front view, character looking curious and slightly worried, holding a steaming coffee mug in one hand, standing next to a height ruler",
+          "in": 68.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Bold flat comic style icon of a hot white ceramic mug filled with rich brown coffee and curling steam, solid bright colors, dark outline",
+          "label": "Coffee"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "pop"
+    },
+    {
+      "vo": "First off, that old idea is actually a myth.",
+      "kind": "figure",
+      "bg": "#ffc857",
+      "figures": [
+        {
+          "pose": "Full body front view, character smiling cheerfully with palms out and head tilted, standing tall and relaxed next to the height ruler",
+          "in": 68.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Bold flat comic style bright red circular prohibition sign with a diagonal slash through a coffee mug, dark outline, clean graphic",
+          "label": "Myth"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "ding"
+    },
+    {
+      "vo": "Studies have not found that coffee makes people shorter.",
+      "kind": "figure",
+      "bg": "#ffeb99",
+      "figures": [
+        {
+          "pose": "Full body front view, character on the left holding an iced coffee, calm smile",
+          "in": 70.0,
+          "from": null,
+          "label": "Coffee Drinker"
+        },
+        {
+          "pose": "Full body front view, same character duplicate on the right holding a glass of water, matching calm smile",
+          "in": 70.0,
+          "from": null,
+          "label": "Non-Drinker"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "The real problem is what caffeine does to sleep.",
+      "kind": "figure",
+      "bg": "#ffc857",
+      "figures": [
+        {
+          "pose": "Full body front view, character looking exhausted with slight dark circles under eyes, slouching slightly, holding a glowing digital alarm clock showing midnight",
+          "in": 67.5,
+          "from": null,
+          "label": "Tired"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Bold flat comic style icon of a bright golden crescent moon with three dark purple ZZZ letters, dark outline",
+          "label": "Sleep"
+        }
+      ],
+      "alarm": true,
+      "photo": "",
+      "sfx": "pop"
+    },
+    {
+      "vo": "Caffeine can linger in your body for five hours.",
+      "kind": "photo",
+      "bg": "",
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Clean 3D medical visualization of a stylized glowing human bloodstream and nervous system, showing microscopic caffeine molecules drifting along illuminated blood vessels in soft warm amber light, clean dark gradient background, scientific illustration, high detail.",
+      "sfx": "none"
+    },
+    {
+      "vo": "Having it late makes falling into deep sleep harder.",
+      "kind": "figure",
+      "bg": "#ffeb99",
+      "figures": [
+        {
+          "pose": "Full body front view, character wearing cozy dark navy pajamas, looking restless with open frustrated eyes, tapping his foot next to a ruler",
+          "in": 68.0,
+          "from": null,
+          "label": "11:00 PM"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Bold flat comic style icon of a bright red ringing twin-bell alarm clock, clean thick outlines",
+          "label": "Restless"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Growing teens actually need eight to ten hours nightly.",
+      "kind": "photo",
+      "bg": "",
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Warm cinematic photograph of a comfortable modern bedroom at night, a cozy made bed with soft layered blankets and fluffy pillows, warm bedside lamp glow, peaceful quiet atmosphere, realistic photography, no people.",
+      "sfx": "none"
+    },
+    {
+      "vo": "Experts suggest keeping caffeine under one hundred milligrams daily.",
+      "kind": "figure",
+      "bg": "#ffc857",
+      "figures": [
+        {
+          "pose": "Full body front view, character standing proudly, holding one single standard small ceramic coffee cup with an OK gesture, happy confident expression",
+          "in": 69.0,
+          "from": null,
+          "label": "1 Cup Max"
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Bold flat comic style bright green checkmark badge icon with dark outlines, solid saturated green and yellow",
+          "label": "100 mg Limit"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "ding"
+    },
+    {
+      "vo": "So how tall will you reach with good habits?",
+      "kind": "figure",
+      "bg": "#ffeb99",
+      "figures": [
+        {
+          "pose": "Full body front view, character looking upward with an excited confident smile as the ruler ticks upward, posture perfectly upright",
+          "in": 72.0,
+          "from": 67.0,
+          "label": "Potential"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "rise"
+    },
+    {
+      "vo": "And there's way more inside our app. Predict your height in TallPlan.",
+      "kind": "figure",
+      "bg": "#ffc857",
+      "figures": [
+        {
+          "pose": "Full body front view, cheerful character standing proudly, pointing one thumb down toward the screen, smiling brightly, no ruler",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "Bold flat comic style smartphone icon showing a clean vibrant growth chart and measuring tape graphic on its screen, dark outline",
+          "label": "TallPlan"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "pop"
+    }
+  ]
+}

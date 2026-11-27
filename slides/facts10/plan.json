@@ -1,0 +1,185 @@
+{
+  "title": "Does Basketball Make You Taller?",
+  "character": "Soft flat vector illustration with subtle grainy texture and gentle shading of a friendly young guy with neat wavy brown hair, smiling warmly, front standing pose, arms relaxed at sides, wearing an emerald green crewneck tee, dark navy trousers, and clean white sneakers, full body on a plain white background, character design model sheet.",
+  "openai_voice": "coral",
+  "voice": "bright, friendly, warm, educational, and brisk, conversational curiosity hook",
+  "scenes": [
+    {
+      "vo": "Have you ever wondered if basketball makes you taller?",
+      "kind": "figure",
+      "bg": "#ffd9c2",
+      "figures": [
+        {
+          "pose": "Young guy looking curious, one hand tapping his chin, smiling slightly, emerald green tee, navy pants.",
+          "in": 69.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "An orange textured basketball icon with bold black seams, solid saturated colors.",
+          "label": "Basketball"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "pop"
+    },
+    {
+      "vo": "The average pro basketball player is around six-six.",
+      "kind": "figure",
+      "bg": "#ffc5a8",
+      "figures": [
+        {
+          "pose": "Young guy standing proud, smiling, holding an orange basketball under one arm, emerald green tee, navy pants.",
+          "in": 78.0,
+          "from": 69.0,
+          "label": "Pro Player"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "rise"
+    },
+    {
+      "vo": "Next to an average guy, the difference is huge.",
+      "kind": "figure",
+      "bg": "#ffd9c2",
+      "figures": [
+        {
+          "pose": "Guy standing relaxed, smiling politely, teal tee, dark pants.",
+          "in": 69.0,
+          "from": null,
+          "label": "Average"
+        },
+        {
+          "pose": "Tall version of the guy smiling down warmly, emerald green tee, navy pants.",
+          "in": 78.0,
+          "from": null,
+          "label": "Pro Player"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "none"
+    },
+    {
+      "vo": "Tall players are picked for basketball, not made by it.",
+      "kind": "figure",
+      "bg": "#ff9f7a",
+      "figures": [
+        {
+          "pose": "Guy with open arms and an explanatory, friendly smile, emerald green tee, navy pants.",
+          "in": 69.0,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "A bright double helix DNA icon in deep indigo and magenta, solid saturated colors.",
+          "label": "Genetics"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "ding"
+    },
+    {
+      "vo": "Dribbling and shooting cannot lengthen your bones.",
+      "kind": "photo",
+      "bg": "",
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Clean 3D medical render of a human femur and knee joint glowing with healthy bone density, translucent blue and warm amber lighting, no text, dark background.",
+      "sfx": "whoosh"
+    },
+    {
+      "vo": "Still, running and jumping sports build strong bones in teens.",
+      "kind": "figure",
+      "bg": "#ffd9c2",
+      "figures": [
+        {
+          "pose": "Guy in mid-motion running stride, energetic happy expression, emerald green tee, navy athletic pants.",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [
+        {
+          "prompt": "A pair of bright red running sneakers icon with white laces, solid saturated colors.",
+          "label": "Active"
+        }
+      ],
+      "alarm": false,
+      "photo": "",
+      "sfx": "pop"
+    },
+    {
+      "vo": "Regular activity also keeps your posture and muscles upright.",
+      "kind": "figure",
+      "bg": "#ffc5a8",
+      "figures": [
+        {
+          "pose": "Guy standing with perfect tall posture, shoulders back, confident smile, emerald green tee, navy pants.",
+          "in": 70.0,
+          "from": 68.0,
+          "label": "Good Posture"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "rise"
+    },
+    {
+      "vo": "Any sport is great, but genetics set your height limit.",
+      "kind": "photo",
+      "bg": "",
+      "figures": [],
+      "icons": [],
+      "alarm": false,
+      "photo": "Realistic vertical cinematic photo of an empty outdoor basketball court at golden hour, warm peach sunlight casting long shadows across the painted asphalt court, no people.",
+      "sfx": "none"
+    },
+    {
+      "vo": "So how tall are you naturally meant to be?",
+      "kind": "figure",
+      "bg": "#ff9f7a",
+      "figures": [
+        {
+          "pose": "Guy leaning forward slightly, pointing index finger playfully toward the viewer, friendly curious grin, emerald green tee, navy pants.",
+          "in": null,
+          "from": null,
+          "label": "Your Future"
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "ding"
+    },
+    {
+      "vo": "And there's way more inside our app. Predict your height in TallPlan.",
+      "kind": "figure",
+      "bg": "#ffd9c2",
+      "figures": [
+        {
+          "pose": "Guy holding a modern smartphone in one hand, waving happily to viewer with the other hand, bright smile, emerald green tee, navy pants.",
+          "in": null,
+          "from": null,
+          "label": null
+        }
+      ],
+      "icons": [],
+      "alarm": false,
+      "photo": "",
+      "sfx": "pop"
+    }
+  ]
+}

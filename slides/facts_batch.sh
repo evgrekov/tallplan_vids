@@ -1,22 +1,27 @@
 #!/bin/zsh
-# Batch 2026-11-27: five facts explainers for the YouTube Tallplan channel (same face: sheet.png of facts1, one saved sound each).
+# Batch 2026-11-27 #2: facts10-14 for the YouTube Tallplan channel. Same face (face.png = facts1 sheet), each video its own look + saved sound.
 cd "${0:A:h}"
-REF=https://youtube.com/shorts/y6Gz5uQafsM  # unused when reference.mp4 is already in the folder
-run() { uv run facts.py $REF "$@" > "$1.log" 2>&1 && echo "✅ $1" || echo "❌ $1 (see $1.log)"; }
+DRIVE="$HOME/Library/CloudStorage/GoogleDrive-evgrekov@gmail.com/My Drive/Projects/TT30/tallplan"
+run() {
+  mkdir -p $1
+  [[ -f $1/reference.mp4 ]] || cp "$DRIVE/02_sources/references/slides_facts1.mp4" $1/reference.mp4
+  [[ -f $1/face.png ]] || cp "$DRIVE/03_work/slides/facts1/sheet.png" $1/face.png
+  uv run facts.py x "$@" > "$1.log" 2>&1 && echo "✅ $1" || echo "❌ $1 (see $1.log)"
+}
 
-run facts5 "Sleep and height: why teens need more sleep" \
-  "Teens need 8 to 10 hours of sleep a night. About 7 in 10 US high schoolers sleep less than 8 hours on school nights. The body does most of its repair and growth work during deep sleep at night. Screens right before bed can delay falling asleep. A regular bedtime helps you reach your natural height; sleep cannot take you past what your genes allow." \
-  7604889772407719952 &
-run facts6 "Posture: how many inches slouching hides" \
-  "Slouching can make you look 1 to 2 inches shorter than you really are. Looking down at a phone pushes the head forward and strains the neck more the lower you bend. Standing tall means ears over shoulders and shoulders over hips. Core and back exercises make good posture easier to hold. Good posture shows your full height, it does not make bones longer." \
-  7678389289608136705 &
-run facts7 "Your parents' height and how tall you will be" \
-  "Genes explain about 80% of the differences in height between people. Doctors estimate adult height from the parents: for a boy, mom's height plus dad's height plus 5 inches, divided by 2; for a girl, the same minus 5 inches. Example: mom 5'4\", dad 5'10\" gives a son about 5'9.5\" and a daughter about 5'4.5\". The real adult height usually lands within about 4 inches of that estimate. Sleep, food and activity decide where in that range you end up." \
-  7615235308002936848 &
-run facts8 "Will you be taller by next Christmas? (Christmas wrapper: labels like 'Christmas 2026' / 'Christmas 2027', a Christmas tree or gift icon)" \
-  "At the peak of the growth spurt girls grow about 3 inches a year, usually around age 11 to 12. Boys grow about 3.5 to 4 inches a year at their peak, usually around age 13 to 14. Kids and teens tend to grow faster in spring and summer than in fall and winter. Boys usually keep growing about 2 years longer than girls. So between this Christmas and the next, a teen in a growth spurt can add several inches." \
-  7023195722158491649 &
-run facts9 "Hands and feet grow first: early signs of a growth spurt" \
-  "Hands and feet are the first parts of the body to speed up in a growth spurt, before the legs and the spine. Suddenly needing bigger shoes can be an early sign a growth spurt is starting. Feet usually stop growing a couple of years before your height does. Shoe size alone cannot predict your final height. Your arm span, fingertip to fingertip, is roughly equal to your height." \
-  7593401998129776656 &
+run facts10 "Does basketball make you taller?" \
+  "The average NBA player is about 6'6\" tall. Basketball does not make bones grow longer: tall people are picked for basketball, not made by it. Regular exercise supports healthy bones, muscles and posture while you grow. Jumping and running sports help build strong bones in the teen years. Any sport you enjoy is good for growing up healthy; none of them can take you past your genetic height." \
+  7478723169449658369 "Warm peach and coral palette (backgrounds like #ffd9c2 and #ff9f7a); soft flat vector illustration with a subtle grainy texture and gentle shading" &
+run facts11 "What to eat to reach your natural height" \
+  "Teens need about 1,300 mg of calcium a day, more than adults. Vitamin D helps the body absorb that calcium; sunlight and foods like milk, eggs and fish give it. Protein is the building block for muscles and growing tissue. Kids who do not get enough food overall can end up shorter than their genes allow. Eating more than you need does not make you taller than your genes allow." \
+  7443847444193282064 "Fresh mint and teal palette (backgrounds like #c9f2e3 and #5fd3bd); clean semi-flat vector with soft gradients and a light rim light" &
+run facts12 "Late bloomers: why some teens grow later" \
+  "Puberty can normally start anywhere from about 8 to 13 for girls and 9 to 14 for boys. Late bloomers start their growth spurt later than their friends. Many late bloomers keep growing after their friends have stopped and catch up. Being the shortest in your class at 13 says little about your adult height. Doctors check growth over time, not one measurement." \
+  7666848422541363238 "Soft lavender and violet palette (backgrounds like #e3d9ff and #a99bff); rounded cute flat illustration with big friendly shapes and soft shadows" &
+run facts13 "Does coffee stunt your growth?" \
+  "The idea that coffee stunts growth is a myth: studies have not found that coffee makes people shorter. The real problem is sleep: caffeine can stay in the body for 5 hours or more. Caffeine late in the day can make it harder to fall asleep and sleep deeply. Teens need 8 to 10 hours of sleep a night. Experts advise teens to keep caffeine low, at most about 100 mg a day, roughly one cup of coffee." \
+  7298748072409942018 "Sunny yellow and warm orange palette (backgrounds like #ffeb99 and #ffc857); bold flat comic-style illustration with clean thick dark outlines" &
+run facts14 "Growth charts: are you on track?" \
+  "Doctors compare your height with growth charts for your age and sex. At 14 the average boy in the US is about 5'4.5\" and the average girl about 5'3\". Percentiles show how you compare: the 50th percentile means half of kids your age are taller and half shorter. What matters most is that you keep growing along your own curve over time. A sudden drop across percentile lines is a reason to talk to a doctor." \
+  7457203853475235857 "Pastel sky blue and soft pink palette (backgrounds like #d4ebff and #ffcfe3); paper cut-out collage illustration with a subtle paper texture and soft drop shadows" &
 wait

@@ -106,6 +106,11 @@
 | `yt_tallplan/facts07_how-tall-will-you-be-the-science-of-height-prediction.mp4` | facts explainer (YouTube) | How Tall Will You Be? The Science of Height Prediction | `slides/facts7` |
 | `yt_tallplan/facts08_will-you-be-taller-by-next-christmas.mp4` | facts explainer (YouTube) | Will You Be Taller By Next Christmas? | `slides/facts8` |
 | `yt_tallplan/facts09_hands-and-feet-grow-first-early-signs-of-a-growth-spurt.mp4` | facts explainer (YouTube) | Hands and Feet Grow First: Early Signs of a Growth Spurt | `slides/facts9` |
+| `yt_tallplan/facts10_does-basketball-make-you-taller.mp4` | facts explainer (YouTube) | Does Basketball Make You Taller? | `slides/facts10` |
+| `yt_tallplan/facts11_what-to-eat-to-reach-your-natural-height.mp4` | facts explainer (YouTube) | What to Eat to Reach Your Natural Height | `slides/facts11` |
+| `yt_tallplan/facts12_why-some-teens-grow-later.mp4` | facts explainer (YouTube) | Why Some Teens Grow Later | `slides/facts12` |
+| `yt_tallplan/facts13_does-coffee-stunt-your-growth.mp4` | facts explainer (YouTube) | Does Coffee Stunt Your Growth? | `slides/facts13` |
+| `yt_tallplan/facts14_growth-charts-are-you-on-track.mp4` | facts explainer (YouTube) | Growth charts: are you on track? | `slides/facts14` |
 | `_archive/form-fixes/fx01_plank-fix-dead-bug.mp4` | wrong vs right form | Plank Fix + Dead Bug | `slides/fx1` |
 | `_archive/form-fixes/fx10_hamstring-stretch-mistake-fix.mp4` | wrong vs right form | Hamstring Stretch Mistake Fix | `slides/fx10` |
 | `_archive/form-fixes/fx02_dead-hang-fix-for-taller-posture.mp4` | wrong vs right form | Dead Hang Fix for Taller Posture | `slides/fx2` |
